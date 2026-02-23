@@ -1,0 +1,1179 @@
+# Câteva mărturii etnoistorice despre târgurile de fete din Munții Apuseni (1793–1881)
+
+- Autor(i): Ela Cosma
+- Secțiune TOC: STUDII ȘI CERCETĂRI
+- Pagini: p. 57–82
+- Afiliere: Institutul de Istorie „George Barițiu” al Academiei Române din Cluj-Napoca.
+- Email: N/A
+- DOI: N/A
+- Limbă: ro
+- Tip intrare: articol
+- Număr: Vol. 29 Nr. 1 (2025)
+
+## Abstract RO
+_Nedetectat_
+
+## Cuvinte-cheie RO
+târgurile de fete, moți și crișeni, Munții Apuseni, mărturii etnoistorice din 1793–1881
+
+## Abstract EN
+th th e present study aims to present a few ethnohistorical testimonies from the 18 -19 centuries, written in German language, which mention and describe the Romanian inhabitants living in the Transylvanian Western Carpathians (moți) and at the foot of these mountains (crişeni), as well as their unique custom of the so-called „girls’ fairs” (târguri de fete). The latter were held yearly, on the Mountain Găina („Hen”), but also on further mountain plateaus of Cucurbăta, Gheleșoaia or Piatra Grăitoare (Speaking Stone) beneath the peak Bihor. To these is to be added the not less interesting „kissing fair” (târgul de sărutat) of Hălmagiu. The oldest description of the „girls’ fairs”, realised by the Saxon memory writer Michael Conrad von Heydendor Senior in 1793, is followed by those signed by Austrian speologist and ethnographer Adolf Schmidl in 1863, and by the Romanian classic and novelist Ioan Slavici in 1881, in his little known rst imagology study of the Romanian literature, dedicated to Die Rumänen in Ungarn, Siebenbürgen und der Bukowina (e Romanians in Hungary, Transylvania and Bukovina).
+
+## Keywords EN
+„Girls’ fairs”, moți and crişeni, Romanian Western Carpathians, ethnohistorical testimonies from 1793–1881
+
+## Text extras din PDF
+CÂTEVA MĂRTURII ETNOISTORICE DESPRE TÂRGURILE
+                            DE FETE DIN MUNȚII APUSENI (1793–1881)
+                                                                      *
+                                                       Ela COSMA
+                      Several Ethnohistorical Testimonies regarding the Girls’ Fairs from the Western Carpathians
+                (1793–1881) (Abstract).
+                                                                                         th  th
+                      e present study aims to present a few ethnohistorical testimonies from the 18 -19  centuries, written
+                in German language, which mention and describe the Romanian inhabitants living in the Transylvanian
+                Western Carpathians (moți) and at the foot of these mountains (crişeni), as well as their unique custom of
+                the so-called „girls’ fairs” (târguri de fete). e latter were held yearly, on the Mountain Găina („Hen”), but
+                also on further mountain plateaus of Cucurbăta, Gheleșoaia or Piatra Grăitoare (Speaking Stone) beneath the
+                peak Bihor. To these is to be added the not less interesting „kissing fair” (târgul de sărutat) of Hălmagiu. e
+                oldest description of the „girls’ fairs”, realised by the Saxon memory writer Michael Conrad von Heydendor
+                Senior in 1793, is followed by those signed by Austrian speologist and ethnographer Adolf Schmidl in 1863,
+                and by the Romanian classic and novelist Ioan Slavici in 1881, in his little known rst imagology study of the
+                Romanian literature, dedicated to Die Rumänen in Ungarn, Siebenbürgen und der Bukowina (e Romanians
+                in Hungary, Transylvania and Bukovina).
+                      Keywords: „Girls’ fairs”, moți and crişeni, Romanian Western Carpathians, ethnohistorical testimonies
+                from 1793–1881.
+                      Cuvinte cheie: târgurile de fete, moți și crișeni, Munții Apuseni, mărturii etnoistorice din 1793–1881.
+                      Introducere
+                      Cel mai faimos târg de fete al românilor, cel de pe Muntele Găina, constituie astăzi
+                o serbare câmpenească a moților din Apuseni, care – cu prilejul desfășurării târgului
+                la sfârșitul de săptămână cel mai apropiat de Sfântul Ilie (20 iulie) – urcă la Crucea
+                Iancului, pe vârful muntelui (1.467 m, pe linia de hotar a județelor Alba și Hunedoara).
+                Astfel, obiceiul tradițional cu conotații matrimoniale, o adevărată celebrare a vieții, e
+                însoțit neapărat de cultul strămoșilor și de pomenirea celui mai iubit dintre moți, „Craiul
+                Munților” Avram Iancu (1824–1872). Ar mai exista la Gurghiu (județul Mureș) un alt
+                târg al fetelor ținut la nele lunii Cireșar, dar acesta a fost inaugurat ca „festival” românesc
+                                                                                           1
+                abia prin anii 1970, având la bază un târg tradițional atestat pe la 1880 .
+                      Căutând și aând rădăcinile istorice ale subiectului abordat în titlu, studiul de față
+                își propune să-l familiarizeze pe cititorul român cu câteva izvoare istoriograce de limbă
+                *  Institutul de Istorie „George Barițiu” al Academiei Române din Cluj-Napoca.
+                1  F.a., „Târgul Fetelor”, pe Platoul Mociar, în Zi de Zi Mureş, 30 iunie 2024, https://www.zi-de-zi.ro/2024/06/30/
+                targul-fetelor-pe-platoul-mociar/.
+                Anuarul Arhivei de Folclor, nr. XXIX, 2025, p. 57–81
+             58                                        Ela COSMA
+             germană, care, de la nele veacului al XVIII-lea și până în secolul următor, menționează
+             nu unul, ci mai multe târguri de fete care se desfășurau concomitent în varii locuri din
+             Munții Apuseni. Cea mai veche descriere a obiceiului, cunoscută până în prezent, i se
+             datorează memorialistului sas Michael Conrad von Heydendor cel Bătrân (1793) și
+             este în limba germană, ind urmată în aceeași limbă de prezentările a doi autori din
+             a doua jumătate a secolului al XIX-lea: speologul și etnograful austriac Adolf Schmidl
+             (1863) și prozatorul clasic român Ioan Slavici, într-un puțin cunoscut studiu al său de
+             imagologie  (1881).
+                   Michael Conrad von Heydendor cel Bătrân despre moți, crișeni și despre
+                   târgurile de fete din Munții Apuseni (1793)
+                   Imaginea moţilor și a Munţilor Apuseni în memorialistica lui Michael Conrad
+             von Heydendor cel Bătrân este un subiect cu totul nou în istoriograa română, cu
+             deschideri nebănuite. Aspecte puţin cunoscute sau chiar inedite până în momentul de
+             faţă sunt cuprinse în memoriile înaltului funcţionar medieșan din anii 1784–1793, care
+             ne dezvăluie o lume diferită, descoperită de autor pe teren, în cursul călătoriilor sale
+             de serviciu, efectuate cu scopul unor importante misiuni ociale. Aceste călătorii i-au
+             permis contactul cu zona Munţilor Apuseni și cu populaţia acesteia, românii din Ţara
+             Moţilor și Crișana.
+                   Michael Conrad von Heydendor cel Bătrân, născut și decedat la Mediaș, pe Târnava
+             Mare (26 noiembrie 1730–21 septembrie 1821), a fost în urbea natală vicenotar (din
+             1761), apoi notar (din 1763), comisar însoțitor al coregentului Iosif (viitorul împărat
+             Iosif al II-lea, 1780–1790) în cursul primei sale vizite în Transilvania (1773), vicecomite
+             al comitatului iosen al Sibiului (1784) și, în ne, primar al orașului Mediaș timp de 27
+             de ani (1790–1817).
+                   Este autorul unui manuscris-uviu de memorii, conținând 1.740 de pagini autografe,
+             ce au fost publicate integral de către Rudolph eil în revista sibiană „Archiv des Vereins
+                                                                 2
+             für Siebenbürgische Landeskunde” (1876–1884) . Recent, Hansotto Drotlo și-a asumat
+                                                                                                          3
+             recuperarea excepționalei moșteniri alcătuite din arhiva și colectaneele Heydendor.
+             2  R. eil, Michael Conrad von Heidendorf. Eine Selbstbiographie [Michael Conrad von Heidendorf. O
+             autobiograe], în Archiv des Vereins für Siebenbürgische Landeskunde, nr. 13, caiet II, Sibiu, 1876, p. 339–351;
+             nr. 13, caiet III, 1877, p. 565–576; nr. 14, caiet I, 1877, p. 229–246; nr. 15, caiet I, 1879, p. 127–161; nr. 16, caiet
+             I, 1880, p. 158–203; nr. 16, caiet II, 1881, p. 426–498; nr. 16, caiet III, 1881, p. 652–683; nr. 18, caiet I, 1883,
+             p. 1–244; nr. 18, caiet II, 1884, p. 245–345.
+             3  H. Drotlo, Siebenbürgen im Spiegel der nachgelassenen Schrien der Familie Conrad von Heydendor
+             (1750–1850) [Transilvania în oglinda scrierilor lăsate de familia Conrad von Heydendor], în Zeitschri
+             für Siebenbürgische Landeskunde vereinigt mit Siebenbürgische Semesterblätter, nr. 34 (105), caiet 2, editor
+             Arbeitskreis für Siebenbürgische Landeskunde e.V. Heidelberg, Schloss Horneck, Böhlau Verlag, Köln,
+             Weimar, Viena, 2011, p. 229–234; idem, Bilder aus dem öentlichen und privaten Leben in Siebenbürgen
+             in der Zeit 1750–1850 im Spiegel der nachgelassenen Papiere der Familie Conrad von Heydendor. Ein
+             Forschungsprojekt der Heimatgemeinscha Mediasch, în Michael Conrad von Heydendor der Jüngere,
+             Tagebuch (1848–1849), mit einem Anhang von Urkunden, ediție critică de Ela Cosma și Hansotto Drotlo,
+             colecția „Biograi Istorice Transilvane”, tom X, Argonaut Publishing / Symphologic Publishing, Cluj-Napoca/
+             Gatineau, 2016, p. 17–24; idem, Scene din viața publică şi privată în Transilvania anilor 1750–1850, în oglinda
+             scrierilor familiei Conrad von Heydendor. Un proiect de cercetare inițiat de Heimatgemeinscha Mediasch,
+                                 Câteva mărturii etnoistorice despre târgurile de fete din Munții Apuseni (1793–1881)            59
+                           Memoriile lui Michael Conrad von Heydendor cel Bătrân, în cea mai mare
+                   parte a lor necunoscute publicului românesc, constituie un veritabil tezaur de istorie a
+                   mozaicului multietnic al Transilvaniei, un loc de seamă ocupând și imaginea românilor,
+                   a căror limbă autorul o cunoștea prea bine și o vorbea uent. Totodată, Michael Conrad
+                   von Heydendor cel Bătrân a realizat prima descriere etnogracă în limba germană a
+                   locuitorilor Munţilor Apuseni, aați la 1793 în hotarele vremelnice ale Marelui Principat
+                                                                  4
+                   al Transilvaniei și regatului Ungariei .
+                           Memorialistul aprecia că întreaga regiune dimprejurul munţilor, atât în Ungaria,
+                   cât și în Ardeal, era locuită de „valahi”, conform termenului folosit consecvent pentru a-i
+                   desemna pe români, autorul făcând distincţie între moţi și crişeni. Anume, valahii din
+                   Ungaria, trăitori pe malurile Crișurilor, erau „crișenii” (Krissan), al căror nume venea
+                   de la Kriss (Criș), toponimul românesc al râului cu nume maghiar Körös. Heydendor
+                   transcria cuvântul românesc cu ortograe maghiară, dar, fonetic vorbind, transcrierea sa
+                   era corectă. Valahii din munţii aparţinând principatului autonom erau „moţii” (Motzen),
+                   din rândurile cărora se ridicaseră Horea și Cloșca (Horra und Klocska), nominalizaţi
+                   de  memorialist.
+                           Zona etno-folclorică de locuire a moţilor o reprezintă Ţara Moţilor, iar cea a
+                   crișenilor Ţara Crișurilor sau Crișana. Nicolae Firu le delimita geograc astfel: „Ţinutul
+                   cunoscut sub numele de Crișana sau Ţara Crișurilor, dinspre Est e mărginit de Munţii
+                   Bihorului, înspre Vest se întinde spre Câmpie, la Nord-Vest e udat de râul Tisa, iar la Sud
+                   de undele line ale Mureșului. Graniţele lui sunt: la Nord Maramureșul, la Est Ardealul,
+                   la Sud Banatul, iar la Vest Ungaria. Acest ţinut binecuvântat de Dumnezeu cu toate
+                   frumuseţile și bogăţiile naturii, străbătut de la Est la Vest de cele trei Crișuri (Crișul Alb,
+                                                                                                                                   5
+                   Crișul Negru și Crișul Repede), formează ţinutul cunoscut în istorie sub numele Crișana.”
+                           Moţii adevăraţi sau ţopii sunt românii care locuiesc în aproximativ 12–14 sate situate
+                   mai sus de Câmpeni, în actualul judeţ Alba, oraș considerat a  „capitala” Ţării Moţilor.
+                   Deoarece și locuitorii români din Zarand (o parte a judeţelor de azi Arad și Hunedoara),
+                   parţial cei din judeţele Cluj și Bihor, care trăiesc practic în zonele limitrofe ale Ţării
+                   Moţilor, s-au declarat a  moţi, în anul 1923 au fost recunoscuţi ocial astfel moţii ce
+                                                                                           6
+                   trăiesc în judeţele Alba, Arad, Bihor, Cluj și Hunedoara.
+                           Există o distincţie clară între moţi și crișeni și din punct de vedere al altitudinii la
+                   care se situează arealul lor de locuire: crișenii locuiesc în mare parte la șes (în Câmpia de
+                   Vest), dar și în zona vestică a Munţilor Apuseni (deci există și crișeni de la munte), iar
+                   în Michael Conrad von Heydendor cel Tânăr, Jurnal (1848–1849), cu o anexă de documente, ediție critică
+                   de Ela Cosma și Hansotto Drotlo, colecția „Biograi Istorice Transilvane”, tom XI, Argonaut Publishing /
+                   Symphologic Publishing, Cluj-Napoca/Gatineau, 2016, p. 19–27.
+                   4  Ela Cosma, Împăratul călător şi ardelenii în memoriile lui Michael Conrad von Heydendor cel Bătrân,
+                   colecția „Biograi Istorice Transilvane”, tom IX, Argonaut Publishing / Symphologic Publishing, Cluj-Napoca/
+                   Gatineau, 2015, p. 302–311, 330–349.
+                   5  Nicolae Firu, Monograa Bisericii cu Lună Oradea, [Oradea, 1934], prefaţă de episcopul Roman Ciorogariu,
+                   p. 11, pe siteul ocial al Bisericii cu Lună Oradea, http://www.bisericaculunaoradea.ro/monograa-bisericii-
+                   cu-luna/, accesat la 28.03.2025.
+                   6  Bogdan Briscu, Moţii şi armata lor la 1848–1849, în Armies, Commanders, Leaders in Transylvania (1848–
+                   1849)/Armate, comandanţi, conducători în Transilvania (1848–1849), colecția „Biograi Istorice Transilvane”,
+                   tom VII, Editura Argonaut Publishing/Symphologic Publishing, Cluj-Napoca/Gatineau, 2013, p. 240–241.
+             60                                        Ela COSMA
+             moţii sunt neapărat și exclusiv locuitori ai Munţilor Apuseni, distingându-se e și numai
+             în acest mod de restul românilor ardeleni.
+                   Din punct de vedere al antropologiei zice, Heydendor îi vedea astfel:
+                   „Toţi acești locuitori ai munţilor sunt de statură mijlocie, uscată, au părul roșu, ochii
+             mici și nasuri coroiate, așa cum îi descrie Tacitus pe germanii contemporani lui.” (Alle
+             in den Gebirgen wohnenden sind von mittler, trockner Statur, haben rothe Haare, kleine
+                                                                                                         7
+             Augen und eingebogene Nasen, sowie der Tacitus die Deutschen seiner Zeit beschreibt.)
+                   Iată ce imagine sugestivă! Roșcaţi au fost descriși și maramureșenii, ca și alți
+             munteni trăitori pe plaiurile noastre. Ba mai mult, chiar germanii antichităţii clasice ar 
+             fost roșcaţi și cu nasul coroiat, căci Heydendor ducea comparaţia și mai departe, părăsind
+             solul ferm al certitudinilor și lansându-se în ipoteze paraștiinţice:
+                   „Aceasta m-a condus la ideea că, la fel cum Tacitus atribuie această înfăţișare
+             germanilor din zonele împădurite ale Sylvei Hercynia [Pădurii Hercinice], unde aceia
+             locuiau, tot astfel și înfăţișarea acestor crişeni și moţi este dată de zona lor împădurită și
+             muntoasă. Dar, așa cum odată cu modicarea înfăţișării și culturii Pădurii Negre de-a
+             lungul secolelor s-au transformat întrutotul și populaţiile germane ale acesteia, tot astfel
+             și acești munteni se vor transforma cu timpul, concomitent cu împuţinarea pădurilor.”
+             (Dies brachte mich auf den Gedanken, daß sowie der Tacitus diese Gestalt der Deutschen
+             waldenen Gegenden, die sie in der „Silva Hercynia” bewohnten, zuschrieb, so auch diese
+             „Krissan” und „Motzen” ihre nämliche Gestalt von dieser Waldig gebirgigen Gegend haben,
+             aber so wie sich nach veränderter Gestalt und Kultur des Schwarzwaldes dessen deutsche
+             Völker nach Jahrhunderten in allem verändert haben, so sich auch diese Gebirgsbewohner
+                                                                                     8
+             mit der Zeit nach den verminderten Waldungen verändern werden.)
+                   Autorul sas remarca specicul românilor din Munţii Apuseni și trăsăturile
+             caracteristice care îi deosebeau de restul românilor cunoscuţi de ocialul din Mediaș.
+             Diferenţele observate constau în: 1. înfăţișare (aspect zic); 2. port; 3. obiceiuri; 4. „dialect”.
+                   În ce privea aspectul zic (talia mijlocie, părul roșu și nasul coroiat, care nu se
+             regăsea la alţi valahi, acesta era dublat de deosebirile din portul bărbaţilor și femeilor de
+             la munte faţă de locuitorii români din restul Ardealului. Heydendor susţinea că:
+                   „Bărbaţii nu au pe partea din spate a cămășii semnul crucicării Domnului, așa ca
+             restul valahilor. Ei își leagă și își împletesc părul altfel. Femeile lor nu poartă văliturile
+                     9
+             romane  ale celorlalte valahe, ci în locul lor poartă o legătoare albastră, în formă de inimă,
+             pe frunte.” (Die Männer haben an dem Hintertheil der Hemden die Zeichen der Kreuzigung
+             des Heilandes nicht, welches die andern Walachen haben. Sie binden und echten sich die
+             Haare anders, Ihre Weiber tragen die Römische „Voliture” der andern Walachinen nicht,
+                                                                               10
+             sondern statt derselben eine blaue herzförmige Binde vorn an.)
+                   Cruciuliţele de pe cămășile bărbătești la care se referea autorul aveau mai degrabă
+             rolul unor monograme sau modele de cusătură, numite și „alesături”, în cazurile observate
+             de el, dar nu erau o regulă a cămășilor populare românești; de asemenea, nici lipsa
+             cruciuliţelor nu indica vreo tradiţie păgână ori precreștină, ci o pură evidenţă.
+             7  Michael Conrad von Heydendorf. Eine Selbstbiographie (ed. R. eil), vol. 18, caiet II, Sibiu, 1884, p. 252.
+             8  Ibidem, p. 252.
+             9  În original autorul folosește termenul românesc: „Römische Voliture”.
+             10  Ibidem, p. 252.
+                                 Câteva mărturii etnoistorice despre târgurile de fete din Munții Apuseni (1793–1881)            61
+                           Cât despre acoperământul de cap al femeilor, memorialistul sas greșea spunând
+                   că femeile din Ţara Moţilor și Crișana nu purtau, aidoma celorlalte românce, „văliturile
+                   romane”, ci o „legătură albastră, în formă de inimă, pe frunte”. De fapt, obiceiul femeilor
+                   măritate era de a purta obligatoriu năframa, marama sau simpla „cârpă”, doar fetele
+                   necăsătorite aveau capul neacoperit, dar adesea împodobit cu pănuşte. Așa-numitele
+                   pănuște, „podoabe pentru părul fetelor, ca o coroniţă, confecţionate din ori de hârtie
+                                                          11
+                   colorată” (Simona Ioana Bala) , probabil, le remarcase ocialul din Mediaș și îi păruseră
+                                                                                                       12
+                   ieșite din comun, de vreme ce le-a menţionat în memoriile sale.  La Petid, în 1974, se
+                   consemna încă: „Portul naţional local femeiesc, care era în întregime lucrat în casă, se
+                   compunea din: poale, spătoaie, cojoc la bătrâne, laibăr la tinere, opinci, apoi cizme cu
+                   carâmbi moi, iar apoi tari, sandale sau panto. La gât se adăuga zgarda (salba), pe cap
+                   părușene – când erau cu capul descoperit, cârpa (marama), uneori sumanul.”13 Iar la
+                   Borșa, judeţul Bihor: „Fetele înainte de a se mărita nu purtau cârpe pe cap, ci umblau
+                   dezvelite, cu părul împletit în coadă, atârnată pe spate. Când se măritau, își făceau coada
+                   și își împleteau părul în două cozi, pe care le împleteau în formă de conci (pup) spre vârful
+                   capului, după care își înveleau și ele capul în cârpă. Datorită acestui obicei, când se mărita
+                                                               14
+                   fata se spunea în sat că s-a învălit.”  Deci nu doar că învălitura femeilor exista în Crișana
+                   și pe timpul autorului sas, ci exista și termenul ca atare.
+                           Heydendor avea însă dreptate menţionând faptul că moţii și crișenii își legau și
+                   își împleteau părul în alt mod decât ceilalţi români. Din nefericire, memorialistul nu și-a
+                   detaliat armaţia. Cât de bine ar  fost să nu e atât de scump la vorbă! Bărbaţii de la
+                   munte, se știe, purtau îndeobște părul lung, legat cu sfoară, pe partea dreaptă a capului,
+                   ca un moţ, iar acest mod de a-și purta părul pare a le  dat chiar numele de moţi (de la
+                   „moţul” de păr) sau ţopi (de la germanul Zopf, care înseamnă „coadă de păr”).15
+                           Deosebirile moţilor faţă de restul românilor ardeleni se vădeau „ba chiar și în
+                   dialectul lor, cu diferite cuvinte specice” (selbst im „Dialekt” und verschiedenen ihrer
+                   eigenthümlichen Wörtern), constata memorialistul sas. În realitate, Michael von
+                   Heydendor sesiza graiul diferit al moţilor, cu anumite regionalisme, folosind în mod
+                   11  Simona Ioana Bala, Universul feminin în cultura şi spiritualitatea tradiţională a poporului român. Ţara
+                   Crişurilor, Editura Argonaut, Cluj-Napoca, 2011, p. 483.
+                   12  Ibidem, p. 283, citat din Monograa satului Borşa, judeţul Bihor de Ioan Măscaş, ms., 1983.
+                   13  Simona Ioana Bala, op. cit., p. 341, citează din Schiţa monogracă a satului Petid de Dumitru Colţea,
+                   ms.,  1974.
+                   14  Ibidem, p. 283, citat din Monograa satului Borşa, judeţul Bihor de Ioan Măscaş, ms., 1983.
+                   15  Ion Rusu Abrudeanu, Moţii, calvarul unui popor eroic, dar nedreptăţit. Studiu istoric-politic, București,
+                   1928, p. 116: „Numirea de Moţi vine dela chica antică, moţul de păr, pe care îl purtau bărbaţii și care era un
+                   obiceiu dac, uzitat până în a doua jumătate a secolului trecut în ţara Moţilor. Personal am văzut în copilăria
+                   mea, acum 50 de ani, încă destui Moţi bătrâni cu părul adunat în chică, de obiceiu în partea dreaptă a
+                   capului, lângă ureche. – Dealtfel și denumirea de Ţopi derivă dela cuvântul german Zopf, care pe românește
+                   însemnează chică și cum funcţionarii nemţi de pe vremuri, cari dispreţuiau pe Moţi, îi numeau Zopger
+                   Walach (Valach cu chică), s-a perpetuat astfel porecla de Ţop. Mai de mult Moţii purtau peste tot numele de
+                   Ţopi după teritoriul pe care îl locuiau – dintre Murăș și muntele Bihariei – și care se numea Terra Tzopus.
+                   În fruntea acestui teritoriu, adică ţinutul Munţilor Apuseni ai Transilvaniei, se aa un voevod român, care
+                   numai pe la începutul veacului XV și-a pierdut neatârnarea faţă de regii Ungariei. Ultimul voevod amintit
+                   de istorie a fost Iacob.”
+             62                                        Ela COSMA
+             eronat cuvântul „dialect” pentru a sublinia diferenţele, totuși fără a pune nicio clipă în
+             discuţie caracterul românesc al limbii vorbite de muntenii noștri.
+                   Este deosebit de însemnată menţiunea lui Heydendor despre târgul fetelor din
+             Munţii Apuseni, căci, până la proba contrară, ea reprezintă cea mai veche atestare scrisă a
+             obiceiului, din 1793. În tușe puternice, îngroșate, memorialistul reţinea un obicei sălbatic,
+             străvechi și violent:
+                   „Pe o poiană de munte, așezată la graniţa dintre Ungaria și Transilvania și numită
+             Târgul Fetelor, într-o anumită zi de vară se întâlnesc din ambele ţări toţi tinerii de parte
+             bărbătească și femeiască, împreună cu părinţii și prietenii lor, dansează, fac cunoștinţă,
+             își aleg iubite și soţii pe care până atunci abia le-au văzut sau poate niciodată, le peţesc
+             acolo, pe loc, și, când mai mulţi pretendenţi se bat pentru o iubită, cel mai tare câștigă
+             și duce mireasa acasă, dar mai totdeauna curge sângele și adesea se întâmplă bătăi de
+             moarte.” (Auf einer an der Grenze Ungarns und Siebenbürgens liegenden Gebirgs Ebene,
+             „Tirgul Fetilor” genannt, kommt an einem Sommertage aus beiden Ländern die männliche
+             und weibliche Jugend mit ihren Eltern und Befreundten zusammen, tanzen, machen
+             Bekanntscha, suchen sich vorher selten oder nie gesehene Geliebte und Ehegatten aus,
+             bewerben sich dort auf der Stelle um sie und bei mehreren Bewerbern schlagen sie sich um
+             die Geliebte, der Stärkste gewinnt und führt die Braut nach Hause, wobei aber immer Blut
+             ießt und o Todtschläge geschehen.)16
+                   Memorialistul sas a auzit despre târgul fetelor, fără a participa direct la acesta.
+             Prezenţa sa în Munţii Apuseni a numărat 21 de zile, ce-i drept zile de vară, din 21 iulie până
+                              17
+             în 9 august 1793 , dar nu s-a suprapus cu sărbătorile în care s-au desfășurat aceste  târguri.
+                   Din trăsăturile atât de unice și deosebite ale moţilor, Heydendor concluziona în
+             mod fantezist că, deși români, aceștia nu puteau avea aceeași origine cu restul românilor:
+                   „Acestea și alte deosebiri ale valahilor de aici faţă de restul valahilor m-au condus la
+             presupunerea că acești valahi munteni nu au aceeași obârșie și origine ca și ceilalţi valahi
+             transilvăneni, și că nu provin din romani, ci din barbarii pe care romanii i-ar  colonizat
+             sub un rege al lor între Mureş și Criş, conform lui Tacitus, adică tocmai în această regiune,
+             așa cum am arătat pe larg într-un studiu, aat între manuscrisele mele, dedicat anume
+             acestui subiect, pe care am încercat să-l leg de originea naţiunii săsești, și la care fac
+             trimitere acum, consideraţiile montanistice oferindu-mi prilejul acestui excurs.” (Diese
+             und mehrere von den Verschiedenheiten dieser Walachen von denen anderer Walachen
+             brachten mich auf die Vermuthung, diese Gebirgs Walachen müßten nicht einerlei Ursprungs
+             und Herkun mit den andern siebenbürgischen Walachen sein und nicht von den Römern,
+             sondern von den Barbaren abstammen, welche von den Römern, nach Tacitus, unter einem
+             eignen König zwischen die „Maros” und „Körös”, d.i. in diese Gegend versetzt worden
+             sind, wie ich solches in einer besonders darüber geschriebenen in meinen „Manuscripten”
+             bendlichen Abhandlung weitläuger ausgeführt und mit der Herkun der Sächsischen
+             Nation zu verbinden gesucht habe, worauf ich mich hiemit berufe, zu welcher Abhandlung
+                                                                   18
+             diese meine Gebirgs Betrachtung Gelegenheit gab.)
+             16  Michael Conrad von Heydendorf. Eine Selbstbiographie, vol. 18, caiet II, Sibiu, 1884, p. 253.
+             17  Ibidem, p. 257.
+             18  Michael Conrad von Heydendorf. Eine Selbstbiographie, vol. 18, caiet II, Sibiu, 1884, p. 253.
+                                 Câteva mărturii etnoistorice despre târgurile de fete din Munții Apuseni (1793–1881)            63
+                           Indiferenţi la teorii și comparaţii privitoare la ei, moţii și-au manifestat până azi
+                   individualitatea într-un mod paradoxal: prin românismul lor puternic și nealterat. Credem
+                   că nu greșim armând că moţii au fost și sunt cei mai români dintre românii  ardeleni.
+                           Adolf Schmidl despre moți și cele 4 târguri de dat cu jocul din Bihor (1863)
+                           Adolf Schmidl (născut în 1802 la Königswart, Boemia – decedat în 1863 la Buda) a
+                   fost un pionier al speologiei, ca disciplină independentă. Deși a studiat artele frumoase la
+                   Universitatea din Viena, a devenit celebru ca naturalist. În tinerețea sa aventuroasă, el a
+                   vizitat o sumedenie de țări, publicând la 1835 un Manual de călătorie prin Regatul Ungariei
+                   cu țările învecinate acestuia şi prin Dalmația, spre Serbia, Bucureşti şi Constantinopol.
+                   Aici găsim, printre altele, descrieri tehnice ale sistemului poștal și vamal din Ungaria,
+                   dar și descrierea geograco-etnogracă a numeroase orașe din Transilvania, Banat, Țara
+                                                                                                                     19
+                   Românească și Moldova (Cluj, Sibiu, Timișoara, București, Giurgiu, Galați).  Din 1857
+                   a predat geograa statistică la Universitatea Tehnică din Buda. Abia la vârsta de 48 de
+                   ani, interesat de „știința peșterilor”, a început cercetarea lor cu pasiune, vizitând timp de
+                   13 ani toate regiunile carstice majore din Imperiul Habsburgic. Din 1850 a promovat
+                   explorarea planicată, regulată și științică atât a complexelor speologice din munții
+                   Karst din Slovenia, cât și a peșterilor din Austria, Ungaria și Transilvania, rezultatele
+                                                                                                     20
+                   cercetărilor ind publicate în lucrări deschizătoare de drumuri.
+                           În cartea sa din 1863, special dedicată Munților Apuseni: Das Bihar-Gebirge an
+                   der Grenze von Ungarn und Siebenbürgen (Munții Bihor la granița dintre Transilvania și
+                               21
+                   Ungaria) , Adolf Schmidl constata că „după numărul lor, românii sunt preponderenți
+                   în ținutul Bihorului” (der Zahl nach überwiegen im Bihargebiete die Romanen), la fel ca
+                   19  A. Schmidl, Reisehandbuch durch das Kőnigreich Ungarn mit den seinen Nebenländern und Dalmatien,
+                   nach Serbien, Bukarest und Constantinopel [Manual de călătorie prin Regatul Ungariei cu țările ei învecinate
+                   și Dalmația, spre Serbia, București și Constantinopol], Verlag von Carl Gerold, Viena, 1835, 600 p.
+                   20  C. von Wurzbach, Biographisches Lexikon des Kaiserthums Oesterreich [Lexicon biograc al Imperiului
+                   Austriac], vol. XXX, Viena, 1869, p. 199–205; Hadobás Sándor, Schmidl Adolf (1802–1863), în Karszt és
+                   Barlang [Carstul și peștera], nr. 1, 1988, p. 37–42.
+                   21  Das Bihar-Gebirge an der Grenze von Ungarn und Siebenbürgen, mit einer geodätischen Abhandlung, Karte,
+                   Panorama und Höhlen-Plänen von Josef Wastler, Professor am Joanneum zu Gratz, von Dr. A. Adolf Schmidl,
+                   Professor der Geographie, Statistik und Geschichte am k. Josefs-Polytechnicum in Ofen; corresp. Mitglied der
+                   k. Böhmischen Gesellscha der Wissenschaen zu Prag, des Ateneo zu Venedig, des historischen Vereins zu
+                   Laibach, der kaiserl. Russischen geographischen Gesellscha zu St. Petersburg und Correspondent der k.k.
+                   Gesellscha in Wien, der J.R. Accademia degli Agiati zu Roverede, der k.k. Landwirthschas-Gesellschaen
+                   zu Brünn und Laibach; Ehrenmitglied der historischen Vereine zu Augsburg, München und Regensburg,
+                   mit Unterstützung der kaiserlichen Akademie der Wissenschaen zu Wien [Muntele Bihor la granița dintre
+                   Ungaria şi Transilvania, cu o tratare, hartă, panoramă geodatică și planurile peșterilor de Josef Wastler,
+                   profesor la „Joanneum” din Gratz, de dr. Adolf Schmidl, profesor de geograe, statistică și istorie la Politehnica
+                   Josef c.c. din Buda; membru corespondent al Societății c.c. de Științe a Boemiei din Praga, al Ateneului din
+                   Veneția, al Asociației Istorice din Laibach, al Societății Geograce imperiale ruse din Sankt Petersburg
+                   și corespondent al Societății c.c. din Viena, al Academiei J.R. degli Agiati din Roverede, al Academiilor
+                   Agricole din Brünn și Laibach; membru de onoare al Asociațiilor istorice din Augsburg, München și
+                   Regensburg, cu susținerea Academiei imperiale de Științe din Viena], Verlag von Förster & Bartelmus,
+                   Viena, 1863, 442 p. + 4 planuri. În studiul de față ne interesează, cu precădere, capitolele „Zur Ethnographie”
+                   [Despre etnograe], p. 115–150, „Erwerbsquellen” [Surse de subzistență], p. 151–187; ”Topographisches”
+             64                                        Ela COSMA
+             și în cel al Zarandului. Citându-l pe Kozma Pál, autorul austriac exemplica prin cifre
+             majoritatea absolută a românilor, arătând că la 1848 trăiau în Zarand 51.323 români,
+             822 germani, 710 maghiari, 826 țigani, 17 israeliți (p. 115).22 Altă sursă istoriogracă
+             importantă citată de Adolf Schmidl (p. 140–141) – cvainecunoscută cititorului român
+             întrucât nu a fost încă editată critic – o reprezintă lucrările publicate în latină între 1723–
+                                                                                                    23
+             1742 de către Matthias Bél, cu referiri speciale la obiceiurile românilor din Arad.
+                   La capitolul constituție corporală și statură (Körperbeschaenheit), autorul
+             remarca: „La românii bihoreni, însă, sexul masculin este cel frumos și zadarnic ai căuta
+             aici renumitele frumuseți din rândul româncelor din sudul Ungariei.” (Bei den Bihar-
+             Romanen ist aber das männliche Geschlecht das „schöne” und die berühmten Schönheiten
+             der südungarischen Romaninen sucht man hier vergebens.) Excepție făcea, totuși, satul
+             Roșia, unde – se spune – și de căutai, abia puteai întâlni vreo româncă urâtă (p. 127).
+                   Adolf Schmidl ne-a lăsat o descriere destul de detaliată a portului popular românesc
+             din Bihor, redând și denumirea specică a obiectelor de îmbrăcăminte (p. 129–131). Iată
+             deci portul popular bărbătesc (p. 129): „Portul românilor constă din gachii ungurești, ceva
+             mai strâmți pe aici, iar în timpul iernii aspre din pantalonii albi și strâmți de pânză. La
+             lucru poartă o cămașă așa de scurtă, încât abia le ajunge până la șale și la ecare mișcare
+             li se vede șira spinării. Pe deasupra se poartă la nevoie un laibăr (vestă) de piele, la fel
+             de scurt, din blană de oaie, ornat cu fâșii roșii de piele, având partea aspră în interior,
+             care se numește cojoc sau pieptar. Deasupra se pune iarna mantaua de blană, numită în
+             ungurește bundă, aici bituşă. Adevărata haină de sărbătoare este sacoul de deasupra,
+                                                   24
+             sumanul, din pânză brută (Halina) , pe care românii de aici îl poartă alb și scurt, însă
+             ardelenii (și cei din Roșia) negru și ceva mai lung. Caracteristic este brâul de piele lat de
+             10–12 țoli, cureaua sau şerparul, care se leagă cu 6 sau mai multe catarame de curelușe,
+             ind prevăzut în interior cu buzunare pentru bani. În brâu țăranul își vâră pipa, punga de
+             tutun sau orice alte obiecte importante pentru el, și nu putem nega faptul că, atunci când
+             călărești mult timp, ca și atunci când mergi cu căruța pe drumurile pietroase, un asemenea
+             brâu e foarte binefăcător. El apără și șira spinării, pe care o lasă la vedere adesea cămașa
+             prea scurtă.” (Die Tracht der Romanen besteht aus den, hier etwas engeren, magyarischen
+             „Gatya”, im strengen Winter aus engen weisstuchenen Hosen. Bei der Arbeit tragen sie
+             ein so kurzes Hemd, dass es knapp bis zu den Hüen reicht und bei jeder Bewegung das
+             untere Rückgrat entblösst. Ein so eben kurzes Pelzleib aus Schaell, mit rothen Lederstreifen
+             verziert, das Rauhe innen, wird nach Bedarf darüber getragen, es heisst „Cociocu”, auch
+             „Peptariu”. Darüber kommt dann im Winter der Pelzmantel, der ungarisch „Bunda”,
+             [Topograce], p. 188–318 (descrieri). Vezi varianta electronică a cărții: https://www.digitale-sammlungen.
+             de/en/view/bsb10011187?page=8,9
+             22  Kozma Pál, Zaránd-Vármegye földirati statistikai és történeti leirása [Descrierea geogracă, statistică și
+             istorică a comitatului Zarand], Cluj, 1848.
+             23  Matthias Bél (1684–1749) are trei lucrări speciale, de interes pentru etnograa românilor din vestul
+             Transilvaniei: Hungariae antiquae et novae prodromus [Preliminarii la vechea și noua Ungarie], Nürnberg,
+             1723; Adparatus ad historiam Hungariae [Instrumentar de istoria Ungariei], Bratislava, 1735; Notitia
+             Hungariae novae historico-geographica [Notițe istorico-geograce privind Ungaria modernă], Viena,
+             1735–1742.
+             24  Halina nu este vreun cuvânt german, ci – la fel ca și Galina în rusă – reprezintă traducerea numelui Elena
+             la polonezi (și poate la muntenii gorali).
+                                 Câteva mărturii etnoistorice despre târgurile de fete din Munții Apuseni (1793–1881)            65
+                   hier „Bitusia” heisst. Eigentliches Feiertagskleid ist der Oberrock, „Sumanu”, aus grobem
+                   (Halina-)Tuch; die diesseitigen Romanen tragen ihn weiss und kurz, die Siebenbürger (auch
+                   die Rossier) aber schwarz und länger. Charakteristisch ist der 10 bis 12 Zoll breite Ledergürtel
+                   „Curea” (Riemen) oder „Sierpariu” durch 6 und mehr Riemenschnallen zusammengehalten,
+                   im Innern mit Taschen für Geld versehen. In den Gürtel steckt der Bauer die Pfeife, den
+                   Tabaksbeutel oder sonst ihm wichtige Objekte und es ist nicht zu leugnen, bei langen Ritten,
+                   sowie beim Fahren auf den steinigen Wegen ist so ein Gürtel sehr wohlthätig; er schützt auch
+                   das Rückgrat, welches das kurze Hemd so o entblösst.)
+                           În ce privește încălțămintea obișnuită, pe timp de vară și pe timp de iarnă (p.
+                   129–130): „De obicei, românul poartă încălțări din curele, opinci, pe care și le face singur,
+                   cumpărând numai talpa. Oamenii se cațără nemaipomenit cu acestea pe toate stâncile, dar
+                   pe vreme udă ele devin impracticabile. Atunci, de regulă omul merge desculț, ridicându-și
+                   gachii în sus, mult deasupra genunchilor, până aproape de șolduri. Așa i-am văzut pe
+                   oameni mergând pe drumul de țară prin ploaia înghețată, cu cizmele atârnate pe umăr!
+                   Cizmele, numite de toți cizme, reprezintă de fapt numai o ținută de gală pe timpul verii,
+                   rândul lor venind abia iarna. Dealtfel, o asemenea pereche de cizme subțiri, până la
+                                                                                                   *   *
+                   genunchi, nu costă mai mult de 3–4 guldeni valoare vieneză.  – În aceste ținut se mai
+                   socotește și acum după bancnotele de valoare vieneză, ba chiar am văzut și în 1860
+                   circulând vechile monede de 30 de creițari.” (Gewöhnlich trägt der Romane Riemenschuhe,
+                   „Opince”, die er sich selber macht, und nur die Sohle dazu kau; die Leute klettern damit
+                   vortreich in den Felsen herum, in nassem Wetter aber werden sie unbrauchbar; dann
+                   geht der Mann gewöhnlich barfuss, die Gatya weit über die Knie, fast bis zu den Hüen,
+                   hinaufgezogen. So habe ich die Leute in eisigem Regen auf der Landstrasse waten gesehen,
+                   die Stiefel über den Rücken gehängt! Stiefel, allgemein „Csizma” genannt, sind eigentlich im
+                   Sommer nur Gallatracht und kommen erst im Winter an die Reihe; so ein Paar bis zum Knie
+                                                                                                                                *  *
+                   reichende Röhrenstiefel kostet übrigens nicht mehr als 3 bis 4 Gulden Wiener Währung. –
+                   In dieser Gegend wird allgemein noch jetzt nach Wiener Währung Papiergeld gerechnet, ja
+                   wir sahen 1860 noch die alten Dreissigkreuzer-Stücke kursiren.)
+                           Românii își acopereau capul cu clopul, pălăria cu boruri late, rotunjite, pe care
+                   Schmidl a studiat-o cu atenție (p. 130): „În general se poartă pălăria de pâslă, clop sau
+                   pălărie, având borurile excesiv de late, rotunde și răsucite. În scobitura borurilor se pune
+                   pipa, iar toamna își găsesc locul aici prune ori mere. Plecând la drum, sau ajungând la
+                   un izvor, pălăria cu boruri devine un vas lat de băut. Iarna se poartă cușma de blană,
+                   căciula, din blană de oaie albă sau neagră.” (Allgemein wird der Filthut, „Clop” oder
+                   „Palarie”, mit der übermässig breiten, runden aufgeschlagenen Krempe getragen. In dieser
+                   Krempenrinne wird die Pfeife gelegt, im Herbste nden Zwetschken oder Aepfel darin ihren
+                   Platz, und während einer Fahrt, oder bei einer Quelle angelangt, ist die Hauptkrempe auch
+                   ein ausgiebiges Trinkgeschirr. Im Winter wird die Pelzmütze, Caciula, aus weissem oder
+                   schwarzem Schaelle getragen.)
+                           Adolf Schmidl arată că Matthias Bél certicase faptul că, încă din prima jumătate a
+                   veacului al XVIII-lea, atât maghiarii, cât și românii purtau căciula, numită în ungurește
+                   cuşmă, „din blana neagră a unui miel născut de 2–3 zile, în formă ieșită în afară de
+                   bardocucullus (gluga unui suman al vechilor gali)” (p. 130): „Pelliceo quoque pileo
+                   tegunt caput, quem Hungari vocant Kucsma. Pellis est agnellis nigrioribus, vix duos, tres
+        66                         Ela COSMA
+        dies natis, detracta et in formam bardoculi** eormata. Hoc genus pilei universa gens
+        Hungarica adamavit, quamvis forma paullo opportuniore, quam Valachica. Interim et hi
+        conciunt, qua cui libet specie. Itaque heic pilei tales et excellunt, et nusquam haberi possunt
+                **
+        formosiores.  Bardocucullus, der Name eines (altgalischen) Oberkleides mit einer Kaputze.”
+            Spre cinstea lui, călătorul prin munți Adolf Schmidl ne lasă o precisă descriere a
+        portului păstorilor moți din Apuseni, realizând probabil cel mai frumos dintre portretele
+        sale, dedicat unui tânăr ciobănaș moț (p. 130–131): „Autentic este portul păstorilor
+        din munți, între care mai ai și câte-un frumușel la modă, dar nu destul de pedant.
+        Cămașa și gachii lui sunt unse cu slănină, din aceeași pricină din care călătorului îi devine
+        indispensabilă pulberea de insecte persană. Datorită fumului de la foc, [hainele] i se fac
+        de un negru așa de strălucitor, de parcă ar  o stofă lucioasă neagră, iar el și le schimbă la
+        fel de rar, precum un lăptar tirolez își schimbă cămașa. El își poartă peste cămașă tașca
+        atârnată de o curea lată cât palma, țintuită cu un număr remarcabil de nasturi de alamă,
+        lustruiți ca oglinda, care arată foarte impunător. De tașcă atârnă alte curele împodobite
+        asemănător, de care sunt agățate o sumedenie de obiecte foarte ciudate, cum ar : 2 inele
+        de sigiliu din cupru; un degetar de er; un os lung de 6 țoli, în care e vârâtă vergeaua
+        de curățat pipa, care și ea se aă la îndemână vârâtă în alt os; un corn de bou, ce-i dă
+        băiețandrului un aspect aproape cavaleresc romantic, de parcă ar  un corn de atârnat la
+        șold, deși e de fapt un corn de băut. În ne, tot aici mai este agățat și micul uier ciobănesc,
+        din care băiatul extrage melodiile lui scurte și melancolice, care se încheie întotdeauna cu
+        o notă mult prelungită. Opincile de piele naturală maronie îi completează vestimentația,
+        care are în ea ceva cu adevărat pitoresc. Pe Micu [?] am întâlnit un băiat din Budureasa,
+        în felul lui un dandy desăvârșit, care – cu trăsăturile nobile ale chipului său, cu un păr
+        cârlionțat superb și cu barbă – reprezenta într-adevăr un model ideal.” (Eigenthümlich
+        ist die Tracht der Berghirten, unter denen sich mancher Stutzer ndet, der sich nicht wenig
+        auf seinen Putz zu Gute thut. Hemd und Gatya sind mit Speck geschmiert, aus derselben
+        Ursache, die das persische Insektenpulver dem Reisenden unentbehrlich macht. Er wird so
+        glänzend schwarz im Rauche des Feuers, dass man einen schwarzen Glanzsto zu sehen
+        vermeint, und wird eben so wenig den ganzen Sommer über gewechselt, wie das Hemd des
+        Tiroler Sennen. Ueber das Hemd trägt er seine Tasche an einem spannbreiten Riemen, der
+        mit einer namhaen Anzahl grosser und kleiner Messingknöpfe, spiegelblank geputzt, besetzt
+        ist, was sich sehr stattlich ausnimmt. Von der Tasche aber hängen ähnlich verzierte Riemen
+        herab, an denen sich eine Anzahl gar merkwürdiger Dinge benden. Dergleichen sind 2
+        kupfernde Siegelringe; ein eiserner Fingerhut; ein 6 Zoll langer Röhrenknochen, in welchem
+        der Pfeifenräumer steckt, der als Handhabe gleichfalls in einem Knochen eingefasst ist; ein
+        Ochsenhorn gibt dem Burschen fast ein ritterlich romantisches Ansehen, als wäre es ein
+        Hihorn, es ist aber ein Trinkhorn. Endlich hängt hier auch die kleine Hirtenöte, welcher
+        der Bursche seine kurzen melancholischen Melodien entlockt, die jederzeit in einen langen
+        gezogenen Ton endigen. Naturbraune Leder-Opincen vollenden den Anzug, der wirklich
+        etwas malerisches hat. Auf dem Mico traf ich einen Burschen aus Budurásza, in seiner Art
+        ein vollendeter Dandy, der mit seinen edlen Gesichtszügen, prachtvollem Lockenhaar und
+        Bart wirklich ein ideales Modell darstellte.)
+            Portul româncelor e tratat mult mai sumar (p. 131): „Și portul femeiesc prezintă
+        anume diferențe de-o parte și de cealaltă a muntelui. În general se pune mare preț pe
+                                 Câteva mărturii etnoistorice despre târgurile de fete din Munții Apuseni (1793–1881)            67
+                   pânză [de cearceaf]. Pe deasupra cămășii scurte, cămeşa, se poartă o fustă albă de pânză
+                   [de cearceaf], poalele, iar femeile poartă și un laibăr scurt de blană, la fel ca bărbații,
+                   brodat cu mătase. Româncele ardelence însă poartă cămăși lungi și, peste ele, în față
+                   și în spate, o pânză neagră sau albastru-închis, [numită] în Transilvania catrință.” (Die
+                   weibliche Tracht bietet gleichfalls einige Verschiedenheit diesseits und jenseits des Gebirges.
+                   Sie halten im Allgemeinen viel auf Leinwand; über das kurze Hemd, „Camesia”, wird ein
+                   weisser Leinenrock, „Póle”, getragen, dann von den Frauen ein kurzes Pelzleibel, ähnlich
+                   wie jenes der Männer, mit Seide gestickt. Die Siebenbürger Romaninen tragen aber lange
+                   Hemden und darüber vorne und rückwärts ein schwarzes oder dunkelblaues Tuch, in
+                   Siebenbürgen  „Catrinti’a”.)
+                           Autorul austriac remarcă totuși câteva elemente distinctive ținând de podoabele
+                   și ornamentele portului româncelor (p. 131): „Ele țin mult la șnururile pentru gât din
+                   scoici și perle false, mărgelele, pe care pot  văzute înșirate și monede de aur; dar moațele
+                   nu poartă scoici. Fetele își împletesc părul în codițe lungi, la capătul cărora sunt legate
+                   panglici multicolore, punându-și pe cap o basma numai în caz de ploaie. Femeile își
+                   adună părul ca-ntr-un cuib, în conci – pe când ardelencele mai întâi îl împletesc de jur
+                   împrejurul capului; deasupra poartă boneta ungurească și peste aceasta o pânză albă sau
+                   albastră, cârpa. Miresei i se pune pe creștet un cerc, ornat cu panglici și cu perle false,
+                   iar în spate panglicile îi atârnă până la îndoitura genunchilor. Însă cele mai de frunte,
+                   sau cele care se socotesc a  astfel, nu poartă un asemenea cerc, ci o coroniță de ori.
+                   La marile sărbători și fetele poartă aceste podoabe.” (Sehr viel halten sie auf Halsschnüre
+                   aus Muscheln, falschen Perlen, „Margèle”, aber man sieht auch Goldmünzen daran, die
+                   Mozzinen aber tragen keine Muscheln. Die Mädchen echten die Haare in lange Zöpfen,
+                   an deren Enden vielfarbige Bänder eingebunden werden, und nehmen nur im Regen ein
+                   Tuch über den Kopf. Die Weiber schlingen die Haare nestartig, „Conciu”, zusammen – die
+                   Siebenbürginnen echten zuerst um den Kopf herum –, darüber tragen sie die ungarische
+                   Haube und über diese ein weisses oder blaues Tuch, „Cârpa”. Die Braut erhält einen Reif um
+                   den Kopf, der mit Bändern und falschen Perlen verziert ist, rückwärts hängen die Bänder
+                   bis zur Kniekehle hinab. Die Vornehmeren aber, oder die sich dazu rechnen, tragen keinen
+                   solchen Reif, sondern einen Blumenkranz. An hohen Festtagen tragen auch die Mädchen
+                   diesen Schmuck.)
+                           Caracterul (Charakter) românilor avea drept trăsătură principală o „aspră
+                   religiozitate” (strenge Religiosität), după cum preciza călătorul austriac (p. 127). De
+                   pildă, postul sever al ortodocșilor români (comparativ cu al greco-catolicilor) număra
+                   circa 200 de zile pe an (p. 132). Adolf Schmidl însuși, în expedițiile sale prin Bihor, s-a
+                   confruntat cu consecințele modului de viață ortodox, călăuzele sale devenind incapabile
+                   să continue călătoria, datorită postului lor frugal, incă „ei trăiau zile întregi numai cu
+                   castraveți cruzi, ceapă și pâine” (tagelang lebten sie nur von rohen Gurken, Zwiebel und
+                   Brod) (p. 132). Iată un exemplu anecdotic oferit de Schmidl (p. 132): „Din Petros am avut
+                   odată cu mine un uriaș drept călăuză, care însă s-a epuizat atât de tare datorită postului
+                   îndelungat, încât l-am convins cu toată seriozitatea să se înfrupte din provizia mea de
+                   carne. Când în cele din urmă l-am asigurat că îi voi cere popii să-l ierte, a trebuit să mă
+                   angajez la aceasta printr-o strângere de mână, și abia atunci el a încălcat porunca. Când
+                   m-am dus într-o seară iarăși în sat, omul meu s-a înințat deodată-n fața mea, ca să
+      68                  Ela COSMA
+      mă-ntrebe dacă am fost deja la popa. La fel s-a-ntâmplat și a doua zi în zori, atât de tare
+      îl apăsa conștiința. Firește că popa mi-a acceptat binevoitor rugămintea și l-a absolvit
+      complet pe ul cel conștiincios al bisericii sale.” (Von Petrosz hatte ich einmal einen riesigen
+      Führer bei mir, der aber durch längeres Fasten so ermattete, daß ich ihm ernstlich zuredete,
+      von meinem Fleisch-Vorrath zu geniessen. Als ich ihn endlich versicherte, ich würde bei
+      seinem Popen für ihn Vergebung erbitten, musste ich mit einem Handschlag mich dazu
+      verpichten, und nun übertrat er das Gebot. Als ich nachmals an einem Abende wieder in
+      das Dorf zurückgekehrt war, erschien bald darauf mein Mann, um zu fragen, ob ich schon
+      beim Popa war, dessgleichen am andern Morgen früh, so sehr drückte ihn das Gewissen.
+      Der Popa nahm natürlich meine Bitte huldreich auf, und absolvirte den gewissenhafzen
+      Sohn seiner Kirche vollständig.)
+         Pentru a ilustra lipsa oricăror noțiuni de bine și rău, justiție și injustiție la români,
+      călătorul austriac mai relata episodul despre soldatul român care, după concediul efectuat,
+      trebuia să revină la oaste. Apelând la „popă” (der Popa), acesta a aranjat cu judele (Richter)
+      să îl declare mort pe soldat, și a făcut slujba de înmormântare în fața sicriului gol. Fugarul
+      s-a ținut ascuns câteva săptămâni, dar atunci când – culmea culmilor! – s-a înințat la
+      birt, a fost recunoscut de jandarmi. „Popa” și-a ispășit pedeapsa, apoi a revenit liniștit
+      în satul cu pricina, „unde încă se mai aă în funcție” (wo er noch fungirt), după cum ne
+      asigura Schmidl (p. 132–133).
+         Autorul constata că credința românilor față de monarhia austriacă era, într-adevăr,
+      „neprefăcută și nezdruncinată” (ungeheuchelt und unschütterlich). Ea s-a dovedit în
+      vremea „tristului război civil” (während des traurigen Bürgerkrieges) de la 1848, atunci
+      când s-au consemnat și cruzimi din partea românilor la adresa maghiarilor, „ce pot
+       explicate, dar nu scuzate datorită opresiunilor foștilor lor stăpâni” (die durch die
+      Bedrückungen dieser ihrer früheren Herren wohl erklärt, aber nicht entschuldigt werden
+      können). Despre loialismul prodinastic al poporului român mai vorbea faptul că, la
+      recrutarea austriacă din 1858, din prima clasă de vârstă s-au prezentat 1.405 conscriși
+      și n-a existat niciun absent fără motivare, iar din a doua clasă de vârstă au lipsit de bună
+      credință doar 2 persoane (p. 133).
+         Teama maghiarilor față de moți la 1848 e exprimată în următorul paragraf: „La
+      Băița și în împrejurimi [maghiarii] aveau frică mare că moții vor veni încoace, îi vor tăia
+      cu coasele și le vor da foc, ceea ce însă nu s-a întâmplat”. (In Rézbánya und Umgebung
+      hatte man grosse Furcht vor den „Mozzen”, dass sie herüberkommen und sengen und
+      brennen würden, was aber nicht geschah.) Cei din Rézbánya încă mai făceau la 1863 anual,
+      în ecare vară, o procesiune catolică, urcând șaua de la Scirbina [Știrbina?] către Valea
+      Seacă (Valea Séca), ca urmare a legământului făcut pentru izbăvirea lor din pericolul
+      pașoptist. În Hălmagiu (Halmágy), autorul a întâlnit ruine rămase în urma nefericitului
+      an 1848 (p. 133).
+         Un popor atât de iubitor de conducători și atât de capabil de propășire, precum
+      românii, avea mare nevoie de educație. Totuși, aceasta era foarte decitară la 1863 –
+      observa Schmidl –, căci „înainte de 1850 zece până la douăsprezece sate aveau împreună
+      o singură școală” (vor 1850 zehn bis zwölf Dörfer zusammen eine einzige Schule hatten)
+      (p. 133). Autorul reproducea tabelul intitulat „Atestare asupra copiiilor apți de școală și
+      școlarizați ai localităților de munte din districtul scăunal Beiuș, cu indicarea naționalității,
+                                 Câteva mărturii etnoistorice despre târgurile de fete din Munții Apuseni (1793–1881)            69
+                   religiei și a sexului, în anul 1857/1858” (Nachweisung über die schulfähigen und die
+                   schulbesuchenden Kinder der Berg-Ortschaen des k.k. Belényeser Stuhlbezirks, mit Angabe
+                   der Nationalität, Religion und des Geschlechtes im Jahre 1857/8). Datele proveneau din
+                   44 de comune românești arondate notariatelor districtuale de la: 1. Crișcior (Kristyor)
+                   –și anume, cu comunele Crișcior (Kristyor), Leheceni (Lehecsény), Săliște (V. Szelistye),
+                   Poiana (Pojána); 2. Vașcău (Vaskóh) – cu comunele Vașcău (Vaskóh), Bărăști (Baresd),
+                   Cărpinet (Kerpenyét), Vărzarii de Sus (Alsó-Verzár), Vărzarii de Jos (Felsö Verzár),
+                   Călugări (Kaluger), Câmp sau Câmpu Boiului (Kimp), Sohodol (V. Szohodol), Colești
+                   (Kollest); 3. Băița (Rézbánya) – cu târgul Băița, satul Băița, Câmpenii de Sus (Alsó-
+                   Kimpány), Câmpenii de Jos (Felsö-Kimpány), Seghiștel (Segyestel), Fânațe (Fonácza),
+                   Sârbești sau Lunca (Sterbest); 4. Dumbrăveni (Dombrovány) – cu Dumbrăveni sau
+                   Buntești (Dombrovány), Broaște sau Stâncești (Brost), Măgura (Magura), Chișcău
+                   (Kiskóh), Brădet (Bragyet), Valea Neagră de Sus (Alsó-Válenyágra), Valea Neagră de
+                   Jos (Felsö-Válenyágra); 5. Buntești (Buntyesd) – Buntești (Buntyesd), Petros (Petrosz),
+                   (Gurány), Cociuba (Kocsuba), Poienile de Sus (Alsó-Pojen), Poienile de Jos (Felsö-Pojen),
+                   Săud (Szód), Ferice (Fericse); 6. Budureasa (Budorásza) – cu Budureasa (Budorásza),
+                   (Karbunár); 7. Curățele sau Nimăiești (Nyimoesd) – cu Burda (Burda), Cresuia (Kreszulya),
+                   Beiușele (Kis-Belényes); 8. Căbești (Kebesd) – cu Meziad (Meziád), Sânlazăr sau Chișlaz
+                   (Szt. Lázár), Căbești (Kebesd), Roșia (Rossia). Autorul făcea observația general valabilă
+                   că frecventarea școlii era mai bună iarna decât vara, când copiii erau implicați în muncile
+                   ținând de pășunatul vitelor la munte (indem die Kinder zur Aufsicht des in den Bergen
+                   weidenden Viehes verwendet werden) (p. 134–135).
+                           În capitolul despre „Obiceiurile festive – Sărbătoarea populară” (Festliche Gebräuche
+                   – Volksfest), în subcapitolul de „Muzică și dans” (Musik und Tanz) (p. 142–146), sunt
+                   descrise obiceiurile românești de nuntă (p. 143–144), înmormântare (p. 144–145), și mai
+                   ales „der Mädchenmarkt (Tergul de Datu oder T. de fete)” (p. 145–146).
+                           Astfel, autorul arăta (p. 145): ”Cea mai tradițională sărbătoare populară din ținutul
+                   Bihorului, faimoasă în lung și lat, era Târgul de dat sau Târgul de fete de pe Bihor, la
+                                               25
+                   sărbătoarea grecească  a Snților Petru și Pavel. Acest târg de fete se mai numea Jocul de la
+                   Bihor, de la dansul obișnuit cu acel prilej.” (Das eigenthümlichste Volksfest im Bihargebiete,
+                   weit und breit berühmt, war der „Mädchenmarkt”, „Tergul de Datu” oder „T. de fete”, auf
+                   dem Bihar, am griechischen Festtage der H.H. Peter und Paul. Dieser Mädchenmarkt hiess
+                   auch der „Biharer-Jocu” von dem Tanze, welcher dabei üblich war.)
+                           Schmidl aă originea mitică a dansului încă de pe vremea invaziei tătarilor (p. 145):
+                   „Originea sărbătorii pare a proveni din vremea mongolilor, ale căror hoarde au pustiit
+                   totul în acest ținut. Atunci românii din Ungaria și cei din Ardeal au făcut o învoială; cei
+                   din Băița i-au alungat pe mongoli în sus până pe [vârful] Bihor, unde-i așteptau ardelenii,
+                   care i-au nimicit, pe la anul 1242 sau 1246. Ca amintire a acestei pățanii, locuitorii de pe
+                   ambele laturi ale muntelui se întâlnesc în ecare an pe creasta acestuia, pentru a se bucura
+                   de dans și joc.” (Der Ursprung des Festes soll aus der Mongolenzeit herrühren, deren Horden
+                   hier in der Gegend alles verwüsteten. Da schlossen die ungarischen und siebenbürgischen
+                   Romanen ein Bündniss; die Rézbányer trieben die Mongolen auf den Bihar hinauf, wo die
+                   25  Sărbătoarea ortodoxă, ținută după calendarul (stilul) vechi.
+            70                                        Ela COSMA
+            Siebenbürger sie erwarteten und niedermachten, um d. J. 1242 oder 1246. Zum Andenken
+            daran sollen jährlich die beiderseitigen Anwohner des Gebirges auf dessen Kamme wieder
+            zusammengekommen sein, sich am Tanz und Spiel zu belustigen.)
+                   Apoi autorul realizează descrierea acestui obicei straniu și nemaiîntâlnit al
+            românilor din Munții Apuseni (p. 145): „Fiindcă cu această ocazie se încheiau unele
+            căsătorii, în cele din urmă băieții urcau formal să vadă miresele, iar totodată fetele își
+            aduceau cu ele zestrea la vedere, lada cu pânzeturi, o vacă, o capră, un cal, și ce mai
+            era la îndemână. Dacă o pereche se plăcea și dacă părinții cădeau de acord, atunci un
+            popă prezent acolo îi cununa pe loc, iar tânăra nevastă îi urma bărbatului ei coborând
+            Bihorul. De la acest obicei sărbătoarea a primit numele de Târgul fetelor.” (Da bei dieser
+            Gelegenheit manche Heirat zu Stande kam, so zogen die Burschen endlich förmlich zur
+            Brautschau hinauf und die Mädchen brachten auch zugleich die Mitgi zur Schau mit
+            sich, die Truhe mit Leinwand, eine Kuh, eine Gais, ein Pferd, wie es eben kam. Geel
+            sich ein Paar und wurden die Eltern einig, so traute sie gleich ein anwesender Pope und
+            das junge Weib folgte vom Bihar weg ihrem Manne; von dieser Sitte erhielt das Fest den
+            Namen „Mädchenmarkt”.)
+                   Totuși, obiceiul destul de barbar îi genera autorului austriac comentarii și îndoieli
+            etico-morale (p. 145–146): „S-a întâmplat însă că, prin acest mod lesnicios de a încheia
+            căsătorii, s-au petrecut tot felul de lucruri necuviincioase, ba chiar cazuri de bigamie. Cu
+            toate că, de regulă, prima nevastă nu avea nimic împotrivă, totuși chestiunea a trebuit
+            să e interzisă, ceea ce s-a întâmplat în urmă cu circa 40 de ani. Se pare că într-un sat de
+            pe lângă Petros încă mai trăiește o pereche de soți care s-au cununat la târgul de fete.”
+            (Nun geschah es aber, dass durch diese leichte Art Heiraten zu schliessen Unziemlichkeiten
+            aller Art, selbst Fälle von Bigamie mit unterliefen, und wenn auch in der Regel die erste
+            Frau nichts dagegen hatte, so musste doch die Sache untersagt werden, was vor etwa 40
+            Jahren geschah; noch aber soll in einem Dorfe bei Petrosz ein Ehepaar leben, welches beim
+            Mädchenmarkt getraut wurde.)
+                   Adolf Schmidl constata continuitatea obiceiului, care cu timpul s-a transformat mai
+            mult într-o serbare câmpenească, cu mâncare și joc (p. 146): „Dar sărbătoarea populară
+                                                                                                        26
+            încă se mai ține, chiar dacă popa și-a pierdut vechiul lui rol. Vin, vinars, pâine, cireșe
+            sunt aduse sus [pe munte]. Ardelenii aduc viorile și bracii [viorile bas de acompaniament],
+            Băița oferă cimpoiul. Dansul Jocul Bihorului are loc mai ales cu cântarea de versuri și
+            de strofe improvizate.” (Das Volksfest aber wird noch immer abgehalten, wenn auch der
+            Pope seine frühere Rolle dabei eingebüsst hat. Wein, Branntwein, Brod, Kirschen werden
+            hinaufgebracht; die Siebenbürger bringen Geigen und Bassgeigen, Rézbánya liefert den
+            Dudelsack. Der Tanz „Jocu Bihariu” ndet hauptsächlich mit Absingen von Versen und
+            improvisierten Stanzen statt.)
+                   Foarte importantă este menționarea locurilor unde se țineau în 1863 târgurile de
+            fete. Autorul austriac nota următoarele (p. 146): „În zilele noastre această sărbătoare
+            e celebrată în ecare an, dacă vremea nu e prea rea, și anume în 4 locuri: pe Găina, pe
+            26  Extrem de importantă e precizarea lui Adolf Schmidl din 1863 că, în prima duminică după sărbătoarea
+            Snților Petru și Pavel pe stil vechi (29 iunie + 12 zile = 11 iulie), muntenii duceau pe Muntele Găina cireșe.
+            Așadar, în Apuseni, prin 10–15 iulie era „vremea cireșelor”, perioadă când, la 1824, s-a născut Avram Iancu.
+                                 Câteva mărturii etnoistorice despre târgurile de fete din Munții Apuseni (1793–1881)             71
+                   micuța câmpie la sud de Cucurbăta27, locul principal de adunare, în apropierea Pietrei
+                   Grăitoare de pe Bihor, pe un mic platou de acolo, numit special Jocul, și pe Gheleşoaia,
+                   pretutindeni ind vizitată rește de cei din localitățile situate în apropiere.” (Dieses Fest
+                   wird heutzutage jedes Jahr gefeiert, wenn das Wetter nicht gar zu schlecht ist, und zwar
+                   an 4 Orten, auf der „Gaina”, auf der kleinen Ebene südlich von der „Kukúrbeta”, dem
+                   Hauptsammelplatze, nächst der „Piétr’a graitore” am Bihar, auf einer dortigen kleinen
+                   Fläche, welche insbesonders „Jocu” heisst, und auf der „Gelesióea”, überall natürlich von
+                   den nächst gelegenen Ortschaen beschickt.)
+                           Se mai precizau data și amploarea târgului fetelor de pe Muntele Găina la 1863 (p.
+                   146): „Serbarea de pe Găina se ține duminica după [Snții] Petru și Pavel pe stil vechi,
+                   îndeosebi de către locuitorii din comitatul Zarand și din Transilvania. Pot  numărați
+                   acolo, la sărbătoare, vreo 400–500 de cai și câteva mii de oameni. În rest, cu acest prilej se
+                   ține într-adevăr un mic târg, ind aduse sus [la munte] oale, ulcioare, bundițe [cojoace
+                   fără mâneci], coase ș.a.m.d.” (Das Fest auf der Gaina wird Sonntag nach Peter und Paul
+                   a. St. gefeiert und vorzugsweise von den Bewohnern des Zaránder Comitats und aus
+                   Siebenbürgen besucht; man rechnet dort 4–500 Pferde und ein paar Tausend Menschen
+                   bei dem Feste. Uebrigens ndet wirklich ein kleiner Markt bei dieser Gelegenheit statt; Töpfe,
+                   Krüge, Brustpelze, Sensen u.s.w. werden hinauf gebracht.)
+                           Ioan Slavici despre moți și mocani, despre târgul de fete de pe Muntele Găina
+                           și cel de sărutat de la Hălmagiu (1881)
+                           În cartea sa dedicată Românilor din Ungaria, Transilvania şi Bucovina, publicată
+                   în limba germană (1881)28, reprezentând primul studiu de imagologie în cultura
+                   română, marele clasic ardelean al literaturii noastre realiza următorul portret al moților,
+                   considerând că aceștia alcătuiau „miezul întregii grupe” a românilor ardeleni (p. 120):
+                   „Miezul întregii grupe îl formează locuitorii Munților Apuseni, așa-numiții moți,
+                   moțogani, mocani, a căror locuire acoperă cea mai întinsă zonă a Carpaților și care trăiesc
+                   în cea mai mare izolare. Ei sunt considerați atât în Transilvania, cât și în Ungaria și Banat,
+                   ca cei mai de frunte.” (Der Kern der ganzen Gruppe bilden die Bewohner der westlichen
+                   Berge, die sogenannten Motzen, „moți”, „moțogani”, „mocani”, welche die gedeckteste
+                   Gegend der Karpathen bewohnen und in der größten Abgeschlossenheit leben. Sie gelten
+                   sowohl in Siebenbürgen, als auch in Ungarn und im Banat für die Vornehmsten.)
+                           Deosebit de interesante sunt observațiile lui Slavici despre mocani, despre care
+                   scriitorul român credea că erau la origine „moți emigrați” (p. 120–121): „Mocanii
+                   sunt moți emigrați. În Ungaria, în Banat și în Transilvania, cu excepția zonei râului
+                   Olt, sub numele de mocan se înțelege și astăzi un locuitor român sărac, needucat de la
+                   27  Vârful Cucurbăta Mare sau Bihor (1849 m) este cel mai înalt vârf din Munții Apuseni. Vârful Cucurbăta
+                   Mică (1769) este o stâncă situată la 3 km distanță de Vârful Bihor (Cucurbăta Mare). Probabil că Adolf
+                   Schmidl se referă la Vârful Cucurbăta Mică.
+                   28  I. Slavici, Die Rumänen in Ungarn, Siebenbürgen und der Bukowina [Românii din Ungaria, Transilvania și
+                   Bucovina], Verlag von Karl Prochaska, Viena&Teschen, 1881; reeditare în limba germană fără traducere în
+                   română în Ioan Slavici, Opere, 13, Editura Minerva, Bucureşti, 1984. În studiul de față, citările se fac după
+                   ediția princeps originală din 1881.
+            72                                        Ela COSMA
+            munte. Există în Transilvania și un soi de cai, care se numesc cai mocăneşti, în ungurește
+            mokány ló, și un fel de șea, şeaua mocănească sau mokány nyereg.” („Mocani” sind die
+            ausgewanderten Motzen. In Ungarn, im Banat und in Siebenbürgen, ausgenommen
+            das Flußgebiet der Aluta, versteht man heute unter „mocan” einen armen, ungebildeten
+            rumänischen Gebirgsbewohner. Auch gibt es in Siebenbürgen eine Art Pferde, welche „cai
+            mocăneşti”, ung. „mokány ló”, und eine Art Sattel, die „şea mocănească”, „mokány nyereg”
+            genannt wird.) Explicația lui Slavici indica deja la 1881 nuanța depreciativă (valabilă și
+            azi) asociată termenului de mocan, ca persoană sălbatică, necivilizată, „coborâtă de la
+            munte”, înzestrată cu trăsături negative.
+                   Mai putem observa însă că termenul nu pare a  un endonim, că mocanii nu își
+            spuneau ei înșiși astfel, ci întotdeauna era vorba despre ceilalți (români sau alogeni) care
+            îi numeau mocani. Același lucru îl constata și Slavici, atunci când arma (p. 121): „În
+            Moldova, în Muntenia, în Dobrogea și îndeobște în Orient, dimpotrivă, cuvântul mocan
+            înseamnă în general un român ardelean și în special unul care-și mână oile lui la pășune,
+            adică ceea ce înseamnă bârsan în Transilvania.” (In der Moldau, in der Walachei, in der
+            Dobrudscha und überhaupt im Orient bedeutet dagegen das Wort „mocan” im Allgemeinen
+            einen siebenbürger Rumänen und speciell einen solchen, der seine eigenen Schafe zur Weide
+            treibt, also dasselbe was „bărsan” in Siebenbürgen.) De asemenea (p. 122): „Mocanii sau,
+            așa cum sunt numiți în Transilvania, bârsanii sunt considerați pretutindeni unde sunt
+            cunoscuți ca oameni de frunte.” (Die „Mocanii” oder, wie sie in Siebenbürgen genannt
+            werden, die „Bărsanii” gelten überall, wo sie bekannt sind, für vornehm.)
+                   De fapt, documentele austriece din secolele XVIII–XIX îi consemnau sub denumirea
+            de „mocani ardeleni” (Ardelyer Mokanen) pe ciobanii transilvăneni transhumanți care,
+            cu turmele lor, traversând Carpații Meridionali și Muntenia, poposeau în carantina de
+            pe granița de la Dunăre, străbătând apoi teritoriul Imperiului Otoman în mai multe
+            direcții, spre Dobrogea și Bugeac ori prin Balcani spre Constantinopol. Rapoartele
+            agenților consulari c.c. din Iași, București și Belgrad, ca și cele trimise din capitala
+            otomană de internunțiul habsburgic (având rangul unui ambasador) în anii 1782–1848
+            expun, printre altele, soluționarea promptă de către ociile consulare și diplomatice
+            c.c. a numeroase probleme de natură juridică, administrativă și comercială, iscate de
+            transhumanța unor mari turme de oi. Aceasta demonstrează susținerea ocială de care
+            se bucurau acești Ardelyer Mokanen, datorită înaltelor interese ale statului austriac pe
+                                    29
+            care ei le reprezentau.
+                   Dacă în zilele noastre, atunci când vorbim despre moți, cu siguranță, nu păstoritul
+            și oieritul îi caracterizează, în schimb Ioan Slavici atrăgea încă din 1883 atenția asupra
+            pastoralismului din Munții Apuseni care, la vremea când își scria cartea, era deja aproape
+            extinct, dintr-un motiv foarte simplu legat de lipsa pășunilor (p. 121): „Pentru că pășunile
+            29  Ela Cosma, Agenţiile consulare habsburgice şi revoluţiile paşoptiste din Moldova, Muntenia şi Serbia, Editura
+            Argonaut/Symphologic Publishing, Cluj-Napoca/Gatineau, 2013, p. 119–132, 267–270, 310–315. Vezi și
+            C. Feneșan, Oieri din Transilvania în Țara Românească până la începutul secolului al XIX-lea, 3 vol. (I, II/1,
+            II/2), Academia Română, Centrul de Studii Transilvane, Cluj-Napoca, 2023. Despre păstorii ardeleni în
+            Muntenia și Moldova, vezi Șt. Meteș, Păstori ardeleni în Principatele Române, Editura Librăriei diecezane,
+            Arad, 1925; A. Veress, Păstoritul ardelenilor în Moldova şi Țara Românească (până la 1821), în Academia
+            Română. Memoriile Secțiunii Istorice, seria II, tomul VII, București, 1927, p. 127–230.
+                                 Câteva mărturii etnoistorice despre târgurile de fete din Munții Apuseni (1793–1881)            73
+                   montane dinspre Munții Apuseni nu sunt prea întinse, moții au trebuit să renunțe deja
+                   foarte devreme la viața pastorală și să se limiteze la creșterea cailor, care nu se face
+                   în poiană, necesitând și mai puțină pășune. Aceia dintre moți, care însă n-au vrut să
+                   renunțe la viața de păstori, au plecat de aici și, indcă n-au găsit pășuni libere nici în
+                   Ungaria, nici în Banat, și-au căutat pășunile lipsă la Dunărea de Jos, identicându-se cu
+                   mocanii deja cunoscuți acolo.” (Da die Gebirgsweiden gegen die westlichen Berge nicht
+                   ausgedehnt sind, mußten die Motzen schon sehr früh das Hirtenleben aufgeben und sich
+                   auf die Pferdezucht beschränken, welche nicht auf der Poiana betrieben wird und auch
+                   weniger Weide beansprucht. Diejenigen von den Motzen jedoch, welche das Hirtenleben
+                   nicht aufgeben wollten, zogen von dannen, und da sie weder in Ungarn, noch im Banat
+                   freie Weide fanden, suchten sie sich die fehlende Weide an der unteren Donau mit den dort
+                   schon bekannten Mocanen identiciert.)
+                           Într-adevăr, și la 1833, adevărații mocani proveneau din Țara Bârsei, Țara Oltului
+                   și Mărginimea Sibiului, dar Slavici insista că o parte dintre ciobanii ardeleni stabiliți
+                   în Moldova, Muntenia și Dobrogea, ba chiar în Bulgaria și în teritoriul propriu-zis al
+                   Imperiului otoman vor  fost, la bază, „moți emigrați”, subliniind, încă o dată, izolarea
+                   accentuată și conservatorismul ce caracterizau viața păstorilor (p. 121–122): „Astăzi,
+                   toți românii care caută pășune la Dunărea de Jos sunt acasă la Brașov, Făgăraș și Sibiu;
+                   dar o mare parte dintre ei provine fără îndoială din Munții Apuseni, iar mocanii din
+                   Moldova, din Muntenia, din Dobrogea și din Bulgaria sunt, la fel ca o mare parte a
+                   populației românești a Imperiului [otoman], mai ales moți emigrați, care au adăstat ca
+                   păstori multă vreme la câmpia de la poalele Carpaților și apoi s-au stabilit treptat aici, cu
+                   excepția câtorva rămășițe, care și astăzi mai practică viața pastorală. Aceia dintre ei, care
+                   au devenit sedentari, s-au amestecat, deși nu pretutindeni, cu alți români; dar și în zilele
+                   noastre păstorii încă trăiesc în izolarea lor tradițională și, la fel ca moții, îi consideră străini
+                   pe orice alți români.” (Heute sind wohl alle Rumänen, welche an der unteren Donau Weide
+                   suchen, bei Kronstadt, Fogaras und Hermannstadt zu Hause; aber ein großer eil von
+                   ihnen stammt zweifellos aus den westlichen Bergen her, und die Mocanen in der Moldau,
+                   in der Walachei, in der Dobrudscha und in Bulgarien sind ebenso wie ein großer eil der
+                   rumänischen Bevölkerung des [osmanischen] Reiches meistens ausgewanderte Motzen,
+                   welche lange Zeit auf dem achen Land an den Karpathen als Hirten verweilt und später
+                   allmählich sich niedergelassen haben, bis auf die wenigen Reste, welche auch heute noch
+                   das Hirtenleben betreiben. Diejenigen von ihnen, welche ansässig geworden sind, haben
+                   sich, wenn auch nicht überall, mit anderen Rumänen vermischt; die Hirten aber leben auch
+                   noch heute in ihrer ursprünglichen Abgeschlossenheit und betrachten, wie die Motzen, jeden
+                   andern Rumänen als einen Fremden.)
+                           Ioan Slavici concentra, în următoarea frază, esența imagologiei care, dincolo de
+                   imaginea celuilalt, are drept obiect de studiu și imaginea de sine a unui popor, iar în ceea
+                   ce-i privește pe români, doar cercetarea imaginii de sine a acestora l-a putut conduce pe
+                   scriitor la descoperirea nucleului lor autohton și a centrului lor de iradiere (p. 122): „Fie
+                   ca această scurtă schiță să-i slujească drept un soi de îndrumător oricui vrea să-i cunoască
+                   pe români prin prisma propriei lor viziuni: poporul se cunoaște cel mai bine, iar în zonele,
+                   pe care el le consideră cele mai de frunte, trebuie căutați românii originari.” (Dieser kurze
+                   Umriß soll nun Jedem, der die Rumänen aus eigener Anschauung kennen will, als eine Art
+             74                                        Ela COSMA
+             Wegweiser dienen: das Volk kennt sich am besten, und in den Gegenden, welche ihm für
+             vornehm gelten, sind die ursprünglichsten Rumänen zu suchen.)
+                   Aici autorul exemplica prin cazul ciobanilor ardeleni și crișeni, moldoveni,
+             munteni și olteni, colonizați în Banat la sfârșitul veacului al XVIII-lea și la începutul
+                                                                                      30
+             celui următor (p. 122): „Așa, de pildă, locuitorii din Comloș și Torac  sunt în mare parte
+             coloniști din Valahia Mică [Oltenia]; * tot așa, câmpenii din Ungaria sunt moldoveni,
+             munteni, ardeleni și crişeni, care în decursul secolului al XVIII-lea s-au așezat aici; așa,
+             zărăndanii sunt, ce-i drept, foarte harnici, dar săraci, și totuși ei trec drept bogați și de
+             frunte, indcă sunt cele mai apropiate rude ale moților; astfel întâlnim pretutindeni la
+             români tradiții, obiceiuri și mai ales tipuri, pe care nu le poți întâlni în deplina lor formare
+             decât în Munții Apuseni.” (So sind z.B. die Bewohner von B. Komlos und Torac meistens
+             Colonisten aus der kleinen Walachei; * so sind die „Cămpienii” in Ungarn Moldauer,
+             Walachen, Siebenbürger und „Crişenii”, die im Laufe des XVIII. Jahrhunderts sich hier
+             niedergelassen haben; so sind die „Zărăndanii” zwar sehr eißig, aber arm, und gelten
+             dennoch für reich und vornehm, weil sie die nächsten Verwandten der Motzen sind; so
+             begegnen wir überall bei Rumänen Sitten, Gebräuchen und besonders Typen, welche man
+             in ihrer vollen Ausbildung nur in den westlichen Bergen vorndet.)
+                   Iată ce mai preciza Slavici, într-o notă de subsol (p. 122), referitor la românii olteni
+             veniți pe la 1800 la „frătuții” lor din Banat și colonizați la Oravița, Comloș, Torac: ”*
+             Aceștia s-au stabilit aici la sfârșitul secolului al XVIII-lea și la începutul celui de-al XIX-lea.
+             Alți coloniști emigraseră încă înaintea lor din Valahia Mică [Oltenia], stabilindu-se
+             în jurul Oraviței. Aceștia i-au numit frătuți, adică frățiori, pe românii găsiți acolo la
+             sosirea lor, și chiar și astăzi o parte a românilor bănățeni e cunoscută sub acest nume.”
+             (* Diese haben sich hier gegen Ende des XVIII. und zu Anfang des XIX. Jahrhunderts
+             niedergelassen. Andere Colonisten wanderten schon früher aus der kleinen Walachei ein
+             und ließen sich um Oravicza nieder. Diese nannten die bei ihrer Ankun vorgefundenen
+             Rumänen „Frătuți”, d.i. Brüderchen, und auch heute ist ein eil der Banater Rumänen
+             unter diesem Namen  bekannt.)
+                   În subcapitolul dedicat „Încheierii căsătoriei” (Eheschließung), Ioan Slavici
+             purcede, în sfârșit, la descrierea amplă a obiceiului de pe Muntele Găina (p. 123), totodată
+             considerând că era de datoria sa a alunga defăimările rău-voitoare datorate unor călători
+             străini (în speță maghiari): „Obiceiurile și tradițiile cele mai importante pentru etnograe
+             sunt fără îndoială cele observate la încheierea căsătoriei. În Munții Apuseni, Țeara Moților,
+                                                                                                           *
+             întâlnim referitor la aceasta obișnuitul târg de fete, tergul de fete, de pe [Muntele] Găina.
+               *
+             –   Acest obicei a fost deja adesea descris, dar și deformat cu intenție, mai ales de către
+             observatorii maghiari. Obiceiul va  înfățișat aici pe scurt. – O dată pe an, la sărbătoarea
+             Apostolilor Petru și Pavel, pe creasta [Muntelui] Găina, la 5.000–6.000 de picioare
+             deasupra nivelului mării, se ține un târg, la care se adună fetele de măritat, [adică] fetele
+             mari sau pe scurt fetele, din întregul ținut, pentru a  pețite de băieți, feciori.” (Die für die
+             Ethnographie wichtigsten Sitten und Gebräuche sind zweifellos diejenigen welche bei der
+             Eheschließung beobachtet werden. In den westlichen Bergen, „țeara Moților”, nden wir
+             30  Comloș și Torac sunt localități rurale din Banat. Comuna Comloșul Mare și satul aparținător Comloșul
+             Mic sunt astăzi aparținătoare județului Timiș din România, pe când satele Toracul Mare și Toracul Mic (în
+             sârbă Torak) aparțin Voivodinei Sârbești.
+                                 Câteva mărturii etnoistorice despre târgurile de fete din Munții Apuseni (1793–1881)            75
+                                                                                                                                   *
+                   nun darauf bezüglich den herkömmlichen Mädchen-Markt, „tergul de fete”, auf der Găina.
+                     *
+                   –  Diese Sitte wurde schon o beschrieben, aber besonders von magyarischen Beobachtern
+                   absichtlich entstellt; sie soll hier nur kurz dargestellt werden. – Jährlich einmal, am Fest
+                   der Apostel Petrus und Paulus, wird auf dem Kamm der Gaina, 5000–6000 Fuß über die
+                   Meeresäche, ein Markt abgehalten, auf dem die heiratsfähigen Mädchen, „fetele mari” oder
+                   schlechthin „fetele”, der ganzen Gegend sich versammeln, um von den Burschen, „feciori”,
+                   gefreit zu werden.)
+                           Mai întâi e analizată pregătirea îndelungată, timp de câțiva ani, a zestrei fetei
+                   de măritat, întrucât (la fel cum arăta și Adolf Schmidl) scriitorul șirian insista asupra
+                   importanței etalării zestrei, care se aducea la vedere pe Muntele Găina. Ioan Slavici în
+                   persoană luase parte la un asemenea târg de fete, lucru mărturisit, cu umor, de autorul
+                   însuși (p. 123–124): „Pregătirea fetelor pentru această zi durează ani de zile, întrucât
+                   trebuie să-și aducă și zestrea cu ele. De aceea, se toarce, se țese, se coase și se croșetează
+                   neîncetat, iar mama, mătușa, bunica și alte femei din cercul apropiat contribuie și ele din
+                   zestrea lor. Apoi se împachetează toate în lăzi sculptate delicat sau pictate cu ori, și se
+                   încarcă pe cei mai frumoși cai ai familiei. Totodată, sunt alese cele mai frumoase dintre
+                   vitele, stupii de albine ori altele asemenea, în parte ca zestre pentru fată, în parte pentru a
+                    expuse la vedere. Am primit asigurarea, în glumă, că moții cu acest prilej aduc la vedere
+                   cât mai multe cu putință, uneori lucruri străine, ca să-i lingușească astfel pe pețitori, dar
+                   se consideră a  de la sine înțeles că numai o mică parte dintre acestea intră în zestre.
+                   Apoi, sus, pe Găina, ecare familie care are o fată de dat își desface cortul, în care este
+                   expusă zestrea, și cei mai distinși din familie îi așteaptă pe cei care vor să vadă mireasa.”
+                   (Die Vorbereitung für diesen Tag dauert bei den Mädchen jahrelang, da sie auch ihre
+                   Mitgi mitnehmen müssen. Es wird somit unauörlich gesponnen, gewoben, genäht und
+                   gestickt; die Mutter, die Tante, die Großmutter und andere Frauen der Freundscha legen
+                   jede aus ihrer eigenen Mitgi bei; dann wird Alles in zierlich geschnitzten oder mit Blumen
+                   bemalten Truhen verpackt und auf die schönsten Pferde der Familie geladen. Auch wählt
+                   man den schönsten eil des Viehstandes, Bienenstöcke und anderes aus, theils zur Mitgi
+                   des Mädchens, theils zur Schaustellung. Man versicherte mir scherzweise, daß die Motzen
+                   bei dieser Gelegenheit möglichst Vieles, zuweilen auch Fremdes, zur Schau tragen, um den
+                   Brautwerbern, „pețitori”, damit zu schmeicheln; aber es gilt als etwas Selbstverständliches,
+                   daß nur ein kleiner eil davon zur Mitgi geht. Oben auf der Găina stellt sich dann jede
+                   Familie, die ein Mädchen zu vergeben hat, ihr eigenes Zelt auf, in dem die Mitgi ausgestellt
+                   wird und die Brautschauer von den Vornehmsten der Familie erwartet werden.)
+                           Și din partea băieților momentul presupunea etalarea bogăției, urmând descrierea
+                   „logodnei ociale”, numită încredințare, care se desfășura – prin schimbarea nu a inelelor,
+                   ci a așa-numitelor credințe (batiste brodate) – în fața pustnicului ce trăia la 1881 pe
+                   Muntele Găina, conform mărturiei lui Slavici (p. 124): „Și băieții vin însoțiți de familiile lor
+                   sau, pe cât posibil, de nași de frunte. Aduc și ei ce au mai bun, îndeosebi câte o frumoasa
+                   centură plină cu argint și aur. După ce și-a ales ecare o mireasă, are loc logodna ocială
+                   în fața pustnicului care trăiește pe [Muntele] Găina. Apoi se cumpără darurile miresei,
+                   dinainte stabilite, și toate se încheie cu muzică, dans și cântări. Ca semn de logodnă se
+                   schimbă nu inele, ci batiste brodate, credințe, căci logodna se numește încredințare, adică
+                   a-și da asigurări unul altuia, a-și jura reciproc credință.” (Die Burschen kommen auch von
+      76                  Ela COSMA
+      ihren Familien oder womäglich von vornehmen Gönnern begleitet, bringen das Beste, was
+      sie haben, besonders einen schönen Gurt voll Silber und Gold mit, und nachdem sie sich eine
+      Braut ausgewählt haben, ndet die öentliche Verlobung vor dem an der Găina lebenden
+      Einsiedler statt. Dann werden die schon im voraus bestimmten Brautgeschenke gekau,
+      und das Ganze schließt mit Musik, Tanz und Gesang. Als Zeichen der Verlobung werden
+      nicht Ringe, sondern gestickte Sachtücher, „credințe”, ausgetauscht, und die Verlobung heißt
+      „incredințare”, sich gegenseitig versichern, die Treue geloben.)
+         Autorul român rearma faptul că târgul de fete avea loc cu premeditare, nici unul
+      din amănuntele căsătoriei încheiate pe Muntele Găina neind lăsat la voia întâmplării,
+      nici chiar prezența acolo a fetelor fără pretendent (p. 124): „Nu se întâmplă niciodată ca
+      o fată să apară la acest târg cu zestrea ei și să nu-și ae mirele dorit, căci tot târgul nu este
+      altceva decât un loc de întâlnire generală pentru perechile a căror căsătorie a fost deja
+      hotărâtă. Iar dacă fata merge la târg, ea știe deja că acolo cineva o așteaptă. Fetele care
+      nu au mire, de obicei, nu-și iau zestrea cu ele, n-au niciun cort și, îndeobște, vin la târg
+      mai mult ca spectatoare. Dacă cumva își găsesc un mire [aici], înseamnă că au avut mare
+      noroc.” (Es kommt nun beinahe gar nicht vor, daß ein Mädchen auf diesem Markt mit ihrer
+      Mitgi erschiene und nicht den ersehnten Bräutigam nden sollte, denn der ganze Markt ist
+      eigentlich nichts weiter als ein allgemeines Stelldichein für solche Paare, deren Heirat schon
+      beschlossen wurde, und geht das Mädchen auf den Markt, so weiß es schon, daß es dort
+      erwartet wird. Diejenigen Mädchen, die keinen Bräutigam haben, nehmen gewöhnlich ihre
+      Mitgi nicht mit, haben kein Zelt und kommen überhaupt mehr als Zuschauerinen auf den
+      Markt; nden sie dennoch einen Bräutigam, so sind sie eben besonders glücklich gewesen.)
+         Slavici (aidoma lui Heydendor și Schmidl înaintea sa) se întreba asupra cauzelor
+      raționale și asupra originii acestui obicei străvechi (p. 124): „Odinioară trebuie să 
+      fost altfel. Astăzi, în viziunea moților, numai o logodnă înfăptuită pe Muntele Găina
+      poate să poarte noroc, așadar obiceiul, încă respectat cu atâta strictețe, trebuie să aibă
+      o origine rațională.” (Einst muß es jedoch anders gewesen sein. Heute kann nach der
+      Anschauung der Motzen nur eine auf dem Kamm der Găina stattgefundene Verlobung Glück
+      bringen; die Sitte also, die noch immer so streng beobachtet wird, muß einen vernünigen
+      Ursprung  haben.)
+         Iar cauzele aate constau, în principal, din endogamia strictă ce se practica în
+      sânul comunității de moți, la care se adăuga modul de viață determinat de economia de
+      subzistență (p. 124–125): „Înainte de toate, acest târg e destinat numai fetelor de moți, și
+      tot numai moții au voie să le pețească. Moțul nu-și dă ica de soție unui străin; el n-are
+      voie să facă asta, altfel și-ar pierde respectul tuturor, iar pentru el este un străin oricine nu
+      e moț. Dar și moțul trebuie să se însoare numai cu o moțogancă, deoarece căsătoria cu alte
+      femei nu e doar înjositoare, ci și impură. Astfel, mocanii din Muntenia și din Moldova – nu
+      numai ciobanii, ci și cei mai mulți dintre cei stabiliți acolo – se însoară numai cu mocan[c]
+      e, iar dacă nu găsesc din acestea acasă la ei, își aduc neveste din Transilvania și în mod
+      special din zona din care provin ei. Obiceiul târgului de fete de pe Găina ne amintește,
+      de aceea, de vremurile când moții mergeau departe prin lume, căutând pășuni pentru
+      turmele lor. Pe atunci, pe când ei trăiau răspândiți prin lume, o adunare generală nu era
+      doar rezonabilă, ci și necesară, cu ocazia unui eveniment atât de important în viață, cum
+      este alegerea unei soții.” (Vor Allem gilt dieser Markt nur den Motzen-Mädchen, und es
+                                 Câteva mărturii etnoistorice despre târgurile de fete din Munții Apuseni (1793–1881)            77
+                   dürfen auch nur Motzen um sie werben. Der Motze gibt seine Tochter nicht einem Fremden
+                   zur Frau; er darf es nicht thun; er verliert dadurch an allgemeiner Achtung: und für ihn
+                   ist Jeder ein Fremder, der kein Motze ist. Aber der Motze soll auch nur eine „Moțoganca”
+                   heiraten, denn die Ehe mit anderen Frauen ist nicht bloß erniedrigend, sondern auch unrein.
+                   So heiraten die Mocanen aus der Walachei und aus der Moldau, nicht bloß die Hirten,
+                   sondern auch die meisten der ansässig Gewordenen nur „Mocaninen”, und wenn sie bei sich
+                   zu Hause keine solche nden, holen sie sich Frauen aus Siebenbürgen und speciell aus der
+                   Gegend, woher sie stammen. Die Sitte des Mädchen-Marktes auf der Găina erinnert uns
+                   somit an die Zeit, wo die Motzen weit herum in der Welt für ihre Heerden Weide suchten.
+                   Damals, wo sie so zerstreut in der Welt lebten, war bei einer so wichtigen Begebenheit des
+                   Lebens, wie die Wahl der Frau ist, eine allgemeine Versammlung nicht bloß vernünig,
+                   sondern auch nothwendig.)
+                           Din buna cunoaștere a vieții ciobanilor români, Ioan Slavici deducea și explica data
+                   stabilită pentru desfășurarea târgului de fete, în concordanță cu calendarul transhumanței
+                   pastorale. În Munții Apuseni, anul pastoral începea la Sângeorz și se încheia la Sânmedru,
+                   iar începutul verii pastorale corespundea sărbătorii Snților Petru și Pavel. Autorul din
+                   Șiria arăta (p. 125–126): „Perechile care se logodeau pe [Muntele] Găina de sărbătoarea
+                   Apostolilor Petru și Pavel nu aveau voie să se cunune mai repede decât în primăvara
+                   [viitoare]. Ziua [Snților] Petru și Pavel este însă, pentru români, la fel ca și ziua de
+                   Sfântul Gheorghe [Sângeorz], un termen general valabil pentru toate contractele [de
+                   încheiat].* – * Târgul durează două zile, și pretutindeni românii sărbătoresc două zile
+                   în cinstea [Snților] Petru și Pavel. În ce privește ziua de Sângeorz, atunci se angajează
+                   slugile și ciobanii, iar mieii sunt despărțiți de mamele lor, se înțearcă mieii şi se bagă oile
+                   în lapte. Vezi și: Wilhelm Schmidt, Anul cu zilele lui în credințele şi obiceiurile românilor
+                                                                    31
+                   din Transilvania, Sibiu, 1866, in octavo.  – După [Snții] Petru și Pavel, oile pornesc peste
+                   31  W. Schmidt, Das Jahr und seine Tage in Meinung und Brauch der Romänen in Siebenbürgen. Ein Beitrag zur
+                   Kenntniß des Volksmythus [Anul și zilele lui în opinia și obiceiul românilor din Transilvania. O contribuție
+                   la cunoașterea mitului popular], Verlag von A. Schmiedicke, . Steinhaußens Buchhandlung, Sibiu, 1866,
+                   66 p. Despre autorul citat de Ioan Slavici aăm de pe pagina de gardă a volumașului in octavo că a fost
+                   profesor la Gimnaziul de Stat c.c. din Sibiu, membru corespondent al Asociației transilvane de științele
+                   naturii (siebenbürgisches Verein für Naturwissenschaen) și al Asociației pentru etnograe transilvană
+                   (Verein für siebenbürgische Landeskunde), al secției de istorie statistică a Societății c.c. moravo-sileziene
+                   pentru promovarea agriculturii, a științelor naturii și etnograei, și adevărat membru corespondent al
+                   Societății regale private de științe de la Görlitz. Lucrarea se deschide cu o dedicație către mama și frații de
+                   departe ai autorului și cu un „Cuvânt înainte” (Vorwort, p. V-X), urmând partea centrală cu eseul propriu-
+                   zis (p. 1–51); volumul se încheie cu un „Excurs despre elementul lingvistic slav în română sau valahă”
+                   (Excurs ueber das slawische Sprachelement im Rumunischen oder Walachischen, p. 52–66). Temele atinse
+                   în eseu sunt: I. obiceiurile din ciclul anului și credințele românilor despre sărbătorile Sfântului Nicolae,
+                   Crăciunului și Anului Nou (p. 1–5), Sântoaderul (p. 6), lăsata secului (p. 7), Paștile (8–9), Sângeorzul (9–11),
+                   Înălțarea Domnului (suirea la ceriu) și Rusaliile (p. 11–13), Sânzienele (p. 13–16), șolomonarii din „școala de
+                   Scholomance” (p. 16–17), paparuda (Papaluga, p. 17), sărbătorile Schimbării la Față, a Sfântului Dumitru și a
+                   Sfântului Spiridon (p. 18); credințele legate de zilele săptămânii și momentele zilei (p. 19–20), omeni: plante,
+                   animale, corpuri cerești (p. 21–25); vârstele omului – copilăria (p. 25–27); superstiții despre alte animale, ințe
+                   și fenomene atmosferice (p. 27–31), atributele negative ale femeii, vrăjitoarele (p. 31–32), spiridușii, pricolicii,
+                   vampirii (p.  33–35); II. 5 descântece, redate pe 2 coloane, în română și în traducere germană (p.  35–37);
+                   III. obiceiurile la înmormântare (p. 38–43), credința în viața de apoi (p. 43–45); IV. considerațiile lui Wilhelm
+                         78                                                                                    Ela COSMA
+                         câmpurile de miriște spre pășunea de iarnă, iar la Sângeorz se întorc înapoi la pășunea
+                         de vară din poiană. Astfel, în răstimpul de la [Snții] Petru și Pavel până la Sângeorz
+                         mirele nu era acasă și numai în primăvară, la reîntoarcerea lui acasă, putea să-și conducă
+                         mireasa la altar.” (Die Paare, welche sich am Feste der Apostel Petrus und Paulus auf der
+                         Găina verlobten, dürf[t]en nicht früher als im Frühjahr getraut werden. Peter und Paul ist
+                         aber bei den Rumänen ebenso wie der Georgi-Tag ein allgemein üblicher Termin für alle
+                                               *     *
+                         Contracte. –  Der Markt dauert zwei Tage, und überall bei den Rumänen werden zwei Tage
+                         zu Ehren von Petrus und Paulus gefeiert. Was aber den Georgi-Tag anbelangt, so werden an
+                         diesem Tage die Knechte und die Hirten gedungen und die Lämmer von den Mutter-Schafen
+                         getrennt, „se ințearcă mieii şi se bagă oile în lapte”. Siehe auch: Wilh. Schmidt, „Das Jahr
+                         und seine Tage in Meinung und Brauch der Romänen in Siebenbürgen”, Hermannstadt,
+                                         o
+                         1866, 8 . – Nach Peter und Paul ziehen die Schafe über die Stoppelfelder zur Winterweide,
+                         und zu Sankt Georg kehren sie zurück zur Sommerweide auf die „Pojana”. Während der
+                         Zeit von Peter und Paul bis St. Georg war somit der Bräutigam nicht zu Hause, und er kann
+                         seine Braut nur im Frühjahr, nach seiner Rückkehr, zum Altar führen.)
+                                      Mai mult decât atât, scriitorul român recurgea la paralele și comparații între oierii
+                         moți și mocanii mărgineni ori ciobanii machedo-români din regiunile grecești Tesalia
+                         și Epir, precizând (p. 126): „În zilele noastre, românul sedentar nu-și dă ica unui păstor,
+                         cioban. Majoritatea ciobanilor s-au stabilit în Moldova, Muntenia și Dobrogea numai
+                         pentru că altminteri nu și-ar  găsit neveste. Dar mocanul, care vara își mână turmele la
+                         păscut în munții nordici [Maramureș, Carpații Orientali] și iarna în Dobrogea, oricând
+                         își găsește nevastă la Brașov, Făgăraș și Sibiu. Dar el nu o ia cu sine în drumurile lui,
+                         ci o lasă cu copiii acasă, unde se-ntoarce de multe ori numai peste câțiva ani, și atunci
+                         pentru foarte scurt timp. – Dimpotrivă, machedo-românii din Tesalia și Epir, care, la fel
+                         ca mocanii, duc o viață de ciobani, pleacă la pășunile de vară împreună cu întreaga lor
+                         familie, așa că satele lor rămân aproape pustii peste vară. Așa trebuie să  fost și la moți
+                         mai demult, când pășunile erau mai aproape, căci numai astfel se poate explica cel de-al
+                         doilea obicei din Munții Apuseni, așa-numitul târg de sărutat, în ungurește csókvár, de la
+                         Hălmagiu.” (Heute gibt der ansässige Rumäne einem Hirten, „cioban”, seine Tochter nicht,
+                         und die meisten Hirten wurden in der Moldau, der Walachei und der Dobrudscha dadurch
+                         ansässig, daß sie sonst keine Frau gefunden hätten. Aber der „Mocan”, der über den Sommer
+                         im nördlichen Gebirge und im Winter in der Dobrudscha seine Heerden zur Weide treibt,
+                         ndet bei Kronstadt, Fogaras und Hermannstadt immer eine Frau. Er nimmt sie jedoch auf
+                         seine Wanderungen nicht mit, sondern lässt sie sammt den Kindern zu Hause; wohin er o
+                         nur nach Jahren und auch dann nur für kurze Zeit zurückkehrt. – Die Macedo-Rumänen
+                         in essalien und Epiros, welche auch, wie die „Mocanen”, ein Hirtenleben führen, ziehen
+                         dagegen sammt ihren Familien zur Sommerweide, so daß ihre Dörfer über den Sommer
+                         beinahe ganz öde bleiben. So muß es einst, wo die Weiden näher lagen, auch bei den Motzen
+                         gewesen sein, denn nur auf diese Weise läßt sich eine zweite Sitte der westlichen Berge, der
+                         sogenannte Kußmarkt, ungarisch „csókvár”, von Halmágy erklären.)
+                         Schmidt despre însușirile și defectele românilor, pornind de la romanitatea lor (p. 45–46), considerațiile
+                         autorului sas privind istoria formării poporului român (p. 47–51).
+                                 Câteva mărturii etnoistorice despre târgurile de fete din Munții Apuseni (1793–1881)            79
+                           Ioan Slavici trece acum la prezentarea celui de-al doilea obicei specic moților,
+                   târgul de sărutat sau „buciul de la Hălmaj” (p. 126–127): „La moți, acest târg nu se numește
+                   târg, ca cel de la Găina, ci buuciu de la Hălmaj. De fapt, búcsúzni înseamnă în ungurește
+                   a te despărți, iar búcsú sau búlcsú pelerinaj. Toate femeile tinere, nevestele, care s-au
+                   logodit la sărbătoarea [Snților] Apostoli Petru și Pavel pe [Muntele] Găina, vin călare
+                   la Hălmagiu în Sâmbăta Mare [dinaintea Paștilor], împodobite cu toate podoabele lor de
+                   mireasă, și îi sărută pe toți oamenii respectabili pe care îi întâlnesc pe uliță, așa cum se
+                   cuvine. Ar  prilej de supărare, dacă cineva e nu s-ar lăsa sărutat, e nu i-ar da un dar
+                   celei care-l sărută, e și numai un creițar, ca să se ducă mai departe obiceiul.” (Dieser Markt
+                   heißt bei den Motzen nicht „terg”, wie der von der Găina, sondern „buuciu de la Hălmaj”.
+                   „Búcsúzni” heißt nun im Ungarischen „sich verabschieden”, und „búcsú” oder „búlcsú”
+                   „Wallfahrt”. Sämmtliche junge Frauen, „neveste”, welche am Fest der Apostel Petrus und
+                   Paulus auf der Găina sich verlobten, kommen im vollen Brautschmuck am Charsamstag
+                   nach Halmágy geritten und küssen hier jeden allgemein geachteten Menschen, den sie auf
+                   der Gasse begegnen, pichtgemäß. Es gäbe Anlaß zu Ärgernissen, wenn Einer sich nicht
+                   küssen ließe oder der Küssenden kein Geschenk gäbe, sei’s auch nur einen Kreuzer, damit
+                   die Sitte gewahrt werde.)
+                           Prozatorul ardelean face și o sumară analiză de vocabular, înfățișând cititorului
+                   german o sumedenie de termeni specici acestui obicei inedit, ce include simbolistica
+                   sărutului și a darului, ca gesturi ritualice de onorare, respect și cinstire (p. 127): „Aceste
+                   cadouri nu se numesc daruri, ci cinste. Însă în română cinstea înseamnă onoare, respect,
+                   adică în acest caz dar de cinstire. De fapt, românul folosește cuvintele dar și a dărui,
+                   cadou și a oferi un cadou, numai în legătură cu darurile lui Dumnezeu; orice alt dar,
+                   omenesc, se cheamă cinste ori pomană. Dacă îl omenești cu băutură, el spune: mi-a
+                   închinat paharul şi m-a cinstit, adică a ridicat paharul și mi-a acordat cinste. Iar dacă el
+                   vrea să-i ofere cuiva ceva, zice: haid’ să ne cinstim, să ne acordăm reciproc cinste, căci
+                   românul primește ceva numai de la oamenii pe care-i respectă, nu și de la cei disprețuiți
+                   sau pe care-i consideră necurați. De aceea, pentru el nu există o jignire mai mare, decât
+                   aceea de a nu accepta darul pe care ți l-a oferit: el nu va uita asta nicicând și niciodată.
+                   Iată că, la români, mireasa se bucură de atâta respect, încât nimeni nu-i poate tăia calea,
+                   ba chiar împăratul trebuie s-o așeze mereu de-a dreapta sa, e ea și mireasa unui porcar.
+                   Așadar, sărutul primit de la tânăra nevastă în târgul de la Hălmagiu e cel mai înalt semn
+                   de respect, însă al respectului reciproc. Dacă în momentul acela nu-i oferi un dar, în cel
+                   mai bun caz ești socotit un bădăran, care nu știe cum să se poarte; dar dacă nu te lași
+                   sărutat, atunci ai jignit-o profund nu numai pe acea nevastă, ci pe toți moții la un loc, ceea
+                   ce ei nu vor uita niciodată.” (Diese Geschenke heißen nun nicht „daruri”, sondern „cinste”.
+                   „Cinste” bedeutet aber im Rumänischen Ehre, Achtung, also in diesem Falle „Ehrengabe”.
+                   Überhaupt wendet der Rumäne die Worte „dar” und „dărui”, Geschenk und schenken, nur
+                   auf die Gaben Gottes an; jede andere, menschliche, Gabe heißt „cinste”, oder „pomană”.
+                   Wird er bewirthet, so heißt es: „mi-a inchinat paharul şi m-a cinstit”, er hat mir das Glas
+                   zugetrunken und mich geehrt. Will er jedoch einem Anderen etwas anbieten, so sagt er –
+                   „haid să ne cinstim”, ehren wir uns gegenseitig, denn der Rumäne nimmt nur von solchen
+                   Menschen etwas an, die er achtet, nicht aber von verachteten oder sogar von solchen, welche
+                   ihm für unrein gelten. Darum gibt es für ihn auch keine tiefere Beleidigung als die von ihm
+             80                                        Ela COSMA
+             angebotene Gabe nicht anzunehmen: das wird er nie und nimmermehr vergessen. Nun gilt
+             aber bei den Rumänen die Braut, „mireasa”, für so vornehm, daß ihr jeder auszuweichen
+             verpichtet ist und daß auch der Kaiser sie immer zur rechten Seite setzt, sei sie auch die
+             Braut eines Schweinehirten. Der Kuß also, den man von der jungen Frau auf dem Markt
+             von Halmágy bekommt, ist das höchste Zeichen der Achtung, jedoch der gegenseitigen: gibt
+             man kein Geschenk dabei, so gilt man – im besten Fall – für einen Lümmel, der sich nicht zu
+             benehmen weiß; läßt man sich aber nicht küssen, so hat man nicht bloß die Frau, sondern
+             auch sämmtliche Motzen tief verletzt, – und sie merken sich so etwas sehr gut.)
+                   În ce privește semnicația și, rește, originea obiceiului buciului din Hălmaj, Ioan
+             Slavici considera că (p. 127–128): „Originea rațională a acestui obicei aparent lipsit de
+             sens nu poate  alta, decât că odinioară nevestele tinere plecau de aici alături de bărbații
+             lor, și, de regulă, în târgul de la Hălmagiu, care se ținea chiar la vremea când ei trebuiau
+             să plece la drum, [nevestele] își luau rămas-bun, așa cum obișnuiesc miresele, de la
+             cunoștințele lor, primind de la acestea daruri de cinstire. Cu toate acestea, ar  prematur
+             să arm că obiceiurile de mai sus își au originea chiar în sânul moților. Cel mai probabil
+             sunt obiceiuri străvechi, care au fost remodelate de moți și adaptate la propria lor viață. E
+             la fel de adevărat, că nicio parte a poporului român nu le-a păstrat la fel de strict ca moții.”
+             (Diese anscheinend sinnlose Sitte kann ihren vernünigen Ursprung nur darin haben, daß
+             einst die jungen Frauen an der Seite ihrer Männer von dannen zogen und gewöhnlich auf
+             dem Markt von Halmágy, der um die Zeit der Abreise stattfand, den auch sonst bei Bräuten
+             üblichen Abschied von ihren Bekannten nahmen, und von diesen Ehrengaben bekamen. Es
+             wäre jedoch voreilig behaupten zu wollen, daß diese Sitten bei den Motzen ihren Ursprung
+             nahmen; aller Wahrscheinlichkeit nach sind es uralte Sitten, welche von den Motzen nur
+             umgebildet und dem eigenen Leben angepaßt worden sind. Es hat auch kein eil des
+             rumänischen Volkes dieselben so streng bewahrt wie die Motzen.)
+                   Concluzii
+                   Realităţile etnograce românești ale Munților Apuseni sunt amintite în lucrarea
+             austriacului Adolf Schmidl, Das Bihar Gebirge (Munţii Bihorului), apărută în 1863 la
+             Viena, pe care istoricii și etnologii bihoreni recenţi, precum Barbu Ștefănescu, Ioan Godea,
+             Simona Bala ș.a., o privilegiază ca izvor etnoistoric în limba germană privind Țara Moților
+                        32
+             și Crișana.  Michael Conrad von Heydendor cel Bătrân este, și el menționat, în trecere,
+             la fel ca și Ioan Slavici, cu paginile sale germane, în cea mai recentă monograe intitulată
+                                                                                                       33
+             chiar Târgul de fete (2011), aparținând cercetătorilor Ioan Godea și Narcisa Știucă.
+                   De fapt, așa cum am văzut în cele de mai sus, sursa heydendorană de la 1793 preia
+             detașat întâietatea cronologică și istorică în șirul relatărilor cunoscute până acum, devansând
+             32  Agricultură, meşteşug şi comerţ la locuitorii zonei Beiuşului în secolele XVIII–XX (coordonatori B. Ștefănescu,
+             A. Chiriac, I. Goman, S. Nistor), Editura Universităţii din Oradea, Oradea, 2001; B. Ștefănescu, Tehnică
+             agricolă şi ritm de muncă în gospodăria ţărănească din Crişana (sec. al XVIII-lea şi începutul sec. al XIX-lea),
+             Fundaţia Culturală „Cele Trei Crișuri”, Oradea, 1995; I. Godea, Zona etnogracă Beiuş, Editura Sport-Turism,
+             București, 1981; I. Godea, Caracteristici ale culturii populare din Bihor, Editura Sport-Turism, București,
+             1977; Simona Bala, Universul feminin în cultura şi spiritualitatea tradiţională a poporului român, Editura
+             Argonaut, Cluj-Napoca, 2011.
+             33  I. Godea și Narcisa Știucă, Târgul de fete, Editura Dacia XXI, Cluj-Napoca, 2011, p. 80.
+                                 Câteva mărturii etnoistorice despre târgurile de fete din Munții Apuseni (1793–1881)             81
+                   cu 70 de ani relatarea lui Adolf Schmidl și oferind primele informaţii străine geograce și
+                   etnograce, identicate până în prezent, asupra târgului de fete de pe Muntele Găina.
+                           Din punct de vedere cronologic, lui Michael Conrad von Heydendor cel Bătrân
+                   i-a urmat cunoscutul scriitor maghiar Jókai Mór, care pomenea Muntele Găina și obiceiul
+                                                                                           34
+                   moților de aici în romanul său din 1860, Sărmanii bogați.  Deși interesante, sunt inexacte
+                   datele privind începuturile tradiției despre târguitul fetelor din Țara Moților, oferite de
+                   site-urile turistice actuale, ce promovează excursii tematice în zonă. În mod eronat, acestea
+                   îl consideră pe romancierul maghiar citat, cu cartea sa din 1860, ca ind prima mențiune
+                                                                                                 35
+                   „documentară” a obiceiului românesc de pe Muntele Găina.
+                           Sursele de limbă germană care pomenesc târgul de fete de pe Muntele Găina în a
+                   doua jumătate a secolului al XIX-lea vădesc accentuate preocupări etnograce. Speologul
+                   austriac Adolf Schmidl descrie cu acribie științică și comentează critic portul popular și
+                   obiceiul târgului de dat din Munții Bihor, neuitând să relateze, în calitate de martor sau de
+                   participant, câteva anecdote ce reectă caracterul și modul de viață al moților. Esențială
+                   e precizarea lui Schmidl că, la 1863, târgurile de fete se mai țineau anual, de sărbătoarea
+                   Snților Petru și Pavel, în patru locuri din Munții Apuseni (primul având amploarea cea
+                   mai mare): 1. pe Găina; 2. sub Cucurbăta; 3. lângă Piatra Grăitoare de pe vârful Bihor;
+                   4. pe Gheleșoaia.
+                           În ne, conrmând înzestrarea sa de mare clasic al prozei românești, Ioan Slavici
+                   izbutește, în textul german publicat în 1881, nu numai să descrie in extenso obiceiul
+                   străvechi, la care a luat parte el însuși, ci și să-i explice resorturile intime, dedesubturile,
+                   înțelesurile și rosturile rămase ascunse observatorilor străini de mentalitatea poporului
+                   român. De altfel, volumul, din care am extras subcapitolul despre târgul de fete de pe
+                   Muntele Găina și despre târgul de sărutat de la Hălmagiu, constituie prima lucrare
+                   de imagologie din literatura noastră de specialitate, dedicată integral „Românilor din
+                   Ungaria, Transilvania și Bucovina” (Die Rumänen in Ungarn, Siebenbürgen und der
+                   Bukowina), conținând observații de teren extrem de interesante și date etnoistorice de
+                   mare relevanță pentru cercetătorul zilelor noastre.
+                           Dacă Ioan Godea și Narcisa Știucă izbutesc să ofere necesara interpretare etnologică
+                   a semnicațiilor târgurilor de fete, raportarea acestora la alte manifestări ale culturii
+                   noastre tradiționale (precum nedeile pastorale, târgurile și bulciurile/bâlciurile cu scop
+                   economic) prin compararea și încadrarea lor etnogracă (2011), nu e lipsit de utilitate
+                   demersul nostru ecdotic. Dimpotrivă. Pentru a urmări acest fenomen specic culturii
+                   populare a moților în evoluția sa și a putea construi interpretări teoretice adecvate,
+                                                                                36
+                   pornind pe calea deschisă de Ion Mușlea (1972) , esențiale rămân recuperarea integrală
+                   a izvoarelor etnoistorice privind târgurile de fete din Munții Apuseni și editarea lor critică.
+                   34  Jókai Mór, Szegény gazdagok [Bieții bogați], Budapesta, 1860; idem, Sărmanii bogați, traducere în limba
+                   română de Gabriela Leoveanu, Casa Cărții de Știință, Cluj-Napoca, 2015.
+                   35  Vezi Povestea Târgului de fete de pe Muntele Găina, 16.07.2016, http://apusenitransilvania.ro/2016/07/16/
+                   povestea-targului-de-fete-de-pe-muntele-gaina, accesat la 28.03.2025; Târgul de fete de pe Muntele Găina.
+                   Data: 20.07.2025, pe „Infotour”, https://www.infotour.ro/ghid-turistic/evenimente/targul-de-fete-de-pe-
+                   muntele-gaina-854, accesat la 28.03.2025 ș.a.
+                   36  I. Mușlea, Târgurile de la Găina şi Călineasa în însemnările călătorilor, savanților şi literaților, în I. Mușlea,
+                   Cercetări etnograce şi de folclor, 2, Editura Minerva, Bucureşti,1972, p. 377–389.

@@ -1,0 +1,152 @@
+# Hortensia Pop, Calna – Studiu etnografic și folcloric, Cluj-Napoca, Editura Risoprint, 2022, 271 p. (Bogdan Neagota)
+
+- Autor(i): Bogdan Neagota
+- Secțiune TOC: R E C E N Z I I
+- Pagini: p. 467–469
+- Afiliere: Institutul „Arhiva de Folclor a Academiei Române”, Cluj-Napoca
+- Email: N/A
+- DOI: N/A
+- Limbă: ro
+- Tip intrare: recenzie
+- Număr: Vol. 27 Nr. 1 (2023)
+
+## Abstract RO
+_Nedetectat_
+
+## Cuvinte-cheie RO
+_Nedetectate_
+
+## Abstract EN
+_Not detected_
+
+## Keywords EN
+_Not detected_
+
+## Text extras din PDF
+Recenzii              467
+          A doua componentă abordată de lmul lui Vasile Mathe, ceata de feciori-colindători,
+       își are rădăcinile într-un complex ritual-ceremonial extrem de arhaic, consubstanțial
+       condiției umane însăși. Riturile de trecere, numite ca atare și descrise de Arnold Van
+       Gennep într-o carte de referință din 1909, constituie semnele de punctuație culturală sine
+       qua non pentru viața familială și socială, marcând principalele etape ale vieții umane:
+       nașterea – pubertatea – nunta și întemeierea familiei – moartea. Fără ele, viața ar 
+       un text cultural fără semne de punctuație, o scriptio continua, în care momentele de
+       discontinuitate biologică nu ar  transgurate în structuri culturale de continuitate. În
+       cazul nostru, al cetei de colindători, semantica e clară: ceata de feciori constituie expresia
+       rurală, codicată calendaristic, a riturilor de inițiere pubertară din societățile arhaice,
+       jucând un rol cheie în trecerea de la copilărie la maturitate, în prefacerea copilandrului
+       în bărbat. Ceata de feciori și pandantul ei feminin, ceata fetelor, se activau în diferite
+       momente calendaristice și situații de agregare socială/comunitară (șezători, joc) și aveau
+       funcții multiple, culturale și sociale deopotrivă: învățarea și asumarea activă a tradiției
+       culturale locale; performarea riturilor de tip carnavalesc (precum strigatul peste sat și/
+       sau carnavalul de Anul Nou sau de la Lăsata Secului ș.a.); scoaterea la joc a fetelor și
+       pregătirea tinerilor pentru viitoarele nunți (funcția premaritală). Lista e departe de a
+        exhaustivă. În ceea ce privește colindatul de Crăciun (cu precizarea că există și alte
+       forme ale colindatului, desfășurate la sărbătorile de primăvară), ceata de feciori mai
+       avea o funcție, dincolo de cea augurală și propițiatorie legată de colindele din repertoriu:
+       ea era purtătoarea manei, a fertilității mundane, umane, animale și vegetale. Precum
+       Făt-Frumos din basme, care recupera garanții fertilității lumii furați de zmei, agenții
+       daimonici ai Celuilalt Tărâm, feciorii din ceată aduc belșugul, „puterea viului”, mana în
+       sat. Colindatul e polisemic, circumscrierea acestei polisemii presupune o abordare mult
+       prea complexă pentru alocuțiunea de față: ține deopotrivă de o gestualitate normată ritual
+       și de o textualitate codicată în colinde, cu substrat preponderent creștin (expresie a unui
+       creștinism vernacular, cosmic) și adesea precreștin (colindele cu scenarii cinegetice și
+       simboluri cosmice, purtătoare a unor pattern-uri preistorice).
+          Filmul lui Vasile Mathe constituie, în acest context atât de complex, o mică
+       introducere vizuală, care ar trebui să aibă și rolul (re)trezirii gustului pentru un altfel
+       de Crăciun decât cel consumist. Un Crăciun în care Nașterea lui Christos angrenează
+       resorturi antropologice adânci și recuperează, recapitulează întreaga diacronie culturală
+       a omului.
+                                          dr. Bogdan Neagota
+                     Lector univ., Facultatea de Litere, Universitatea Babeș-Bolyai
+                                     bogdan.neagota@ubbcluj.ro
+       Hortensia Pop, Calna – Studiu etnograc și folcloric, Cluj-Napoca,
+       Editura Risoprint, 2022, 271 p.
+          Cartea Doamnei Profesoare Hortensia Pop e fascinantă, atât prin conținutul ei,
+       pasiunea scriiturii, cât și prin caracterul ei atipic: deși are un titlu care direcționează
+      468                  Recenzii
+      cititorul înspre un gen științic, cel al monograilor etnologice/etnograce/folclorice,
+      ea aparține deopotrivă istoriei orale, memorialisticii și, pe alocuri, romanului. Mai
+      mult, se constituie ca un document etnologic în sine, un document extrem de complex,
+      întrucât nu are la bază numai interviurile (lungile discuții cu locuitorii satului), ci și
+      propria experiență locală (care funcționează ca o observație participativă de durată
+      lungă) și propria memorie culturală (istorică și metaistorică, prinsă între facticitate și
+      plăsmuire) – toate acestea ind subîntinse de iubirea pentru oameni și loc și de perspectiva
+      apropiată (le regard proche). Altfel spus, cuprinde deopotrivă dimensiunile referențialității
+      și autoreferențialitatea.
+         Monograa Calnei (jud. Cluj) circumscrie trei axe tematice mari, ind riguros
+      structurată: spațial (geograa vie a locului), temporal (istoria lungă și recentă a satului) și
+      uman (etnograa locuirii, viața cotidiană și structura socială, riturile de trecere, sărbătorile
+      calendaristice și, în nal, un capitol dedicat practicilor magice de apărare – descântecele).
+      Cartea se rotunjește cu un glosar de termeni locali (care pune în evidență particularitățile
+      de grai) și cu lista interlocutorilor autoarei. Decupajul tematic în cultura locală nu este,
+      în mod evident, unul exhaustiv. Sunt atâtea alte capitole pe care ni le-am dori, pe care
+      autoarea nu le-a scris încă sau nu le-a publicat în ediția de față, una aniversară. Ele vor
+      apărea, cu siguranță, într-o ediție adăugită, care va  elaborată în anii ce vin.
+         Pe când o ascultam pe Dna Hortensia Pop prezentându-mi structura cărții și
+      povestindu-mi unele capitole, atunci când monograa Calnei nu era încă isprăvită, cu
+      o pasiune, dăruire și har narativ inconfundabile, mă gândeam la mica revoluție pe care
+      lectura acestei cărți ar putea-o provoca în lumea specialiștilor. Pentru că orice etnolog
+      care cunoaște și asumă limitele unui discurs exclusiv științic, știe prea bine care sunt
+      hotarele acestuia și cât de puține posibilități expresive are. El știe că textele sale nu vor 
+      citite, în cazul fericit, decât de specialiști și că ele nu se vor întoarce decât prea puțin la
+      sursa primă, la interlocutorii săi. Criteriul științicității e atât de sărac și de relativ atunci
+      când ești în situația de a mărturisi cu iubire despre oameni.
+         Tocmai de aceea, cartea de față e aur curat pentru cititorul care, nelăsându-se înșelat
+      de titlu, își asumă lectura fără idei preconcepute și se lasă dus de torentul de povestitor
+      al autoarei. Dna profesoară Hortensia Pop e deopotrivă etnolog, folclorist, istoric oral,
+      sociolog și scriitor. Aș spune că ultima dimensiune constituie cireașa de pe tort, cea
+      care subîntinde celelalte dimensiuni ale cărții și o scoate din monotonia monograilor
+      locale, istorice de regulă și doar pe alocuri etnologice. Prin această dimensiune, cartea
+      fascinează și leagă cititorul de glie: odată intrat în lumea Calnei rămâi captiv pentru multă
+      vreme. Scriitura atât de uentă și de vie, deși supusă rigorilor etnologice, nu își pierde
+      prospețimea nici atunci când vrea să e științică. Ea își vrăjește cititorul care, precum cel
+      ce aude horea Fetei Pădurii, nu se mai poate întoarce o vreme în cotidian. Iar atunci când
+      ai ajuns la ultima pagină simți nevoia de a a deschide un nou volum de memorii despre
+      Calna. Pentru că această monograe nu are sfârșit, e ca un drum care deschide înspre
+      alte drumuri, precum un păienjeniș de căi și cărări în inima unui codru vast. Povestită
+      de Hortensia Pop, Calna devine un tărâm legendar, individualizându-se în mulțimea
+      satelor din Bazinul Someșan.
+         Spre deosebire de monograile etnologice scrise de specialiști în urma unor
+      campanii punctuale de teren și de monograile sătești scrise de profesori de istorie
+                            Recenzii              469
+       interesați cu precădere de diacronia locului, probată documentar, cartea Dnei Hortensia
+       Pop reconstituie o diacronie vie, care acoperă zeci de ani, aș îndrăzni să spun chiar sute
+       de ani. Calna și-a găsit în persoana sa martorul iubitor de care avea nevoie pentru a ieși
+       în lume. Cartea pleacă de la experiența personală a autoarei, de la amintirile proprii și de
+       la lungile discuții cu oamenii satului. Ea reconstituie straturi deja ocultate ale memoriei
+       satului, într-un demers de arheologie culturală, accesând duratele lungi ale memoriei
+       interlocutorilor. E o carte unică și o sursă neprețuită pentru specialiștii, care, chiar dacă
+       ar vrea să purceadă la o cercetare etnologică de teren, nu mai au acces la acele straturi
+       ale memoriei pe care autoarea le scoate la lumină, dintr-un motiv simplu: majoritatea
+       interlocutorilor pe care orice etnolog și-i dorește au plecat deja în satul de dincolo, din
+       care nu se mai întorc decât în visele celor dragi. Și atunci specialistul, oricâtă dorință de
+       teren ar avea, nu își poate reprima frustrarea datorată faptului că a ajuns atât de târziu în
+       Calna, poate prea târziu. Deși atâta vreme cât mai sunt oameni ai locului, niciodată nu e
+       prea târziu. Dar e prea târziu pentru a putea reconstitui forme de cultură specice acelei
+       societăți rurale cutumiare, care nu mai există de multă vreme.
+          Cartea Hortensiei Pop, dincolo de plăcerea intensă pe care o provoacă o scriitură
+       memorialistică și romanescă atât de pasională, deschide deopotrivă înspre proza de
+       cțiune și înspre etnologie. E ca un roman etnologic care are privilegiul de a nu plictisi
+       nici specialistul și nici nespecialistul, constituind un capitol de referință din povestea
+       fără de sfârșit a locului. E veriga intermediară care lipsește în majoritatea covârșitoare a
+       satelor din România, care se sting fără ca poveștile lor de viață să e transmise, povestite
+       și repovestite cu atâta har, de martori atât de pătimași. Pentru că autoarea își iubește
+       adânc satul, îi iubește deopotrivă pe consătenii plecați și pe cei rămași, având sentimentul
+       mistic al autohtoniei, cum îl numea odată Mircea Eliade. Iubirea aceasta se vădește și în
+       accesibilitatea cărții, deschisă tuturor celor care mai au plăcerea lecturii. Pentru că e o
+       carte care pleacă de la oamenii Calnei și se întoarce la ei, realizând un arc peste generații,
+       o punte între călnenii din satul de aici și cei din satul de dincolo.
+          Aceste rânduri, puține în raport cu bucuria pe care mi-a produs-o lectura volumului,
+       sunt scrise de un etnolog cu experiența îndelungă a cercetării de teren, nu numai a
+       textelor de arhivă sau a celor publicate. De un cercetător care știe să prețuiască darul unei
+       asemenea mărturii, care constituie o adevărată verigă intermediară între memorialistică,
+       proza de cțiune și textele scrise după rigorile științice. Ea se bazează pe experiența unui
+       teren de durată lungă, imposibil de realizat de un cercetător, oricâtă dorință ar avea. Și
+       asta dintr-un motiv foarte simplu: e limitat la durata propriei vieți. Etnologul știe că orice
+       teren este o poveste fără de sfârșit, care nu se încheie decât atunci când cercetătorul îi pune
+       punct și trece la o altă cercetare. Satele care au propriul martor etnologic sunt extrem de
+       puține. Calna are acest privilegiu.
+                                          dr. Bogdan Neagota
+                     Lector univ., Facultatea de Litere, Universitatea Babeș-Bolyai
+                                     bogdan.neagota@ubbcluj.ro

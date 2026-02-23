@@ -1,0 +1,242 @@
+# Itinerariu bibliografic
+
+- Autor(i): Rodica Raliade
+- Secțiune TOC: ARHIVA DE FOLCLOR A ACADEMIEI ROMÂNE LA 90 DE ANI
+- Pagini: p. 127–132
+- Afiliere: Institutul de Etnogra e și Folclor „Constantin Brăiloiu” al Academiei Române, București.
+- Email: N/A
+- DOI: N/A
+- Limbă: ro
+- Tip intrare: articol
+- Număr: Vol. 25-26 Nr. 1 (2022)
+
+## Abstract RO
+_Nedetectat_
+
+## Cuvinte-cheie RO
+Bibliogra a românească de etnogra e și folclor, Anuarul Arhivei de Folclor, Ion Mușlea, Sextil Pușcariu, Adrian Fochi
+
+## Abstract EN
+The paper is diligently tracing the history of the complex intellectual endeavour of a Romanian bibliography of ethnography and folklore, originally designed in the Folklore Archive of the Romanian Academy. Since bibliology as a eld of study became an independent university object in the years 1920, the bibliographic school in Cluj rst succeeded to foster a current bibliography of Romanian ethnography and folklore, which appeared in the journal “Dacoromania”, founded by Sextil Pușcariu, published in Cluj (1920–1940), Bucharest (1941–1942), and Sibiu (1943–1948). Due credit is given to the emergence of the “Yearbook of the Folklore Archive”, wherein Ion Mușlea annually kept track of the current bibliography of folklore, up to 1939; the journal continues to publish a bibliography until 1945 (when yearbook was ceased). Publishing the bibliography was resumed in Bucharest in the pages of the “Folklore Journal” (1956–1963), later renamed “Journal of Ethnography and Folklore”, where it has maintained the bibliographic tradition set by Ion Mușlea and Adrian Fochi. In 2005 the yearly basis has been retroactively replaced by a ve-year unit, which appeared in the “Yearbook of the Institute of Ethnography and Folklore” (always in author’s contribution). With bibliographic year 2001, the ten-year base has been established, giving eventually rise to two volumes of the “Romanian Bibliography of Ethnography and Folklore (RBEF)”, both coordinated by article author, the rst part 2001–2010/2015 being awarded the prestigious Prize „Simion Florea Marian” of the Romanian Academy in 2017. The second part of RBEF 2001–2010/2020 is including Hungarian and Moldavian publications relevant to Romanian folklore studies. The resulting instrument for bibliographic research is invaluable as a method and a synthesis.
+
+## Keywords EN
+Romanian Bibliography of Ethnography and Folklore, e Yearbook of the Folklore Archive, Ion Mușlea, Sextil Pușcariu, Adrian Fochi
+
+## Text extras din PDF
+ITINERARIU BIBLIOGRAFIC
+                                                   Rodica RALIADE*
+                     Bibliographic Itinerary (Abstract)
+                     e paper is diligently tracing the history of the complex intellectual endeavour of a Romanian
+               bibliography of ethnography and folklore, originally designed in the Folklore Archive of the Romanian
+               Academy. Since bibliology as a eld of study became an independent university object in the years 1920,
+               the bibliographic school in Cluj rst succeeded to foster a current bibliography of Romanian ethnography
+               and folklore, which appeared in the journal “Dacoromania”, founded by Sextil Pușcariu, published in Cluj
+               (1920–1940), Bucharest (1941–1942), and Sibiu (1943–1948). Due credit is given to the emergence of the
+               “Yearbook of the Folklore Archive”, wherein Ion Mușlea annually kept track of the current bibliography of
+               folklore, up to 1939; the journal continues to publish a bibliography until 1945 (when yearbook was ceased).
+               Publishing the bibliography was resumed in Bucharest in the pages of the “Folklore Journal” (1956–1963),
+               later renamed “Journal of Ethnography and Folklore”, where it has maintained the bibliographic tradition
+               set by Ion Mușlea and Adrian Fochi. In 2005 the yearly basis has been retroactively replaced by a ve-year
+               unit, which appeared in the “Yearbook of the Institute of Ethnography and Folklore” (always in author’s
+               contribution). With bibliographic year 2001, the ten-year base has been established, giving eventually rise
+               to two volumes of the “Romanian Bibliography of Ethnography and Folklore (RBEF)”, both coordinated by
+               article author, the rst part 2001–2010/2015 being awarded the prestigious Prize „Simion Florea Marian”
+               of the Romanian Academy in 2017. e second part of RBEF 2001–2010/2020 is including Hungarian and
+               Moldavian publications relevant to Romanian folklore studies. e resulting instrument for bibliographic
+               research is invaluable as a method and a synthesis.
+                     Keywords: Romanian Bibliography of Ethnography and Folklore, e Yearbook of the Folklore
+               Archive, Ion Mușlea, Sextil Pușcariu, Adrian Fochi.
+                     Cuvinte-cheie: Bibliograa românească de etnograe și folclor, Anuarul Arhivei de Folclor, Ion
+               Mușlea, Sextil Pușcariu, Adrian Fochi.
+                     Cu prilejul relansării „Anuarului Arhivei de Folclor – Cluj” nu putem să nu
+               readucem în atenția specialiștilor rolul jucat de-a lungul timpului de cunoscuta publicație,
+                                                                                        1
+               în realizarea și apariția bibliograei curente de etnograe și folclor.
+                     Bibliograile științice, cu rubrici de etnograe și folclor, apar abia după 1920,
+               moment în care institutele universitare sunt tot mai preocupate de realizarea bibliograilor
+               curente. Este perioada în care bibliologia, domeniu integrator al bibliografiei și
+               biblioteconomiei, devine obiect de studiu la Școala Superioară de Arhivistică și Paleograe
+               *  Institutul de Etnograe și Folclor „Constantin Brăiloiu” al Academiei Române, București.
+               1  Rodica Raliade (coord.), Bibliograa românească de etnograe și folclor (2001–2010). Partea a II-a. Colectiv
+               de autori: Carmen Bulete, Mariana Ciuciu, Adelina Dogaru, Armand Guță, Rodica Raliade, Ionuț Semuc,
+               Elena Șulea., București, Editura Academiei Române, 2020, 406 p, 2814 poziții + Indice de nume.
+               Anuarul Arhivei de Folclor, nr. XXV–XXVI, 2021–2022, p. 127–131
+             128                                    Rodica RALIADE
+             din București (Al.Sadi-Ionescu), apoi la Facultatea de Litere și Filozoe din București
+             (prof. Nicolae Georgescu-Tistu) și din Cluj (prof. Ioachim Crăciun).
+                   Școala bibliogracă de la Cluj va reuși o acțiune susținută de alcătuire și publicare
+             a unei bibliograi curente de etnograe și folclor românesc, elaborată pe criterii științice.
+             Aceste începuturi le datorăm centrului universitar Cluj, prin revista „Dacoromania.
+             Buletinul Muzeului limbii Române” (Cluj, 1920–1940; București, 1941–1942; Sibiu, 1943–
+             1948), fondată de academicianul Sextil Pușcariu, format la școala bibliogracă din Dresda.
+                   Bibliograa curentă, ca instrument de lucru, datorează foarte mult „Anuarului
+             Arhivei de Folclor – Cluj” și bibliografului său, incomparabilul Ion Mușlea. În 1930,
+             când seria academică Din viața poporului român își va înceta apariția la vol. 40, va 
+             înlocuită de publicația „Anuarul Arhivei de Folklor” (I-VII, 1930–1945: Cluj, 1932–1940;
+             Sibiu, 1941–1945).
+                   Bibliotecar din 1925 și după 1935, director al Bibliotecii Centrale Universitare din
+             Cluj și cercetător la Muzeul Etnograc al Ardealului, Ion Mușlea a fost bibliograf, etnograf
+             și folclorist deopotrivă, o îngemănare fericită și extrem de necesară elaborării unei
+             bibliograi cu prol etnologic. În cele șapte tomuri ale „Anuarului Arhivei de Folclor”,
+             Ion Mușlea publică anual bibliograa curentă de folclor, până în 1939, cu o perioadă de
+             întrerupere, din cauza refugiului universității clujene la Sibiu (Bibliograa folclorului
+             românesc pe anii 1930, 1931–1932, 1933–1934, 1935, 1936–1937, 1938, 1939–1943).
+                   Tot acest parcurs bibliograc a fost găzduit de „Anuarul Arhivei de Folclor”, până în
+             1945, când anuarul își încetează apariția. Bibliograa folclorului românesc va  continuată
+             de Ion Mușlea, în paginile „Revistei de folclor” de la București (1956–1963), devenită
+             ulterior „Revista de etnograe și folclor”.
+                   Bibliograile de folclor realizate de Ion Mușlea și colaboratorii săi, începând cu
+             cea din 1930, sunt rodul căutărilor legate de îmbunătățirea permanentă a modului în
+             care erau alcătuite șele bibliograce, a clasicării acestora și îmbogățirea informațiilor,
+             prin mărirea numărului de lucrări excerptate. Metodologia a impus atât modernizarea
+             formală, cât și pe cea de organizare și de structurare. Deși autorul a precizat de ecare
+             dată că tipărește bibliograa folclorului, a introdus și informații etnograce.
+                   „Anuarul Arhivei de Folclor” va reapărea în seria a II-a, 1980–1985, sub redacția
+             prof. Ion Taloș, și între 1985–1996, sub redacția prof. Ion Cuceu, remarcându-se prin
+             colaboratorii de prestigiu, din țară și de peste hotare. Între 1980–1990 anuarul apare sub
+             titulatura „Anuarul de Folclor”, sub egida Universității „Babeș Bolyai” și a Institutului
+             „Arhiva de Folclor a Academiei Române – Filiala Cluj-Napoca”. Va reveni la titlul inițial
+             după 1990, când sunt publicate tomurile XII–XIV (1991–1993). Aceste ultime tomuri au
+             fost bibliograate și introduse în Bibliograa românească de etnograe și folclor (1991–
+             1995), lucrare de autor, întocmită de Rodica Raliade și publicată în Anuarul IEF, s.n.,
+                                                                             2
+             tomul 16 (2005), p.141–197 (republicată în volum, în 2006) .
+                   În prezent, sub presiunea cantității și a diversității documentare, investigarea,
+             semnalarea, ordonarea și analiza surselor devine o misiune prioritară a gândirii și a
+             exercițiului bibliograc.
+             2  ***, Bibliograa generală a etnograei și folclorului românesc 1970–1995, ediție îngrijită de I. Oprișan,
+             București, Editura Saeculum I.O., 2006, p. 494–575 (Academia Română. Institutul de Etnograe și Folclor
+             „Constantin Brăiloiu”).
+                                                     Itinerariu bibliograc                               129
+                     Deși orice pas în cercetare trebuie să pornească de la utilizarea instrumentelor
+               științice precum indexuri, bibliograi și dicționare, există încă o atitudine rezervată față
+               de astfel de lucrări. O cercetare bibliogracă pe o temă dată reprezintă un instrument
+               care sintetizează, adună, organizează analize, abordări prin metode interdisciplinare de
+               cercetare. Este un efort continuu de îmbogățire sistematică cu noi documente, bibliograa
+               devenind o istorie a domeniului studiat. Important de evidențiat și un alt aspect:
+               bibliograa este o comunicare deschisă între surse. Instrumentele de lucru se actualizeză
+               în consonanță cu dinamica domeniului, cu cerințele și realitățile socialului, contribuind
+               la conturarea și delimitarea științelor particulare. În măsura în care instrumentele
+               informaționale utilizate de domeniul etnologic sunt elaborate cu o frecvență stabilă, se
+               menține sincronizarea permanentă cu realitatea de teren, conducând spre o imagine
+               complexă, asupra ariei de cercetare.
+                     În spiritul tradiției bibliograce a lui Ion Mușlea și Adrian Fochi, Institutul de
+               Etnograe și Folclor „Constantin Brăiloiu” a inclus în Planul de cercetare, sintezele
+               domeniilor etnologice, din care face parte și secțiunea curentă a Bibliograei generale a
+               etnograei și folclorului românesc.
+                     Drumul parcurs din momentul reluării unui vechi proiect al institutului și până la
+               această recentă reușită a durat treizeci de ani. Traseul urmat a fost determinat de mărirea
+               rapidă a volumului de informații, de transformările socio-culturale și nu în ultimul rând
+               de cele tehnice, care au impus introducerea lucrărilor bibliograce în calculator, cu
+               deschidere în rețeaua digitală.
+                     După 1990, proiectul bibliograc s-a concretizat în trei lucrări individuale, întocmite
+                                                               3                     4
+               de Rodica Raliade, două bibliograi curente  și una retrospectivă . Singura și constanta
+               colaboratoare la aceste prime bibliograi a fost doamna bibliotecară Elena Berceanu, care
+               a întocmit șele cărților intrate în biblioteca institutului.
+                     În dorința de a recupera întârzierile în redactarea bibliograilor curente, anul
+               2005 a marcat trecerea de la bibliograile anuale, la cele pe cinci ani, prin publicarea
+               unei bibliogra în două părți, pentru perioada 1991–1995 (Bibliograa românească de
+               etnograe și folclor (BREF) (1991–1995) – I, cu 737 de poziții, Anuarul IEF, tomul 16
+               (2005), p. 141–197; Bibliograa românească de etnograe și folclor (BREF) (1991–1995)
+               – II, cu 539 de poziții, Anuarul IEF, tomul 20 (2009), p. 125–181).
+                     Partea I (1991–1995) a inclus excerptarea a șase periodice de specialitate și a
+               cărților din anii respectivi. Pentru partea a doua pe anii 1991–1995, consiliul științic
+               al institutului, la propunerea doamnei acad. Sabina Ispas, a hotărât congurarea unui
+               colectiv bibliograc. Partea a doua completa anii 1991–1995 cu șapte reviste și anuare,
+               unul de specialitate (etnomuzicologie), celelalte tratând probleme conexe științelor
+               etnologice. Autori: Monica Bercovici, Mariana Ciuciu, Armand Guță, Rodica Raliade,
+               Elena Șulea.
+                     Munca în colectiv a continuat cu Bibliograa românească de etnograe și folclor,
+               BREF (1996–2000), cu 834 de poziții, publicată în Anuarul IEF, tomul 22 (2011),
+               3  Rodica Raliade, Bibliograa românească de etnograe și folclor (pe anii 1989–1990), cu 838 de poziții
+               („Revista de etnograe și folclor”, tom 38, 1993, nr. 6, p. 613–674).
+               4  Rodica Raliade, Bibliograa „Revistei de Etnograe și Folclor”(1981–1988), cu 326 de poziții (Revista de
+               etnograe și folclor, tom 39 (1994), nr. 3–4, p. 329–380).
+      130                Rodica RALIADE
+      p. 243–300. Autori: Elena Berceanu, Mihai Gheorghe, Rodica Raliade și Elena Șulea.
+      Coordonator Rodica Raliade.
+         Numărul redus și uctuația autorilor indică gradul de adaptare și de acceptare de
+      către colegi a acestui tip de lucrare.
+         Finalizarea bibliograilor pe cinci ani a fost o provocare care a determinat hotărârea
+      de a se extinde perioada de referință bibliogracă, de la cinci, la zece ani. Acest prim decar
+      bibliograc a fost Bibliograa românească de etnograe și folclor (2001–2010). Partea
+      I, Coordonator: Rodica Raliade: Colectiv de autori: Carmen Bulete, Adelina Dogaru,
+      Armand Guță, Rodica Raliade, Elena Șulea, București, Editura Academiei Române, 2015,
+      670 p. + Indice de nume.
+         Lucrarea s-a remarcat prin îndrăzneala noutăților metodologice. Dicultățile
+      în obținerea materialelor, diversitatea lor tematică, noile tendințe interdisciplinare ale
+      cercetării etnologice și sursele informaționale diferite față de cele dinainte de anii ’90, au
+      condus spre o dublă inovare: una cantitativă, pentru punerea în circulație a unui număr
+      mai mare de date bibliograce, o alta calitativă, la nivelul structurii, în consonanță
+      cu dispariția unor teme și apariția sau reapariția altora. Adaptându-ne la realitatea
+      informațională, a fost lansată pe internet, către colegii din țară, rugămintea de a colabora
+      la realizarea proiectului bibliograc, o bibliograe cu extindere națională. Cei treizeci
+      și opt de specialiști care au răspuns la solicitarea noastră, cadre didactice universitare,
+      muzeogra, cercetători din diferite zone etnoistorice, ne-au permis să realizăm o
+      adevărată „hartă” a informației etnologice românești, încercând armonizarea tradiției
+      bibliograce a colectivelor coordonate de Adrian Fochi, cu tehnologia și diversitatea
+      etnologică actuală. Prin intermediul datelor bibliograce pe care le-am primit, am putut
+      aa situația revistelor și anuarelor din țară (unele cu continuitate, altele nou apărute sau
+      dispărute). Contribuțiile bibliograce primite din afara institutului ne-au adus în atenție
+      tematica pe care se concentrau cercetările de prol din țară, ca și cele din Republica
+      Moldova și din Republica Serbia.
+         Această primă parte a bibliograei pe 2001–2010 a fost răsplătită cu Premiul Simion
+      Florea Marian al Academiei Române, pe anul 2017.
+         Partea a II-a a bibliograei este un dublu omagiu, în memoria a doi oameni
+      deosebiți, cărora le sunt extrem de recunoscătoare: prof. dr. Alexandru Dobre, cel care
+      a fost redactorul-șef al „Revistei de etnograe și folclor”, și profesorul de informatică
+      Nicolae Bogdan (1930–2020), cel care a sponsorizat publicarea acestui instrument
+      de lucru, personalitate cu o remarcabilă descendență cultural-științică, ca nepot al
+      arhitectului Ion Mincu și al scriitorului Duiliu Zamrescu.
+         Coincidența face ca acest al doilea decar bibliograc să apară în 2020, anul în
+      care prof. dr. Alexandru Dobre, ar  împlinit 80 de ani. Nu ne-am așteptat, dar soarta a
+      hotărât să-i împlinim dorința continuării muncii bibliograce, prin acest volum, ieșit cu
+      strădanie și multiple insistențe. Probabil că spiritul domniei-sale ne-a vegheat pentru a
+      împlini o nouă reușită.
+         Bibliograa românească de etnograe și folclor (2001–2010). Partea a II-a continuă
+      lucrarea apărută în 2015, adăugând noi titluri de cărți, studii, articole, culegeri etc., precum
+      și materiale cumulative (recenzii, note, republicări etc.), apărute în aceeași perioadă, atât
+      în publicații de prol, cât și în reviste culturale care conțin informații etnologice.
+                         Itinerariu bibliograc   131
+          Numărul periodicelor excerptate s-a mărit la 17, dintre care 4 sunt publicații ale
+       românilor de peste hotare. Primul volum s-a bazat pe un mare număr de colaboratori,
+       demers soldat cu un impediment metodologic: în ciuda modelelor difuzate de
+       coordonatorul lucrării, șele primite nu respectau standardele cerute, ceea ce a impus
+       o muncă dicilă de uniformizare a trimiterilor. În schimb, sub aspectul conținutului,
+       referințele la publicații mai greu de găsit au completat în mod fericit volumul
+       informațiilor oferite.
+          Pentru volumul secund, participarea specialiștilor din afara institutului s-a limitat la
+       colaborarea cu cercetătoarele Elena Rodica Colta, din Arad, și Raisa Osadci, din Chișinău.
+          Elena Rodica Colta a șat publicațiile muzeale arădene și reviste ale românilor din
+       Ungaria, („Conviețuirea”, „Din tradițiile populare ale românilor din Ungaria” și „Izvorul”)
+       și Raisa Osadci a întocmit trimiterile bibliograce la „Revista de Etnologie și Culturologie”,
+       publicată de Institutul Patrimoniului Cultural al Academiei de Științe a Moldovei.
+          Trebuie să recunoaștem că selecția șelor cu o tematică conexă științelor etnologice
+       este dicilă, deoarece naște întrebări legate de oportunitatea selectării unor materiale.
+       Studiile și articolele referitoare la unele subiecte, aparent de o mai mică importanță
+       etnologică, completează viziunea de ansamblu asupra dinamicii sistemului social
+       românesc. Așa se explică introducerea de trimiteri la lucrări interdisciplinare, care
+       facilitează cercetătorului imaginea complexității societății actuale, aată în continuă
+       schimbare. Complementară acestei viziuni apare și modicarea titulaturii subcapitolului
+       2.4. optându-se pentru Relații de rudenie și organizare socială, în concordanță cu
+       diversitatea subiectelor abordate.
+          Din dorința de completare și de asigurare a exactității și varietății informațiilor, au
+       existat situații în care etnologii bibliogra au apelat la edițiile online ale unor periodice,
+       pe care nu le-au găsit în colecție completă, în biblioteci („Memoria Ethnologica” din
+       Baia Mare) sau pentru vericarea șelor executate („Sociologie românească”, „Caiete
+       de antropologie istorică”). Prin interacțiunea datelor selectate din materiale publicate
+       pe suport tradițional de hârtie, cu cele în format pdf, s-a asigurat accesul la un material
+       informativ mai bogat. De asemenea a crescut gradul de securitate al informațiilor on-line,
+       prin introducerea în volumul tipărit.
+          Corelarea și conexarea informațiilor din diverse domenii de cercetare socio-culturală
+       oferă utilizatorilor o imagine a schimbărilor survenite în domeniul științelor etnologice,
+       de-a lungul deceniului de referință. Bibliograa, pusă la dispoziția celor interesați, este
+       o adevărată radiograe a zonei științelor etnologice, prin intermediul publicațiilor de
+       specialitate sau a celor adiacente etnologiei.
+          Bibliograa curentă este o provocare atât pentru realizatori, cât și pentru utilizatori,
+       solicitați deopotrivă, unii în situația de a selecta și a furniza date actuale, ceilalți de a
+       recepționa, de a distinge și a interpreta informații necesare elaborării unor lucrări de
+       prol. O astfel de sinteză îmbină logici diferite, de la cele formale la cele de conținut,
+       favorizând obținerea unei construcții care reectă, semnicativ și sub aspecte diferite,
+       tema cercetată.

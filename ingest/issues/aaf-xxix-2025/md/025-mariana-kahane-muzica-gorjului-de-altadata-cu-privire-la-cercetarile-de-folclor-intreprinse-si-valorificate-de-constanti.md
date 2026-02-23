@@ -1,0 +1,112 @@
+# Mariana Kahane, Muzica Gorjului de altădată. Cu privire la cercetările de folclor întreprinse şi valorificate de Constantin Brăiloiu, ediție îngrijită de Lavinia Gheorghe, Editura Universității Naționale de Muzică din București, 2022, 178 p., 6 planșe. (Theodor Constantiniu)
+
+- Autor(i): Theodor Constantiniu
+- Secțiune TOC: RECENZII
+- Pagini: p. 310–311
+- Afiliere: Institutul „Arhiva de Folclor a Academiei Române”, Cluj-Napoca
+- Email: N/A
+- DOI: N/A
+- Limbă: ro
+- Tip intrare: recenzie
+- Număr: Vol. 29 Nr. 1 (2025)
+
+## Abstract RO
+_Nedetectat_
+
+## Cuvinte-cheie RO
+_Nedetectate_
+
+## Abstract EN
+_Not detected_
+
+## Keywords EN
+_Not detected_
+
+## Text extras din PDF
+310                  Recenzii
+      Mariana Kahane, Muzica Gorjului de altădată. Cu privire la cercetările
+      de folclor întreprinse și valoricate de Constantin Brăiloiu, ediție
+      îngrijită  de Lavinia Gheorghe, Editura Universității Naționale de
+      Muzică din București, 2022, 178 pagini, 6 planșe.
+         Constantin Brăiloiu face parte din echipa de cercetare a profesorului Dimitrie
+      Gusti care poposește în satul Runcu din Gorj în anul 1930. De atunci și până la plecarea
+      sa din țară, Brăiloiu și colaboratorii săi vor reveni constant în satele gorjenești de unde
+      au cules 1869 de melodii (număr avansat de Tiberiu Alexandru, p. 2 în lucrarea de față).
+      Aceste culegeri nu au văzut lumina tiparului decât în mică măsură: Ale mortului din Gorj
+      și Vicleiul din Târgu-Jiu, publicate de Brăiloiu în timpul vieții, la care etnomuzicologul
+      intenționa să adauge o lucrare amplă dedicată obiceiurilor funerare din extremitatea nord-
+      vestică a Gorjului, lucrare începută la Geneva, dar rămasă neterminată (p. 6–7). Volumul
+      de față cuprinde o mică, dar reprezentativă, selecție a acelor culegeri de început de secol
+      XX alcătuită de etnomuzicologul Mariana Kahane. Cercetătoarea, activă la Institutul
+      de Folclor din București între 1948 și 1981, a lucrat la acest volum după pensionare, dar
+      munca aceasta a rămas doar la faza de manuscris, depus și păstrat la institutul bucureștean.
+      Acest manuscris este publicat acum datorită muncii editoriale a Laviniei Gheorghe,
+      cercetătoare la Institutul de Etnograe și Folclor „Constantin Brăiloiu”, cea care, de
+      altfel, s-a ocupat de sistematizarea întregului fond de manuscrise ale Marianei Kahane
+      adăpostite în arhiva acestui institut. Se observă așadar o continuitate a intereselor de
+      cercetare și o preocupare întinsă pe mai multe generații de a dezvolta moștenirea lăsată
+      de Constantin Brăiloiu.
+         Volumul de față are la bază 25 de exemple muzicale alese din diferite genuri ale
+      muzicii folclorice: cântecul ritual funebru (zorile și bradul), bocetul, colinda, cântece
+      rituale cu diferite funcții (hăulitul, homanul, paparuda, toconelele), doina vocală și
+      instrumentală, balada, cântecul de joc și jocul instrumental. Transcrierile acestor melodii
+      beneciază de o analiză amănunțită din partea autoarei și de transcrierea integrală a
+      textelor. La acestea se adaugă 6 anexe care prezintă sintetizat diferite aspecte analitice
+      ale melodiilor: scări muzicale, ambitus, cadențe și cezuri, formule melodice, forma
+      arhitectonică, ritm.
+         Toate aceste secțiuni ale volumului sunt precedate de o introducere în care Mariana
+      Kahane se apleacă asupra istoricului cercetărilor lui Brăiloiu în Gorj. Aăm astfel că,
+      inițial, etnomuzicologul a fost sceptic în privința deplasării la Runcu, însă, odată ajuns
+      acolo, a fost cucerit de frumusețea folclorului local. Drept urmare, cercetările de teren
+      din această zonă efectuate de Brăiloiu până în 1943 vor cuprinde 81 dintre localitățile
+      zonei (p. 2). Tot aici aăm și alte detalii referitoare la materialele valoroase sau inedite
+      culese în aceste campanii: bocetul pentru ică obținut de la mama Ecaterinei Teodoroiu;
+      cântecele funebre culese din Tismana, ale căror texte au fost incluse mai târziu în lucrarea
+      Ale mortului din Gorj; baladele rare precum Corbul şi vântul culeasă în mai multe versiuni;
+      tarafurile și interpreții remarcabili întâlniți în zonă (Ioana Zlătaru cu taraful Nicolae
+      Zătaru, Maria Arbagic, Maria Lătărețu, Ioana Piper și taraful din Arcani ș.a.).
+                             Recenzii              311
+           Urmează partea de analiză a materialului, unde Mariana Kahane oferă explicații
+        ample referitoare la aspecte ce țin de melodia, ritmul, forma, metrica și textele melodiilor
+        alese spre publicare. Primele, și cele mai numeroase (opt), sunt cântecele rituale funebre
+        (tratate exemplar de autoare, împreună cu Lucilia Georgescu-Stănculeanu, în volumul
+        de referință Cântecul zorilor şi bradului. Tipologie muzicală, București, 1988). Exemplele
+        de cântecul zorilor (cântat afară sau în casă) și al bradului sunt prezentate prin prisma
+        conținutului poetic, al formelor și al sistemelor sonore folosite. La fel sunt tratate și cele
+        trei bocete, unul obținut de la mama Ecaterinei Teodoroiu, iar celelalte două de la Maria
+        Arbagic care, dând crezare zvonului care anunța moartea lui Brăiloiu și Stahl într-un
+        accident de tren, a început să-i bocească pe cei doi. Colinda este reprezentată de un
+        singur exemplar, cules din satul Bengești, rar întâlnit în zonă, care se încadrează în tema
+        Dumnezeu şi ciobanul. Repertoriul ritual divers al regiunii este reprezentat în continuare
+        de exemple de hăulit (cules din Găvănești), două variante la descântecul homanului de Sf.
+        Toader (Rosovița), un descântec pentru varză, împotriva viermilor (tot din Găvănești),
+        o melodie de paparudă (Costeni) și două variante de toconele culese din Câmpofeni.
+           Doina, un gen a cărui arie de răspândire cuprinde și Oltenia subcarpatică (și de
+        care Mariana Kahane s-a ocupat pe larg în volumul Doina vocală din Oltenia. Tipologie
+        muzicală, București, 2007), este reprezentată prin două exemplare, unul vocal și unul
+        instrumental. De o analiză extinsă se bucură balada Corbul şi vântul, o raritate tematică
+        a genului, culeasă de Brăiloiu din Preajba Mare. Mai sunt prezente în volum cântecul de
+        joc (o variantă lăutărească de sârbă culeasă de la o tânără lăutăreasă acompaniată de un
+        taraf din Rovinari) și jocul instrumental, rustemul (aici cu numele Resteul), un joc în
+        ritm aksak specic Olteniei.
+           Urmează transcrierile muzicale pentru ecare dintre melodiile analizate. Acolo
+        unde au fost disponibile, editoarea a ales să includă două versiuni de transcriere, sinoptică
+        (unde prima strofă melodică și textul aferent sunt transcrise pe un singur portativ, iar
+        strofele următoare apar dedesubtul acestuia, doar în măsura în care prezintă variații
+        față de prima strofă) și convențională (unde apare doar melodia și textul primei strofe
+        melodice, iar eventualele variante care apar la următoarele strofe sunt consemnate
+        separat). Pe urmele lui Brăiloiu, Mariana Kahane folosește transcrierea sinoptică ca
+        un mijloc ecient de vizualizare a variabilității care apare în maniera de interpretare
+        folclorică, mai ales în genuri precum bocetul, balada sau doina. Textele sunt și ele
+        transcrise separat și integral, în variantă fonetică, după cum ține să precizeze Mariana
+        Kahane – „în măsura priceperii mele”. Pentru unele dintre melodii sunt incluse două
+        variante ale textului, unul transcris după înregistrarea audio, iar celălalt, acolo unde a
+        fost disponibil, textul dictat de către informator.
+           Volumul este completat cu șase anexe care sistematizează și prezintă concis demersul
+        analitic anterior. Cititorul poate astfel observa cu ușurință diferențele și/sau asemănările
+        care apar între diferitele genuri prezentate în volum în ceea ce privește utilizarea scărilor
+        muzicale, ambitus, cadențe și cezuri, formule melodice, formă și ritm. În încheierea
+        volumului editoarea a alcătuit o listă cu unele dintre melodiile la care Mariana Kahane
+        se referă pe parcursul cărții și care sunt disponibile pentru audiția pe internet.
+           Mariana Kahane a gândit acest volum ca pe o lucrare prin care să prezinte publicului
+        cele mai reprezentative exemplare muzicale pentru zona Gorjului. Chiar dacă a ales

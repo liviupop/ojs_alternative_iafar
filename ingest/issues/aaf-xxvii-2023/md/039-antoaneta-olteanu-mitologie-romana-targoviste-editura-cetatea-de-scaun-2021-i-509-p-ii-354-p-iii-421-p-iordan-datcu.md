@@ -1,0 +1,113 @@
+# Antoaneta Olteanu, Mitologie română, Târgoviște, Editura Cetatea de Scaun, 2021, I, 509 p.; II, 354 p.; III, 421 p. (Iordan Datcu)
+
+- Autor(i): Iordan Datcu
+- Secțiune TOC: R E C E N Z I I
+- Pagini: p. 450–451
+- Afiliere: Institutul „Arhiva de Folclor a Academiei Române”, Cluj-Napoca
+- Email: N/A
+- DOI: N/A
+- Limbă: ro
+- Tip intrare: recenzie
+- Număr: Vol. 27 Nr. 1 (2023)
+
+## Abstract RO
+_Nedetectat_
+
+## Cuvinte-cheie RO
+_Nedetectate_
+
+## Abstract EN
+_Not detected_
+
+## Keywords EN
+_Not detected_
+
+## Text extras din PDF
+450                  Recenzii
+      Antoaneta Olteanu, Mitologie română, Târgoviște, Editura Cetatea de
+      Scaun, 2021, I, 509 p.; II, 354 p.; III, 421 p.;
+         Urmărindu-i, timp de un sfert de secol, demersul științic, nu ne surprinde că
+      doamna Antoaneta Olteanu a tipărit această masivă lucrare, Mitologie română (Cetatea
+      de Scaun, Târgoviște, 2021, I, 509 p., II, 354 p, III, 421p.), care a fost precedată de o serie
+      de lucrări pregătitoare: Ipostazele malecului în medicina magică (1998), Metamorfozele
+      sacrului. Dicționar de mitologie populară (1998), Mitologie comparată (1998), Școala
+      de solomonie. Divinație și vrăjitorie în context comparat (1999), Calendarele poporului
+      român (1999, ed. a doua, 2009), Dicționar de mitologie. Demoni, duhuri, spirite (2004),
+      Reprezentări ale spațiului în credințele populare românești (2009).
+         Trilogia de acum este, deci, „o sinteză a sintezelor”. După ce în volumul I are trei
+      capitole de punere în temă, intitulate Scurtă evoluție a credințelor mitologice, Mitul –
+      încercări de denire și Studiul mitologiei în România, urmează marile secțiuni: Cosmogonia,
+      Personaje mitologice în illo tempore, Timpul sacru și Spațiul sacru, cel de al doilea volum
+      examinează Lumea demonilor și Universul fricilor, iar cel de al treilea Universul magiei.
+         Autoarea se delimitează net de unele scrieri similare, atât față de aceea a lui Marcel
+      Olinescu, Mitologie românească (1944), lucrare a unui amator, cât și de aceea a lui Romulus
+      Vulcănescu, Mitologie română (1987), „o lucrare care debordează de originalitate, extrem
+      de stufoasă, la propriu și la gurat, care nu face decât să te îndepărteze de realitățile
+      mitologice țărănești și să te poarte pe urmele unui demers subiectiv, exclusiv original,
+      al unui cercetător preocupat mai degrabă de losofare, decât de analiza etnologică”.
+      Celor mai mulți dintre antecesori le reproșează că n-au rămas strict la sursele de mare
+      probitate: „Modul de abordare a surselor primare de mitologie românească din lucrări
+      ale lui S.Fl. Marian, Tudor Pamle și Elena Niculiță-Voronca nu i-au făcut pe mulți autori
+      să se gândească la necesitatea realizării unei mitologii românești din perspectiva exclusiv
+      folclorică, etnologică, mai toți ind îmboldiți să identice, înainte de a avea tabloul
+      complet, «modul specic» de a gândi al țăranului român, subtilitățile sale losoce”.
+         Nici cu un anumit tip de comparatism nu este de acord: „...pe urmele lui Mircea
+      Eliade și ale interpretării sale hermeneutice a istoriei religiei, și alți cercetători români au
+      dorit să prezinte aspecte mitologice numai în conjunctură cu reprezentările culte ale altor
+      sisteme mitologice (comparându-se, de multe ori, aspecte incomparabile), pentru a se
+      încadra astfel într-o companie selectă, aristocratică, nu în cea a mitologiilor țărănești, ci
+      în seria majoră a marilor culturi. De comparatism în general lumea a cam fugit (în ultimii
+      ani, dacă ne uităm la armațiile unor autori care au scris lucrări pe teme de mitologie
+      sau magie, comparatismul apare drept ceva depășit, el impunându-se a  înlocuit cu
+      o interculturalitate, interdisciplinaritate de multe ori dubioasă). De aici numeroase
+      armații hazardate de-a lungul timpului: nu putem avansa nicio trăsătură a sistemului
+      nostru mitologic ca ind originală, dacă nu știm foarte bine ce se întâmplă și în sistemele
+      mitologice cu care a intrat în contact”.
+         Este reticentă în fața preocupării unora de a propune specicități: „Este extrem
+      de greu să vorbim de niște mituri specic românești, în condițiile în care și substratul,
+      indo-european, cu nuanțe traco-geto-dace, aluviunile slave și din partea altor popoare
+                            Recenzii              451
+       migratoare, fondul creștin și precreștin (am în vedere credințele bogomile ce pot  decelate
+       și la noi) au marcat mai multe popoare din arealul în care s-a format poporul român și
+       în care trăim și azi”. Mitologia românească își are și ea panteonul ei, „deloc rudimentar
+       și bine documentat”.
+          Alte idei remarcabile ale cărții trebuie să e subliniate. Aată în fața unui mare
+       număr de personaje mitologice, a ținut seama de natura labilă a acestora, de personajele
+       hibride, chestiuni pe care le-a rezolvat prin gruparea acestor personaje „după funcțiile
+       specice, dominante”. Mitologia românească, „spre deosebire de mitologia clasică – scrie
+       autoarea –, orientată spre transcendent, spre spiritualitatea pură, spre relevarea înaltelor
+       zeități, și-a continuat și perfecționat practicile, strâns legate de un sistem de credințe
+       deosebit de bogat, riguros structurat, care împletea transcendentul cu cotidianul dând
+       astfel impresia unei forțe tangibile, accesibile și muritorilor. Constatăm, în același timp,
+       în legătură cu ea, o anume nesistematizare a informațiilor. Nesistematizarea nu trebuie
+       înțeleasă ca un semn al degenerării, ci are, probabil, o origine străveche”.
+          Apreciază că mitologia română are câteva trăsături ale ei: personajele mitologice
+       de factură patronală, o foarte bogată mitologie meteorologică, prezența dominantă
+       a unor duhuri ale casei serpentiforme și a centaurilor demonici, kallikantzaroi,
+       karakangeolî, Sântoaderii.
+          Examinează și mutațiile care au avut loc în receptarea anumitor secțiuni ale
+       mitologiei române. Există și în contemporaneitatea noastră o nevoie de mit, nu de miturile
+       tradiționale, „în majoritatea lor căzute în uitare”, ci de mituri urbane. Sunt date ca exemple
+       mutațiile suferite de vampiri, de strigoi. „În noile tradiții, vampirii originari sunt creați de
+       vrăjitoare, descendenții lor apărând prin vampirizare succesivă”. De asemenea, imaginea
+       vârcolacilor, „extrem de populari printre tinerii de azi, păstrează o sumă de trăsături
+       tradiționale, dar dezvoltă elemente mai atractive, noi”.
+          Mitologie română, de Antoaneta Olteanu este structurată pe o bogată bibliograe,
+       alcătuită din colecții de folclor și etnograe și din studii teoretice, la această din urmă
+       secțiune ind vădită îndreptarea sa și spre teoreticienii ruși.
+          Semnalăm câteva aspecte care trebuie să e corectate într-o viitoare ediție a cărții.
+       Mai întâi remarcăm greșita interpretare a unui text al lui Artur Gorovei, despre care citim
+       în volumul I, pagina 145: „Prima cercetare cu caracter mitologic este realizată în anul
+       1909, Zmei și zâne”. Textul acesta nu este o cercetare, ci un basm, creație personală a lui
+       Gorovei. Acesta și-a dat seama, la reeditarea textului, că primul titlu era impropriu, și l-a
+       numit acum Poveste cu Făt‑Frumos. Face parte din categoria acelora pe care Ioan Șerb
+       le-a inclus în Antologia basmului „cult” (I–II, 1968). Apreciem că într-o lucrare despre
+       mitologia română, din orice unghi ar  privită ea, nu pot lipsi câțiva autori: Petru Caraman
+       cu studii precum Substratul mitologic al sărbătorilor de iarnă la români. Contribuție la
+       studiul mitologiei creștine în Orientul Europei, în Omagiu profesorului Ilie Bărbulescu (Iași,
+       1933, p. 358–448) și Asupra originii și genezei unor balade populare având ca subiect fapte
+       extraordinare, despre Soarele și Luna, baladă fantastică „în genul miturilor”. Petru Ursache
+       se cuvenea să e citat cu cartea despre Mircea Eliade și cu Miorița. Dosarul mitologic,
+       amândouă reeditate. În prezentarea lui Ion Taloș lipsesc cărțile sale Petit dictionnaire
+       de mythologie populaire roumaine, traduit par Anneliese et Claude Lecouteux (ELLUG,
+       Université Stendhal, Grenoble, 2002, 214 p.), Cununia fraților și Nunta Soarelui. Incestul
