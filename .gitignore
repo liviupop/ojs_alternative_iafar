@@ -1,0 +1,16 @@
+# Local env / cache
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
+
+# Local temp build artifacts
+tmp/
+
+# Keep only per-article split PDFs in git
+ingest/issues/*/source/issue.pdf
+
+# Optional local cover drafts
+ingest/issues/*/cover/*.psd
+ingest/issues/*/cover/*.ai
+ingest/issues/*/cover/*.xcf

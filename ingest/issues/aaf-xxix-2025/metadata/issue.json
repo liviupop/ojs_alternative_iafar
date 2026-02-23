@@ -1,0 +1,18 @@
+{
+  "id": "4",
+  "slug": "aaf-xxix-2025",
+  "year": "2025",
+  "volume": "29",
+  "number": "1",
+  "date_published": "2025-12-20",
+  "title": "Anuarul Arhivei de Folclor XXIX",
+  "status": "published",
+  "article_count": 29,
+  "pages": 324,
+  "doi_prefix": "10.12345",
+  "publisher": "Academia Română – Filiala Cluj-Napoca · Institutul „Arhiva de Folclor a Academiei Române”",
+  "issn": "1220-3661",
+  "issue_pdf_path": "ingest/issues/aaf-xxix-2025/source/issue.pdf",
+  "cover_hint_path": "ingest/issues/aaf-xxix-2025/cover/",
+  "page_offset": 0
+}

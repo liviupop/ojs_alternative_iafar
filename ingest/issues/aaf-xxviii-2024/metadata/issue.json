@@ -1,0 +1,18 @@
+{
+  "id": "3",
+  "slug": "aaf-xxviii-2024",
+  "year": "2024",
+  "volume": "28",
+  "number": "1",
+  "date_published": "2024-12-31",
+  "title": "Anuarul Arhivei de Folclor XXVIII",
+  "status": "published",
+  "article_count": 24,
+  "pages": 254,
+  "doi_prefix": "10.12345",
+  "publisher": "Academia Română – Filiala Cluj-Napoca · Institutul „Arhiva de Folclor a Academiei Române”",
+  "issn": "1220-3661",
+  "issue_pdf_path": "ingest/issues/aaf-xxviii-2024/source/issue.pdf",
+  "cover_hint_path": "ingest/issues/aaf-xxviii-2024/cover/",
+  "page_offset": 0
+}
