@@ -14,7 +14,7 @@
 The ballad from Bucovina presents itself, musically, as a mosaic of multiple genres, since the epic text is associated with songs borrowed from various genres, such as: doina, carol, lyric song, vocal dance song, romances. Therefore, the Bucovina ballad can be called an epic song, behaving similar to the Transylvanian epic song. The musical documents upon which the present typological model was created are the ballads contained in the fourth volume of the monographic series entitled Alexandru Voevidca – Musical Folklore from Bucovina1. Since the ballad as a genre is not typologically classified in this volume, the typology of the ballad from historical Bucovina is presented in the present study. Here I do not wish to insist on the details of musical structure of the genres associated with the epic texts, as these were analyzed in detail for each genre in the volumes already published. The melodic typology of the ballad is done by recognizing each of its melodic types within the typological catalog of the specific genre that the ballad might borrow its melody from. The melodic types are grouped by the genres of provenance, coded and described in the form of tables, consistently respecting the methodology presented in the previous volumes.
 
 ## Keywords
-balada, doina, colinda, cântecul liric, cântecul vocal de joc, romanța, cântec epic, Bucovina, ballad, carol, lyric song, vocal dance song, romances, epic song, melodic typology
+balada, doina, colinda, cântecul liric, cântecul vocal de joc, romanța, cântec epic, ballad, carol, lyric song, vocal dance song, romances, epic song, Bucovina, melodic
 
 ## Text extras din PDF
 Anuarul Arhivei de Folclor, nr. XXVIII, 2024, p. 185–194

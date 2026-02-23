@@ -14,7 +14,7 @@
 _Nedetectat_
 
 ## Keywords
-talos
+_Nedetectate_
 
 ## Text extras din PDF
 Anuarul Arhivei de Folclor, nr. XXVIII, 2024, p. 15–25

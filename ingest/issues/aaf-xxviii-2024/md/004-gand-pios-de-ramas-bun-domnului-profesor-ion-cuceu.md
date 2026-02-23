@@ -14,7 +14,7 @@
 _Nedetectat_
 
 ## Keywords
-profesor
+_Nedetectate_
 
 ## Text extras din PDF
 Anuarul Arhivei de Folclor, nr. XXVIII, 2024, p. 35–36

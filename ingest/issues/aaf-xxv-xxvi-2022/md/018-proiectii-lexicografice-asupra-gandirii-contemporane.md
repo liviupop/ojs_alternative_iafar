@@ -14,7 +14,7 @@
 L’article fait référence à la perspective théorique qui se trouve à la base de trois dictionnaires de nature différente, significatifs – chacun à son tour – pour l’étude de la langue et de la culture roumaine: Lexiconul de de Buda [Le Lexicon de Buda], les deux séries du Dicționarul limbii române [Le Dictionnaire de la langue roumaine], trésor lexical, rédigé sous l’égide de l’Académie roumaine (DA et DLR) et Dicționarul fenomenelor atmosferice [Le Dictionnaire des phénomènes atmosphériques]. Il tient compte du contexte des décèlements lexicographiques contemporains entraînés dans le processus de l’informatisation. L’importance linguistique des termes régionaux qui désignent, en roumain, les dénominations des phénomènes atmosphériques se constitue comme un pont d’exégèse entre l’histoire de la langue, la dialectologie et l’ethnologie.
 
 ## Keywords
-dicționar, lexicografie, purism, termeni regionali, dictionnaire, lexicographie, purisme, terme régional, roumaine
+dicționar, lexicografie, purism, termeni regionali, fenomen atmosferic, dictionnaire, lexicographie, purisme, terme régional, phénomène atmosphérique
 
 ## Text extras din PDF
 Anuarul Arhivei de Folclor, nr. XXV–XXVI, 2021–2022, p. 195–202

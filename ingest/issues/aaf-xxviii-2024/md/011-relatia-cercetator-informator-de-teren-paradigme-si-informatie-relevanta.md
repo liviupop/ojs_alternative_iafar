@@ -14,7 +14,7 @@
 The relationship between researcher and field informant is one of the most debated topics addressed in the social sciences. Its centrality opens up avenues of research, orients approaches, groups topics. The same centrality gives rise to continuous interrogations that activate the research process. Two coordinates must be taken into account in this regard, on the one hand, the optimization of the selection process of field informants, but also of the communication process, so as to obtain relevant information, and on the other hand, the need for constant repositioning of the researcher towards the investigated material so that his perspective is as comprehensive as possible.
 
 ## Keywords
-informator de teren, informație relevantă, cercetare de teren, orientează demersuri, dar şi a celui de comunicare, încât să se obţină informaţie relevantă, iar pe de altă parte, field informant, relevant information, fieldwork, process
+informator de teren, informație relevantă, cercetare de teren, folcloristica, field informant, relevant information, fieldwork, folkloristics
 
 ## Text extras din PDF
 Anuarul Arhivei de Folclor, nr. XXVIII, 2024, p. 125–129

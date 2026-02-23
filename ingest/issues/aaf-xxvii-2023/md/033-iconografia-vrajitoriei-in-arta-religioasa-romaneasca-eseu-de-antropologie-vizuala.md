@@ -11,10 +11,10 @@
 - Număr: Vol. 27 Nr. 1 (2023)
 
 ## Abstract
-_Nedetectat_
+Notes on the margin of a book: The Iconography of Witchcraft in Romanian Religious Art. This commentary addresses the methodology used by the target book to engage with various components of the documentary set, on multiple levels: history of arts (iconography, religious art), late antique and medieval literature (apocrypha), ethno‑anthropology (stemming into visual anthropology, ethnology, folk‑lore studies) and history of mentalities (witchcraft being addressed primarily by historical anthropology).
 
 ## Keywords
-magie, vrăjitorie, eschatologie, iconografie, cartea de față se remarcă prin rigoare metodologică, documentare minuțioasă, coerență sistemică, de tipul studiilor de gen și a, magic, witchcraft, eschatology, iconography, punishment
+magie, vrăjitorie, eschatologie, iconografie, pedeapsă, magic, witchcraft, eschatology, iconography, punishment
 
 ## Text extras din PDF
 Anuarul Arhivei de Folclor, nr. XXVII, 2023, p. 425–430

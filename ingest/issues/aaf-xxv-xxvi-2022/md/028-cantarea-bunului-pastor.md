@@ -14,7 +14,7 @@
 Cette note vient en marge des questions que l’ethnologie européenne a commencée a se poser vers la fin du XXe siècle. Elle ne forme pas un vrai texte de recherche. On se demande ce que l’observation directe des faits de culture peut apporter à la lecture d’un texte folklorique noté et annoté. Une anthropologie européene peu‑telle aboutir sur une ethnologie du christianisme vu comme religion populaire? On compare la légende et la fête d’un saint local des Alpes avec la narration chantée Mioritza.
 
 ## Keywords
-religie populară, sărbătoare, legende hagiografice, cu întemeietori (Alecu Russo, Vasile Alecsandri sau Jules Michelet), clasici și moderni (Sim.Fl. Marian, D. Caracostea, O. Densusianu, C. Brăiloiu, H.H. Stahl, I. Mușlea), alcătuitori de codexuri (I. Diaconu, A. Fochi), hermeneuți și filozofi (L. Blaga, Al. Amzulescu, M. Pop, religion populaire, fête, légendes hagiographiques, narration chantée
+religie populară, sărbătoare, legende hagiografice, poveste cântată, religion populaire, fête, légendes hagiographiques, narration chantée
 
 ## Text extras din PDF
 Anuarul Arhivei de Folclor, nr. XXV–XXVI, 2021–2022, p. 333–338

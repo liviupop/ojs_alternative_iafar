@@ -14,7 +14,7 @@
 Implicit/Explicit Feminine Identities in the Answers to Questionnaire VI – Birth, Baptism and The present paper, is merging three approaches coming from a gender studies perspective of the manuscripts that have been drawed as answers to Questionnaire VI: Birth, baptism and childhood in the third decade of the past century. The author’s interpretation reaches the conclusion that the feminine identiy is implicit due to the nature of the material while the masculine, national and religious identities are the main identities expressed by the manner in which the questions were answered.
 
 ## Keywords
-studii de gen, manuscrise, nașterea, botezul, şi anume, gender studies, manuscripts, birth, baptism, childhood
+studii de gen, manuscrise, nașterea, botezul, copilăria, gender studies, manuscripts, birth, baptism, childhood
 
 ## Text extras din PDF
 Anuarul Arhivei de Folclor, nr. XXVIII, 2024, p. 45–58

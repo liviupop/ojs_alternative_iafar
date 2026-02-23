@@ -14,7 +14,7 @@
 Old Romanian Legislation on Sexual Conduct: Incest, Masturbation, Whoredom and Other With regard to human sexuality, many facets and intertwining factors must be analysed in order to get an overall view, and no matter how far the search goes, there will always be some investigation that still awaits its scholar. In this paper we try to address the question of mundane sexuality from a philosophical and anthropological perspective, and to stress the connection between Christianity and ancient Greek metaphysics in the matter of the human sperm as carrier of the divine pneúma. From this point of view, masturbation appeared as the most grievous of the sexual debaucheries, because it wasted the divine seed. Illegitimate copulation included various relationships, some of which we tried to tackle by means of philological and anthropological interpretation. But is there a clear rationale for why some sexual dispositions have been considered more appropriate than others? We believe there have been some consequential constructs that have shaped the sexual habitudes of the traditional Romanian society in the former centuries and we set on our course to detect them.
 
 ## Keywords
-reglementări religioase, lumea veche românească, roluri sexuale tradiționale, desfrâu, popă, Dobric, Bistrița Năsăud) 1. Perspectiva hermeneutică, religious legislation, old Romanian world, traditional sexual roles, debauchery, sexual
+reglementări religioase, lumea veche românească, roluri sexuale tradiționale, desfrâu, religious legislation, old Romanian world, traditional sexual roles, debauchery, sexual
 
 ## Text extras din PDF
 Anuarul Arhivei de Folclor, nr. XXVII, 2023, p. 105–116

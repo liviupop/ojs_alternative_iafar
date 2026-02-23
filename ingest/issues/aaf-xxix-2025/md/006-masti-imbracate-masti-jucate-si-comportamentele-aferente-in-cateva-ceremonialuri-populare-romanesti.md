@@ -14,7 +14,7 @@
 Wear and Bear the Mask: Behaving and Misbehaving or the Many Faces of Popular Customs and The article confines the analysis to solely popular customary ceremonials observed along rich field and archival research. Be it behavioural or objectual, the role identity in the tradition-bound screenplay is assumed and ”worn” precisely as a mask, rendering the presence or the absence of the true features of the adjoined mask, optional. Carnivalesque behaviour thus becomes the unit, to be considered in relation with its counterpart, the solemn behaviour. The function they both serve – successively or simultaneously – within the enactment and performance of traditional customs and celebrations, is accounted for, together with the permanent inquiry on whether their complementarity does or does not say the full story about the transmission of cultural celebratory facts.
 
 ## Keywords
-mascare, ceremonialuri populare, comportament carnavalesc și comportament solemn, identitate de rol, uneori brutal, alteori subtil, masking, popular celebrations, carnivalesque and hieratic behaviour, role identity, mask
+mascare, ceremonialuri populare, comportament carnavalesc și comportament solemn, masking, popular celebrations, carnivalesque and hieratic behaviour, role identity, cultural
 
 ## Text extras din PDF
 Anuarul Arhivei de Folclor, nr. XXIX, 2025, p. 99–114

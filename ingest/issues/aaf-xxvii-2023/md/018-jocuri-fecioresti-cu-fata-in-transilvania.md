@@ -14,7 +14,7 @@
 When we speak about the Transylvanian choreographic culture we speak about two separately distinguished dances that can be found in almost all areas. Feciorescul – Lad’s dance and Învârtita – the most common couple dance. Those two types of dances a solo and a couple dance, have merged during the last two centuries giving birth to newly developed dances called differently in each dialect area and gathered under one main title “Feciorescul cu fată” – Lad’s dance with the girl. These dances are placed in the cycle of dances usually before or after the Lad’s dance so they make the connection between those two types of dances. The main motifs that can be found are turning as a couple and the men’s kicks and slaps using different parts of the leg. As in the Învârtita, the syncretic process is complemented by different kinds of shouts about various topics such as love, wealth, well‑being, and also commands. The most interesting fact is that the presence of the two dances at the same time in the dance cycle did not lead to the disappearance of either original dance thus contributing to the enrichment of the national dance repertoire.
 
 ## Keywords
-dansul fecioresc, dansul de cuplu, evoluția unor dansuri, îmbogățirea repertoriului de dansuri. Motto: Dansul, ca o reacție la viață, are o tradiție lungă, care înconjoară tot globul.1, men’s dance, couple dance, dance evolutions, dance
+dansul fecioresc, dansul de cuplu, evoluția unor dansuri, îmbogățirea repertoriului, men’s dance, couple dance, dance evolutions, enrichment of the dance repertoire
 
 ## Text extras din PDF
 Anuarul Arhivei de Folclor, nr. XXVII, 2023, p. 263–285

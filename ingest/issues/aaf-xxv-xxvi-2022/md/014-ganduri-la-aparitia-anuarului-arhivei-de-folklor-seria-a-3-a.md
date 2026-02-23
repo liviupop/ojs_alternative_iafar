@@ -14,7 +14,7 @@
 mind echoes that take her back to the Cluj of her childhood and adolescence. She starts with a few personal memories, without which the evocation of her relationships with the academic world of Cluj‑Napoca would be incomplete. In fact, she does not mean her lines to be a “scientific contribution,” but a retrospective personal note on some representative figures of the academic school of Cluj, especially the school of ethnology. The author intends these notes to be a “laudatio” for the academic élite of Cluj, who offered her intellectual models in many respects. Since many of those evoked here unfortunately passed away, though their works are landmark contributions to the scientific bibliography of this school, these memories are a posthumous tribute at the same time.
 
 ## Keywords
-Anuarul Arhivei de Folklor, Accademia di Romania in Roma, alături de Bogdan Neagota, la Accademia di Romania, din Roma, The Folklore Archive Yearbook, Centre for Linguistics, cluj
+Anuarul Arhivei de Folklor, The Folklore Archive Yearbook, Ethnography and Folklore Section of Cluj Branch of
 
 ## Text extras din PDF
 Anuarul Arhivei de Folclor, nr. XXV–XXVI, 2021–2022, p. 133–141

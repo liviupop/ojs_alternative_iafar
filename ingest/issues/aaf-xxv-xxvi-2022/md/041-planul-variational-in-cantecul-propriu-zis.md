@@ -14,7 +14,7 @@
 The aim of the paper is to illustrate, within the genre of the lyrical song, the theory of the folk art researchers such as Bartók, Brăiloiu and Bîrlea. In broad terms, their idea was that variation, in conjunction with repetition, is the very reason for the existence of this art. After establishing the coordinates of the melodic type, both in a wide and a narrow sense, the author concentrates on the variation that occurs as a result of the repetition of different structural elements (cell, motif, phrase) at the level of the melodic stanza or the whole piece. The same approach is used when considering a distinct melodic type with different metric, rhythmic and sonic variants.
 
 ## Keywords
-cântec popular, cântec propriu‑zis, stilistică muzicală, tip melodic, variație. 1.1. Cercetătorii creației populare au subliniat, în repetate rânduri, că oralitatea este dimensiunea fundamentală a folclorului, după O. Bîrlea, pentru a se propaga, decât calea orală, ci se «înmulțește», adică suferă, în drumurile sale, nenumărate transformări, dovezi ale naturii sale «populare».2 O. Bîrlea, folk song, lyrical song, musical stylistics, melodic type, variation
+cântec popular, cântec propriu‑zis, stilistică muzicală, tip melodic, variație, folk song, lyrical song, musical stylistics, melodic type, variation
 
 ## Text extras din PDF
 Anuarul Arhivei de Folclor, nr. XXV–XXVI, 2021–2022, p. 503–518

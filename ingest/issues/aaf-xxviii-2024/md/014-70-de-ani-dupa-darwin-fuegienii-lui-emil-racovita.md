@@ -14,7 +14,7 @@
 Our text makes a comparison between the travel accounts of Charles Darwin and Emil Racoviţă during their scientific voyages to the geographic extremities of South America, in 1832–1833 and 1897–1899, respectively. Indeed, beyond their basic specialization in the natural history (as a classical paradigm including a variety of disciplines like biology, geology or oceanography), Darwin and Racoviţă were constantly interested also in the way of life and cultural traits of Fuegians (or Indians, in Racoviţă’s journal), that is, the native inhabitants of Tierra del Fuego. The ethnographic information thus provided by the author of the theory of evolution and the founding father of biospeology is (in our argument) a major contribution to the making of modern discipline of cultural anthropology worldwide and in Romania as well. Of a particular importance are, for instance, the details referring (both in Darwin’s and Racoviţă’s “travelogues”) to the “civilizing” work of European missionaries and farmers among the indigenous groups living in the Tierra del Fuego. The two journey journals (written at a 70-years distance from one another) therefore might be seen as a “chronicle” of European acculturation over the Fuegian people and their primitive culture.
 
 ## Keywords
-Charles Darwin, Emil Racoviţă, Tierra del Fuego, etnografie, vom compara datele, ethnography, indigenous groups
+Charles Darwin, Emil Racoviţă, Tierra del Fuego, etnografie, populaţii indigene, ethnography, indigenous groups
 
 ## Text extras din PDF
 Anuarul Arhivei de Folclor, nr. XXVIII, 2024, p. 157–171

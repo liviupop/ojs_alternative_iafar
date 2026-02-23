@@ -14,7 +14,7 @@
 The lyrical song from the Apuseni Mountains: an overview of its evolution from the beginning of The folk music of the Apuseni Mountains has benefited from the interest of many researchers, most notable being Béla Bartók, Ioan R. Nicola and Ioan Bocșa. Bartók travelled the region in the second decade of the 20th century and collected about 100 pieces of vocal music from 7 villages. In the 1950s, Ioan R. Nicola covered a much larger area and recorded a significant number of melodies. About 100 years after Bartók, Ioan Bocșa launched a field campaign in the same region. This study intends to benefit from the existence of the aforementioned Apuseni collections in order to delineate the evolution of the lyrical song in the region in the last century. We will highlight the changes that have occured from one collection to another, as well as pointing to the continuities regarding the repertoire and the structural characteristics that can be observed in all the available material.
 
 ## Keywords
-Munții Apuseni, cântec propriu-zis, colecții de folclor muzical, evoluția folclorului muzical, alături de Mărginimea Sibiului, 28 de cântece de joc, 109 colinde, 8 cântece din repertoriul copiilor, 13 cântece rituale de seceriș (cunună), 26 de cântece și, Apuseni Mountains, lyrical song, folk music collection, folk music evolution, ioan
+Munții Apuseni, cântec propriu-zis, colecții de folclor muzical, evoluția folclorului, Apuseni Mountains, lyrical song, folk music collection, folk music evolution
 
 ## Text extras din PDF
 Anuarul Arhivei de Folclor, nr. XXIX, 2025, p. 217–231

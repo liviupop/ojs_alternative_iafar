@@ -11,10 +11,10 @@
 - Număr: Vol. 25-26 Nr. 1 (2022)
 
 ## Abstract
-_Nedetectat_
+of local indigenous culture, and of archaic structured carols respectively, built around cynegetic play‑scripts: the heroic youth and the ritual hunt of a beast of both biological and mythical ancestry. It is known a fact that in poetic texts with fixed form beholding ritual functions (augural, propitiatory, apotropaic, funerary), the geology of successive cultural strata is more visible than in orally transmitted texts with no such fixedness. In this sense, Gherman’s previously unpublished study holds a significant premonitory value, anticipating regressive ethnological research of Propp‑ian kind (devoted to the historical, prehistorical and protohistorical roots of fantastic folktales). The author identifies beyond the fabulous bestiary from Romanian cynegetic winter carols, a number of possible biological patterns which may have held significant part within the experiential ground of ritualised poetic affabulatory story‑telling: bos primigenius/ auroch, megaloceros giganteus/ antediluvian stag, panthera spelaea/ cave lion, aquila/ vulture. All those patterns are being approached as inherited prehistoric remnant motives mythificated and transformed by folkloric memory, resulted in fundamental mythical‑fictional units underlying initiatory scenarios within pre‑Christian archaic winter carols.
 
 ## Keywords
-colinde, reminiscențe, preistorie, boul primitiv, boul sur, cerbul antediluvian, leul de cavernă, acoperind arii vaste din mai multe discipline, cum ar fi folclorul, istoria, inclusiv cea veche, sociologia, geografia, etnografia și altele. Spirit enciclopedic, este cea, carols, remnants, prehistory, bos primigenius, bos auroch, megaloceros giganteus, antediluvian stag, panthera spelaea, cave lion, aquila, vulture
+colinde, reminiscențe, preistorie, boul primitiv, boul sur, cerbul antediluvian, leul de, carols, remnants, prehistory, bos primigenius, bos auroch, megaloceros giganteus
 
 ## Text extras din PDF
 Anuarul Arhivei de Folclor, nr. XXV–XXVI, 2021–2022, p. 551–570

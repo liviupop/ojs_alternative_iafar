@@ -14,7 +14,7 @@
 This paper is presenting the results of a research done in one village by using direct observation of twelve households as the main method. After a brief introduction presenting the three discourses upon pandemy circulating in the public area, and a short reference to the „Plague Shirt”, I would continue with a presentation of the twelve households, and what happened inside them during the past year. The paper continues with an exploration of the changes that occurred during three burial rituals as also of how two ethnic groups (Romanian and Rroma) related to the authorities requests due to the pandemy.
 
 ## Keywords
-covid, epidemie, etnologie, înmormântare, pomană, epidemy, ethnology, burial, households
+covid, epidemie, etnologie, înmormântare, pomană, epidemy, ethnology, burial, offering
 
 ## Text extras din PDF
 Anuarul Arhivei de Folclor, nr. XXV–XXVI, 2021–2022, p. 393–402

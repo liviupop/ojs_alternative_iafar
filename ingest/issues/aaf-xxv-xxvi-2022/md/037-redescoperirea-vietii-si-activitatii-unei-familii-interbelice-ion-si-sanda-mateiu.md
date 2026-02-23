@@ -14,7 +14,7 @@
 Rediscovering the Life and Work of a Family from the Interwar Period: Ion and Sanda American sociologists Janet Z. Giele and Glen H. Elder Jr defined the concept of life course as being “shaped by the interaction of cultural and social structural features with physical and psychological attitudes of the individual and by the commitments and purposive efforts of the individual”. We extended a part of the research model proposed by sociology from the individual to family level and completed it with an ethnological prospect. Using these tools, supported by investigations of the period’s documents and publications, we tried to reconstruct the life course of a family of intellectuals from the Romanian interwar period: the couple formed by husband Ion Matei (1884–1946), professor, theologist, lawyer and journalist, Rector of Commercial Academy from Cluj, and wife Sanda Ulubeanu Matei (1890–1949), writer, publisher, translator, missionary and teacher. The Matei couple carried out an impressive activity, dedicated to the ideal of stability for the disoriented Roumanian society, between the years 1930–1940, with emphasis on the spiritual and cultural education of the masses.
 
 ## Keywords
-parcursul vieții, Ion Matei, Sanda (Ulubeanu) Matei, Bible Training Institute Glasgow, life course, individual
+parcursul vieții, Ion Matei, Sanda (Ulubeanu) Matei, Bible Training Institute Glasgow, life course
 
 ## Text extras din PDF
 Anuarul Arhivei de Folclor, nr. XXV–XXVI, 2021–2022, p. 439–453

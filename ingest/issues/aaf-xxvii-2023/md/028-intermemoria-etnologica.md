@@ -11,10 +11,10 @@
 - Număr: Vol. 27 Nr. 1 (2023)
 
 ## Abstract
-_Nedetectat_
+In the address written in honour of the great master Sanda Galopenția, I borrowed the generous concept of intermemory (shared memory), as used by the author to define how oral culture is built in traditional communities, and I transferred it to the community of ethnologists. Thus, when I refer to an ethnological intermemory, I must explain the strange feeling of compatibility with the master, despite the fact that we were never in “verbal contact”. This feeling is perhaps rooted in some simple gestures that bring us together, gestures that are inscribed in the affective and intellectual register, even without the possibility of having a round table talk until now. We shared fascinating stories about the human being and the ethnologist Sanda Galopenția, we walked on the same paths during our ethnographic inquiries, and everyone felt fortunate enough to be guided by the same great ethnologists, to be concerned with deciphering the conceptual schemes that support the linguistic imaginary of the folklore productions or to be shaped by her writings. These are, of course, sufficient reasons to feel close to this great master ethnologist.
 
 ## Keywords
-intermemorie, imaginar lingvistic, burg semantic, metaforă, scheme conceptuale, stereotip lingvistic, lingvistică cognitivă. Ne cerem iertare, dintru început, pentru tonul ușor nostalgic și, pe alocuri, ezitant, al rândurilor ce urmează, dar el aparține unei voci care, de o grămadă de vreme, la început, față de, intermemory, linguistic imaginary, semantic burg, figure of speech, conceptual schemes, linguistic stereotype, cognitive linguistics
+intermemorie, imaginar lingvistic, burg semantic, metaforă, scheme conceptuale, intermemory, linguistic imaginary, semantic burg, figure of speech, conceptual schemes
 
 ## Text extras din PDF
 Anuarul Arhivei de Folclor, nr. XXVII, 2023, p. 375–379

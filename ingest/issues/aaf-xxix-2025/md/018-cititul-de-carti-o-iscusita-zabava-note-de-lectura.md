@@ -14,7 +14,7 @@
 _Nedetectat_
 
 ## Keywords
-carte
+_Nedetectate_
 
 ## Text extras din PDF
 Anuarul Arhivei de Folclor, nr. XXIX, 2025, p. 285–287

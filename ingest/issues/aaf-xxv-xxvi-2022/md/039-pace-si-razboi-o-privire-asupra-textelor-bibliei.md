@@ -14,7 +14,7 @@
 Peace and war are inextricably linked, two halves of the same whole, creation and destruction each having its role. Recurring themes in the Old and New Testaments are vital themes for a community. Although in all ages and in all places people have wanted – most of the time – peace, the Bible shows us a long line of violence, fighting, destruction, war and murder. We are presented with a multitude of events, facts, phenomena, which, at least in appearance, defy ordinary logic. Canonical texts have been kept unchanged for a long time, which means that there must be a deeper meaning. Thus, it becomes obvious that this meaning, not only from a theological point of view, but even in terms of culture and civilization, is clearly required.
 
 ## Keywords
-textele biblice, pace, război, niveluri de logică, ni se înfățișează un șir nesfârșit de evenimente, fenomene, întâmplări, genealogii, unele din acestea neverosimile, contradictorii sau aparent absurde. Cu toate acestea, așa cum apar, aparente numai, se află la suprafață, iar în esență Creația este unitară, Bible texts, peace, war, levels of logic, destruction
+textele biblice, pace, război, niveluri de logică, înțelesuri ale Scripturii, Bible texts, peace, war, levels of logic, Senses of Scripture
 
 ## Text extras din PDF
 Anuarul Arhivei de Folclor, nr. XXV–XXVI, 2021–2022, p. 467–483

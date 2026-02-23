@@ -14,7 +14,7 @@
 Des phénomènes récents tels que l’expansion explosive des migrations de main‑d’œuvre au cours des 20 dernières années et, par conséquent, la perturbation des systèmes économiques zonaux (formels et informels) ont inévitablement affecté les systèmes normatifs (sociaux, économiques, notamment moraux) caractéristiques des cultures locales. Ils portent les marques de dissolutions et de reconfigurations qui, dans bien des cas, tendent à maintenir le lien social. Ce texte se concentre sur la notion d’honneur, avec son corollaire: la honte, comme champ sociologique principal et facteur important de la cohésion du groupe. Je propose une discussion sur la place du meurtre dans le système de valeurs morales qui caractérise la culture régionale du Pays d’Oach et comment elle participe à la construction de l’identité socioculturelle de l’individu.
 
 ## Keywords
-comunități țărănești, onoare, tradiții, omor, communautés paysannes, honneur, traditions, meurtre, economiques
+comunități țărănești, onoare, tradiții, omor, Țara Oașului, communautés paysannes, honneur, traditions, meurtre, Pays d’Oaș
 
 ## Text extras din PDF
 Anuarul Arhivei de Folclor, nr. XXV–XXVI, 2021–2022, p. 373–381

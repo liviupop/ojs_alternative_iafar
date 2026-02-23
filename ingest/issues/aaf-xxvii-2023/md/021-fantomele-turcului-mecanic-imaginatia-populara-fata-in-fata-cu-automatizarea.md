@@ -14,7 +14,7 @@
 The Phantoms of the Mechanical Turk. About Golem and Robots. The Collective Mind versus This article provides an analysis of the development and representation of artificial intelligence (AI) in various historical events and elements of popular culture, focusing on the impact of these advances on society’s perceptions and expectations. Microsoft’s investment in OpenAI, which led to the creation of Chat GPT, serves as a starting point to explore the evolution of AI from the 18th century Mechanical Turk to modern AI‑driven products like Google Duplex and Amazon’s Alexa. The article examines how the concept of AI has been shaped by its presentation in popular culture and the narratives created by large corporations and startups. It also discusses the importance of maintaining a critical perspective on the potential implications and limitations of AI, particularly as we approach the singularity – the point at which artificial general intelligence surpasses human cognitive abilities. By revisiting the past and examining the present, the article aims to better understand the ever‑evolving landscape of AI and its impact on humanity.
 
 ## Keywords
-Inteligența artificială, reprezentări populare ale inteligenței artificiale, Turcul Mecanic, oameni și roboți. Introducere Inteligența artificială, Satya Nadella. A preluat compania în 2014, Bill Gates și gălăgiosul Steve Ballmer. Totuși, în anul 2017, Artificial intelligence, popular representations of AI, the Mechanical Turk, intelligence
+Inteligența artificială, reprezentări populare ale inteligenței artificiale, Turcul Mecanic, Artificial intelligence, popular representations of AI, the Mechanical Turk, humans
 
 ## Text extras din PDF
 Anuarul Arhivei de Folclor, nr. XXVII, 2023, p. 307–318

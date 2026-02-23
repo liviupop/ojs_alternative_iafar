@@ -14,7 +14,7 @@
 These are just a few words explaining the “quest” of what had started in the mid-2015 to act/perform/ profess like a Study Group (of ethno‑anthropology), especially since the 2019 occasion (ASER National Conference) was the third one in which, within the framework of a workshop panel, we tackled the wide field of sexuality. Details are shared on the contents of those three occasions (2016, 2017, 2019) and the way they were projected to open as many aspects and niches as possible – either starting from major contributions such as books, or from historic documents such as medieval laws, church iconography, early 20th century matrimonial advertisement or virginity certificate. Hence, papers going to be published within this section are introduced in wider both cultural and academic contexts.
 
 ## Keywords
-studii culturale, sexualitate, etnoantropologie, ASER, am formu- lat imediat sintagma Maxima Varia, stilistic, structural/compozițional. Spre deosebire de alte, cultural studies, sexuality, ethnoanthropology, within
+studii culturale, sexualitate, etnoantropologie, ASER, „Caietele ASER”, cultural studies, sexuality, ethnoanthropology
 
 ## Text extras din PDF
 Anuarul Arhivei de Folclor, nr. XXVII, 2023, p. 101–103

@@ -14,7 +14,7 @@
 This article describes the discovery and analysis of a collection of glass discs from the Folklore Archive of the Romanian Academy. These discs, dating from 1952, contain audio recordings inscribed on a fragile emulsion applied to one side of each glass disc. The collection comprises 27 discs, with 23 successfully digitized. The recordings include both Romanian and Hungarian folk music and were likely made by researchers Ioan R. Nicola and Jagamas János. The article discusses the physical characteristics of the discs, their storage conditions, and the information available on their labels. It also explores the challenges in cataloging and preserving this unique and experimental mini-archive, which represents a fascinating legacy of the Cluj Folklore Archive.
 
 ## Keywords
-înregistrări pe discuri de sticlă, folclor românesc, folclor maghiar, conservare audio, etnomuzicologie, descoperire arhivistică În iulie 2013, în urma reorganizării spațiilor Arhivei de Folclor, cu caractere mari și groase, glass disc recordings, Romanian folklore, Hungarian folklore, audio preservation, ethnomusicology, discs
+înregistrări pe discuri de sticlă, folclor românesc, folclor maghiar, conservare audio, glass disc recordings, Romanian folklore, Hungarian folklore, audio preservation
 
 ## Text extras din PDF
 Anuarul Arhivei de Folclor, nr. XXVIII, 2024, p. 37–41

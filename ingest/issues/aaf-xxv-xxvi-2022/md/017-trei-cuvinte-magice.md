@@ -14,7 +14,7 @@
 We discuss three magic words that belong to a future volume on the vocabulary of magic. The first two detail the semantic fields of magic integrity and magic disintegration. The last refers to a superlative magic plant, generally known as mandrake.
 
 ## Keywords
-vocabularul magiei, agent magic, plantă magică, integritate magică, dezintegrare magică, în care abordăm, prin prismă lingvistică, și nu o dată, dicționarele consultate. Am ales două atribute magice, neînceput/ă și părăsit/ă, fiecare cumulând un număr vast de sinonime, care par a organiza explicit subansamble magice vaste, cum ar fi cel, the vocabulary of magic, magic agent, magic plant, magic integrity, magic disintegration, mandrake
+vocabularul magiei, agent magic, plantă magică, integritate magică, dezintegrare, the vocabulary of magic, magic agent, magic plant, magic integrity, magic
 
 ## Text extras din PDF
 Anuarul Arhivei de Folclor, nr. XXV–XXVI, 2021–2022, p. 185–193

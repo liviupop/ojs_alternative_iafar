@@ -14,7 +14,7 @@
 The study addresses the main folkloric categories of the funeral repertoire in the southern part of Hunedoara County, also proposing a hypothesis regarding their circulation within the researched area— namely, that the few attestations of the „song of dawn” in the region are rather the result of interference with the Banat area. By correlating the bibliography with field data gathered over more than 20 years of research, the relationship between the different literary-musical genres of the funeral repertoire is also analysed. At the same time, the study discusses the history of the scholarly approach to funeral verses, identifying the causes of their (unjust) disregard and providing arguments for their importance in understanding both the dynamics of the funeral ritual and the rural view on death.
 
 ## Keywords
-cântecul bradului, cântecul zorilor, bocet, cântări funerare, atât în ceea ce privește conținutul, cât și contextul, distincte atât pe plan funcțional, bocete, apoi verșuri funebre.”2 Anterior, același autor, stabilise diferențele între, song of the fir tree, song of dawn, lament, funeral chants, funeral verses
+cântecul bradului, cântecul zorilor, bocet, cântări funerare, verșuri funebre, song of the fir tree, song of dawn, lament, funeral chants, funeral verses
 
 ## Text extras din PDF
 Anuarul Arhivei de Folclor, nr. XXIX, 2025, p. 173–181

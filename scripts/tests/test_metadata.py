@@ -64,3 +64,92 @@ def test_parse_frontmatter_review_clears_abstract_keywords_and_doi():
     assert parsed["abstract_en"] == ""
     assert parsed["keywords_en"] == ""
     assert parsed["doi"] == ""
+
+
+def test_parse_frontmatter_enforces_abstract_when_keywords_exist():
+    front_text = """
+    TITLU STUDIU
+    ION POP
+    Keywords: arhivă, etnologie
+    Cuvinte-cheie: arhivă, etnologie
+    """
+    full_text = """
+    TITLU STUDIU
+
+    Acest studiu prezintă metodologia cercetării de teren și rezultatele principale obținute în arhivele etnografice din Transilvania.
+    Sunt discutate sursele, limitele și contribuțiile teoretice.
+    """
+    entry = {
+        "title": "TITLU STUDIU",
+        "author": "Ion Pop",
+        "section": "Studii și cercetări",
+        "start_page": 10,
+        "end_page": 20,
+    }
+
+    parsed = parse_frontmatter(
+        front_text=front_text,
+        first_page_text=front_text,
+        full_text=full_text,
+        entry=entry,
+        keyword_stopwords=set(),
+        text_quality=0.8,
+    )
+
+    assert parsed["keywords_en"] != ""
+    assert parsed["abstract_en"] != ""
+
+
+def test_keywords_are_not_derived_from_random_text_without_label():
+    front_text = """
+    TITLU STUDIU
+    ION POP
+    Acest paragraf are termeni precum etnologie, arhivă, metodologie dar nu este linie de keywords.
+    """
+    entry = {
+        "title": "TITLU STUDIU",
+        "author": "Ion Pop",
+        "section": "Studii și cercetări",
+        "start_page": 10,
+        "end_page": 20,
+    }
+
+    parsed = parse_frontmatter(
+        front_text=front_text,
+        first_page_text=front_text,
+        full_text=front_text,
+        entry=entry,
+        keyword_stopwords=set(),
+        text_quality=0.8,
+    )
+
+    assert parsed["keywords_en"] == ""
+    assert parsed["keywords_ro"] == ""
+
+
+def test_keywords_ignore_sentence_like_continuation_after_label():
+    front_text = """
+    TITLU STUDIU
+    ION POP
+    Keywords: etnologie, arhivă, teren.
+    Acest paragraf descrie metodologia și nu trebuie inclus la keywords.
+    """
+    entry = {
+        "title": "TITLU STUDIU",
+        "author": "Ion Pop",
+        "section": "Studii și cercetări",
+        "start_page": 10,
+        "end_page": 20,
+    }
+
+    parsed = parse_frontmatter(
+        front_text=front_text,
+        first_page_text=front_text,
+        full_text=front_text,
+        entry=entry,
+        keyword_stopwords=set(),
+        text_quality=0.8,
+    )
+
+    assert "metodologia" not in parsed["keywords_en"].lower()
+    assert parsed["keywords_en"].lower().startswith("etnologie, arhivă, teren")

@@ -14,7 +14,7 @@
 The present study aims to highlight a series of unique answers, received to the questions of the questionnaire VIII made by Ion Mușlea, with examples directly from the source. As is clear from the catalog of manuscripts, in the archive of the Institute ”Archive of Folklore of the Romanian Academy” from Cluj- Napoca, there are 53 manuscripts-answers to the questionnaire mentioned before, which has the title: ”Earth, water, sky and atmospheric phenomena according to the beliefs and the stories of the people”. In the following pages we will refer to a small part of the answers obtained through the indirect investigation led by Mușlea, after that, the material dedicated to this subject will be typologized and rendered entirely in the volume dedicated to the atmospheric phenomena, as an integral part of ”The Corpus of the Answers from the Ion Mușlea Questionnaires”.
 
 ## Keywords
-pământ, apa, cer, soare, lună, meteorologie, earth, water, sky, sun, moon, answers
+pământ, apa, cer, soare, lună, meteorologie, earth, water, sky, sun, moon, meteorology
 
 ## Text extras din PDF
 Anuarul Arhivei de Folclor, nr. XXVIII, 2024, p. 59–71

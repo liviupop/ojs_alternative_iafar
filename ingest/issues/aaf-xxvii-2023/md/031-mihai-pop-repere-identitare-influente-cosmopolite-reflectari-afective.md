@@ -11,10 +11,10 @@
 - Număr: Vol. 27 Nr. 1 (2023)
 
 ## Abstract
-_Nedetectat_
+The volume “Folklore, Ethnology, Anthropology” signed by Sanda Golopenția was discussed on occasion of the roundtable on the theme Elevate and high–value knowledge: Folklore, Ethnology, Anthropology moderated by Ileana Benga at the Conferences of the Institute “The Archive of Romanian Folklore of the Romanian Academy”. From a massive corpus of theoretical topics we selected for discussion the chapters dedicated to Mihai Pop and then highlighted the epistolary and telegraphic material between correspondents, published by Sanda Golopentia. The research emphasizes the relationship between the Golopenția family and Mihai Pop, as well as his interventions in delicate moments of their lives. At the same time, the image of professor Mihai Pop is constructed through the eyes of specialist Sanda Golopenția and corresponds to confession in the context of confrontation not always desired with otherness. Pieces of the past are set into light through the remembrance of some tension‑filled sequences from their past or by assembling an epistolary exchange, a true cultural treasure. In the same time, we set out to bring the attention upon The Romanian Book and Exile Museum from Craiova, that is meant to bring light into the reunification of Romanian culture with the cultural heritage created outside the country, from the years of post‑war Romanian exile caused by the communist regime.
 
 ## Keywords
-Mihai Pop, corespondență, exil, sprijin, moștenire culturală, Etnologie, Antropologie de Sanda Golopenția, în cadrul manifestării: Conferințele, correspondence, exile, support, cultural heritage, communism regime
+Mihai Pop, corespondență, exil, sprijin, moștenire culturală, regimul comunist, correspondence, exile, support, cultural heritage, communism regime
 
 ## Text extras din PDF
 Anuarul Arhivei de Folclor, nr. XXVII, 2023, p. 399–411

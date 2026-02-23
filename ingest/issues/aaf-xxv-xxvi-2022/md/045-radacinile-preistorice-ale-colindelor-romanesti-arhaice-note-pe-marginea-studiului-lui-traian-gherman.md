@@ -11,10 +11,10 @@
 - Număr: Vol. 25-26 Nr. 1 (2022)
 
 ## Abstract
-_Nedetectat_
+The small article accompanying Traian Gherman’s study (Prehistoric Traces in Transylvanian Winter Carols) is examining some epistemic connections circumscribing the Gherman‑ian approach of archaic winter carols with cynegetic structure present within Romanian folklore. Such connections include: the intellectual roots of Traian Gherman’s perspective (thematizations of prehistory and protohistory in the historical schools of the threshold between the 19th and the 20th century; the romantic and visionary historicism of Nicolae Densușianu); the anti‑historicist cultural thematizations of prehistory/protohistory as explanatory paradigm of folkloric culture (Lucian Blaga, Mircea Eliade, Constantin Noica), and the integratory methodological perspective, bringing together natural and spiritual sciences, and bringing physicist and priest Traian Gherman close to Pierre Teilhard de Chardin. Moreover, Traian Gherman’s hypothesis of examining pre-/ proto‑historical roots of winter carols, anticipates subsequent research (from Mircea Eliade and Octavian Buhociu to Ion Taloș) dedicated to describing and interpreting the archaic cultural layer, and opens generously toward future methodologic perspectives (such as the cognitive studies of culture).
 
 ## Keywords
-colinde, organicism, preistorie, protoistorie, anti‑istoricism, tributară pozitivismului care l‑a marcat, cel puțin în anii formării universitare, la cumpăna secolelor XIX și XX, pe Traian Gherman, carols, prehistory, protohistory, antihistoricism, natural sciences vs. human sciences
+colinde, organicism, preistorie, protoistorie, anti‑istoricism, științele naturii vs, carols, prehistory, protohistory, antihistoricism, natural sciences vs
 
 ## Text extras din PDF
 Anuarul Arhivei de Folclor, nr. XXV–XXVI, 2021–2022, p. 571–577

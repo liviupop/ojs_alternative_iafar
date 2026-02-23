@@ -14,7 +14,7 @@
 A documentary perspective on the scientific cooperation between the Folklore Archive in Cluj This study offers both a historical reconstruction and a reflective reading of the cooperation between the Folklore Archive in Cluj and the Folk Music Research Group in Budapest from the early 1950s to the present. Based on recently rediscovered administrative records ‒ requests, correspondence, fieldwork reports, and acknowledgements of receipt ‒ it retraces a complex history shaped by ideological constraints, personal initiatives, and long-term professional friendships. The narrative follows key episodes: the early student exchanges and joint fieldwork campaigns of the 1950s, the political rupture of 1959, the gradual resumption of collaboration in the late 1960s, and the post-1989 partnerships that opened new avenues for archival access, digitization, and joint publications. By combining archival evidence with the author’s perspective as both researcher and institutional heir, the article sheds light on how, even under restrictive political regimes, scholarly dialogue could persist and later flourish. The visual integration of photographs and facsimiles of archival documents serves not only as illustration but as an active component of the historical argument.
 
 ## Keywords
-cooperare științifică, etnomuzicologie, arhive de folclor, relații româno-maghiare, scientific cooperation, ethnomusicology, folklore archives, Romania-Hungary relations, archival
+cooperare științifică, etnomuzicologie, arhive de folclor, relații româno-maghiare, scientific cooperation, ethnomusicology, folklore archives, Romania-Hungary relations
 
 ## Text extras din PDF
 Anuarul Arhivei de Folclor, nr. XXIX, 2025, p. 23–37

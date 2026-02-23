@@ -14,7 +14,7 @@
 _Nedetectat_
 
 ## Keywords
-markel
+_Nedetectate_
 
 ## Text extras din PDF
 Anuarul Arhivei de Folclor, nr. XXVII, 2023, p. 89–98

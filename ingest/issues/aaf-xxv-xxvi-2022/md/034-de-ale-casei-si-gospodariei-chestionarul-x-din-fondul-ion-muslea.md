@@ -14,7 +14,7 @@
 Casa e vita quotidiana (credenze, usi e racconti popolari). Questionario X dal repertorio di manoscritti di Ion Mușlea (Riassunto) Lo studio presenta importanti aspetti che riguardano le risposte al Questionario X: Casa e vita quotidiana (Credenze, usi e racconti popolari) dal repertorio di manoscritti di Ion Mușlea dell’Instituto Archivio del Folclore dell’Accademia Romena di Cluj. Il questionario X tratta 7 aspetti della vita tradizionale, negli anni compresi tra il 1936 e il 1940. Gli aspetti analizzati sono: la Casa, il Cibo, il Sonno, i Vestiti, la Cura del corpo, le Strade ed il Lavoro. Nell’archivio dell’Instituto di Cluj esistono 34 manoscritti, che in questo momento stanno per essere digitalizzati ed organizzati. Verranno utilizzati per il prossimo volume dedicato a questo argomento cosi ricco e interessante. Parole‑chiave: casa, cibo, sonno, vestito, lavoro, racconti, usi e costumi.
 
 ## Keywords
-casa, hrana, somnul, îmbrăcămintea, munca, povestri, ce se dovedește a fi, dintru proaspăt început, extrem de ofertantă pentru mine, atât ca cititor filolog, dedicate Chestionarului X, gospodăria și viața de toate zilele (Credințe, questionario
+casa, hrana, somnul, îmbrăcămintea, munca, povestri, obiceiuri și practici
 
 ## Text extras din PDF
 Anuarul Arhivei de Folclor, nr. XXV–XXVI, 2021–2022, p. 403–411

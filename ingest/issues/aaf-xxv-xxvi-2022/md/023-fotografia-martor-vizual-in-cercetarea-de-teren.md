@@ -14,7 +14,7 @@
 Our paper aims to highlight some interesting aspects regarding the production of static images in anthropological and ethnological research. We are interested in the way in which traditional societies relate to documentary photography, which we consider a witness of research and a working tool for the future. We also want to present a research technique specific to oral history through which, based on the analysis of the family album, the interests of the researcher can be harmonized with the reluctance of the informant.
 
 ## Keywords
-fotografie, cercetare de teren, comunicare, nu să vizualizăm, să percepem, nu doar să pricepem descrierea, să distingem și să selectăm detaliile, al imaginii imortalizate, pe care o considerăm obiectivă, edificatoare, autentică, uneori, dar ne place, vrem să credem, photography, field research, communication, which
+fotografie, cercetare de teren, comunicare, abordare narativă, photography, field research, communication, narrative approach
 
 ## Text extras din PDF
 Anuarul Arhivei de Folclor, nr. XXV–XXVI, 2021–2022, p. 261–265

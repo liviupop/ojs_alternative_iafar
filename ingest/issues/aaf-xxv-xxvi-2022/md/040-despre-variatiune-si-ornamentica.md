@@ -14,7 +14,7 @@
 This paper explores the much debated topic of ornamentation and variation in Romanian folk music. It starts by comparing the canonical techniques of variation established in the Western art music with the correspondent folkloric practice and by proposing a distinction between the two, a distinction concerned with the existence of clear‑cut thresholds between a base structure and the overlaying ornamentation. The main argument of the paper is that folk music should be considered as a natural product. To demonstrate this, we advance a series of arguments ranging from theology to anthropology and post‑structuralist theory that led us to conclude that the folk song is, in its entirety, an ornamented flow and that the multiple variants of a song are situated in a continuous, rather than discrete perspective. As a case study, we chose to illustrate these conclusions with a succinct analysis of a group of songs from the Apuseni mountains collected by Béla Bartók.
 
 ## Keywords
-cântec popular, variație, ornamentică, teorie poststructuralistă, deconstrucție. În perioada de vârf a Principatului Transilvaniei, intime și publice, transpunând, compunând, transcriind, Diruta), cele auzite, folk song, variation, ornamentation, post‑structuralist theory, music
+cântec popular, variație, ornamentică, teorie poststructuralistă, deconstrucție, folk song, variation, ornamentation, post‑structuralist theory, deconstruction
 
 ## Text extras din PDF
 Anuarul Arhivei de Folclor, nr. XXV–XXVI, 2021–2022, p. 485–518

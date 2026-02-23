@@ -14,7 +14,7 @@
 Typologies are specific methodological tools for folklore scholars, as they provide thematic inventories of all the available (i.e. archived and/ or edited) variants of a certain folkloric genre/ category. In literary folklore, the historical‑geographic method of the so‑called Finnish school developed typologies to chart especially epic categories. The study presents Aarne’s international typology of folk narratives, updated by Stith Thompson and Hans‑Jörg Uther and also the Enzyklopädie des Märchens coordinated by Kurt Ranke and Rolf Wilhelm Brednich and completed in 2015. A brief review and update of Romanian typologies of folk narratives (Lazăr Șăineanu, Adolf Schullerus, Sabina‑Cornelia Stroescu, Tony Brill) sets into light the permanent work of Romanian scholars to connect their scientific results to international tendencies and also to observe the characteristics of an autochtonous rich and complex material. A special attention is directed towards the critical and applied contributions of Ion Mușlea, Dumitru Caracostea and Ovidiu Bîrlea, three outstanding folklorists who have created models for Romanian typologies of literary folklore.
 
 ## Keywords
-folclor literar, etnologie filologică, catalog tipologic, tipologie narativă, în special poetic‑muzicale) are drept consecință principală, după cum se știe, astfel încât, desigur, literary folklore, philological ethnology, type catalogue, narrative typology, typologies
+folclor literar, etnologie filologică, catalog tipologic, tipologie narativă, literary folklore, philological ethnology, type catalogue, narrative typology
 
 ## Text extras din PDF
 Anuarul Arhivei de Folclor, nr. XXV–XXVI, 2021–2022, p. 267–277

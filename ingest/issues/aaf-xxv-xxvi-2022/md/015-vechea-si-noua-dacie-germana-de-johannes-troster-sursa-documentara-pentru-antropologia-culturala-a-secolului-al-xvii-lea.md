@@ -14,7 +14,7 @@
 _Nedetectat_
 
 ## Keywords
-troster
+_Nedetectate_
 
 ## Text extras din PDF
 Anuarul Arhivei de Folclor, nr. XXV–XXVI, 2021–2022, p. 145–165

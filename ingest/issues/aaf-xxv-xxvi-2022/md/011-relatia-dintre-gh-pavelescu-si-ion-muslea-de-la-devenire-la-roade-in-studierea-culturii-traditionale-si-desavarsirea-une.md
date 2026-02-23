@@ -14,7 +14,7 @@
 The article presents the productive relationship between two researchers in ethnography and folklore. Ion Mușlea, the director of the “Folklore Archive of the Romanian Academy”, wrote an appeal to the villages’ intellectuals to help him in collecting folklore by distributing folkloric questionnaires. The teachers at the “Aurel Vlaicu” high school in Orăștie asked their pupils if they would be interested in helping. One of the students, being born in a mountain village and having folklore in his blood, offered to complete the questionnaire. His name was Gheorghe Pavelescu and he did an excellent job. Pavelescu became a skilled collector and Mușlea rewarded him with social prestige, books, and money. By chance, another person young student. Pavelescu took this as a good sign and enrolled at the University of Cluj. While he was an undergraduate, Mușlea helped him with living expenses and research. They worked together for many years and the relationship between the two personalities is a remarkable example of how such academic collaborations can become life‑long friendship.
 
 ## Keywords
-chestionar folcloric, culegere de folclor, Gheorghe Pavelescu, Ion Mușlea, hărnicia, dăruirea, contextul cultural și politic, am făcut asocierea cu afirmația „Alegerea, și nu șansa, folkloric questionnaire, collecting folklore, The Folklore Archive of the Romanian Academy
+chestionar folcloric, culegere de folclor, Gheorghe Pavelescu, Ion Mușlea, Arhiva de, folkloric questionnaire, collecting folklore, The Folklore
 
 ## Text extras din PDF
 Anuarul Arhivei de Folclor, nr. XXV–XXVI, 2021–2022, p. 115–122

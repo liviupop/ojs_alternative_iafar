@@ -14,7 +14,7 @@
 This paper is bringing into discussion the fieldresearches done by the author in the past thirty years. Starting these researches as an undergraduate student at the Faculty of Letters, the author is taking the reader through the major crises and conundrums she had to face along these years. In the beginning all was beautiful and fine, and the researcher was confident about the path to follow. The past years though, show that the radical changes that have taken place in Romanian society at large have brought negative influences upon the ethnological methodology. The article is aiming to initiate a discussion about how ethnological research looks like at present, and how should we expect it to be in the future.
 
 ## Keywords
-etnologie, cercetare de teren, rural, metodologie, crize. Evenimentele din ultimii doi ani, m‑au făcut să schimb destul de mult metodologia, ethnology, fieldresearch, methodology, years
+etnologie, cercetare de teren, rural, metodologie, crize, ethnology, fieldresearch, methodology, crisis
 
 ## Text extras din PDF
 Anuarul Arhivei de Folclor, nr. XXVII, 2023, p. 193–203

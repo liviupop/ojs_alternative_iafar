@@ -14,7 +14,7 @@
 Holidays, Customs, Beliefs at the Population of Romanian Origin from Gradskovo (Serbia) In this paper we show elements of traditional culture, specific to the population of Romanian origin from Gradskovo (Serbia) village, which are present in the cultural immaterial heritage (holidays, customs, believes) as well as self‑identification elements of oral history.
 
 ## Keywords
-sărbători, obiceiuri, credințe, Valea Timocului, am cules materiale din două localități învecinate, despărțite de granița dintre cele două state, având un cimitir al obștii, precum și biserica, holidays, customs, beliefs, Timok Valley, oral history
+sărbători, obiceiuri, credințe, Valea Timocului, istorie orală, holidays, customs, beliefs, Timok Valley, oral history
 
 ## Text extras din PDF
 Anuarul Arhivei de Folclor, nr. XXV–XXVI, 2021–2022, p. 295–312

@@ -14,7 +14,7 @@
 An intertextual approach of the sociological monograph film „A Bessarabian village – Cornova” Conceived as a new genre in cinematography by Dimitrie Gusti, the sociological film has a script based on his theory of frames and manifestations. Co-directed with his collaborators, it suggestively reveals both the Romanian rural world that has changed its aspect over time and the dynamics of field research with the help of multidisciplinary teams coordinated by the sociologist. Our hermeneutical analysis focuses on fragments of the documentary film made in one of the campaigns of sociological monograph, in the interwar period, by Dimitrie Gusti and his collaborators, who conducted research on Romanian villages, within the Romanian Social Institute, in 1931: „A Bessarabian village – Cornova”. We relate this sociological documentary to other texts, especially written ones, containing testimonies both about the making of the documentary and about the members of the research team who appear, self-referentially, in the film. Thus, almost 100 years after it was made and after the film was not accessible to the public for a long period until recently, the images become complementary to the text and they render „fragments of life” and people’s faces.
 
 ## Keywords
-filmul documentar sociologic, Dimitrie Gusti, scenariu sociologic gustian, Cornova, ceea ce constituie „științificitatea” pe, sociological documentary film, Gusti’s sociological script, film
+filmul documentar sociologic, Dimitrie Gusti, scenariu sociologic gustian, Cornova, sociological documentary film, Gusti’s sociological script
 
 ## Text extras din PDF
 Anuarul Arhivei de Folclor, nr. XXIX, 2025, p. 257–269

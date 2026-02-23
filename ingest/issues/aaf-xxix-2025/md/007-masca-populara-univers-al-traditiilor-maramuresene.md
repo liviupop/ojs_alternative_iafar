@@ -14,7 +14,7 @@
 Throughout the research, traditional masks from Maramureș – a deeply tradition-rooted ethnographic region – were brought into focus. Particular attention was given to the masks used during the winter holidays, when they play a central role in ritualistic and theatrical performances. The study of these customs revealed how masks are perceived within the worldview of rural communities, emphasizing their uniqueness, singularity, and symbolic significance. Moreover, the mask holds a distinct place within folk theatre, where it becomes the core of the entire artistic act. To complete this perspective, the research included an interview with a folk artisan – an essential figure in the existence of the mask. Through his imagination and creativity, he succeeds in elevating the mask to the level of a true work of art.
 
 ## Keywords
-masca, tradiție populară, identitate culturală, Maramureș, mask, folk tradition, cultural identity, masks
+masca, tradiție populară, identitate culturală, Maramureș, patrimoniu imaterial, mask, folk tradition, cultural identity, intangible heritage
 
 ## Text extras din PDF
 Anuarul Arhivei de Folclor, nr. XXIX, 2025, p. 115–129

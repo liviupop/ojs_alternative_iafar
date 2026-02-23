@@ -14,7 +14,7 @@
 The paper addresses the place and role of the funerary fir tree among the other tombal signs that can be found in the south of Hunedoara County, the significances of the fir placed at the grave being conveyed: the communication of the fact that a young person died (unmarried), the marriage of the deceased, the bringing of the two together (the man and his double, the fir). As any sepulchral sign, the fir contains a coded text that can be read by observing the ornamentation made during the ritual, but also after the funeral, from which data on the deceased can be found, besides the simple writing of the name and life period. Also, the fir/the funerary assembly with a fir tree is analysed as a projection of the world in which the deceased lived (and should have still lived) and that he takes with him, thus reducing the risk of coming back as a revenant.
 
 ## Keywords
-brad, ritual funerar, monument funerar, cruce, stâlp funerar, teama de strigoi. Bradul pus la mormânt este, ca și stâlpul funerar, existența lui a fost, de cele mai mult ori, inițial, cu timpul, fir tree, funerary ritual, funerary monument, cross, funerary post, deceased
+brad, ritual funerar, monument funerar, cruce, stâlp funerar, teama de strigoi, fir tree, funerary ritual, funerary monument, cross, funerary post, fear of revenants
 
 ## Text extras din PDF
 Anuarul Arhivei de Folclor, nr. XXVIII, 2024, p. 95–110

@@ -14,7 +14,7 @@
 This study is a fragment of a larger research on wine and viticulture in Romania. In this material I presented a short history of wine, with a greater emphasis on the celebrations occasioned by this culture, on the existing popular traditions of cutting the vines, picking them and especially on the production of wine. Even if it is only a few cultural areas researched, one can see a certain common heritage coming from the great civilizations that knew the vine and wine. We note from the beginning the use of the drink especially in religious ceremonies and in funeral rituals, to then reach consumption on a wider scale. It was then used as a medical remedy, then for profane consumption. Later, in Europe, echoes of Dionysian-reminiscent processions were preserved: processions of participants, the election of a king of the feast, feasts and supported consumption of wine, even allegorical chariots, which were organized during the grape harvest.
 
 ## Keywords
-culesul viilor, consum ceremonial, consum profan, pe tradițiile populare existente la tăiatul viilor, grape harvest, winemaking, ceremonial consumption, profan consumption, wine
+culesul viilor, consum ceremonial, consum profan, procesiuni alegorice, grape harvest, winemaking, ceremonial consumption, profan consumption, allegorical
 
 ## Text extras din PDF
 Anuarul Arhivei de Folclor, nr. XXVIII, 2024, p. 131–141

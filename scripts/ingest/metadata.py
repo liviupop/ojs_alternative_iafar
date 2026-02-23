@@ -8,7 +8,6 @@ from .language import detect_language
 from .toc_parser import is_review_entry
 from .text_cleanup import (
     clean_line,
-    enforce_last_keyword_from_context,
     merge_keyword_fields,
     normalize_keywords,
     normalize_person_line,
@@ -119,16 +118,6 @@ def _extract_labeled_field(
 
 
 def _extract_keywords_field(lines: list[str], labels: tuple[str, ...]) -> str:
-    stop_terms = (
-        "keywords",
-        "keyword",
-        "cuvintecheie",
-        "rezumat",
-        "abstract",
-        "institutul",
-        "anuarul",
-    )
-
     for idx, line in enumerate(lines):
         norm = normalized_letters(line)
         if not any(label in norm for label in labels):
@@ -140,25 +129,35 @@ def _extract_keywords_field(lines: list[str], labels: tuple[str, ...]) -> str:
         elif " - " in line:
             value = line.split(" - ", 1)[1].strip()
 
-        parts = [value] if value else []
-        for follow in lines[idx + 1 : idx + 8]:
-            follow_line = clean_line(follow)
-            if not follow_line:
-                break
-            follow_norm = normalized_letters(follow_line)
+        parts: list[str] = []
+        if value:
+            value = re.sub(r"\s+", " ", value).strip(" ;,")
+            if "." in value:
+                first = value.split(".", 1)[0].strip()
+                if "," in first or ";" in first:
+                    value = first
+            if ("," in value or ";" in value) and len(value) <= 220:
+                parts.append(value)
 
-            if any(term in follow_norm for term in stop_terms):
+        # If label has no inline value, allow only immediate list-like continuation lines.
+        if not parts:
+            for follow in lines[idx + 1 : idx + 3]:
+                follow_line = clean_line(follow)
+                if not follow_line:
+                    break
+                if len(follow_line) > 140:
+                    break
+                if _looks_like_author_line(follow_line) or _is_heading_like_line(follow_line):
+                    break
+                # Must look like explicit keyword list.
+                if "," in follow_line or ";" in follow_line:
+                    if "." in follow_line:
+                        first = follow_line.split(".", 1)[0].strip()
+                        if "," in first or ";" in first:
+                            follow_line = first
+                    parts.append(follow_line)
+                    continue
                 break
-            if re.match(r"^[\*\u2217]", follow_line):
-                break
-            if len(follow_line) > 200:
-                break
-
-            # Keywords continuation tends to be comma/semicolon or compact phrase lines.
-            if "," in follow_line or ";" in follow_line or len(follow_line.split()) <= 14:
-                parts.append(follow_line)
-                continue
-            break
 
         return normalize_keywords(" ".join(parts))
 
@@ -280,6 +279,32 @@ def _extract_abstract_from_first_page(lines: list[str], title: str, author_hint:
     return abstract
 
 
+def _fallback_abstract_from_full_text(full_text: str, title: str, author_hint: str) -> str:
+    text = (full_text or "").strip()
+    if not text:
+        return ""
+
+    paragraphs = [re.sub(r"\s+", " ", part).strip() for part in re.split(r"\n{2,}", text) if part.strip()]
+    for paragraph in paragraphs[:10]:
+        if len(paragraph) < 80:
+            continue
+        norm = normalized_letters(paragraph)
+        if any(token in norm for token in ("keywords", "keyword", "cuvintecheie")):
+            continue
+        if line_matches_title(paragraph, title):
+            continue
+        if _matches_author_hint(paragraph, author_hint):
+            continue
+        return paragraph
+
+    compact = re.sub(r"\s+", " ", text)
+    sentence = re.search(r"([A-ZĂÂÎȘȚ].{80,700}?[.!?])", compact)
+    if sentence:
+        return sentence.group(1).strip()
+
+    return ""
+
+
 def _extract_affiliation(lines: list[str], raw_text: str) -> str:
     for line in lines:
         if re.match(r"^[\*\u2217]\s*", line):
@@ -391,9 +416,10 @@ def parse_frontmatter(
 
     keywords_en = _extract_keywords_field(first_page_lines, labels=("keywords", "keyword", "schlusselworte", "motscles"))
     keywords_ro = _extract_keywords_field(first_page_lines, labels=("cuvintecheie",))
+    has_keywords_on_page = bool(keywords_en or keywords_ro)
 
     abstract_en = ""
-    if _section_allows_abstract(entry):
+    if _section_allows_abstract(entry) or has_keywords_on_page:
         abstract_en = _extract_abstract_from_first_page(first_page_lines, title, toc_author)
 
     # Keep RO abstract disabled as requested by editorial workflow.
@@ -410,16 +436,15 @@ def parse_frontmatter(
         emails = ""
 
     merged_keywords = merge_keyword_fields(keywords_ro, keywords_en)
-    if not review:
-        merged_keywords = enforce_last_keyword_from_context(
-            merged_keywords,
-            abstract_en,
-            full_text,
-            keyword_stopwords,
-        )
 
     keywords_ro = merged_keywords
     keywords_en = merged_keywords
+
+    if keywords_en and not abstract_en and not review:
+        # Relaxed fallback when we do have keywords but strict first-page slice failed.
+        abstract_en = _fallback_unlabeled_abstract(first_page_lines, title)
+    if keywords_en and not abstract_en and not review:
+        abstract_en = _fallback_abstract_from_full_text(full_text, title, toc_author)
 
     if abstract_en:
         # Abstract language can be EN/DE/FR; apply EN-specific repair only when detected.

@@ -14,7 +14,7 @@
 Mirrors of Civil Realism and Interculturality (Prismatic Ethnoantropology) This is a sample of what I call applied prismatic ethnoanthropology. Hereby filmography samples are used for what I call „civil realism”, meaning veridic mirroring or illustration of the anthropological‑cultural realm. Often, in spite of „documenting” ethnic, apparently specific social situations or mentalities, such films actually illustrate transnational, transcultural and transreligious human values, gestures, prejudice, attitudes, ideas, universally valid/discernable cultural frames and motives. Throughout these pages I underline the Romanianness of moments within a Turkish and a Libanese film (Mustang and Ghadi) just in order to demonstrate the universality of (many) cultural paradigms. The demo here ends up by stressing the value of multiculturally informed interpretation and interdiciplinary analysis of cultural forms, expressions, and gestures.
 
 ## Keywords
-etnoantropologie, realismul civic, interculturalitate, mentalitate, virginitate, filmografie, filmul etno, Mustang, Ghadi. Premize, domenii, ethnoantropology, civil realism, interculturality, mentality, virginity, filmography, ethno‑films, Ghadi
+etnoantropologie, realismul civic, interculturalitate, mentalitate, virginitate, filmografie, ethnoantropology, civil realism, interculturality, mentality, virginity, filmography
 
 ## Text extras din PDF
 Anuarul Arhivei de Folclor, nr. XXVII, 2023, p. 143–153

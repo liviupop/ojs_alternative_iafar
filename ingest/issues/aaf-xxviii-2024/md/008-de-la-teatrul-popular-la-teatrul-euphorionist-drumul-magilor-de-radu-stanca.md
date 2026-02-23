@@ -14,7 +14,7 @@
 Only published in 2000, when the volume Turnul Babel [The Tower of Babel] was edited, Drumul magilor [The Path of the Magi] by Radu Stanca, subtitled Viflaim tragic în 3 acte [Tragic “Viflaim” in 3 acts] is one of the least commented works of the Transylvanian author. The preface of the aforementioned volume, signed by Irina Petraș, expeditiously treats the play in question, dedicating a single rather derogatory and limited paragraph to it. The present article aims to revitalize the interest in “The Path of the Magi”, emphasising the complexity of the work written by the main playwright of the Sibiu Literary Circle and of the Euphorion Project. The play possesses visible bonds with the folk drama, which is a rather confusing fact, considering the ideals that marked the Euphorion Project and which Radu Stanca formulated. We will try to analyse how the playwright treats a subject characteristic of the folk drama of winter customs and how this folkloric origin is reconciled with the Euphorion Project’s drama, whose founding father is Radu Stanca himself.
 
 ## Keywords
-Radu Stanca, teatrul popular, studii culturale, Cercul Literar de la Sibiu, dar nesatisfăcător comentate de către exegeza literară, Drumul magilor a lui Radu Stanca, fapt observabil încă din subtitlul piesei, „careul de ași”, folk drama, cultural studies, the Sibiu Literary Circle, euphorion
+Radu Stanca, teatrul popular, studii culturale, Cercul Literar de la Sibiu, studii literare, folk drama, cultural studies, the Sibiu Literary Circle, literary studies
 
 ## Text extras din PDF
 Anuarul Arhivei de Folclor, nr. XXVIII, 2024, p. 73–94

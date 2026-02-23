@@ -14,7 +14,7 @@
 Preserving the Intangible Memory in Transylvania of the Last Century: Outline and Milestones. In recent decades, the preservation and transmission of intangible cultural memory have become subjects of major interest among researchers and cultural institutions. This concern is particularly relevant in the context of Transylvania, a region rich in traditions and customs that reflect its ethnic and historical diversity. This article explores the relationships between various entities and centers of influence in the conservation of intangible cultural heritage in Transylvania throughout the 20th century and the beginning of the 21st century, highlighting the importance of a coordinated and sustained approach to this topic.
 
 ## Keywords
-patrimoniu cultural imaterial, folclor transilvănean, păstrarea memoriei colective, transmitere culturală, metode de cercetare etnografică, intangible cultural heritage, Transylvanian folklore, collective memory preservation, cultural transmission, transylvania
+patrimoniu cultural imaterial, folclor transilvănean, păstrarea memoriei colective, intangible cultural heritage, Transylvanian folklore, collective memory preservation
 
 ## Text extras din PDF
 Anuarul Arhivei de Folclor, nr. XXVIII, 2024, p. 27–34

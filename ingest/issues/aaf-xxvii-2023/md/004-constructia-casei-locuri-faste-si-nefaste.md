@@ -14,7 +14,7 @@
 La costruzione della casa: luoghi benedetti e luoghi malvagi (Riassunto) Le risposte trovate nei manoscritti Mușlea sono inedite, altre invece sono uniche, rendendo interesante questo studio dedicato al questionario X. In queste pagine ho scelto solo una piccola parte delle informazioni raccolte nei manoscritti, che rappresentano solo una tessera del mosaico delle tradizioni e costumi popolari dei nostri villaggi. Parola chiave: casa, mura, sogno, premonizione, luogo benedetto, luogo malvagio.
 
 ## Keywords
-casă, zid, vis, premoniție, loc fast, chestionar ce are ca titlu: „Casa, manoscritti
+casă, zid, vis, premoniție, loc fast, loc blestemat
 
 ## Text extras din PDF
 Anuarul Arhivei de Folclor, nr. XXVII, 2023, p. 71–83

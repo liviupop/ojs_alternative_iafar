@@ -14,7 +14,7 @@
 Harry Brauner replenishes the scientific perspective of research on the Romanian villages under the role of music in social life, starting from the interwar period with the operational side of Dimitrie Gusti’s program, using the entire range of media supports: performance, discography, radio, theater, music, films and ethno-musicological documentary film. The beginnings of Brauner’s efforts towards media anthropology start with Maria Tănase in the 30s and end in the 70s with his author film called “The Sound of the Earth”, a ethno-musicological film documentary, after he is released from the communist prison. Under the influence of Harry Brauner, Maria Tănase enlarged her vision from the Bucharest slum repertoire to the village song, which, at that time, could be sung only at the country side, by anonymous singers. Subsequently, Maria Tănase became herself a folklore collector, constantly enriching her repertoire and succeeding in asserting the village song or village-inspired songs even upon the most pretentious music lovers.
 
 ## Keywords
-antropologia media, Maria Tănase, etno-antropologie rurală, supraviețuitor al închisorilor comuniste, cine-etnomuzicologie. Într-un articol din 2008, din România literară, la centenarul nașterii lui Harry Brauner, Iordan Datcu lansa două provocări adresate tinerilor etnomuzicologi, anume, media anthropology, rural ethno- anthropology, survivor of communist prisons, brauner
+antropologia media, Maria Tănase, etno-antropologie rurală, supraviețuitor al, media anthropology, rural ethno- anthropology, survivor of communist
 
 ## Text extras din PDF
 Anuarul Arhivei de Folclor, nr. XXVIII, 2024, p. 215–225

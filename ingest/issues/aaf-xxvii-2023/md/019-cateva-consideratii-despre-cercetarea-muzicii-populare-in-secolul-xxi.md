@@ -14,7 +14,7 @@
 The article discusses the challenges of preserving traditional culture, with a focus on folk music in Romania. While there is concern about the loss of traditional culture, there are also positive examples of efforts to preserve and revalue it. It is important to avoid a nostalgic and static approach to traditional culture and recognize that it can be reinterpreted and revalued in the context of the present time. The article also briefly touches on various themes related to ethnomusicology, including the challenges faced by researchers in the field, the importance of developing unique research methodologies for Romanian folk music, the need to create a databases of all Romanian melodies documented throughout history, and the potential of using artificial intelligence (AI) in ethnomusicology research.
 
 ## Keywords
-cultură tradițională, muzică populară, conservare, etnomuzicologie, sistematizare, în cadrul unei conferințe, unele cântece populare vechi au dispărut, au fost uitate, traditional culture, folk music, preservation, ethnomusicology, systematization, artificial intelligence (AI)
+cultură tradițională, muzică populară, conservare, etnomuzicologie, sistematizare, traditional culture, folk music, preservation, ethnomusicology, systematization, artificial
 
 ## Text extras din PDF
 Anuarul Arhivei de Folclor, nr. XXVII, 2023, p. 287–293

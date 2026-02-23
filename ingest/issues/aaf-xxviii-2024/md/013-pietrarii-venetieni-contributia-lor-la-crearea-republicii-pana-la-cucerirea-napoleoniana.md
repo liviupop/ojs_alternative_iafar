@@ -14,7 +14,7 @@
 I tagliapietra veneziani. Il loro contributo alla creazione della Repubblica fino alla conquista napoleonica (Riassunto) Al di la dei limiti oggettivi e oltre le omissioni di una storiografia disattenta, Venezia rappresenta nell’arco di tempo tra 15 e 19 secolo un luogo di significative convergenze intellettuali; secondo Guido Zucconi, forse più che in qualsiasi altra città italiana, vi si incontrano, o semplicemente si incrociano, idee pratiche, personaggi, teorie critico-estetiche tra le più innovative che in quel settore di studi potessero allora essere offerte. A questo proposito affiora un quesito sul giudizio storico-critico che possiamo formulare: quanto vi è di antico, in questa idea un po’enciclopedica di realizzare l’unità del sapere e di cercare di ricostruire, in una descrizione coerente, il rapporto arte/mestiere da una parte e arte/tecnica dall’altra parte? Quel proposito di ricucire i frammenti di informazioni e stata già avviata nei secoli passati. Sono ricerche di grande ampiezza che hanno trovato più spazio nel secolo XX, soffermandosi, grazie ai moderni saperi scientifici, sulle ipotesi nuove riguardando le tecniche del lavoro dei materiali, nei secoli passati a Venezia.
 
 ## Keywords
-pietrari, școli de meserii, pietra d’Istria, Veneția, Jesolo, Concordia, tagiapiera, schola, schola grande, Venezia, proposito
+pietrari, școli de meserii, pietra d’Istria, Veneția, arhitectură, tagiapiera, schola, schola grande, Venezia, architettura
 
 ## Text extras din PDF
 Anuarul Arhivei de Folclor, nr. XXVIII, 2024, p. 143–156

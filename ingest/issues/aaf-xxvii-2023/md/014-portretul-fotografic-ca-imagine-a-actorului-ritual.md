@@ -14,7 +14,7 @@
 This paper stems from the research conducted on the Căluș ritual, which has mainly focused on the visual documentation of the performance. Spanning a period of six years, my research centred upon photographing the performers of the ritual dance within the framework of an experiment aimed to reveal how the contemporary ritual practice is enacted. The new data gathered display how the contemporary Căluș ritual is performed and perceived within the community, as well the ways in which the present day Călușari (the Căluș ritual performers) make up their own identity as ritual actors.
 
 ## Keywords
-Căluș, ritual, portret, fotografie, vizual, cercetările din cadrul disciplinelor umaniste au propus, în ceea ce privește documentarea vizuală, dimpreună cu utilizarea și interpretarea materialelor rezultate, abordări dintre cele mai diverse. Totuși, disciplina antropologiei vizuale, astfel constituită, s‑au dorit să o marcheze, dar fără prea mare succes, dacă ținem cont, portrait, photography, visual, contemporary
+Căluș, ritual, portret, fotografie, vizual, imagine, portrait, photography, visual, image
 
 ## Text extras din PDF
 Anuarul Arhivei de Folclor, nr. XXVII, 2023, p. 175–191

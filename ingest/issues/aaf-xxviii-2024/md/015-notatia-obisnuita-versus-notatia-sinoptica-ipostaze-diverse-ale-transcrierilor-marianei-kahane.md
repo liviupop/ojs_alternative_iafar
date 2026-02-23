@@ -14,7 +14,7 @@
 Regular versus Synoptic Transcription – Different Aspects of Mariana Kahane’s Transcriptions Mariana Kahane is recognised among ethnomusicologists as a talented musician and transcriber. Her musical transcriptions are, by far, among the most accurate and detailed ones and many times I have found different versions of the same transcription, made several years apart, in the Archive of the Institute of Ethnography and Folklore “Constantin Brăiloiu”. My study presents three such transcriptions of funeral ritual songs (collected by Constantin Brăiloiu in the 1930s, in Gorj region), which Kahane made both in ordinary and synoptic manner. Through a brief comparative analysis, I have tried to highlight the melodic, rhythmic and structural differences between the two versions, and how these can sometimes change the perception of the songs.
 
 ## Keywords
-Mariana Kahane, arhiva de folclor, cântece funebre, transcriere obișnuită, experiențele sale multiple de teren, Tiberiu Alexandru, Emilia Comișel, în cadrul Conservatorului, folklore archive, funeral songs, regular transcription, synoptic transcription
+Mariana Kahane, arhiva de folclor, cântece funebre, transcriere obișnuită, transcriere, folklore archive, funeral songs, regular transcription, synoptic
 
 ## Text extras din PDF
 Anuarul Arhivei de Folclor, nr. XXVIII, 2024, p. 173–183

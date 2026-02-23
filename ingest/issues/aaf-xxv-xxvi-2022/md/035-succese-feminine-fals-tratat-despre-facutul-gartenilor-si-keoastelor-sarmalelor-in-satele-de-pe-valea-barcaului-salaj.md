@@ -14,7 +14,7 @@
 Feminine Succes. False Treaty on Making “Garteni” and “Sarmale” in the Barcau Valley (Salaj Marriage strategies used to follow rules and well affixed customs in the Romanian traditional village. Girls were raised so that they would handle agricultural activities and also chores around the house and in the kitchen. They would accumulate know‑how that made them competitive and eligible for marriage. This paper tackles the process of getting the girls ready for marriage – a sort of training course – as rules required in the traditional Romanian village. The ideas are backed up by information taken from the Romanian villages, following a field inquiry. The myth that girls would have never been able to get married unless they mastered pretentious processes for cooking food has been busted due to aggressive urban influences under the eternal lack of spare time. This feminine know‑how is only valuable for defining life in the traditional village.
 
 ## Keywords
-sat tradițional, căsătorie, bucătărie, femeie, gospodină, fete mărișoare, fete fecioare, fete măritate, apoi neveste tinere Strategiile maritale urmau, în satul tradițional românesc, datorită căreia femeia a fost prea puțin valorizată, dar, în general, viața socială a comunității era asigurată, aproape, traditional village, marriage, kitchen, woman, housewife, traditional
+sat tradițional, căsătorie, bucătărie, femeie, gospodină, succes, traditional village, marriage, kitchen, woman, housewife, success
 
 ## Text extras din PDF
 Anuarul Arhivei de Folclor, nr. XXV–XXVI, 2021–2022, p. 413–424

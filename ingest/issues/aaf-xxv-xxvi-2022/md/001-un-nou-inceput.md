@@ -14,7 +14,7 @@
 _Nedetectat_
 
 ## Keywords
-etnografie
+_Nedetectate_
 
 ## Text extras din PDF
 UN NOU ÎNCEPUT

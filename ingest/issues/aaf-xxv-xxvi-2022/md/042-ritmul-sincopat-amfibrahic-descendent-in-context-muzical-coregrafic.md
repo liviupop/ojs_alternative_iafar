@@ -14,7 +14,7 @@
 This paper aims to explore the syncopated descendant amphibrach rhythm, a type that belongs to the broader category of the syncopated rhythms. It is composed by a combination of two metric feet: an amphibrach plus a dactyl, or an amphibrach plus a spondee. We provide multiple examples of its usage in various dances from different regions that span a large geographical area, from northwestern Romania (the Meseș basin, the Lăpuș area), to the Transylvanian plain and Someș valley, all the way down to the Subcarpathian Muntenia (Prahova valley). One of our conclusions is that all these dances have a common origin. In the end, we hope to demonstrate that the syncopated descendant amphibrach rhythm is specific for Romanian folk music and also that it is representative for its archaic stratum.
 
 ## Keywords
-ritm sincopat, ritm amfibrahic descendent, dansuri populare românești, Învârtită, Ca la Breaza. După cum se știe, în folclorul coregrafic românesc întotdeauna ritmul este secondat, syncopated rhythm, descendant amphibrach rhythm, Romanian folk dances, amphibrach
+ritm sincopat, ritm amfibrahic descendent, dansuri populare românești, Învârtită, syncopated rhythm, descendant amphibrach rhythm, Romanian folk dances
 
 ## Text extras din PDF
 Anuarul Arhivei de Folclor, nr. XXV–XXVI, 2021–2022, p. 519–535

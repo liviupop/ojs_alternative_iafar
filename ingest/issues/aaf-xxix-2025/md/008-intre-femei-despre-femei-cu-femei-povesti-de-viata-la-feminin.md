@@ -14,7 +14,7 @@
 This paper is using three axes of approach in order to bring forward the lifestories of women. The author is mingling ideas coming out from the praxis of interviews in the fieldresearch regarding the relation between the researcher and interviewee with ideas regarding the topics of discussion preferred by the interviewees. At the same time, the approach is framed in the gender category, trying to highlight what importance may have the fact of being of the same gender when doing fieldresearch on some specific topics.
 
 ## Keywords
-femei, studii de gen, muncă, îngrijire, cum ar fi de exemplu subiectul violenţei domestice, întotdeauna relatat la persoana a treia, şi nu la persoana întâi singular, şi, women, gender studies, work, care, fieldresearch
+femei, studii de gen, muncă, îngrijire, rural, women, gender studies, work, care
 
 ## Text extras din PDF
 Anuarul Arhivei de Folclor, nr. XXIX, 2025, p. 131–144

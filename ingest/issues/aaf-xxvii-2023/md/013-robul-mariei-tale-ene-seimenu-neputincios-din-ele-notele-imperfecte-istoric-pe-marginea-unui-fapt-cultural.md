@@ -14,7 +14,7 @@
 Notele imperfecte istoric... pe marginea unui fapt cultural* “Your Majesty’s Servant, Ene the Mercenary, Helpless because of the Fairies”. The Imperfect The present material contains some comments on an unusual case from the 18th century, starting from the analysis of the complaint of an old mercenary (seimen), Ene, to the Phanariot prince, Alexandru Moruzi. The way he signs “himself”, admitting his helplessness as provoked by Iele, puts us in front of a surprising confrontation of cultural codes. His gesture that brings him out of anonymity at the very moment of his biography challenges us to a reading from which we understand, through indirect reflection, his place in a society where the prince, the saint thaumaturgist, the poor and Ielele coexist without being bother to each other too much.
 
 ## Keywords
-istorie culturală, regim fanariot, Țara Românească, povestea lui Ene seimenul, Ene Seimenu, neputincios din Ele”3. Este, cred, partea care a reținut, pe bună dreptate, prin semnificația sa culturală, cultural history, Phanariot regime, Wallachia, story of Ene the mercenary (seimen), „helpless because of the fairies”
+istorie culturală, regim fanariot, Țara Românească, povestea lui Ene seimenul, cultural history, Phanariot regime, Wallachia, story of Ene the mercenary (seimen)
 
 ## Text extras din PDF
 Anuarul Arhivei de Folclor, nr. XXVII, 2023, p. 165–173

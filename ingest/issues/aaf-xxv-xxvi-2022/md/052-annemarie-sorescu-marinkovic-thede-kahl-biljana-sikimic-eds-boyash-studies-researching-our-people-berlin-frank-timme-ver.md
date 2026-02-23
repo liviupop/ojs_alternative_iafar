@@ -14,7 +14,7 @@
 _Nedetectat_
 
 ## Keywords
-capitole
+_Nedetectate_
 
 ## Text extras din PDF
 Recenzii

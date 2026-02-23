@@ -14,7 +14,7 @@
 _Nedetectat_
 
 ## Keywords
-golopentia
+_Nedetectate_
 
 ## Text extras din PDF
 Anuarul Arhivei de Folclor, nr. XXV–XXVI, 2021–2022, p. 89–97

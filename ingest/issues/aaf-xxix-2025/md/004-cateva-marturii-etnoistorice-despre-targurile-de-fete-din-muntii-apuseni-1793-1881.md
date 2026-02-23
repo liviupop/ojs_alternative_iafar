@@ -14,7 +14,7 @@
 Several Ethnohistorical Testimonies regarding the Girls’ Fairs from the Western Carpathians The present study aims to present a few ethnohistorical testimonies from the 18th-19th centuries, written in German language, which mention and describe the Romanian inhabitants living in the Transylvanian Western Carpathians (moți) and at the foot of these mountains (crișeni), as well as their unique custom of the so-called „girls’ fairs” (târguri de fete). The latter were held yearly, on the Mountain Găina („Hen”), but also on further mountain plateaus of Cucurbăta, Gheleșoaia or Piatra Grăitoare (Speaking Stone) beneath the peak Bihor. To these is to be added the not less interesting „kissing fair” (târgul de sărutat) of Hălmagiu. The oldest description of the „girls’ fairs”, realised by the Saxon memory writer Michael Conrad von Heydendorff Senior in 1793, is followed by those signed by Austrian speologist and ethnographer Adolf Schmidl in 1863, and by the Romanian classic and novelist Ioan Slavici in 1881, in his little known first imagology study of the Romanian literature, dedicated to Die Rumänen in Ungarn, Siebenbürgen und der Bukowina (The Romanians in Hungary, Transylvania and Bukovina).
 
 ## Keywords
-târgurile de fete, moți și crișeni, Munții Apuseni, cel de pe Muntele Găina, care – cu prilejul desfășurării târgului, „Girls’ fairs”, moți and crișeni, Romanian Western Carpathians, fairs
+târgurile de fete, moți și crișeni, Munții Apuseni, mărturii etnoistorice din 1793–1881, „Girls’ fairs”, moți and crișeni, Romanian Western Carpathians, ethnohistorical testimonies
 
 ## Text extras din PDF
 Anuarul Arhivei de Folclor, nr. XXIX, 2025, p. 57–81

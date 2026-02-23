@@ -14,7 +14,7 @@
 The article focuses on the way intangible heritage, a symbolic system that creates cultural identity, is used in the heritage‑making process in order to reinforce the social cohesion of local communities. It is based on the research activity, and cultural interventions, of the researchers from the National Museum of the Romanian Peasant, in collaboration with specialists from the Faculty of Geology (University of Bucharest), when creating small local exhibitions and cultural events in the communities situated in two geoparks: UNESCO International Geopark “Country of Hațeg”, and the aspiring UNESCO Geopark, “Buzău Land”.
 
 ## Keywords
-patrimoniu imaterial, geoparc, cercetare interdisciplinară, identitate culturală, comunitate, patrimonializare, Muzeul Național al Țăranului Român, Hațeg, Buzău. Introducere Începând cu anul 2006, menite să organizeze cercetări interdisciplinare în două regiuni, Hațeg și Buzău, în care, între timp, a fost instituit în 2015 un geoparc, intangible heritage, geopark, interdisciplinary research, cultural identity, community, heritage making process, National Museum of the Romanian Peasant, Hațeg Region, cultural
+patrimoniu imaterial, geoparc, cercetare interdisciplinară, identitate culturală, intangible heritage, geopark, interdisciplinary research, cultural identity, community
 
 ## Text extras din PDF
 Anuarul Arhivei de Folclor, nr. XXV–XXVI, 2021–2022, p. 229–242

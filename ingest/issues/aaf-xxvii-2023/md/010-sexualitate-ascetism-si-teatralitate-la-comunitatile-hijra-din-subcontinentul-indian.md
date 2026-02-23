@@ -14,7 +14,7 @@
 In this paper some aspects of creative ascetism within hijra community in India are presented. This third sex, recognized as such, whether it comprises hermaphrodites or eunuchs, supposes beliefs and practices, marked by a sacred aura, implying both the stigmatization and the unicity conferred by this sexual and social identity. The position of hijra between two worlds in which they cannot fully take part allows them to use ritualistic gestures and magical practices (fulfillment of wishes, blessing, curse). In the magic mastered by hijras, in the social or sexual activities performed by them (including prostitution) a big amount of theatricality is included.
 
 ## Keywords
-al treilea sex, sexualitate, ascetism creator, puteri sacre, emasculare, teatralitate, atât de către locuitorii, iar aderența realului la ireal, a revelatului la nerevelat, third sex, sexuality, creative ascetism, sacred powers, emasculation, theatricality, magic
+al treilea sex, sexualitate, ascetism creator, puteri sacre, emasculare, teatralitate, magie, third sex, sexuality, creative ascetism, sacred powers, emasculation, theatricality, magic
 
 ## Text extras din PDF
 Anuarul Arhivei de Folclor, nr. XXVII, 2023, p. 137–141

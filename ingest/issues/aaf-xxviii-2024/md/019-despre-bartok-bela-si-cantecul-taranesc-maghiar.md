@@ -11,10 +11,10 @@
 - Număr: Vol. 28 Nr. 1 (2024)
 
 ## Abstract
-_Nedetectat_
+The Romanian translation of Hungarian Peasant Songs by Béla Bartók, released almost a century after the original, is a valuable resource for researchers and enthusiasts of folk music. This work provides 320 melodies with additional critical notes, exploring both old and new Hungarian peasant music styles. Bartók’s classification, based on rhythmic and metric patterns rather than melodic structure, offers fresh insights into ethnomusicological research. The translation opens up new opportunities for comparative studies in Eastern Europe, emphasizing Bartók’s significant contribution to the field of traditional music.
 
 ## Keywords
-etnomuzicologie, muzică populară maghiară, analiză ritmică, Béla Bartók, această traducere (Béla Bartók, Cântecul țărănesc maghiar, traducere de Ambrus-Gyurka Zsófia, Orbán Csala, Ördög Tímea-Stefánia, Sikó Boglárka, Sur Tünde Paul, postfață de Ioan Haplea, Editura Risoprint, Cluj-Napoca, dar oferă și accesibilitate cercetătorilor, studenților și pasionaților de folclor muzical din, ethnomusicology, Hungarian folk music, rhythmic analysis, Folksongs
+etnomuzicologie, muzică populară maghiară, analiză ritmică, Béla Bartók, cântece, ethnomusicology, Hungarian folk music, rhythmic analysis, Folksongs
 
 ## Text extras din PDF
 Anuarul Arhivei de Folclor, nr. XXVIII, 2024, p. 229–233

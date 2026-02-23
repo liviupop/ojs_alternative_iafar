@@ -14,7 +14,7 @@
 Cultural heritage and storytelling. The disturbing stories of houses from the Barcău Valley The ethnographic research focused on the traditional architecture of the most conservative villages of Sălaj has carried out under the sign of emergency ethnography. An attempt was made to support a targeted research, specific to the area the villages of Valea Barcăului, materialized in a diachronic and synchronic anthropological approach to everyday life and of social changes, with a special focus on the houses mnierăi (blue) and their stories. The information taken from the field is the basis of an extensive study about the traditional houses of Sălaj and about their specifics but also about the peasant’s skill in building sustainable homes. The storytelling process favorably positions the interlocutor in relation to the field ethnographer and the story becomes fabulous, worthy of a novel of life and home, and contributes decisively to the complex description of the traditional home.
 
 ## Keywords
-patrimoniu cultural, arhitectură tradițională, storytelling, comunitate, muncă, sat tradițional, etnografie de teren, în cercetarea de teren, actul narativ este provocat de etnolog, cultural heritage, traditional architecture, community, work, traditional village, ethnography, traditional
+patrimoniu cultural, arhitectură tradițională, storytelling, comunitate, muncă, sat, cultural heritage, traditional architecture, community, work, traditional
 
 ## Text extras din PDF
 Anuarul Arhivei de Folclor, nr. XXVIII, 2024, p. 111–123

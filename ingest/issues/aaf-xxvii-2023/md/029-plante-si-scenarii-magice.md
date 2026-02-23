@@ -11,7 +11,7 @@
 - Număr: Vol. 27 Nr. 1 (2023)
 
 ## Abstract
-_Nedetectat_
+The article analyzes the major contribution of Sanda Golopenția to the field of love charms research, scenarios) in the general context of Romanian ethnobotany and in the particular context of research dedicated to magic plants in Romanian ethnology. First, the article scans the bibliography, in order to identify the points of convergence and to reveal the elements of novelty brought by the study discussed in relation to previous writings. Next, the text integrates the analyzed study into the ensemble of the author’s works on Romanian charms. This double bibliographic reporting allows for a nuanced analysis that highlights both the consistent and systematic research, as well as the essential mutations – in methodological, conceptual and interpretive terms – that the ethnologist proposes, documents and demonstrates through the volumes published over several decades. The analysis provides 10 arguments that support the idea that the exegesis of Sanda Golopenția articulates a renewed perspective on love charms, and the study Despre plante în descântatul de dragoste. Scenarii magice (Plants in love charms. Magic scenarios) is a reference text in this field.
 
 ## Keywords
 Folclor românesc, analiză etnologică, etnobotanică, descântatul de dragoste, Romanian folklore, ethnological analysis, ethnobotany, love charms, magic scenario

@@ -14,7 +14,7 @@
 The article deals with the Romanian folkloric pornographic imaginary, focusing on what it does to and with the participants who perform/actualize it in the context of a real folkloric interaction. Distinguishing between feast (numenal, complex event in participants and resources etc.) and party (modest, less complex, sacred‑free event etc., as a kind of gathering where pornographic folklore is particularly performed, by which participants experience transgressions from the usual social rules as well as pauses from the personal inhibitory structures), the analysis explores the conditions and the sensorial‑psycho‑somatic and discursive complexities that work together to achieve the pornographic project: sexual arousal/ erotic pleasure. Involving dance, music, group dynamic and masculine‑feminine interaction etc., this kind of folkloric event generates an erotic community, actualizes the disciplinary powers of the sexual habitus, despite its witz‑like and anti‑establishment air, and by continually operating the desecretization of sex, produces a folkloric way of handling the sexual body.
 
 ## Keywords
-senzorialitate, habitus, desecretizarea sexului, performativ, pentru a evita neînțelegerile, licențios, obscen, scatologic, sensoriality, desecretization of sex, performative, folkloric
+senzorialitate, habitus, desecretizarea sexului, performativ, obscenitate, sensoriality, desecretization of sex, performative, obscenity
 
 ## Text extras din PDF
 Anuarul Arhivei de Folclor, nr. XXVII, 2023, p. 117–135

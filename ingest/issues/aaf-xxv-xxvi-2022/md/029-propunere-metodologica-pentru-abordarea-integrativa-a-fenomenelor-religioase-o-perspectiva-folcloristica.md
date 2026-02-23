@@ -14,7 +14,7 @@
 O PERSPECTIVĂ FOLCLORISTICĂ1 The article aims to problematize the term popular religion as a strategic concept for folkloristic and to explore its potential for understanding religion as part of the ritual performance events and of transmitting knowledge that include the supernatural.
 
 ## Keywords
-religie populară, religie vernaculară, practici religioase, supranatural și sacru, este deopotrivă controversabilă, contradictorie, în mod particular, popular religion, vernacular religion, religious practices, supernatural, religion
+religie populară, religie vernaculară, practici religioase, supranatural și sacru, context, popular religion, vernacular religion, religious practices, supernatural
 
 ## Text extras din PDF
 Anuarul Arhivei de Folclor, nr. XXV–XXVI, 2021–2022, p. 339–351

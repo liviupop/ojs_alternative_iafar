@@ -14,7 +14,7 @@
 This research explores the Fonograf Collection of the Romanian Academy’s Folklore Archive, the first to include sound recordings. The collection consists of 542 wax cylinders, some of which have sadly deteriorated or are lost. The wax cylinders and music transcriptions are stored in the Romanian Academy’s Branch in Cluj Napoca. The oldest recordings date back to 1949 by Jagamas János, with the last ones done in 1954 by Ioan R. Nicola. Apart from cataloged cylinders, 100 uncatalogued cylinders exist with unknown content. The article breaks down the catalog’s structure and looks at the digitization of the collection.
 
 ## Keywords
-Fondul Fonograf, Arhiva de Folclor, cilindri de ceară, înregistrări, transcrieri muzicale, digitizare, iar alții, Fonograf Collection, Folklore Archive, Wax Cylinders, Recordings, Music Transcriptions, Digitization, cylinders
+Fondul Fonograf, Arhiva de Folclor, cilindri de ceară, înregistrări, transcrieri muzicale, Fonograf Collection, Folklore Archive, Wax Cylinders, Recordings, Music Transcriptions
 
 ## Text extras din PDF
 Anuarul Arhivei de Folclor, nr. XXVII, 2023, p. 85–88

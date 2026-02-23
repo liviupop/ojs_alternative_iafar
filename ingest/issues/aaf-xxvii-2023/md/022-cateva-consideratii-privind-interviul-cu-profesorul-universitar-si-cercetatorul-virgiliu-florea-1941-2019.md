@@ -11,10 +11,10 @@
 - Număr: Vol. 27 Nr. 1 (2023)
 
 ## Abstract
-_Nedetectat_
+Some Considerations on the Interview with Professor and Researcher Virgiliu Florea (1941– The following pages are a brief presentation of an interview with Virgiliu Florea (University Professor in Folklore Studies and scientific researcher at the Cluj Folklore Archive). The questions addressed in the interview, as well as the responses, are summarized systematically. The aims of the interview have been to collect autobiographical data, focusing on mostly the researcher’s scientific career. References to the institutional millieus in which Folklore Studies have been present, before and after 1989, as well as an analysis on the place of Folklore studies among other socio‑human sciences (in various decades of the above mentioned periods) are on the agenda.
 
 ## Keywords
-Virgiliu Florea, interviu, studii de folclor, referitoare la devenirea sa profesională, la locul ocupat de științele despre cultura tradițională, interview, Folklore Studies, communist and post‑communist Romania
+Virgiliu Florea, interviu, studii de folclor, România comunistă și post‑comunistă, interview, Folklore Studies, communist and post‑communist Romania
 
 ## Text extras din PDF
 Anuarul Arhivei de Folclor, nr. XXVII, 2023, p. 321–326

@@ -14,7 +14,7 @@
 This paper follows the history of the folklore archive, from birth and growth of archival inclinations, all the way to the present‑day institution. The red line lies in the author’s ethnomusicological background, allowing her to encompass the paramount width covered by archival materials collected by many means, through multiple methodologies, for the entire existence of ninety years of our Folklore Archive of the Romanian Academy, of which she has been the custodian for 36 years (1966–2002). Beginning with a short outline of musical and choreutical folklore mentions throughout local history, the author is concentrating on the principles at the foundation of several local archival funds or collections, then follows the evolution of every taxonomical effort to them dedicated, to eventually state the present‑day structure of the Folklore Archive from Cluj (FAC/ AFC in Romanian). Proper attention is being given to the prominence of AFC as the first folklore‑tending institution to have offered locally index‑based systemic organization of folklore information.
 
 ## Keywords
-arhiva de folclor, etnomuzicologie, index analitic, index pe genuri și specii muzicale, care are legi, folklore archive, ethnomusicology, analytical index, musical genre index, archival
+arhiva de folclor, etnomuzicologie, index analitic, index pe genuri și specii muzicale, folklore archive, ethnomusicology, analytical index, musical genre index, thematic
 
 ## Text extras din PDF
 Anuarul Arhivei de Folclor, nr. XXV–XXVI, 2021–2022, p. 29–44

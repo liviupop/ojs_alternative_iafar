@@ -14,7 +14,7 @@
 The article is following an exemplary intellectual relationship between Petru Caraman and relating to the work of the two esteemed personalities of Romanian folklore studies.
 
 ## Keywords
-G.T. Kirileanu, Petru Caraman, Ion H. Ciubotaru, descolindatul, Petru Caraman i‑a rămas lui G.T. Kirileanu, din cele 69, este din 12 aprilie 1946, iar prima, din cele, uncarolling, personalities
+G.T. Kirileanu, Petru Caraman, Ion H. Ciubotaru, descolindatul, lingvistică etnografică, uncarolling, ethnographic linguistics
 
 ## Text extras din PDF
 Anuarul Arhivei de Folclor, nr. XXV–XXVI, 2021–2022, p. 123–125

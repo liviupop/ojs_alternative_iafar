@@ -14,7 +14,7 @@
 The mask originally had well-defined roles: it concealed, protected and transformed. In the Venice Carnival, it erased social status and freed individuals from constraints. In Romanian traditions, the mask was a weapon against evil spirits, a code of communication between humans and nature. Each mask was created for a specific purpose: to frighten, protect, satirize, heal, or bring fertility. This is precisely why they were not mass-produced, being unique not only in form but also in function—as part of a spiritual dialogue with the surrounding world. Used in rituals, performances, and celebrations, the mask reflects cultural values, beliefs, and aesthetics specific to each community. Between Venetian and traditional Romanian masks lies a distance not only geographical but also symbolic, aesthetic, and functional. Nevertheless, they remain authentic expressions of the cultural and artistic heritage of the peoples they come from.
 
 ## Keywords
-carnaval, mască, spectacol, sărbătoare, de la ritualuri la carnavaluri, omul a jucat mereu roluri, nu doar ca obiect carnavalesc, masca are origini sacre: în ritualurile arhaice, cu spiritele naturii sau cu forțele nevăzute. Cu, carnival, mask, performance, celebration, they
+carnaval, mască, spectacol, sărbătoare, universalitate, carnival, mask, performance, celebration, universality
 
 ## Text extras din PDF
 Anuarul Arhivei de Folclor, nr. XXIX, 2025, p. 83–97

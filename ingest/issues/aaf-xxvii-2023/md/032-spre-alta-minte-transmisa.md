@@ -11,10 +11,10 @@
 - Număr: Vol. 27 Nr. 1 (2023)
 
 ## Abstract
-_Nedetectat_
+Dwelling on Sanda Golopenția’s fundamental research and subsequent conceptualisations on ethnological problems pertaining, ultimately, to longitudinal transmissions of culturally relevant bonds of community life, this commentary intends to highlight the importance of the fine‑grained analysis on exclusively observable facts, as compared to broader temporalities of ethnology and anthropology, out of the reach of historical document.
 
 ## Keywords
-transmitere culturală, interacțiune în cercetarea de teren, fapt folcloric, temporalități, diacronie. Preocuparea de căpetenie a minții mele profesionale, de când am ales drumul în etnologie, a constat în deslușirea, mă gândeam eu, ni se spunea, cultural transmission, field‑research interaction, folklore facts, temporalities, diachrony
+transmitere culturală, interacțiune în cercetarea de teren, fapt folcloric, temporalități, cultural transmission, field‑research interaction, folklore facts, temporalities, diachrony
 
 ## Text extras din PDF
 Anuarul Arhivei de Folclor, nr. XXVII, 2023, p. 413–424

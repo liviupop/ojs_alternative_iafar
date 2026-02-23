@@ -14,7 +14,7 @@
 Romenismo, romenità, rappresentazioni socio-culturali e altre forme di permanenza nell’esilio rumeno (Riassunto). Attraverso il ritrovamento nella cosiddetta Mondo Libero oppure la Romania Alternativa come gli stessi esuli l’hanno definita, si è costituito in tutti quelli anni del secondo dopoguerra, in Europa e in America, il quadro per una cultura romena autenticamente libera, nelle democrazie che hanno facilitato integrazione, la doppia identità, apertura all’universalità, ma anche conservazione del senso del romenismo. Sotto questo simbolo, si sono organizzati in parrocchie, associazioni, società culturali, hanno fondato riviste, tipografie e case editrici e soprattuto si sono riuniti in occasione di feste, eventi culturali ecc. L’esilio, nella sua espressione culturale, si è rivelato il più delle volte sottile, talvolta latente, ma comunque presente, anche militante e alcune volte criticamente combativo. Infatti, è stato contraddistinto da un’attenzione al romenismo, ma anche da una dimensione internazionale, grazie a realizzazioni di eccezione, antidittatoriale e soprattuto resistente, in parte restituito, dopo il 1989, alla cultura romena intera e alla Romania. Parole chiave: esilio, identità, resistenza culturale, associazioni, pratiche, democrazia.
 
 ## Keywords
-exil, identitate, rezistență culturală, asociații, practici, fără îndoială, tulburător prin formele inedite de rezistență anticomunistă, încercări și izbândă și, în mod deosebit, impresionant prin notele sale de civilitate, forță și libertate! De fapt, exilul rămâne pentru toate acestea, culturali
+exil, identitate, rezistență culturală, asociații, practici, democrație
 
 ## Text extras din PDF
 Anuarul Arhivei de Folclor, nr. XXIX, 2025, p. 271–281

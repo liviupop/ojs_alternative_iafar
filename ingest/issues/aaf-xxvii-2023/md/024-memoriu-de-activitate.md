@@ -14,7 +14,7 @@
 _Nedetectat_
 
 ## Keywords
-cluj
+_Nedetectate_
 
 ## Text extras din PDF
 „Din activitatea mea de folclorist”. Interviu realizat de conf. univ. dr. Alina Branda

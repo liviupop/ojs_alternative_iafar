@@ -14,7 +14,7 @@
 The village dance was and, in some places, still is, a premarital custom with a ceremonial function where the youth of a certain age publicly manifest their preferences towards a potential marriage partner. The village dance has different names in different regions, but it was a practice that was spread throughout the country. In this paper we intend to provide a detailed description of what the village dance was in different Romanian regions and an assessment of its present state.
 
 ## Keywords
-hora satului, obicei premarital, dansuri tradiționale românești, cete de feciori, Valea Drăganului (judeţul Cluj), în copilarie, lângă primărie, lângă cooperativă, la vioară, când ochea el, village dance, premarital custom, Romanian folk dances, youth group, different
+hora satului, obicei premarital, dansuri tradiționale românești, cete de feciori, tradiții, village dance, premarital custom, Romanian folk dances, youth group, Romanian folk
 
 ## Text extras din PDF
 Anuarul Arhivei de Folclor, nr. XXVIII, 2024, p. 195–214
