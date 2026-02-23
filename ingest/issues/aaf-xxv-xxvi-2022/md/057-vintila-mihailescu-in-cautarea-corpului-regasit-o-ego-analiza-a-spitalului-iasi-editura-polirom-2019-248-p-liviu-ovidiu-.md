@@ -1,112 +1,109 @@
-# Vintilă Mihăilescu, În căutarea corpului regăsit. O ego-analiză a spitalului, Iași, Editura Polirom, 2019, 248 p. (Liviu Ovidiu Pop)
+# Vintilă Mihăilescu, În căutarea corpului regăsit. O ego‑analiză a spitalului, Iași, Editura Polirom, 2019, 248 p. (Liviu Ovidiu Pop)
 
-- Autor(i): Liviu Ovidiu Pop
-- Secțiune TOC: RECENZII
+- Autor(i): N/A
+- Secțiune TOC: Petru Caraman, Restituiri etnologice, ediție îngrijită, introducere și notă asupra ediției de Ion
 - Pagini: p. 652–653
-- Afiliere: Institutul „Arhiva de Folclor a Academiei Române”, Cluj-Napoca
+- Afiliere: N/A
 - Email: N/A
 - DOI: N/A
 - Limbă: ro
 - Tip intrare: recenzie
 - Număr: Vol. 25-26 Nr. 1 (2022)
 
-## Abstract RO
+## Abstract
 _Nedetectat_
 
-## Cuvinte-cheie RO
+## Keywords
 _Nedetectate_
 
-## Abstract EN
-_Not detected_
-
-## Keywords EN
-_Not detected_
-
 ## Text extras din PDF
-652                  Recenzii
-      Vintilă Mihăilescu, În căutarea corpului regăsit. O ego‑analiză a
-      spitalului, Iași, Editura Polirom, 2019, 248 p.
-         Eram la intersecția dintre Piața Unirii și strada Memorandumului, așteptând să
-      se schimbe culoarea semaforului roșu. S-a întors spre mine și m-a întrebat de ce noi
-      ardelenii așteptăm la stop. Era o după-amiază liniștită, cu tracul plictisitor al Clujului
-      de acum vreo 10 ani. „Doar nu vine nici o mașină. De ce nu am putea să trecem pur și
-      simplu? Ce rost are să respecți o regulă care ar trebui să te protejeze dacă nu ești deloc în
-      pericol?” M-am fâstâcit și am bâiguit un răspuns, dar cred că nici pentru mine nu suna
-      convingător. Eram prea surprins de directețea adresării și a contextualizării problemei.
-         A fost singura mea interacțiune directă cu Vintilă Mihăilescu și găsesc potrivit să
-      încep cu o rememorare personală recenzia unui volum hyper-personal, în care celebrul
-      și mult iubitul antropolog își face o ultimă punere în ordine a vieții din fața pragului spre
-      moarte. E un volum care m-a bulversat precum interacțiunea de la intersecție, așă că voi
-      continua să bâgui neconvingător despre el.
-         Jurnal de război, crâmpeie de memorii care nu au mai apucat să e adunate mai
-      consistent, gândurile unui erudit cum nu se mai fabrică, trimiteri bibliograce de maximă
-      precizie și concizie, dialoguri furate de la alții, „dat din casă” (și din spital), mic compendiu
-      despre rolul umorului în atenuarea traumelor, În căutarea corpului regăsit e o minunată
-      și fascinantă călătorie introspectivă făcută publică fără rezerve. Nu pare să rămână nici
-      un colțișor necotrobăit din propria viață care să nu e scos la iveală. De la aventurile din
-      nopțile târzii comuniste în care nici măcar olele de măsurat alcoolul nu îl luau în serios,
-      la rememorarea gurii paterne din rolul unui pacient încătușat în spital (analizarea felului
-      în care tatăl său înțelegea să-și practice meseria de diagnostician pare o îmbrățisare târzie
-      adresată dincolo de timpul și încercările prin care au trecut), la amintiri intime din viața
-      unui cuplu plin de viață, totul este scos la vedere. Pe rând se schimbă lupele prin care
-      se privesc vechile aventuri și noile situații spitalicești de la cele folosite de antropolog,
-      psiholog, sociolog. Uneori remarcile sunt pur și simplu cele ale unui bon-viveur care
-      încearcă în zadar să facă glume de salon în saloanele spitalului.
-         „[...] a venit în vizită o tânără rezidentă și m-a întrebat cum mă simt, i-am răspuns
-      cât se poate de serios: «Din exces de menopauză, am făcut un guturai». A înlemnit și s-a
-      clătinat de pe picioare la propriu. A mai dat să-mi ia tensiunea, dar s-a răzgândit și a ieșit
-      intempestiv pe ușă. De atunci n-am mai încercat niciodată să-i testez pe doctori să văd
-      dacă au simțul umorului.” (p. 168–169).
-         Umorul și funcțiile acestuia par a avea o atenție aparte. În înșiruirea și analizarea
-      mecanismelor de apărare care se declanșează o dată ce ești prins în spital (spitalul este
-      văzut într-un sens strict foucauldian, ca un panopticon în care individului îî este ștearsă
-      personalitatea pentru a se putea ocupa „sistemul” de vindecarea sa), după ce sunt trecute
-      sumar în revistă somnul și vorbitul, partea cea mai consistentă îi este acordată râsului
-      și umorului care, după opinia sa, nu a fost luate sucient de în serios de către psihologi
-      și cercetători din arii conexe. Se poate înțelege că umorul și imaginea de om neserios a
-      fost fundamentală pentru auto-denirea proprie, în răspăr evident cu imaginea de om
-      foarte serios a tatălui.
-                            Recenzii              653
-          „Tatăl meu a fost un om serios – mai exact, un medic serios! Cu vederi largi, desigur,
-       dar serios până în măduva oaselor. Știa, desigur, să râdă, dar... cu măsură. Eu n-am avut
-       altă soluție sănătoasă decât să-mi inventez un simț al umorului ca să contracarez și să
-       scap de dominația seriozității paterne: a fost pur și simplu modul meu – elegant, zic eu
-       – de a-mi ucide tatăl.” (p. 176).
-          Neseriozitatea în fața unei boli necruțătoare se manifestă și prin neluarea în serios
-       a acesteia. Anunță pe toată lumea că are o boală mortală, ca pe o exorcizare a traumei, dar
-       are parte și de un prieten psihanalist care îl ajută să atenueze prin verbalizare vestea care
-       te ia de pe picioare. Amintește cum săptămâni la rând acest prieten îl suna doar ca să-l
-       asculte vorbind jumătăți de oră despre tot ceea ce îi trecea prin cap. Flecăreala neserioasă
-       are însă și un revers discret: aăm abia după jumătatea volumului numele bolii. Teama de
-       a o numi sau amânarea atît de îndelungată a numirii este dovada procesului îndelungat
-       și lent de acceptare a acesteia. Vorbirea se face cu atenta ocolire a motivului pentru care
-       spitalul ajunge să e domesticit. Și cât de atent sunt înregistrate toate ritualurile prin
-       care spațiile străine ale spitalului sunt, cât de cât, îmblânzite de către pacienții care sunt
-       brusc luați pe sus de un mecanism care aduce mai degrabă cu un malaxor, dacât cu un
-       „sanatoriu”, un loc al însănătoșirii. Prima jumătate a cărții se apleacă asupra trecerii din
-       spațiul familial în cel total nefamiliar al spitalului.
-          Abordarea sociologică a ce este un spital, cum funcționează el în societatea
-       contemporană care ne înconjoară, de ce lucrurile se întâmplă așa cum se întâmplă pe
-       partea albă a zidurilor, este o mostră de intuiție și inteligență îndelung exersate în arta
-       surprinderii esențialului din cotidian. Concluziile sunt clare și dau notă de o înțelegere
-       profundă a societății noastre:
-          „Nu, categoric nu poate  vorba la noi de o „medicină centrată pe bolnav”. Cultura
-       medicală nu are cum să e atât de fundamental diferită de cultura generală în care ne-am
-       născut și trăim cu toții. Fiind o societate predominant țărănească, am fost o cultură
-       centrată pe comunitate; apoi, o dată cu destrămarea acestor comunități și dezvoltarea
-       modern-urbană, am fost – și încă mai suntem – una centrată pe familie; centrarea
-       pe individ este o atitudine relativ recentă, ce pare să se încetățenească abia o dată cu
-       „generația Z”. ” (p. 120)
-          Diferențele fundamentale dintre felul în care funcționează sistemul medical
-       românesc/balcanic și cele occidentale au la bază răspunsurile la întrebarea: este pacientul
-       / bolnavul responsabil pentru propria însănătoșire, sau trebuie să e vindecat? Abordarea
-       din perspectiva bolii sau a bolnavului se dovedește a  esențială în tot ceea ce decurge
-       ulterior: centrarea pe boală rezumă individul la un pacient, se concentrează pe durere și
-       eliminarea acesteia printr-o abordare paternalistă în care deciziile sunt luate exclusiv de
-       doctorul care recunoaște și identică boala. Dacă ar  să avem parte de abordarea centrată
-       pe bolnav am vedea o înțelegere holistică a unui caz, bolnavul având parte de empatie
-       și înțelegere a suferinței sale, ind luat în serios și în ceea ce privește capacitatea sa de
-       a implementa acțiuni prolactice. Bolnavul este altceva decât pacientul și este evident
-       că pacientul Mihăilescu și-ar  dorit mult mai mult să e tratat ca un bolnav, să aibă un
-       cuvânt de spus în ceea ce i se întâmplă și să-i e luate în serios informațiile relevante
-       pentru cazul său, propria experiență.
+Recenzii
+652
+Vintilă Mihăilescu, În căutarea corpului regăsit. O ego‑analiză a
+spitalului, Iași, Editura Polirom, 2019, 248 p. 
+Eram la intersecția dintre Piața Unirii și strada Memorandumului, așteptând să
+se schimbe culoarea semaforului roșu. S‑a întors spre mine și m‑a întrebat de ce noi
+ardelenii așteptăm la stop. Era o după‑amiază liniștită, cu traficul plictisitor al Clujului
+de acum vreo 10 ani. „Doar nu vine nici o mașină. De ce nu am putea să trecem pur și
+simplu? Ce rost are să respecți o regulă care ar trebui să te protejeze dacă nu ești deloc în
+pericol?” M‑am fâstâcit și am bâiguit un răspuns, dar cred că nici pentru mine nu suna
+convingător. Eram prea surprins de directețea adresării și a contextualizării problemei.
+A fost singura mea interacțiune directă cu Vintilă Mihăilescu și găsesc potrivit să
+încep cu o rememorare personală recenzia unui volum hyper‑personal, în care celebrul
+și mult iubitul antropolog își face o ultimă punere în ordine a vieții din fața pragului spre
+moarte. E un volum care m‑a bulversat precum interacțiunea de la intersecție, așă că voi
+continua să bâgui neconvingător despre el.
+Jurnal de război, crâmpeie de memorii care nu au mai apucat să fie adunate mai
+consistent, gândurile unui erudit cum nu se mai fabrică, trimiteri bibliografice de maximă
+precizie și concizie, dialoguri furate de la alții, „dat din casă” (și din spital), mic compendiu
+despre rolul umorului în atenuarea traumelor, În căutarea corpului regăsit e o minunată
+și fascinantă călătorie introspectivă făcută publică fără rezerve. Nu pare să rămână nici
+un colțișor necotrobăit din propria viață care să nu fie scos la iveală. De la aventurile din
+nopțile târzii comuniste în care nici măcar fiolele de măsurat alcoolul nu îl luau în serios,
+la rememorarea figurii paterne din rolul unui pacient încătușat în spital (analizarea felului
+în care tatăl său înțelegea să‑și practice meseria de diagnostician pare o îmbrățisare târzie
+adresată dincolo de timpul și încercările prin care au trecut), la amintiri intime din viața
+unui cuplu plin de viață, totul este scos la vedere. Pe rând se schimbă lupele prin care
+se privesc vechile aventuri și noile situații spitalicești de la cele folosite de antropolog,
+psiholog, sociolog. Uneori remarcile sunt pur și simplu cele ale unui bon‑viveur care
+încearcă în zadar să facă glume de salon în saloanele spitalului.
+„[...] a venit în vizită o tânără rezidentă și m‑a întrebat cum mă simt, i‑am răspuns
+cât se poate de serios: «Din exces de menopauză, am făcut un guturai». A înlemnit și s‑a
+clătinat de pe picioare la propriu. A mai dat să‑mi ia tensiunea, dar s‑a răzgândit și a ieșit
+intempestiv pe ușă. De atunci n‑am mai încercat niciodată să‑i testez pe doctori să văd
+dacă au simțul umorului.” (p. 168–169).
+Umorul și funcțiile acestuia par a avea o atenție aparte. În înșiruirea și analizarea
+mecanismelor de apărare care se declanșează o dată ce ești prins în spital (spitalul este
+văzut într‑un sens strict foucauldian, ca un panopticon în care individului îî este ștearsă
+personalitatea pentru a se putea ocupa „sistemul” de vindecarea sa), după ce sunt trecute
+sumar în revistă somnul și vorbitul, partea cea mai consistentă îi este acordată râsului
+și umorului care, după opinia sa, nu a fost luate suficient de în serios de către psihologi
+și cercetători din arii conexe. Se poate înțelege că umorul și imaginea de om neserios a
+fost fundamentală pentru auto‑definirea proprie, în răspăr evident cu imaginea de om
+foarte serios a tatălui.
+
+Recenzii
+653
+„Tatăl meu a fost un om serios – mai exact, un medic serios! Cu vederi largi, desigur,
+dar serios până în măduva oaselor. Știa, desigur, să râdă, dar... cu măsură. Eu n‑am avut
+altă soluție sănătoasă decât să‑mi inventez un simț al umorului ca să contracarez și să
+scap de dominația seriozității paterne: a fost pur și simplu modul meu – elegant, zic eu
+– de a‑mi ucide tatăl.” (p. 176).
+Neseriozitatea în fața unei boli necruțătoare se manifestă și prin neluarea în serios
+a acesteia. Anunță pe toată lumea că are o boală mortală, ca pe o exorcizare a traumei, dar
+are parte și de un prieten psihanalist care îl ajută să atenueze prin verbalizare vestea care
+te ia de pe picioare. Amintește cum săptămâni la rând acest prieten îl suna doar ca să‑l
+asculte vorbind jumătăți de oră despre tot ceea ce îi trecea prin cap. Flecăreala neserioasă
+are însă și un revers discret: aflăm abia după jumătatea volumului numele bolii. Teama de
+a o numi sau amânarea atît de îndelungată a numirii este dovada procesului îndelungat
+și lent de acceptare a acesteia. Vorbirea se face cu atenta ocolire a motivului pentru care
+spitalul ajunge să fie domesticit. Și cât de atent sunt înregistrate toate ritualurile prin
+care spațiile străine ale spitalului sunt, cât de cât, îmblânzite de către pacienții care sunt
+brusc luați pe sus de un mecanism care aduce mai degrabă cu un malaxor, dacât cu un
+„sanatoriu”, un loc al însănătoșirii. Prima jumătate a cărții se apleacă asupra trecerii din
+spațiul familial în cel total nefamiliar al spitalului.
+Abordarea sociologică a ce este un spital, cum funcționează el în societatea
+contemporană care ne înconjoară, de ce lucrurile se întâmplă așa cum se întâmplă pe
+partea albă a zidurilor, este o mostră de intuiție și inteligență îndelung exersate în arta
+surprinderii esențialului din cotidian. Concluziile sunt clare și dau notă de o înțelegere
+profundă a societății noastre:
+„Nu, categoric nu poate fi vorba la noi de o „medicină centrată pe bolnav”. Cultura
+medicală nu are cum să fie atât de fundamental diferită de cultura generală în care ne‑am
+născut și trăim cu toții. Fiind o societate predominant țărănească, am fost o cultură
+centrată pe comunitate; apoi, o dată cu destrămarea acestor comunități și dezvoltarea
+modern‑urbană, am fost – și încă mai suntem – una centrată pe familie; centrarea
+pe individ este o atitudine relativ recentă, ce pare să se încetățenească abia o dată cu
+„generația Z”. ” (p. 120)
+Diferențele fundamentale dintre felul în care funcționează sistemul medical
+românesc/balcanic și cele occidentale au la bază răspunsurile la întrebarea: este pacientul
+/ bolnavul responsabil pentru propria însănătoșire, sau trebuie să fie vindecat? Abordarea
+din perspectiva bolii sau a bolnavului se dovedește a fi esențială în tot ceea ce decurge
+ulterior: centrarea pe boală rezumă individul la un pacient, se concentrează pe durere și
+eliminarea acesteia printr‑o abordare paternalistă în care deciziile sunt luate exclusiv de
+doctorul care recunoaște și identifică boala. Dacă ar fi să avem parte de abordarea centrată
+pe bolnav am vedea o înțelegere holistică a unui caz, bolnavul având parte de empatie
+și înțelegere a suferinței sale, fiind luat în serios și în ceea ce privește capacitatea sa de
+a implementa acțiuni profilactice. Bolnavul este altceva decât pacientul și este evident
+că pacientul Mihăilescu și‑ar fi dorit mult mai mult să fie tratat ca un bolnav, să aibă un
+cuvânt de spus în ceea ce i se întâmplă și să‑i fie luate în serios informațiile relevante
+pentru cazul său, propria experiență.

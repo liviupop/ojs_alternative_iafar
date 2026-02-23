@@ -5,6 +5,7 @@
 - Număr: 1
 - Pagini totale PDF: 526
 - Articole detectate: 49
+- Offset pagini (TOC -> PDF): 0
 - PDF sursă: source/issue.pdf
 - Copertă: adaugă manual în cover/
 

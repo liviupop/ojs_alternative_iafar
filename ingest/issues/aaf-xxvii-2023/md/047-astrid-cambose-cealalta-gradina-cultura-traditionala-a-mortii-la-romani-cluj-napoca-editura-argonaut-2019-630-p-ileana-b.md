@@ -1,559 +1,576 @@
-# Astrid Cambose, Cealaltă grădină. Cultura tradițională a morții la români, Cluj-Napoca, Editura Argonaut, 2019, 630 p. (Ileana Benga)
+# Astrid Cambose, Cealaltă grădină. Cultura tradițională a morții la români, Cluj‑Napoca, Editura Argonaut, 2019, 630 p. (Ileana Benga)
 
 - Autor(i): Ileana Benga
 - Secțiune TOC: R E C E N Z I I
 - Pagini: p. 501–512
-- Afiliere: Institutul „Arhiva de Folclor a Academiei Române”, Cluj-Napoca
+- Afiliere: Institutul „Arhiva de Folclor a Academiei Române”
 - Email: N/A
 - DOI: N/A
 - Limbă: ro
 - Tip intrare: recenzie
 - Număr: Vol. 27 Nr. 1 (2023)
 
-## Abstract RO
+## Abstract
 _Nedetectat_
 
-## Cuvinte-cheie RO
+## Keywords
 _Nedetectate_
 
-## Abstract EN
-_Not detected_
-
-## Keywords EN
-_Not detected_
-
 ## Text extras din PDF
-Recenzii              501
-       dintre care este ucis cel mai mare; varianta din 1883, în versuri, comunicată lui G.Dem.
-       Teodorescu, cu testamentul respectat de ucigași dar cu adresanta cu neagră cosiță a
-       mesajului postum al tânărului, prin vocea mioarei fermecate, absentă...; varianta publicată
-       de Brăiloiu în 1932, din Ștefănești, Argeș, descrie omorul în felul altor câteva variante din
-       Muntenia, Dobrogea, Moldova, întâlnite la Fochi; în varianta din Nereju, Vrancea, tot din
-       tipologie, șase ciobani dușmani așteaptă victima să termine mulsul oilor și îl îngroapă
-       după testamentul lăsat mioriței; în sfârșit, o variantă similară din Timocul sârbesc se
-       încheie cu dezvăluirea omorului de către oiță, aceasta ind legatara testamentară și către
-       mama ciobanului, cuprinzând practicile rituale de pomenire datorate ului ucis de nouă
-       ciobani dușmani. Ca atare, concluzia autoarei este că omorul este departe de a  absent în
-       ința epică a textului mioritic, cu atât mai mult cu cât aceste dezvoltări ne dau informații
-       atât de valoroase asupra creativității și adaptabilității în decursul circulației folclorice,
-       datorate mediilor prin care se perindă, specializării informatorului (cu termenul Sandei
-       Golopenția, discutat aici în comentariul meu în acest volum, în cadrul capitolului Note
-       de lectură) și receptării emice a variantelor. Cu alte cuvinte, interpretările și informările
-       domeniului nostru dinspre Miorița nu se vor sfârși.
-          Deși pare că am spus „tot” ce mi-a grăit cartea Ioanei-Ruxandra Fruntelată, am
-       lăsat nerostite câteva gânduri comune: așa este dicultatea de a face profesionist etnologie
-       pe terenul românesc „de acasă”, unde vorbim de pre-cunoașterea limbii terenului, pe
-       de o parte, și de complicitatea mediului savant cu autorul analizei, pe baza unui grad
-       considerat mare de împărtășire a culturii „de tip folcloric” (p. 36); așa este și conștiința
-       că „ceea ce studiază etnologul nu este (numai) text, iar metoda va trebui să împrumute
-       ceva din proteismul culturii vii pe care vrem s-o interpretăm dacă vrem să înțelegem
-       această cultură și nu doar s-o codicăm, s-o cuanticăm și s-o reducem la date/ simboluri
-       cunoscute și mai ușor manevrabile.” (p. 38). Așa este și frumoasa dedicare a trudei sale, de
-       a cărei împlinire autoarea cărții s-a apropiat uimitor de mult: „iubind lumea românească
-       și oamenii pământului cu bucuria unei recunoașteri continue și neliniștea unei datorii
-       mari despre care orice intelectual al țării știe că se cere plătită în ecare zi.” (p. 10).
-                                            dr. Ileana Benga
-          Cercetător științic gradul II, Institutul „Arhiva de Folclor a Academiei Române”
-                                       ileanabenga@gmail.com
-       Astrid Cambose, Cealaltă grădină. Cultura tradițională a morții la
-       români, Cluj-Napoca, Editura Argonaut, 2019, 630 p.
-          Așteptată cu mare interes, apărută într-un semnicativ moment al etnologiei
-       românești de nouă generație, dar îngreunată în circulația ei intelectuală de survenirea
-       pandemiei, această carte își justică pe deplin recenzarea în paginile Anuarului Arhivei
-       de Folclor din Cluj-Napoca, autoarea ind apropiată de peste un deceniu de fondurile de
-       arhivă, de metodele și de idealurile de lucru ale echipei noastre de specialiști.
-      502                  Recenzii
-         Mobilul intelectual al căutării și aării din paginile cărții este punctat ferm dintru
-      început de autoare: „la întrebările metazice majore se pot da doar răspunsuri metaforice,
-      al căror adevăr constă tocmai în subtilitatea și frumusețea lor. Considerând că există o
-      explozie de metazică în mitologie, în literaturile vechi, în textele revelate și sapiențiale, în
-      folclor ș.a., credem că „metaforele” respective ar putea  culese, inventariate, comentate și
-      considerate texte propriu-zise losoce, pentru că problematica lor este losocă.” (p. 22)
-      În adevăr, pentru etnologie aceasta este o perspectivă de mare preț, pentru care se cere,
-      și se dă, în cazul nostru, o minte pătrunzătoare pregătită temeinic în ambele câmpuri
-      disciplinare. Ca primă dovadă ni se oferă delimitarea precisă prin stricta împroprietărire
-      a termenilor documentari: „cultura românească tradițională – cu toate neajunsurile sale,
-      vom folosi această sintagmă când ne vom referi la cultura țărănească veche, dar și cea
-      actuală, în măsura în care cea din urmă prezintă o formă de continuitate dinamică față
-      de moștenirea veacurilor trecute.” (p. 23)
-         Dat ind că „principala temă metazică supraindividuală a tuturor timpurilor a
-      rămas natura suetului și a divinității” (p. 31), autoarea se concentrează în introducere pe
-      pluralitatea documentelor care ne pot da indicii despre evoluția endemică a conceptelor
-      relevante ideii de suet, selectându-le din arheologie (sciții), losoe și istoriograe
-      (Pitagora, Platon, Aristotel), istoria religiilor (Mircea Eliade), istoria losoei (Lucian
-      Blaga), antropologia culturală (James G. Frazer, George Gusdorf). Teza cercetătoarei se
-      înrudește cu cea a ultimului autor chiar la rădăcină, acolo unde „gândirea doctrinală are
-      antecedente în gândirea mitică, iar conștiința mitică, deși refulată, nu a murit încă” (p. 36).
-      Ca atare, întrebarea de cercetare căreia îi răspunde lucrarea este: „în ce măsură imaginarul
-      tanatologic românesc este de natură magică (sau magic-religioasă, cum arma Mircea
-      Eliade) și în ce măsură este el expresia unui demers metazic?”, cu excelentul și actualul
-      corolar: „Care mai este relevanța sa azi pentru identitatea comunitară?” (Ibidem). Aceasta
-      din urmă este interogația care ne reunește ca întrebare a generației noastre de etnologi,
-      crescuți cu o realitate etnogracă, dar operând profesional cu o cu totul alta, emergentă.
-         Primul dintre cele patru capitole foarte consistente ale cărții este intitulat
-      Moartea – un „obiect despicat”. Obiectul intelectual numit cu termenul lui Lucian Blaga
-      („fenomen despicat”, p. 122) este urmărit pe căile pe care le-a parcurs însăși cercetătoarea,
-      conducându-ne resc către punctele de conuență domenială – etnologie și losoe –
-      care au mobilizat gândirea sa critică asupra subiectului: „În reecția țărănească asupra
-      morții conuează problemele clasice ale losoei: ce este omul, ce este suetul, ce este
-      lumea, ce este absolutul, care este raportul aparență / esență, sau timp / eternitate, ce
-      presupune devenirea și dacă are ea o natură continuă ori discontinuă, ce este adevărul
-      și în ce măsură este el cognoscibil, cum anume se echilibrează termenii raportului
-      libertate-cauzalitate-destin, atât la nivelul omului, cât și la nivelul lumii etc. O singură
-      temă losocă majoră lipsește: neința.” (sublinierea noastră). Este doar prima armație
-      seducătoare și pătrunzătoare pe care o face Astrid Cambose în acest demers bogat în
-      gândire și în instrumentele acesteia, demers prin care se atinge, practic, de toate formele
-      de expresie ale culturii noastre tradiționale: „metazica aceasta (dacă este metazică) se
-      exprimă sincretic, prin lexic, frazeologie și paremiologie, prin sărbători, ritualuri și texte
-      ceremoniale, prin piese de folclor literar (basme, narațiuni autoreferențiale, anecdote
-      sapiențiale), sau muzical (bocete, cântece „de petrecut” și „hori ale mortului”, spectacole
-                            Recenzii              503
-       dramatice funerare etc.), printr-o anumită ritmare a timpului calendaristic, printr-o
-       anumită viziune a spațiului, reectată în construcții, drumuri, incinte, obiecte, podoabe,
-       ornamente și prin nenumărate imagini și simboluri ale sacralității morții, [astfel încât]
-       suntem siliți să recunoaștem că «recuzita» prin care se pune în scenă viziunea țărănească
-       a morții este una redutabilă.” (p. 39)
-          Acest prim capitol conține o incursiune în izvoarele istoriograce ale credințelor
-       funerare ale vechilor locuitori ai spațiului nostru, începând cu geții (Herodot, discutat
-       de Ion Horațiu Crișan și de Vasile Pârvan, cel care aduce în prim plan dezbaterea
-       istorico-religioasă despre străvechea îmbinare dintre religia uranică a cuceritorilor
-       indo-europeni și religia htoniană ancestrală a mediteraneenilor aborigeni, sinteză care
-       a impus calitatea htoniană moștenită a religiei dacice, ulterior supraviețuitoare în întreg
-       orizontul mediteranean creștin: p. 42), apoi, dacii (supuși, potrivit lui Mihai Bărbulescu,
-       unei represiuni cultice din partea unui popor civilizat aat în fața violenței practicilor
-       religioase autohtone, opinie cu care cercetătoarea ieșeană polemizează, denind cele două
-       sisteme religioase antagonice drept cel mult „concurențiale”, nicidecum exterminatorii,
-       lucru care ar  probat în primul rând de evidența continuității credinței în nemurirea
-       suetului: p. 45). Etnologul preia conducerea demersului său și suntem din nou în fața
-       viziunii speciale a cercetătoarei asupra nitudinii experienței umane a vieții: „Nu se va
-       teme, evident, cel pentru care moartea nu este un sfârșit. Nevăzutele au un mare credit
-       în ochii omului tradițional, ind cel puțin la fel de «crezute» ca și văzutele.” (p. 46). Mai
-       departe, „Țăranul arhetipal [...] gustă experiența trecerii dincolo încă în viață ind, indcă
-       pentru el hotarul dintre viață și moarte nu este o ruptură radicală, ci o limită permeabilă,
-       labilă, abia înripată, fugară, sau mai bine spus o limită înșelătoare: este o limită care
-       învecinează, nu una care desparte.” (Ibidem).
-          Incursiunea în izvoarele documentare etnograce ale credințelor în post-existență,
-       selectate din literatură, din arhive rare cu materiale inedite și din cercetările personale
-       ale autoarei, ne ghidează prin surprinzătoarea, deși foarte răspândita, „pomană de viu”,
-       prin imageria cântecelor funebre, prin practicile de comemorare regulate ori cu daruri
-       primițiale („primele cireșe, primii struguri ai anului, primele spice. Ale morților sunt
-       prima bucățică de pâine și primul strop de băutură de la masa de sărbătoare.” – p. 48), prin
-       riturile de Joi Mari, de Moși, la marile sărbători, cu mesele de ofrandă direct pe pământ,
-       apoi la Paștile Blajinilor, împlinite cu snțenie până la șapte ani, doar ulterior „uitând”
-       morții drumul către casă și doar după executarea ritului înmormântării secundare a
-       osemintelor dezgropate și dăruirea de pomană a copturii „uitata” (p. 49–51).
-          Întâiul subcapitol, 1.1. nêtoi athanatoi. Natura suetului, cu subdiviziunile sale:
-       1.1.1. Suetul în căutarea unei deniții, 1.1.2. Este suetul nemuritor?, 1.1.3. Părțile
-       suetului, 1.1.4. Suetul: pneúma, sămânță sau sânge?, 1.1.5. Tipuri de suet, 1.1.6.
-       Fiziologia suetului, 1.1.7. Câte morți suportă suetul? reprezintă o doctă incursiune în
-       istoria ideilor losoce dedicate acestor problematici, pe care o recomand cu căldură
-       cititorilor și din care am să rețin câteva formulări optime demersului nostru dedicat
-       etnologiei: „suetul este singura realitate esențială în legătură cu care omul și-a putut pune
-       simultan problema morții și a supraviețuirii” (p. 60). „Ne putem întreba dacă „lumea fără
-       dor” – adică fără durere, fără suferință – din bocetele românești nu reectă aceeași stare
-       de vag caracteristică pentru suetul-umbră la Homer.” (p. 62). „La poporul român [...]
-      504                  Recenzii
-      doar omul are suet, în timp ce dobitoacele nu au decât un soi de abur, fum sau „pară”,
-      duh, în sens de răsuare, sau „ghietă”, adică viață”, lucru probat de răspunsurile majoritar
-      armative identicate de autoare la întrebarea nr. 134 din Chestionarul lingvistic lansat de
-      B.P. Hasdeu (p. 63). Între Pitagora și Heraclit ca limite sunt „iată, așadar, deja xate cele
-      două borne între care se va mișca, până în contemporaneitate, meditația antropologică:
-      extrema raționalitate și extrema iraționalitate a suetului omenesc” (p. 66). Indexarea
-      sensurilor suetului îmbogățește suplimentar etnologul prin observația asupra unui:
-      „sens propriu secundar folosit în secolele XVII–XIX corespunzător unei practici sociale
-      larg răspândite: „de suet” însemna „drept suet”, adică „drept moștenitor”, ca în basmul
-      Neghiniță: «n-avem și noi un suet, măcar de-ar  cât o neghiniță»” (p. 67). „Repulsia
-      față de sinucidere are, la poporul român, o justicare metazică: actul autolitic întrerupe
-      subzistența suetului în lumea de dincolo, îl face să piară, adică să se risipească în neant,
-      precum suetele-abur ale dobitoacelor, în loc să intre în eternitate. Sinuciderea voluntară
-      este singurul mod în care suetul poate dispărea complet. Dispărând suetul, ritualul de
-      înmormântare își pierde obiectul și trebuie, prin urmare, anulat” (p. 68). Citând tradiția
-      sapiențială românească așa cum apare înregistrată la Tony Brill, într-o narațiune în care
-      diavolul creează omul din lut dar cere de la Dumnezeu însuețirea acestuia, „Dumnezeu
-      îi răspunde că da, cu condiția să i-l dea lui, și atunci Diavolul vine cu o propunere vicleană:
-      «-Dacă vrei să mi-l dai mie mort, și viu [să e] al tău». Comentariul naratorului este
-      un minunat caz de paradox intuitiv: «El știa că [omul] o să trăiască mai mult mort ca
-      viu».” (p. 73). În viziune creștină, ne spune autoarea, „Principiul vital prezent în suarea
-      părinților se transmite, combinat, în momentul conceperii fătului, dar apariția ca atare a
-      unui nou suet este opera instantanee a divinității” (p. 78).
-         Parcurgând, de data aceasta, istoria ideilor losoce privitoare la suet în paralelism
-      istoric cu incidența elementelor de mentalitate folclorică, autoarea identică numeroase
-      exemple ale meditației presocratice prezente în metazica țărănească românească, fapt
-      ce s-ar explica prin aceea că „ambele reectă interesul general uman pentru marile teme
-      cu circulație indo-europeană” și ar avea drept întâi vehicol pe orci (p. 83). Ulterior,
-      „modelul pneumatic al suetului a persistat din Antichitate până după Renaștere, în
-      discursul explicativ (pseudo)științic” (p. 85), „sensul comun surselor ebraice, grecești și
-      slavone [ind] cel de suu” (p. 87). Citând pe Antim Ivireanul cu sfaturile către duhovnici,
-      care aduc în prim plan cazuistica sexualității și abia apoi crima, vrăjitoria, furtul etc.,
-      Astrid Cambose asertează că „în creștinism, departe de a  disprețuită, «sămânța» este
-      considerată mai degrabă un «uid metazic» decât o umoare corporală. Creștinismul
-      este o religie ascetică, dar nu pentru că ar desconsidera componenta sexuală a lumii,
-      dimpotrivă.” (p. 88). Citând din traducerea lui Valeriu Anania la Facerea, cercetătoarea
-      observă că Duhul poate da viață unei zidiri anterior neînsuețite, precum în cazul lui
-      Adam, apoi „se poate «turna» peste orice om (dându-i vise și vedenii profetice, ca în Ioil
-      3:1), poate «umple» (pe proroci, mijlocind revelația), poate «umbri» (pe Fecioara Maria),
-      poate «zămisli» (pe Hristos). Evenimentul Bunei Vestiri este infuzat de losoe greacă
-      [...]” (p. 90). Observația originală a autoarei asupra marilor transformări antrenate de
-      schimbarea paradigmei lingvistice prin traducerile succesive ale cuvântului feminin ce
-      desemnează suul și suarea în limba ebraică, cuvânt care este de gen masculin în slavonă
-      și care – Duh – în română este de genul neutru, avansează ideea că „genul gramatical
-                            Recenzii              505
-       atribuit acestei (unice) noțiuni a inuențat și modul de înțelegere a energiei divine” (p. 91).
-       În ne, gândirea tradițională românească ar  atât moștenitoarea modelului neolitic al
-       suetului individual, model citat după C. Bălăceanu-Solnici și considerat învecinat cu cel
-       al losolor greci, cât și al unei „străvechi credințe în existența suetelor multiple” (p. 99),
-       potrivit căreia bipartiția și tripartiția suetelor în ritualurile funerare înseamnă că morții
-       continuă să se amestece în lume cu cei vii, trecând nevăzuți printre oameni, ca unii ai căror
-       ochi, odată trecuți dincolo, au ieșit din starea de orbire metazică (observație susținută cu
-       citarea unui document al Elenei Niculiță-Voronca: Ibidem). Ideea multiplicității suetelor
-       individuale este reluată în subcapitolul Câte morți suportă suetul? (p. 108 ș.u.). Dar mai
-       înainte, aăm importante date inclusiv etnograce despre faptul că suetul păstrează după
-       moarte forma trupului locuit de el, doar mult micșorat, lucru vizibil în multe reprezentări
-       plastice ale muririi, dimensiune care amintește de blânzii rohmani care la Paștile lor
-       dovedesc un ou abia adunați câte doisprezece (p. 103–104); că primele 40 de zile după
-       moarte cer din partea supraviețuitorilor mulțime de gesturi comemorative și de pomană
-       care atestă clar prezența suetului celui plecat (p. 107); iar că botezul post-mortem al
-       copiilor morți nebotezați, cu numele Ion-Ioana, de frica pericolului revenirii lor după
-       șapte ani în chipuri felurite de ințe periculoase (citat după un document aat în arhiva
-       noastră, AFC 421, al învățătorului Victor Babiuc), este o practică întâlnită anterior doar la
-       sectele gnostice și într-una din scrisorile către Corinteni a apostolului Pavel (p. 110–111).
-       Pentru un ultim areazăm al capitolului în munca cercetătorilor de la Cluj, Astrid Cambose
-       citează din nou pe Mihai Bărbulescu, cu lucrarea sa Interferențe spirituale în Dacia
-       Romană, unde se documentează amplu existența în Dacia a două concepții total opuse
-       cu privire la viața de dincolo: sălășluirea în mormânt și imortalitatea cerească, ambele
-       continuate, transmise, perpetuate, spune ea, în metazica românească a morții (p. 122).
-          Al doilea capitol, Raportul țăranului cu moartea, co-interesează etnologul în
-       multe din câmpurile sale de competență, de la cosmologia populară la terminologia
-       precisă a secvențelor narative ori rituale asociate muririi și imagologiei morții în general.
-       Este cel mai amplu capitol al cărții, în care problematica este decupată taxonomic de
-       către autoare în același mod original cu care ne-a obișnuit deja, inltrat plenar de topoi
-       consacrați istorico-religioși: Dumnezeul cel Viu veterotestamentar, Deus otiosus, Moartea
-       lui Dumnezeu, Dualism comprehensiv: cuplul antagonic Fârtat / Nefârtat, Negatio mortis
-       etc. Foarte interesante rămân discuțiile lologice comparative cu materialul iconograc
-       documentat de autoarea însăși (prezent în carte prin bogate ilustrații), care aduc împreună
-       obârșia creației din neant, suscitată de Dumnezeul cel Viu (p. 159), supratemporalitatea
-       divină, natura lui Hristos și cele trei ipostasuri divine (p. 160–163), nașterea și zămislirea:
-       „Tatăl îl naște pe Hristos, iar Maica Domnului îl face; nașterea este asimilată genezei, iar
-       facerea este evenimentul punctual al aducerii pe lume a pruncului, parturiția. Bărbații
-       nasc, femeile fac copii.” (p. 165), precum și suprapunerea, în ceea ce autoarea numește
-       „o altă Geneză, una hristică” imaginată de popor, între vârstele lui Isus Cristos – prunc,
-       tânăr, Pantocrator – și atributele Creatorului întregii ri, Dumnezeu Tatăl (p. 168–169).
-       Valoroasă etnologic este și discuția respectivă purtată pe documentele reprezentate de
-       colindele arhaice, citate inclusiv potrivit unor documente inedite din răspunsurile la
-       Chestionarul lingvistic B.P. Hasdeu, aate în Biblioteca Academiei Române din București.
-       Ne sunt prezentate texte de colinde în care pruncul înfășat este „moș crăciun”, ori – precum
-      506                  Recenzii
-      în colecția lui Alexiu Viciu – în care pruncul Hristos este Creatorul stâlpilor pământului
-      și inițiatorul orogenezei (p. 170), el însuși ind născut din piatră, lucru considerat un
-      ecou al credințelor mithraice locale, al căror reper rostit e Athanasie Marienescu (p. 171).
-      În ne, citând pe Elena Niculiță-Voronca, ne este prezentată consubstanțialitatea între
-      trupul lui Hristos și bobul de grâu, cel care moare pentru a da viață, considerat de autoare
-      a  metafora predilectă pentru destinul omului, ritualizat bogat în Plugușoare (Ibidem).
-      O regăsim pe Astrid Cambose însăși în concluziile subcapitolului: „termenii facere,
-      zidire, insuare, concepere, zămislire, naștere și întrupare țes, în dinamica divergenței și
-      convergenței lor, o sferă semantică innită – după cum innit este obiectul lor, căruia, se
-      pare, nu cunoașterea teologică individuală, ci numai limba, în complexitatea nuanțelor
-      ei, îi poate răspunde pe măsură” (p. 172).
-         Originale și importante etnologic sunt asumpțiile asupra identității funcționale
-      dintre Fărtatele cosmogonic arhaic românesc și deus otiosus teoretizat anume de Mircea
-      Eliade; mai mult, între motivele listate de folclor pentru retragerea în cer (cu cer cu tot) a
-      lui Dumnezeu cel numit, stă incompatibilitatea dintre sacralitatea Sa și spurcăciunea rii
-      de el create, ulterior decăzute: păcate omenești, impuritate comportamentală crescătoare
-      (femei, fete, avorturi), nelegiuire magică (fermecătoarele), batjocura prin atingerea cu
-      necurățenii (balegă, scârnă). Dincolo de motivația divină pentru părăsirea creației sale,
-      locul și timpul rămas gol se subscrie categoriei malece a ceasului rău, umplut în schimb
-      de rele; asemenea momente au loc, spun colindele, chiar și în rai, care poate  prădat
-      de odoare snte tocmai în vremea otium-ului divin, diavolește (p. 175–176). Privind
-      comparativ către primii loso greci, cele două viziuni devin divergente, căci (apud
-      Andrei Cornea) otium-ul zeului suprem este însuși domeniul său de activitate. Una dintre
-      cele mai stringente probleme abordate de exegeză prin analiza materialului folkloric
-      narativ, gnosticismul popular, este urmărită amplu, de la B.P. Hasdeu („bogomilismul ca
-      principală orientare gnostică prezentă în spațiul culturii române vechi”: p. 182) la Mircea
-      Eliade („legendele dualiste nu sunt balcanice, ci au o uriașă răspândire geo-culturală”:
-      p. 186), I.P. Culianu (dualismul nu e o doctrină ce se moștenește, ci un proces de gândire
-      ce produce o innitate de variante toate previzibile: p. 187). Andrei Oișteanu („legenda
-      cosmogonică [...] este la români una dualistă, deci ea va genera o mentalitate mitică
-      dualistă și o galerie de perechi de antagoniști a căror luptă reprezintă chiar forma lor de
-      conlucrare”: Ibidem), Lucia Aoroaiei (dualism slab, disimetric: „adversitatea se manifestă
-      explicit dintr-o singură parte”: Ibidem), pentru a oferi, nalmente, propria soluție
-      interpretativă: „numim acest echilibru al forțelor antagonice un dualism comprehensiv
-      sau cuprinzător” (Ibidem). Cearta contrariilor „nu este decât reectarea dramatică a unui
-      parteneriat. [...] Cearta este forma epică potrivită pentru a prezenta, în cele din urmă, o
-      conlucrare: împotrivindu-se celuilalt, ecare dintre antagoniști face ceea ce trebuia să
-      facă, iar din desfășurarea acțiunilor și replicilor reciproce se compune întregul lucrării
-      (la care ambii au contribuit), e că e vorba despre cosmogonie sau despre antropogonie,
-      despre instituirea unui cult, crearea animalelor, a obiectelor și instrumentelor casnice
-      ș.a.m.d. Fârtatul și Nefârtatul, divinități gemelare, au totuși o ierarhie ontologică bazată
-      pe un principiu similar celui enunțat de Aristotel [...]” (p. 188–189).
-         Subcapitolul care urmează, Dumnezeu în posturi umile, a reprezentat pentru
-      autoarea acestor rânduri o lectură fascinantă, în care a găsit valoricate documente
-                            Recenzii              507
-       din Arhiva de Folclor a Academiei Române (AFC 427 din Adrian, Mureș, AFC 271
-       din Valea Copcii, Mehedinți, AFC 628 din Șicovăț, Lăpușna, AFC 1146 din Cărăsău,
-       Nimăiești-Criș), dar și interpretări pline de miez avându-l ca personaj central de data
-       aceasta pe arici, participant, așa cum știm, la „tocmirea” creației. Las pe cititor să Îl
-       descopere el însuși în discursul cărții pe Dumnezeu umil, uituc, oarecum neștiutor și
-       bolnav de uitarea oamenilor.
-          Negatio mortis: nemurirea – starea adamică; învierea – starea hristică; starea de
-       „nemoarte” a eroului din basmul metazic abordează perechea Hristos-Adam, atât în
-       documente scrise, cât și în cele iconograce: de la faptul că sunt amândoi făcuți de
-       Dumnezeu în 25 martie, la statutul lor urieșesc și la învierea celui dintâi dintre morți,
-       care e Adam, odată cu coborârea lui Hristos la iad (p. 204–208). „Nu ni se spune nicăieri
-       că i s-ar  luat înapoi cunoașterea, ci doar că i s-a limitat viața, dându-i-se un soroc de
-       moarte (foarte îndepărtat, odată ce a trăit 930 de ani) și că a fost urgisit să-și câștige traiul
-       cu sudoarea frunții.” (p. 207). Autoarea polemizează cu J.G. Frazer, cel care considera
-       Pomul Cunoașterii ca ind pomul morții, iar pe șarpe drept „primul dintre tricksterii
-       care păcălesc moartea”, ca unul care a gustat din Pomul Vieții (interpretare greu de ocolit),
-       pentru a reveni cu formulări memorabile: „Adam și Eva vor  cunoscut integral, cu
-       maximă intensitate, nostalgia paradisului pierdut, pe care îl gustaseră cu adevărat și unde
-       trăiseră primele trei ceasuri bune și primele trei ceasuri rele din viața lor.” (p. 209) „Dacă
-       citim metaforic izgonirea din rai, întrevedem pricina profundă a greșelii adamice: opțiunea
-       pentru moarte.” (p. 214). În ne, invocarea motivului de basm al căutării nemuririi în
-       două versiuni con-temporane, varianta Ispirescu culeasă în mahalaua bucureșteană, iar
-       varianta Barbu Constantinescu provenită din folklorul țiganilor, accentuează nostalgia
-       și jalea rezultantă după lumea pierdută, în defavoarea dorinței de nemurire (p. 215–216).
-          Privilegiul ridicării la cer cu trupul ne aduce pagini remarcabile despre Sântilie și
-       despre adormirea și legendele Maicii Domnului, pagini îmbogățite suplimentar prin
-       invocarea uriașului Enoh/ Ienac, a ciobanului din lună, a fraților originari Avel și Cain (cel
-       care se căinează: p. 221), a fulgerului îngropat (cu dedicație inscripționată în locul unde a
-       lovit fulgerul pentru zeul suprem, practică geto-dacică, citată după M. Bărbulescu: p. 222),
-       a avantajului netăgăduit de narațiuni al morții prin trăznire („din ditun”: p. 223, vezi și
-       nota 219, unde „sacramentul «trăsni-m-ar...», «trăsni-te-ar...» pare a nu  fost, la origine,
-       un blestem, ci o dorință”), culminând cu athanasia Maicii Domnului – Dumnezoaia,
-       verdeleanca etc., elemente ale unei mariologii populare de o imensă „porozitate arhetipală
-       / cognitivă” (cu termenii lui Bogdan Neagota: p. 244). Autoarea intuiește bine cum
-       „detaliile acestui vast proces de transmitere a moștenirii culturale de la o civilizație la
-       alta sunt inepuizabile” (p. 230).
-          Subcapitolul „Moartea este un lucru care se învață”. Două testamente abordează,
-       prin sintagma din titlu a lui Mircea Eliade, „pedagogia culturală care poate  asumată în
-       plan personal: pedagogia exempli gratia” (p. 244), alegând moartea patriarhului Avraam
-       și moartea ciobanului mioritic, folosind izvoarele documentare specice: apocriful
-       datat aproximativ în sec. II d.H., circulant în spațiul românesc începând din sec. al
-       XVI-lea, și variantele de baladă/ colind/ cântec de leagăn/ bocet/ descântec intitulate
-       generic „Miorița”. Întâiul caz ar demonstra „sugestia greutății cu care omul învață să
-       moară”, Avraam ind acum omul însuși, omul generic, care învață cu durere (p. 253). Al
-      508                  Recenzii
-      doilea caz aduce „un alt unghi sub care poate  cercetată cu folos problema raportului
-      cu moartea proprie” (p. 255) și urmărește cinci aspecte socotite fundamentale: reacția
-      ciobanului desemnat pentru sacriciu la aarea veștii; momentul morții; locul „astupării”;
-      tratamentul funerar; moartea-nuntă. Folosind cu precădere scriitura lui Ion Diaconu și
-      a lui Nicolae Saramandu asupra Mioriței, ambii descendenți din familii de păstori, ambii
-      descriind „corespunzător, împreună cu informatorii lor, funcționalitatea baladei-colind
-      in situ” (p. 257), autoarea reușește să creioneze un tablou complex al unei vieți pastorale
-      în care soluția existențială universal-clamată a Mioriței era un mod de a viețui, oameni
-      și turme. Sunt aduse în discuție sacriciile de întemeiere la deschiderea stânilor (Sfântul
-      Gheorghe) sau la întemeierea satelor, în relatările ciobanilor înșiși, apoi, variantele în care
-      este prezent motivul tânărului mort înviat e de mama sa, e de o călugăriță; pomana de
-      suetul unui cioban tânăr mort pe neașteptate, constând dintr-o turmă de oi și un cal; în
-      ne, argumente din texte de bocet de petrecut ciobanul mort, care cer comuniunea cu
-      toți ciobanii morți de dincolo, chemați la Moși (text la p. 265 mai degrabă cu formă xă –
-      n.n.). Propunând, pe urmele Marijei Gimbutas, o continuitate de 8000 de ani a modului
-      de viață păstoresc transhumant și pendulatoriu, Astrid Cambose vede, eliadian, centrul
-      lumii policentrice inclusiv la strungă, unde cel ucis, menit pentru asta, va deveni „spirit
-      ocrotitor al locului”: „Omul care «dă în strungă» astăzi se așează, fără s-o știe, într-o
-      redutabilă succesiune paneuropeană, iar gesturile sale repetă un ritual străvechi.” (p. 267).
-      Autoarea pledează în continuare pentru atestarea prin textul Mioriței a ritului funerar cu
-      tratamentul cadavrului prin expositio, pe urmele fundamentalului studiu asupra Mioriței
-      al profesorului Ion Taloș (din 1984), folosindu-se și de premisele arheologice prezentate
-      de Mihai Bărbulescu și, decenii mai târziu, de Adela Toplean, precum și de eventualele
-      documentări narative ale unor târzii îngropări de viu (sacriciale: ceea ce, stricto sensu, nu
-      constituie un rit funerar – n.n.). Pentru Astrid Cambose, Miorița își exprimă chintesența
-      prin nucleul de sens al testamentului ciobanului, drept „expresia lirică a mitului de
-      întemeiere” (p. 273). În acord cu propria noastră opțiune metodologică, cercetătoarea
-      asertează că „orice practică (aici, practica sacriciului de întemeiere) are nevoie de un
-      «scenariu» prin intermediul căruia să poată  transmisă.” (Ibidem). „Miorițele spun
-      «povești» paralele prin care se enunță un fapt comun tuturora: stâna are suet, căci l-a
-      primit în timpuri imemoriale de la un tânăr ucis ritual, deci ea va dăinui.” (p. 274).
-         „Bogăția impresionantă a materialului etnograc aat în discuție”, cum îl numește
-      Ștefan Alforoaei pe coperta IV, nu ne îngăduie să intrăm în toate amănuntele oferite
-      de subcapitolul Ipostaze ale morții sau cel dedicat Diavolului în cultura tradițională
-      românească, unde autoarea trece în revistă și clasică sute de nume date diavolului, taxonii
-      ind „funcție de «resortul» lor semantic” (p. 311), dar lectura este o plăcere inclusiv prin
-      conexiunile neașteptate pe care le îndrăznește autoarea și pe care le recomand cu căldură
-      și convingere. De o relevanță etnologică particulară sunt aserțiunile din Lupta cu agenții
-      magici ai morții. Antagoniști, descântece, exorcisme populare, tricksteri care păcălesc
-      moartea: pornind de la „legitimarea subiectivă a gândirii magice” potrivit lui Lucian
-      Blaga, pentru care „«sarcina magică» (adică substanțele și puterile magice) contaminează
-      diferite obiecte sau persoane prin contiguitate, analogie sau contrast” (p. 301), citând și
-      pe Bronislaw Malinowski pentru care „între obiect și magia sa se aă un nexus esențial”
-      ce face astfel încât magia „doar printr-o transmisie absolut nemodicată, imaculată, ea
-                            Recenzii              509
-       își păstrează eciența” (p. 301–302), autoarea caută în chestionarul al doilea al lui Nicolae
-       Densușianu (1895) tricksteri atât buni (descântătorii) cât și răi (fermecătorii, vrăjitorii,
-       solomonarii, „babele-șamani, care-și primesc puterea vindecătoare de la iele” cu expresia
-       lui I. Pop-Curșeu: p. 302), pentru a ajunge la E.R. Dodds și la lumina pe care acesta o
-       dezvăluie asupra presupuselor practici catabazice șamanice locale (p. 304).
-          De o și mai mare importanță pentru etnologul practicant este subcapitolul De la
-       Testamentul lui Solomon la demonologia folclorică românească; apelând la traducerea
-       românească a lui Ștefan Colceriu (2010), dar și la lucrarea fundamentală a lui J.G. Frazer
-       asupra folclorului din Vechiul Testament, autoarea recurge direct la textul apocrifului
-       de secol I–IV în care Templul din Ierusalim va  zidit cu ajutorul demonilor, pentru
-       a susține și argumenta ipoteza „că numele Obyzouth s-a modicat până la forma
-       românească Avezuha, iar Abezethibou, duhul cu o singură aripă, cel de sub stâlpul din
-       Marea Roșie [...] a dat naștere sintagmei suplimentare aripa Satanei. [...] unirea lor în
-       sintagma denominativă Avestița, aripa Satanei, secondată de diverse nume alternative,
-       perpetuează, transcultural, imaginea și atributele perechii de demoni din Testamentul
-       lui Solomon.” (p. 337–338). Autoarea citează traducerea Colceriu, noi cităm autoarea,
-       asupra acestui relict folcloric: chemată și întrebată de Solomon care îi este numele (cine
-       este), demonul răspunde că „noaptea dă ocol lumii după femei și, ghicindu-le sorocul
-       nașterii, le sugrumă pruncii, că strâmbă ochi, că risipește minți și îndurerează trupuri, dar
-       îi spune și faptul că numele ei scris pe o bucată de hârtie o îndepărtează de lângă femeia
-       care naște – or, toate textele-amuletă românești de Samcă conțin numele demonului, în
-       număr de 19, scrise pe o hârtie purtată la gât de lăuză sau de prunc” (p. 337). Demonstrația
-       cercetătoarei urmărește, ca atare, două categorii de documente folclorice: „«cărticelele»
-       (amulete constând din textul exorcismului, cu cele 19 nume ale demonului, însoțit de
-       reprezentarea acestuia) și descântecele de Samcă / de strâns / de răul-copiilor” (p. 340).
-       Din prima categorie, sunt discutate: cel mai vechi exorcism cunoscut în literatura noastră
-       folklorică, textul anonim în slavonă copiat de popa Grigore din Măhaci înainte de 1600
-       și publicat de B.P. Hasdeu în 1879; cele zece texte-amuletă cu „Sveti Sisin” vânătorul de
-       diavoli, devenit apoi Sfântul Sisoe și uneori înlocuit prin Arhanghelul Mihail, publicate de
-       B.P. Hasdeu (datat cca 1550), Moses Gaster (datat cca 1799), Tudor Pamle (datate 1836),
-       Simeon Florea Marian (datate 1862, 1869), M. Lupescu, Ion I. Drăgoescu, iar cel mai nou,
-       de la Cornova din Basarabia (1931), publicat de Ștefania Cristescu-Golopenția drept
-       „Cărticică de strâns”; documente descoperite arheologic și păstrate azi în colecții muzeale
-       la Turnu Severin și la Vâlcea, cum sunt plăcuța de plumb cu litere chirilice găsită la arat
-       de un grup de țărani la Budănești, Mehedinți, cele trei table de lemn pictate cu imaginea
-       Avestiței găsite la Călinești și la Costești, ambele în Argeș, iar a treia nelocalizată; două
-       cărți de Samcă manuscrise necunoscute, aate la Arhivele Statului, datate în sec. XVIII
-       și în 1825, aceasta din urmă de undeva din Bacău. Spectrul de selecție a descântecelor
-       de Samcă este, resc, mult mai larg, autoarea urmărind câteva aspecte etimologice ale
-       numelui demonului, care este și al bolii (marea majoritate a numelor populare desemnând
-       epilepsia), dar și aspecte ale spectrului său de acțiune, care circumambulează masiv
-       momentele esențiale legate de fertilitatea femeilor și de fragilitatea nou-născutului (de
-       la proceduri contraceptive, la cele de protecție a nașterii și a pruncului, acest demon și
-       ipostazele lui au un anume câmp electiv de intervenție: p. 347–355). În ne, avem parte
-      510                  Recenzii
-      de o discuție larg informată asupra identității și a razei de acțiune a Ielelor (etimologie,
-      circulație, gen proxim, diferența specică de alte categorii aduse împreună în literatura
-      de specialitate: p. 356–361).
-         Finalul capitolului al doilea discută amplu motivul baladesc Lenore, care în
-      vestul Europei reprezintă pe logodnicul-strigoi, iar în răsăritul nostru îl reprezintă pe
-      fratele-strigoi (discuție sprijinită pe argumentele monograei lui Gheorghe Vrabie și pe
-      textele baladei Voichița, precum și pe paralele cu motivul cavalcadei funebre), conchizând:
-      „moartea este un prag care poate  trecut – deși cu mari costuri existențiale – și înainte,
-      și înapoi” (p. 370). Ca atare, subcapitolul abordat în subsecvent este Moartea ca prag sau
-      trecere. Moartea resurecțională. Elemente de metempsihoză la români? ultimei întrebări
-      răspunzându-i-se cu informații provenite din răspunsurile la chestionarele Nicolae
-      Densușianu și Bogdan Petriceicu Hasdeu (inclusiv strigoizarea ind asociată cu o formă
-      de reîntrupare a suetului după moarte, context în care autoarea discută jocurile de
-      priveghi, apelând la și polemizând cu lucrarea lui Constantin Eretescu despre măștile
-      de priveghi, drept ocazie dată pentru dramatizarea rituală a apariției unui strigoi ctiv,
-      pentru ca cel real să nu se mai întrupeze: p. 377–378). Nu putea lipsi, și nu lipsește,
-      abordarea creștinismului țărănesc în acord sau în siajul dogmei teologice creștine, nal de
-      capitol foarte frumos scris: Anima naturaliter christiana. Sensul creștin al morții, unde este
-      abordată spovedania și împărtășania păstorească la brad, postul și abstinența, scoaterea
-      părticelelor, pluralitatea sărbătorilor (cele populare pe deasupra celor din calendarul
-      ortodox), năzuința trupului pneumatikos.
-         Al treilea capitol schimbă perspectiva înspre Tărâmul de dincolo și legăturile lui
-      cu cel de aici. Pornind de la observația că rezidă, în imaginarul tradițional românesc, un
-      Continuum spațio‑temporal neomogen, structurat pe registre verticale și ritmuri, unde
-      opoziția stânga-dreapta este mai relevantă decât cea sus-jos, autoarea identică „un
-      argument în sprijinul ideii că reprezentările simbolice ale morții împart spațiul imaginar
-      în registre” (p. 395), anume în așezarea pe pământ și asumarea prin ridicarea de pe pământ
-      a pomenilor pentru morți, „sugerând continuitatea registrelor spațiale pe o verticalitate
-      care pleacă din mormânt și ajunge în rai” (Ibidem). Similar, timpul arhaic „nu este
-      convențional, ci pulsatoriu. Sunt ritmuri care cresc și descresc, divizându-l în fragmente
-      subiective, uneori strict individuale, alteori comunitare, dar care vor avea întotdeauna o
-      desfășurare organică” (p. 399). Geograa mitică românească a lumii de dincolo urmărește
-      arhaicitatea riturilor funerare și deci a lumii de dincolo (de vârsta, musteriană, a primelor
-      înmormântări: citată ind Adela Toplean, p. 400), prin documentele străvechi de folclor
-      literar despre crearea cerului, despre pricinile despărțirii cerului de pământ, despre
-      numărul cerurilor și despre deschiderea lor, despre versurile Cântecului Zorilor și despre
-      scara de ceară care leagă tărâmurile, despre Vămile și punțile din lumea cealaltă, despre
-      Peisajul lumii de dincolo și despre Personaje metamorfozate în plante și animale.
-         Ultima parte a acestui capitol ne aduce necesara abordare a gurilor emblematice
-      ale imaginarului funerar românesc, Moșii și Blajinii, în scopul „enunțării unei ipoteze
-      privind tendința de resemantizare, de recontextualizare și de înglobare treptată a cultului
-      Blajinilor în cultul familial al morților, pe de o parte, și, pe de altă parte, examinarea
-      unor aspecte teoretice și practice legate de această resemantizare” (p. 430). Numărul
-      crescut de Moși din tradiția noastră, ca de altfel însăși supradimensionarea cultului
-                            Recenzii              511
-       morților la români, sunt considerate nu atât moșteniri ale numeroaselor contacte
-       culturale straticate (dacice, grecești, romane, slavo-balcanice), în siajul cercetărilor
-       lui Ion H. Ciubotaru, Victor Kernbach și Paul Simionescu, cât racordări ale diverselor
-       specicități la structura profundă a culturii funerare românești. Între subiectele abordate
-       stau: frecvența pomenirilor morților, polisemantismul și etimologia lui „a pomeni” („A
-       pomeni morții trimite simbolic, așadar, la intenția de a‑i trezi numindu-i” – p. 433);
-       practica rituală a focurilor de Joi Mari (de la Vasile Tudor Crețu la cercetările de teren
-       personale, cu prima atestare la Marco Bandini în secolul al XVII-lea), rămânerea suetelor
-       morților de la Joi Mari până la Moșii de vară, în preziua Rusaliilor (Sâmbăta Moșilor sau
-       Rusitori), setea/ foamea/ neodihna morților; „slobozirea apelor” și importanța luminii/
-       lumânării/ pomenii de lumină, extrem ritualizate în cazul cenotafurilor; dezgroparea
-       oaselor la șapte ani ca ”să vadă din nou lumina soarelui” (p. 441), luminile la morminte
-       în noaptea de Înviere; alimentele funerare („arhetipuri alimentare” identicate de Ofelia
-       Văduva) și numele nenumărate (enumerate) ale colacilor și pomenilor funerare („pomana
-       de țărână” și „numele mai degrabă pitorești decât solemne” în Moldova, nume solemne
-       și îndrăznețe în Oltenia – p. 445), Uitata muntenească de la Mucenici, colac antropomorf
-       menit acelora dintre morți „care s-au integrat complet părții nevăzute a neamului, adică
-       Moșii” (p. 447); Paștile Blajinilor și ale Rohmanilor (după Lucia Berdan), odinioară
-       sărbătoare a morților pur și simplu (după Adrian Șuștea), prezentă deja mitologic
-       în chestionarul lui Nicolae Densușianu și în taxinomia ințelor mitice benece a lui
-       Constantin Eretescu („Rohmanii, Oamenii de Apă, Piticii și Blajinii” – p. 449); elementele
-       unor „diverse «sisteme coperniciene» țărănești” (p. 451).
-          Foarte bogate în argumentație, documentare și interpretări sunt paginile dedicate
-       Blajinilor prezenți în folclorul românesc: de la originile termenilor și ale gurilor mitice,
-       la analiza mențiunilor sărbătorilor lor dedicate și practicate în documente, între care se
-       distinge cercetarea de teren extrem de atentă a autoarei în comuna Țibănești, jud. Iași,
-       din 2015, parte a unui efort monograc personal impresionant. Amplitudinea abordării
-       acestui capitol se aă exprimată rezumativ în câteva formulări sclipitoare: „Conform
-       geograei mitice românești, Blajinii ies rareori din ostroavele albe de pe Apa Sâmbetei,
-       purtați de nostalgia lunii pline, deosebit de evlavioși, ei trăiesc ascetic, se roagă pentru
-       oameni și încearcă să amâne sfârșitul lumii; după ce apocalipsa se va  produs, însă, ei
-       vor locui pe pământ în mijlocul oamenilor, într-o stare de ataraxie (de factură creștină,
-       nu stoică). Ei sunt morți curați, echivalentul românesc a acelor daimones epichtonieni,
-       proveniți din oamenii lipsiți de hybris ai vârstei de aur.” (p. 474). „Este evident faptul că
-       există așteptarea unui ajutor din partea celor plecați «dincolo», dar nu credem că acest
-       lucru se transpune în termenii unui negoț funerar. Dimpotrivă: credem că grija (în special
-       feminină) pentru suetele celor dragi este o manifestare a nevoii de a proteja viața, în
-       toate formele ei – chiar și «viața de dincolo».” (p. 494).
-          Al patrulea și ultimul capitol încheie, simetric cu primul, abundenta demonstrație
-       a cercetătoarei asupra existenței unei metazici a morții etno-specice spațiului cultural
-       românesc: într-adevăr, doar o asemenea paradigmă largă poate admite în cadrele ei
-       documente atât de diverse, în spațiu și în timp; dar perspicacitatea intuitivă a autoarei are
-       capacitatea de a apropia coerent toate aceste documente, dovedind că există Metazica
-       tradițională românească a morții – expresie rituală și lingvistică. În acest capitol, vine
-      512                  Recenzii
-      rândul reprezentărilor iconograce în vechile fresce ale bisericilor supraviețuitoare
-      de la noi, închipuind Moartea, bogat ilustrate prin clișeele autoarei, în fotograi color.
-      Analiza textuală reia narațiunile-document despre moartea opusă urâțeniei – adică Maica
-      Domnului, ori o pasăre frumoasă – dacă cel pe ducă este fără de păcat (copil); ori zâna
-      funebră care vine să ia omul în Cântecul Zorilor; ori personajul fabulos cu multe nume:
-      Sila Samodiva, Giva Samogiva, Gia Samogia, Sîma Sîmodiva, Niagra Samodivă, Samodia,
-      Zâna bătrână; despre călătoria suetului și despre repertoriul impresionant de cântece
-      funebre: Zorile, Zâna bătrână, Calul mohorât, De petrecut, Fir de trandar, A suliții, Bradul,
-      Lemnu, Cântecu ăl mare, Cocoșdaiu, Ale țărânii, Hora mortului, Strigă moartea, Cucul și
-      moartea, Soarele și moartea, Al boilor, Harângul, bocetele, care toate ar compune „o carte
-      a morților românească nescrisă” (p. 514). Înțelegând bine că miza analizei îngemănate a
-      unor materiale despărțite de o sută de ani de consemnare (manuscrise AFC, bunăoară,
-      din răspunsurile la chestionarele lui Ion Mușlea și propriile cercetări de teren ale autoarei)
-      este dovedirea unei legături între categoriile de documente, Astrid Cambose numește
-      „perpetuarea cântecului ceremonial funebru dincolo de pragul secolului al XX-lea”: „o
-      chestiune crucială pentru tema în discuție” (p. 544), care ar : Mai persistă strigarea Zorilor
-      în secolul nostru? Ne răspunde ea: „Este posibil ca tocmai contaminarea între cântecul
-      ceremonial funebru și bocete să e șansa de supraviețuire a ambelor, căci arhaicitatea
-      imaginilor vehiculate de Zori și Brad hrănește închipuirea omului cu privire la lumea
-      de dincolo, iar caracterul personal al durerii revărsate în bocete creează cadrul viu,
-      foarte expresiv și percutant, al acestei experiențe colective care este moartea pentru
-      omul tradițional.” (p. 545). Glosele lingvistice idiomatice cu care se încheie acest capitol
-      îi permit autoarei un spectru foarte personal de comentarii, de la cele mai lucide –
-      „proliferarea conceptelor nu este însă întotdeauna semn de înțelegere” (Ibidem) – la cele
-      mai ludice, tocmai pentru „a deschide apetitul cititorului spre a-și adânci propriile reecții
-      și intuiții pornind de la inepuizabilele resurse ale limbii vii” (p. 554).
-         Considerațiile nale vin să rezume și să unice motivația ecărui pas întemeiat de
-      autoare de-a lungul cărții: recursul la paralela cu losoa elină, chiar atunci când nu era
-      de urmărit vreo liație ideatică (căci „între sapiența tradițională și losoa propriu-zisă
-      funcționează adeseori principiul vaselor comunicante. Metazica țărănească ar putea
-       considerată o losoe fără titulari...” – p. 557); căutarea productivității gnoseologice a
-      faptelor de cultură populară (în ideea că „toate formele și nivelurile producției culturale
-      coexistă și că ele au ca unică sorginte aptitudinea minții umane de a da sens lumii.
-      Toate formele de expresie ale acestei aptitudini – îndeobște numită «cunoaștere» – sunt
-      sincrone și egal îndreptățite” – p. 558); asumarea personală a subiectului („te apasă
-      conștiința propriilor limitări ori nostalgia unui tărâm pierdut și a timpului în care s-au
-      născut creațiile [...], timp în care între a trăi, a simți și a cunoaște poate că nu exista un
-      hiatus” – p. 559); balansul între obiectivele urmate de etnolog/-ie (recurgând la aserțiuni
-      istorico-disciplinare semnate de Radu Toader, Bogdan Neagota și François Laplantine)
-      și recongurarea „de factură «colonială» a datelor astfel selectate, încât terenul să pară
-      în perfect acord cu scopurile inițiale ale cercetătorului” (p. 560); în ne, metaforica
-      preumblare trează prin pădurea de simboluri, Arboretum frumos stilizat pictural de
-      către autoarea noastră: „Pădurea de simboluri e alta pentru ecare dintre noi.” „... nu
-      spre a o depăși am pătruns în miezul ei, croindu-ne aici propriile cărări, ci spre a o locui.”
+Recenzii
+501
+dintre care este ucis cel mai mare; varianta din 1883, în versuri, comunicată lui G.Dem.
+Teodorescu, cu testamentul respectat de ucigași dar cu adresanta cu neagră cosiță a
+mesajului postum al tânărului, prin vocea mioarei fermecate, absentă...; varianta publicată
+de Brăiloiu în 1932, din Ștefănești, Argeș, descrie omorul în felul altor câteva variante din
+Muntenia, Dobrogea, Moldova, întâlnite la Fochi; în varianta din Nereju, Vrancea, tot din
+tipologie, șase ciobani dușmani așteaptă victima să termine mulsul oilor și îl îngroapă
+după testamentul lăsat mioriței; în sfârșit, o variantă similară din Timocul sârbesc se
+încheie cu dezvăluirea omorului de către oiță, aceasta fiind legatara testamentară și către
+mama ciobanului, cuprinzând practicile rituale de pomenire datorate fiului ucis de nouă
+ciobani dușmani. Ca atare, concluzia autoarei este că omorul este departe de a fi absent în
+ființa epică a textului mioritic, cu atât mai mult cu cât aceste dezvoltări ne dau informații
+atât de valoroase asupra creativității și adaptabilității în decursul circulației folclorice,
+datorate mediilor prin care se perindă, specializării informatorului (cu termenul Sandei
+Golopenția, discutat aici în comentariul meu în acest volum, în cadrul capitolului Note
+de lectură) și receptării emice a variantelor. Cu alte cuvinte, interpretările și informările
+domeniului nostru dinspre Miorița nu se vor sfârși.
+Deși pare că am spus „tot” ce mi‑a grăit cartea Ioanei‑Ruxandra Fruntelată, am
+lăsat nerostite câteva gânduri comune: așa este dificultatea de a face profesionist etnologie
+pe terenul românesc „de acasă”, unde vorbim de pre‑cunoașterea limbii terenului, pe
+de o parte, și de complicitatea mediului savant cu autorul analizei, pe baza unui grad
+considerat mare de împărtășire a culturii „de tip folcloric” (p. 36); așa este și conștiința
+că „ceea ce studiază etnologul nu este (numai) text, iar metoda va trebui să împrumute
+ceva din proteismul culturii vii pe care vrem s‑o interpretăm dacă vrem să înțelegem
+această cultură și nu doar s‑o codificăm, s‑o cuantificăm și s‑o reducem la date/ simboluri
+cunoscute și mai ușor manevrabile.” (p. 38). Așa este și frumoasa dedicare a trudei sale, de
+a cărei împlinire autoarea cărții s‑a apropiat uimitor de mult: „iubind lumea românească
+și oamenii pământului cu bucuria unei recunoașteri continue și neliniștea unei datorii
+mari despre care orice intelectual al țării știe că se cere plătită în fiecare zi.” (p. 10).
+dr. Ileana Benga
+Cercetător științific gradul II, Institutul „Arhiva de Folclor a Academiei Române”
+ileanabenga@gmail.com
+Astrid Cambose, Cealaltă grădină. Cultura tradițională a morții la
+români, Cluj‑Napoca, Editura Argonaut, 2019, 630 p.
+Așteptată cu mare interes, apărută într‑un semnificativ moment al etnologiei
+românești de nouă generație, dar îngreunată în circulația ei intelectuală de survenirea
+pandemiei, această carte își justifică pe deplin recenzarea în paginile Anuarului Arhivei
+de Folclor din Cluj‑Napoca, autoarea fiind apropiată de peste un deceniu de fondurile de
+arhivă, de metodele și de idealurile de lucru ale echipei noastre de specialiști.
+
+Recenzii
+502
+Mobilul intelectual al căutării și aflării din paginile cărții este punctat ferm dintru
+început de autoare: „la întrebările metafizice majore se pot da doar răspunsuri metaforice,
+al căror adevăr constă tocmai în subtilitatea și frumusețea lor. Considerând că există o
+explozie de metafizică în mitologie, în literaturile vechi, în textele revelate și sapiențiale, în
+folclor ș.a., credem că „metaforele” respective ar putea fi culese, inventariate, comentate și
+considerate texte propriu‑zise filosofice, pentru că problematica lor este filosofică.” (p. 22)
+În adevăr, pentru etnologie aceasta este o perspectivă de mare preț, pentru care se cere,
+și se dă, în cazul nostru, o minte pătrunzătoare pregătită temeinic în ambele câmpuri
+disciplinare. Ca primă dovadă ni se oferă delimitarea precisă prin stricta împroprietărire
+a termenilor documentari: „cultura românească tradițională – cu toate neajunsurile sale,
+vom folosi această sintagmă când ne vom referi la cultura țărănească veche, dar și cea
+actuală, în măsura în care cea din urmă prezintă o formă de continuitate dinamică față
+de moștenirea veacurilor trecute.” (p. 23)
+Dat fiind că „principala temă metafizică supraindividuală a tuturor timpurilor a
+rămas natura sufletului și a divinității” (p. 31), autoarea se concentrează în introducere pe
+pluralitatea documentelor care ne pot da indicii despre evoluția endemică a conceptelor
+relevante ideii de suflet, selectându‑le din arheologie (sciții), filosofie și istoriografie
+(Pitagora, Platon, Aristotel), istoria religiilor (Mircea Eliade), istoria filosofiei (Lucian
+Blaga), antropologia culturală (James G. Frazer, George Gusdorf). Teza cercetătoarei se
+înrudește cu cea a ultimului autor chiar la rădăcină, acolo unde „gândirea doctrinală are
+antecedente în gândirea mitică, iar conștiința mitică, deși refulată, nu a murit încă” (p. 36).
+Ca atare, întrebarea de cercetare căreia îi răspunde lucrarea este: „în ce măsură imaginarul
+tanatologic românesc este de natură magică (sau magic‑religioasă, cum afirma Mircea
+Eliade) și în ce măsură este el expresia unui demers metafizic?”, cu excelentul și actualul
+corolar: „Care mai este relevanța sa azi pentru identitatea comunitară?” (Ibidem). Aceasta
+din urmă este interogația care ne reunește ca întrebare a generației noastre de etnologi,
+crescuți cu o realitate etnografică, dar operând profesional cu o cu totul alta, emergentă.
+Primul dintre cele patru capitole foarte consistente ale cărții este intitulat
+Moartea – un „obiect despicat”. Obiectul intelectual numit cu termenul lui Lucian Blaga
+(„fenomen despicat”, p. 122) este urmărit pe căile pe care le‑a parcurs însăși cercetătoarea,
+conducându‑ne firesc către punctele de confluență domenială – etnologie și filosofie –
+care au mobilizat gândirea sa critică asupra subiectului: „În reflecția țărănească asupra
+morții confluează problemele clasice ale filosofiei: ce este omul, ce este sufletul, ce este
+lumea, ce este absolutul, care este raportul aparență / esență, sau timp / eternitate, ce
+presupune devenirea și dacă are ea o natură continuă ori discontinuă, ce este adevărul
+și în ce măsură este el cognoscibil, cum anume se echilibrează termenii raportului
+libertate‑cauzalitate‑destin, atât la nivelul omului, cât și la nivelul lumii etc. O singură
+temă filosofică majoră lipsește: neființa.” (sublinierea noastră). Este doar prima afirmație
+seducătoare și pătrunzătoare pe care o face Astrid Cambose în acest demers bogat în
+gândire și în instrumentele acesteia, demers prin care se atinge, practic, de toate formele
+de expresie ale culturii noastre tradiționale: „metafizica aceasta (dacă este metafizică) se
+exprimă sincretic, prin lexic, frazeologie și paremiologie, prin sărbători, ritualuri și texte
+ceremoniale, prin piese de folclor literar (basme, narațiuni autoreferențiale, anecdote
+sapiențiale), sau muzical (bocete, cântece „de petrecut” și „hori ale mortului”, spectacole
+
+Recenzii
+503
+dramatice funerare etc.), printr‑o anumită ritmare a timpului calendaristic, printr‑o
+anumită viziune a spațiului, reflectată în construcții, drumuri, incinte, obiecte, podoabe,
+ornamente și prin nenumărate imagini și simboluri ale sacralității morții, [astfel încât]
+suntem siliți să recunoaștem că «recuzita» prin care se pune în scenă viziunea țărănească
+a morții este una redutabilă.” (p. 39)
+Acest prim capitol conține o incursiune în izvoarele istoriografice ale credințelor
+funerare ale vechilor locuitori ai spațiului nostru, începând cu geții (Herodot, discutat
+de Ion Horațiu Crișan și de Vasile Pârvan, cel care aduce în prim plan dezbaterea
+istorico‑religioasă despre străvechea îmbinare dintre religia uranică a cuceritorilor
+indo‑europeni și religia htoniană ancestrală a mediteraneenilor aborigeni, sinteză care
+a impus calitatea htoniană moștenită a religiei dacice, ulterior supraviețuitoare în întreg
+orizontul mediteranean creștin: p. 42), apoi, dacii (supuși, potrivit lui Mihai Bărbulescu,
+unei represiuni cultice din partea unui popor civilizat aflat în fața violenței practicilor
+religioase autohtone, opinie cu care cercetătoarea ieșeană polemizează, definind cele două
+sisteme religioase antagonice drept cel mult „concurențiale”, nicidecum exterminatorii,
+lucru care ar fi probat în primul rând de evidența continuității credinței în nemurirea
+sufletului: p. 45). Etnologul preia conducerea demersului său și suntem din nou în fața
+viziunii speciale a cercetătoarei asupra finitudinii experienței umane a vieții: „Nu se va
+teme, evident, cel pentru care moartea nu este un sfârșit. Nevăzutele au un mare credit
+în ochii omului tradițional, fiind cel puțin la fel de «crezute» ca și văzutele.” (p. 46). Mai
+departe, „Țăranul arhetipal [...] gustă experiența trecerii dincolo încă în viață fiind, fiindcă
+pentru el hotarul dintre viață și moarte nu este o ruptură radicală, ci o limită permeabilă,
+labilă, abia înfiripată, fugară, sau mai bine spus o limită înșelătoare: este o limită care
+învecinează, nu una care desparte.” (Ibidem).
+Incursiunea în izvoarele documentare etnografice ale credințelor în post‑existență,
+selectate din literatură, din arhive rare cu materiale inedite și din cercetările personale
+ale autoarei, ne ghidează prin surprinzătoarea, deși foarte răspândita, „pomană de viu”,
+prin imageria cântecelor funebre, prin practicile de comemorare regulate ori cu daruri
+primițiale („primele cireșe, primii struguri ai anului, primele spice. Ale morților sunt
+prima bucățică de pâine și primul strop de băutură de la masa de sărbătoare.” – p. 48), prin
+riturile de Joi Mari, de Moși, la marile sărbători, cu mesele de ofrandă direct pe pământ,
+apoi la Paștile Blajinilor, împlinite cu sfințenie până la șapte ani, doar ulterior „uitând”
+morții drumul către casă și doar după executarea ritului înmormântării secundare a
+osemintelor dezgropate și dăruirea de pomană a copturii „uitata” (p. 49–51).
+Întâiul subcapitol, 1.1. Thnêtoi athanatoi. Natura sufletului, cu subdiviziunile sale:
+1.1.1. Sufletul în căutarea unei definiții, 1.1.2. Este sufletul nemuritor?, 1.1.3. Părțile
+sufletului, 1.1.4. Sufletul: pneúma, sămânță sau sânge?, 1.1.5. Tipuri de suflet, 1.1.6.
+Fiziologia sufletului, 1.1.7. Câte morți suportă sufletul? reprezintă o doctă incursiune în
+istoria ideilor filosofice dedicate acestor problematici, pe care o recomand cu căldură
+cititorilor și din care am să rețin câteva formulări optime demersului nostru dedicat
+etnologiei: „sufletul este singura realitate esențială în legătură cu care omul și‑a putut pune
+simultan problema morții și a supraviețuirii” (p. 60). „Ne putem întreba dacă „lumea fără
+dor” – adică fără durere, fără suferință – din bocetele românești nu reflectă aceeași stare
+de vag caracteristică pentru sufletul‑umbră la Homer.” (p. 62). „La poporul român [...]
+
+Recenzii
+504
+doar omul are suflet, în timp ce dobitoacele nu au decât un soi de abur, fum sau „pară”,
+duh, în sens de răsuflare, sau „ghietă”, adică viață”, lucru probat de răspunsurile majoritar
+afirmative identificate de autoare la întrebarea nr. 134 din Chestionarul lingvistic lansat de
+B.P. Hasdeu (p. 63). Între Pitagora și Heraclit ca limite sunt „iată, așadar, deja fixate cele
+două borne între care se va mișca, până în contemporaneitate, meditația antropologică:
+extrema raționalitate și extrema iraționalitate a sufletului omenesc” (p. 66). Indexarea
+sensurilor sufletului îmbogățește suplimentar etnologul prin observația asupra unui:
+„sens propriu secundar folosit în secolele XVII–XIX corespunzător unei practici sociale
+larg răspândite: „de suflet” însemna „drept suflet”, adică „drept moștenitor”, ca în basmul
+Neghiniță: «n‑avem și noi un suflet, măcar de‑ar fi cât o neghiniță»” (p. 67). „Repulsia
+față de sinucidere are, la poporul român, o justificare metafizică: actul autolitic întrerupe
+subzistența sufletului în lumea de dincolo, îl face să piară, adică să se risipească în neant,
+precum sufletele‑abur ale dobitoacelor, în loc să intre în eternitate. Sinuciderea voluntară
+este singurul mod în care sufletul poate dispărea complet. Dispărând sufletul, ritualul de
+înmormântare își pierde obiectul și trebuie, prin urmare, anulat” (p. 68). Citând tradiția
+sapiențială românească așa cum apare înregistrată la Tony Brill, într‑o narațiune în care
+diavolul creează omul din lut dar cere de la Dumnezeu însuflețirea acestuia, „Dumnezeu
+îi răspunde că da, cu condiția să i‑l dea lui, și atunci Diavolul vine cu o propunere vicleană:
+«‑Dacă vrei să mi‑l dai mie mort, și viu [să fie] al tău». Comentariul naratorului este
+un minunat caz de paradox intuitiv: «El știa că [omul] o să trăiască mai mult mort ca
+viu».” (p. 73). În viziune creștină, ne spune autoarea, „Principiul vital prezent în suflarea
+părinților se transmite, combinat, în momentul conceperii fătului, dar apariția ca atare a
+unui nou suflet este opera instantanee a divinității” (p. 78).
+Parcurgând, de data aceasta, istoria ideilor filosofice privitoare la suflet în paralelism
+istoric cu incidența elementelor de mentalitate folclorică, autoarea identifică numeroase
+exemple ale meditației presocratice prezente în metafizica țărănească românească, fapt
+ce s‑ar explica prin aceea că „ambele reflectă interesul general uman pentru marile teme
+cu circulație indo‑europeană” și ar avea drept întâi vehicol pe orfici (p. 83). Ulterior,
+„modelul pneumatic al sufletului a persistat din Antichitate până după Renaștere, în
+discursul explicativ (pseudo)științific” (p. 85), „sensul comun surselor ebraice, grecești și
+slavone [fiind] cel de suflu” (p. 87). Citând pe Antim Ivireanul cu sfaturile către duhovnici,
+care aduc în prim plan cazuistica sexualității și abia apoi crima, vrăjitoria, furtul etc.,
+Astrid Cambose asertează că „în creștinism, departe de a fi disprețuită, «sămânța» este
+considerată mai degrabă un «fluid metafizic» decât o umoare corporală. Creștinismul
+este o religie ascetică, dar nu pentru că ar desconsidera componenta sexuală a lumii,
+dimpotrivă.” (p. 88). Citând din traducerea lui Valeriu Anania la Facerea, cercetătoarea
+observă că Duhul poate da viață unei zidiri anterior neînsuflețite, precum în cazul lui
+Adam, apoi „se poate «turna» peste orice om (dându‑i vise și vedenii profetice, ca în Ioil
+3:1), poate «umple» (pe proroci, mijlocind revelația), poate «umbri» (pe Fecioara Maria),
+poate «zămisli» (pe Hristos). Evenimentul Bunei Vestiri este infuzat de filosofie greacă
+[...]” (p. 90). Observația originală a autoarei asupra marilor transformări antrenate de
+schimbarea paradigmei lingvistice prin traducerile succesive ale cuvântului feminin ce
+desemnează suflul și suflarea în limba ebraică, cuvânt care este de gen masculin în slavonă
+și care – Duh – în română este de genul neutru, avansează ideea că „genul gramatical
+
+Recenzii
+505
+atribuit acestei (unice) noțiuni a influențat și modul de înțelegere a energiei divine” (p. 91).
+În fine, gândirea tradițională românească ar fi atât moștenitoarea modelului neolitic al
+sufletului individual, model citat după C. Bălăceanu‑Solnici și considerat învecinat cu cel
+al filosofilor greci, cât și al unei „străvechi credințe în existența sufletelor multiple” (p. 99),
+potrivit căreia bipartiția și tripartiția sufletelor în ritualurile funerare înseamnă că morții
+continuă să se amestece în lume cu cei vii, trecând nevăzuți printre oameni, ca unii ai căror
+ochi, odată trecuți dincolo, au ieșit din starea de orbire metafizică (observație susținută cu
+citarea unui document al Elenei Niculiță‑Voronca: Ibidem). Ideea multiplicității sufletelor
+individuale este reluată în subcapitolul Câte morți suportă sufletul? (p. 108 ș.u.). Dar mai
+înainte, aflăm importante date inclusiv etnografice despre faptul că sufletul păstrează după
+moarte forma trupului locuit de el, doar mult micșorat, lucru vizibil în multe reprezentări
+plastice ale muririi, dimensiune care amintește de blânzii rohmani care la Paștile lor
+dovedesc un ou abia adunați câte doisprezece (p. 103–104); că primele 40 de zile după
+moarte cer din partea supraviețuitorilor mulțime de gesturi comemorative și de pomană
+care atestă clar prezența sufletului celui plecat (p. 107); iar că botezul post‑mortem al
+copiilor morți nebotezați, cu numele Ion‑Ioana, de frica pericolului revenirii lor după
+șapte ani în chipuri felurite de ființe periculoase (citat după un document aflat în arhiva
+noastră, AFC 421, al învățătorului Victor Babiuc), este o practică întâlnită anterior doar la
+sectele gnostice și într‑una din scrisorile către Corinteni a apostolului Pavel (p. 110–111).
+Pentru un ultim areazăm al capitolului în munca cercetătorilor de la Cluj, Astrid Cambose
+citează din nou pe Mihai Bărbulescu, cu lucrarea sa Interferențe spirituale în Dacia
+Romană, unde se documentează amplu existența în Dacia a două concepții total opuse
+cu privire la viața de dincolo: sălășluirea în mormânt și imortalitatea cerească, ambele
+continuate, transmise, perpetuate, spune ea, în metafizica românească a morții (p. 122).
+Al doilea capitol, Raportul țăranului cu moartea, co‑interesează etnologul în
+multe din câmpurile sale de competență, de la cosmologia populară la terminologia
+precisă a secvențelor narative ori rituale asociate muririi și imagologiei morții în general.
+Este cel mai amplu capitol al cărții, în care problematica este decupată taxonomic de
+către autoare în același mod original cu care ne‑a obișnuit deja, infiltrat plenar de topoi
+consacrați istorico‑religioși: Dumnezeul cel Viu veterotestamentar, Deus otiosus, Moartea
+lui Dumnezeu, Dualism comprehensiv: cuplul antagonic Fârtat / Nefârtat, Negatio mortis
+etc. Foarte interesante rămân discuțiile filologice comparative cu materialul iconografic
+documentat de autoarea însăși (prezent în carte prin bogate ilustrații), care aduc împreună
+obârșia creației din neant, suscitată de Dumnezeul cel Viu (p. 159), supratemporalitatea
+divină, natura lui Hristos și cele trei ipostasuri divine (p. 160–163), nașterea și zămislirea:
+„Tatăl îl naște pe Hristos, iar Maica Domnului îl face; nașterea este asimilată genezei, iar
+facerea este evenimentul punctual al aducerii pe lume a pruncului, parturiția. Bărbații
+nasc, femeile fac copii.” (p. 165), precum și suprapunerea, în ceea ce autoarea numește
+„o altă Geneză, una hristică” imaginată de popor, între vârstele lui Isus Cristos – prunc,
+tânăr, Pantocrator – și atributele Creatorului întregii firi, Dumnezeu Tatăl (p. 168–169).
+Valoroasă etnologic este și discuția respectivă purtată pe documentele reprezentate de
+colindele arhaice, citate inclusiv potrivit unor documente inedite din răspunsurile la
+Chestionarul lingvistic B.P. Hasdeu, aflate în Biblioteca Academiei Române din București.
+Ne sunt prezentate texte de colinde în care pruncul înfășat este „moș crăciun”, ori – precum
+
+Recenzii
+506
+în colecția lui Alexiu Viciu – în care pruncul Hristos este Creatorul stâlpilor pământului
+și inițiatorul orogenezei (p. 170), el însuși fiind născut din piatră, lucru considerat un
+ecou al credințelor mithraice locale, al căror reper rostit e Athanasie Marienescu (p. 171).
+În fine, citând pe Elena Niculiță‑Voronca, ne este prezentată consubstanțialitatea între
+trupul lui Hristos și bobul de grâu, cel care moare pentru a da viață, considerat de autoare
+a fi metafora predilectă pentru destinul omului, ritualizat bogat în Plugușoare (Ibidem).
+O regăsim pe Astrid Cambose însăși în concluziile subcapitolului: „termenii facere,
+zidire, insuflare, concepere, zămislire, naștere și întrupare țes, în dinamica divergenței și
+convergenței lor, o sferă semantică infinită – după cum infinit este obiectul lor, căruia, se
+pare, nu cunoașterea teologică individuală, ci numai limba, în complexitatea nuanțelor
+ei, îi poate răspunde pe măsură” (p. 172).
+Originale și importante etnologic sunt asumpțiile asupra identității funcționale
+dintre Fărtatele cosmogonic arhaic românesc și deus otiosus teoretizat anume de Mircea
+Eliade; mai mult, între motivele listate de folclor pentru retragerea în cer (cu cer cu tot) a
+lui Dumnezeu cel numit, stă incompatibilitatea dintre sacralitatea Sa și spurcăciunea firii
+de el create, ulterior decăzute: păcate omenești, impuritate comportamentală crescătoare
+(femei, fete, avorturi), nelegiuire magică (fermecătoarele), batjocura prin atingerea cu
+necurățenii (balegă, scârnă). Dincolo de motivația divină pentru părăsirea creației sale,
+locul și timpul rămas gol se subscrie categoriei malefice a ceasului rău, umplut în schimb
+de rele; asemenea momente au loc, spun colindele, chiar și în rai, care poate fi prădat
+de odoare sfinte tocmai în vremea otium‑ului divin, diavolește (p. 175–176). Privind
+comparativ către primii filosofi greci, cele două viziuni devin divergente, căci (apud
+Andrei Cornea) otium‑ul zeului suprem este însuși domeniul său de activitate. Una dintre
+cele mai stringente probleme abordate de exegeză prin analiza materialului folkloric
+narativ, gnosticismul popular, este urmărită amplu, de la B.P. Hasdeu („bogomilismul ca
+principală orientare gnostică prezentă în spațiul culturii române vechi”: p. 182) la Mircea
+Eliade („legendele dualiste nu sunt balcanice, ci au o uriașă răspândire geo‑culturală”:
+p. 186), I.P. Culianu (dualismul nu e o doctrină ce se moștenește, ci un proces de gândire
+ce produce o infinitate de variante toate previzibile: p. 187). Andrei Oișteanu („legenda
+cosmogonică [...] este la români una dualistă, deci ea va genera o mentalitate mitică
+dualistă și o galerie de perechi de antagoniști a căror luptă reprezintă chiar forma lor de
+conlucrare”: Ibidem), Lucia Afloroaiei (dualism slab, disimetric: „adversitatea se manifestă
+explicit dintr‑o singură parte”: Ibidem), pentru a oferi, finalmente, propria soluție
+interpretativă: „numim acest echilibru al forțelor antagonice un dualism comprehensiv
+sau cuprinzător” (Ibidem). Cearta contrariilor „nu este decât reflectarea dramatică a unui
+parteneriat. [...] Cearta este forma epică potrivită pentru a prezenta, în cele din urmă, o
+conlucrare: împotrivindu‑se celuilalt, fiecare dintre antagoniști face ceea ce trebuia să
+facă, iar din desfășurarea acțiunilor și replicilor reciproce se compune întregul lucrării
+(la care ambii au contribuit), fie că e vorba despre cosmogonie sau despre antropogonie,
+despre instituirea unui cult, crearea animalelor, a obiectelor și instrumentelor casnice
+ș.a.m.d. Fârtatul și Nefârtatul, divinități gemelare, au totuși o ierarhie ontologică bazată
+pe un principiu similar celui enunțat de Aristotel [...]” (p. 188–189).
+Subcapitolul care urmează, Dumnezeu în posturi umile, a reprezentat pentru
+autoarea acestor rânduri o lectură fascinantă, în care a găsit valorificate documente
+
+Recenzii
+507
+din Arhiva de Folclor a Academiei Române (AFC 427 din Adrian, Mureș, AFC 271
+din Valea Copcii, Mehedinți, AFC 628 din Șicovăț, Lăpușna, AFC 1146 din Cărăsău,
+Nimăiești‑Criș), dar și interpretări pline de miez avându‑l ca personaj central de data
+aceasta pe arici, participant, așa cum știm, la „tocmirea” creației. Las pe cititor să Îl
+descopere el însuși în discursul cărții pe Dumnezeu umil, uituc, oarecum neștiutor și
+bolnav de uitarea oamenilor.
+Negatio mortis: nemurirea – starea adamică; învierea – starea hristică; starea de
+„nemoarte” a eroului din basmul metafizic abordează perechea Hristos‑Adam, atât în
+documente scrise, cât și în cele iconografice: de la faptul că sunt amândoi făcuți de
+Dumnezeu în 25 martie, la statutul lor urieșesc și la învierea celui dintâi dintre morți,
+care e Adam, odată cu coborârea lui Hristos la iad (p. 204–208). „Nu ni se spune nicăieri
+că i s‑ar fi luat înapoi cunoașterea, ci doar că i s‑a limitat viața, dându‑i‑se un soroc de
+moarte (foarte îndepărtat, odată ce a trăit 930 de ani) și că a fost urgisit să‑și câștige traiul
+cu sudoarea frunții.” (p. 207). Autoarea polemizează cu J.G. Frazer, cel care considera
+Pomul Cunoașterii ca fiind pomul morții, iar pe șarpe drept „primul dintre tricksterii
+care păcălesc moartea”, ca unul care a gustat din Pomul Vieții (interpretare greu de ocolit),
+pentru a reveni cu formulări memorabile: „Adam și Eva vor fi cunoscut integral, cu
+maximă intensitate, nostalgia paradisului pierdut, pe care îl gustaseră cu adevărat și unde
+trăiseră primele trei ceasuri bune și primele trei ceasuri rele din viața lor.” (p. 209) „Dacă
+citim metaforic izgonirea din rai, întrevedem pricina profundă a greșelii adamice: opțiunea
+pentru moarte.” (p. 214). În fine, invocarea motivului de basm al căutării nemuririi în
+două versiuni con‑temporane, varianta Ispirescu culeasă în mahalaua bucureșteană, iar
+varianta Barbu Constantinescu provenită din folklorul țiganilor, accentuează nostalgia
+și jalea rezultantă după lumea pierdută, în defavoarea dorinței de nemurire (p. 215–216).
+Privilegiul ridicării la cer cu trupul ne aduce pagini remarcabile despre Sântilie și
+despre adormirea și legendele Maicii Domnului, pagini îmbogățite suplimentar prin
+invocarea uriașului Enoh/ Ienac, a ciobanului din lună, a fraților originari Avel și Cain (cel
+care se căinează: p. 221), a fulgerului îngropat (cu dedicație inscripționată în locul unde a
+lovit fulgerul pentru zeul suprem, practică geto‑dacică, citată după M. Bărbulescu: p. 222),
+a avantajului netăgăduit de narațiuni al morții prin trăznire („din ditun”: p. 223, vezi și
+nota 219, unde „sacramentul «trăsni‑m‑ar...», «trăsni‑te‑ar...» pare a nu fi fost, la origine,
+un blestem, ci o dorință”), culminând cu athanasia Maicii Domnului – Dumnezoaia,
+verdeleanca etc., elemente ale unei mariologii populare de o imensă „porozitate arhetipală
+/ cognitivă” (cu termenii lui Bogdan Neagota: p. 244). Autoarea intuiește bine cum
+„detaliile acestui vast proces de transmitere a moștenirii culturale de la o civilizație la
+alta sunt inepuizabile” (p. 230).
+Subcapitolul „Moartea este un lucru care se învață”. Două testamente abordează,
+prin sintagma din titlu a lui Mircea Eliade, „pedagogia culturală care poate fi asumată în
+plan personal: pedagogia exempli gratia” (p. 244), alegând moartea patriarhului Avraam
+și moartea ciobanului mioritic, folosind izvoarele documentare specifice: apocriful
+datat aproximativ în sec. II d.H., circulant în spațiul românesc începând din sec. al
+XVI‑lea, și variantele de baladă/ colind/ cântec de leagăn/ bocet/ descântec intitulate
+generic „Miorița”. Întâiul caz ar demonstra „sugestia greutății cu care omul învață să
+moară”, Avraam fiind acum omul însuși, omul generic, care învață cu durere (p. 253). Al
+
+Recenzii
+508
+doilea caz aduce „un alt unghi sub care poate fi cercetată cu folos problema raportului
+cu moartea proprie” (p. 255) și urmărește cinci aspecte socotite fundamentale: reacția
+ciobanului desemnat pentru sacrificiu la aflarea veștii; momentul morții; locul „astupării”;
+tratamentul funerar; moartea‑nuntă. Folosind cu precădere scriitura lui Ion Diaconu și
+a lui Nicolae Saramandu asupra Mioriței, ambii descendenți din familii de păstori, ambii
+descriind „corespunzător, împreună cu informatorii lor, funcționalitatea baladei‑colind
+in situ” (p. 257), autoarea reușește să creioneze un tablou complex al unei vieți pastorale
+în care soluția existențială universal‑clamată a Mioriței era un mod de a viețui, oameni
+și turme. Sunt aduse în discuție sacrificiile de întemeiere la deschiderea stânilor (Sfântul
+Gheorghe) sau la întemeierea satelor, în relatările ciobanilor înșiși, apoi, variantele în care
+este prezent motivul tânărului mort înviat fie de mama sa, fie de o călugăriță; pomana de
+sufletul unui cioban tânăr mort pe neașteptate, constând dintr‑o turmă de oi și un cal; în
+fine, argumente din texte de bocet de petrecut ciobanul mort, care cer comuniunea cu
+toți ciobanii morți de dincolo, chemați la Moși (text la p. 265 mai degrabă cu formă fixă –
+n.n.). Propunând, pe urmele Marijei Gimbutas, o continuitate de 8000 de ani a modului
+de viață păstoresc transhumant și pendulatoriu, Astrid Cambose vede, eliadian, centrul
+lumii policentrice inclusiv la strungă, unde cel ucis, menit pentru asta, va deveni „spirit
+ocrotitor al locului”: „Omul care «dă în strungă» astăzi se așează, fără s‑o știe, într‑o
+redutabilă succesiune paneuropeană, iar gesturile sale repetă un ritual străvechi.” (p. 267).
+Autoarea pledează în continuare pentru atestarea prin textul Mioriței a ritului funerar cu
+tratamentul cadavrului prin expositio, pe urmele fundamentalului studiu asupra Mioriței
+al profesorului Ion Taloș (din 1984), folosindu‑se și de premisele arheologice prezentate
+de Mihai Bărbulescu și, decenii mai târziu, de Adela Toplean, precum și de eventualele
+documentări narative ale unor târzii îngropări de viu (sacrificiale: ceea ce, stricto sensu, nu
+constituie un rit funerar – n.n.). Pentru Astrid Cambose, Miorița își exprimă chintesența
+prin nucleul de sens al testamentului ciobanului, drept „expresia lirică a mitului de
+întemeiere” (p. 273). În acord cu propria noastră opțiune metodologică, cercetătoarea
+asertează că „orice practică (aici, practica sacrificiului de întemeiere) are nevoie de un
+«scenariu» prin intermediul căruia să poată fi transmisă.” (Ibidem). „Miorițele spun
+«povești» paralele prin care se enunță un fapt comun tuturora: stâna are suflet, căci l‑a
+primit în timpuri imemoriale de la un tânăr ucis ritual, deci ea va dăinui.” (p. 274).
+„Bogăția impresionantă a materialului etnografic aflat în discuție”, cum îl numește
+Ștefan Alforoaei pe coperta IV, nu ne îngăduie să intrăm în toate amănuntele oferite
+de subcapitolul Ipostaze ale morții sau cel dedicat Diavolului în cultura tradițională
+românească, unde autoarea trece în revistă și clasifică sute de nume date diavolului, taxonii
+fiind „funcție de «resortul» lor semantic” (p. 311), dar lectura este o plăcere inclusiv prin
+conexiunile neașteptate pe care le îndrăznește autoarea și pe care le recomand cu căldură
+și convingere. De o relevanță etnologică particulară sunt aserțiunile din Lupta cu agenții
+magici ai morții. Antagoniști, descântece, exorcisme populare, tricksteri care păcălesc
+moartea: pornind de la „legitimarea subiectivă a gândirii magice” potrivit lui Lucian
+Blaga, pentru care „«sarcina magică» (adică substanțele și puterile magice) contaminează
+diferite obiecte sau persoane prin contiguitate, analogie sau contrast” (p. 301), citând și
+pe Bronislaw Malinowski pentru care „între obiect și magia sa se află un nexus esențial”
+ce face astfel încât magia „doar printr‑o transmisie absolut nemodificată, imaculată, ea
+
+Recenzii
+509
+își păstrează eficiența” (p. 301–302), autoarea caută în chestionarul al doilea al lui Nicolae
+Densușianu (1895) tricksteri atât buni (descântătorii) cât și răi (fermecătorii, vrăjitorii,
+solomonarii, „babele‑șamani, care‑și primesc puterea vindecătoare de la iele” cu expresia
+lui I. Pop‑Curșeu: p. 302), pentru a ajunge la E.R. Dodds și la lumina pe care acesta o
+dezvăluie asupra presupuselor practici catabazice șamanice locale (p. 304).
+De o și mai mare importanță pentru etnologul practicant este subcapitolul De la
+Testamentul lui Solomon la demonologia folclorică românească; apelând la traducerea
+românească a lui Ștefan Colceriu (2010), dar și la lucrarea fundamentală a lui J.G. Frazer
+asupra folclorului din Vechiul Testament, autoarea recurge direct la textul apocrifului
+de secol I–IV în care Templul din Ierusalim va fi zidit cu ajutorul demonilor, pentru
+a susține și argumenta ipoteza „că numele Obyzouth s‑a modificat până la forma
+românească Avezuha, iar Abezethibou, duhul cu o singură aripă, cel de sub stâlpul din
+Marea Roșie [...] a dat naștere sintagmei suplimentare aripa Satanei. [...] unirea lor în
+sintagma denominativă Avestița, aripa Satanei, secondată de diverse nume alternative,
+perpetuează, transcultural, imaginea și atributele perechii de demoni din Testamentul
+lui Solomon.” (p. 337–338). Autoarea citează traducerea Colceriu, noi cităm autoarea,
+asupra acestui relict folcloric: chemată și întrebată de Solomon care îi este numele (cine
+este), demonul răspunde că „noaptea dă ocol lumii după femei și, ghicindu‑le sorocul
+nașterii, le sugrumă pruncii, că strâmbă ochi, că risipește minți și îndurerează trupuri, dar
+îi spune și faptul că numele ei scris pe o bucată de hârtie o îndepărtează de lângă femeia
+care naște – or, toate textele‑amuletă românești de Samcă conțin numele demonului, în
+număr de 19, scrise pe o hârtie purtată la gât de lăuză sau de prunc” (p. 337). Demonstrația
+cercetătoarei urmărește, ca atare, două categorii de documente folclorice: „«cărticelele»
+(amulete constând din textul exorcismului, cu cele 19 nume ale demonului, însoțit de
+reprezentarea acestuia) și descântecele de Samcă / de strâns / de răul‑copiilor” (p. 340).
+Din prima categorie, sunt discutate: cel mai vechi exorcism cunoscut în literatura noastră
+folklorică, textul anonim în slavonă copiat de popa Grigore din Măhaci înainte de 1600
+și publicat de B.P. Hasdeu în 1879; cele zece texte‑amuletă cu „Sveti Sisin” vânătorul de
+diavoli, devenit apoi Sfântul Sisoe și uneori înlocuit prin Arhanghelul Mihail, publicate de
+B.P. Hasdeu (datat cca 1550), Moses Gaster (datat cca 1799), Tudor Pamfile (datate 1836),
+Simeon Florea Marian (datate 1862, 1869), M. Lupescu, Ion I. Drăgoescu, iar cel mai nou,
+de la Cornova din Basarabia (1931), publicat de Ștefania Cristescu‑Golopenția drept
+„Cărticică de strâns”; documente descoperite arheologic și păstrate azi în colecții muzeale
+la Turnu Severin și la Vâlcea, cum sunt plăcuța de plumb cu litere chirilice găsită la arat
+de un grup de țărani la Budănești, Mehedinți, cele trei table de lemn pictate cu imaginea
+Avestiței găsite la Călinești și la Costești, ambele în Argeș, iar a treia nelocalizată; două
+cărți de Samcă manuscrise necunoscute, aflate la Arhivele Statului, datate în sec. XVIII
+și în 1825, aceasta din urmă de undeva din Bacău. Spectrul de selecție a descântecelor
+de Samcă este, firesc, mult mai larg, autoarea urmărind câteva aspecte etimologice ale
+numelui demonului, care este și al bolii (marea majoritate a numelor populare desemnând
+epilepsia), dar și aspecte ale spectrului său de acțiune, care circumambulează masiv
+momentele esențiale legate de fertilitatea femeilor și de fragilitatea nou‑născutului (de
+la proceduri contraceptive, la cele de protecție a nașterii și a pruncului, acest demon și
+ipostazele lui au un anume câmp electiv de intervenție: p. 347–355). În fine, avem parte
+
+Recenzii
+510
+de o discuție larg informată asupra identității și a razei de acțiune a Ielelor (etimologie,
+circulație, gen proxim, diferența specifică de alte categorii aduse împreună în literatura
+de specialitate: p. 356–361).
+Finalul capitolului al doilea discută amplu motivul baladesc Lenore, care în
+vestul Europei reprezintă pe logodnicul‑strigoi, iar în răsăritul nostru îl reprezintă pe
+fratele‑strigoi (discuție sprijinită pe argumentele monografiei lui Gheorghe Vrabie și pe
+textele baladei Voichița, precum și pe paralele cu motivul cavalcadei funebre), conchizând:
+„moartea este un prag care poate fi trecut – deși cu mari costuri existențiale – și înainte,
+și înapoi” (p. 370). Ca atare, subcapitolul abordat în subsecvent este Moartea ca prag sau
+trecere. Moartea resurecțională. Elemente de metempsihoză la români? ultimei întrebări
+răspunzându‑i‑se cu informații provenite din răspunsurile la chestionarele Nicolae
+Densușianu și Bogdan Petriceicu Hasdeu (inclusiv strigoizarea fiind asociată cu o formă
+de reîntrupare a sufletului după moarte, context în care autoarea discută jocurile de
+priveghi, apelând la și polemizând cu lucrarea lui Constantin Eretescu despre măștile
+de priveghi, drept ocazie dată pentru dramatizarea rituală a apariției unui strigoi fictiv,
+pentru ca cel real să nu se mai întrupeze: p. 377–378). Nu putea lipsi, și nu lipsește,
+abordarea creștinismului țărănesc în acord sau în siajul dogmei teologice creștine, final de
+capitol foarte frumos scris: Anima naturaliter christiana. Sensul creștin al morții, unde este
+abordată spovedania și împărtășania păstorească la brad, postul și abstinența, scoaterea
+părticelelor, pluralitatea sărbătorilor (cele populare pe deasupra celor din calendarul
+ortodox), năzuința trupului pneumatikos.
+Al treilea capitol schimbă perspectiva înspre Tărâmul de dincolo și legăturile lui
+cu cel de aici. Pornind de la observația că rezidă, în imaginarul tradițional românesc, un
+Continuum spațio‑temporal neomogen, structurat pe registre verticale și ritmuri, unde
+opoziția stânga‑dreapta este mai relevantă decât cea sus‑jos, autoarea identifică „un
+argument în sprijinul ideii că reprezentările simbolice ale morții împart spațiul imaginar
+în registre” (p. 395), anume în așezarea pe pământ și asumarea prin ridicarea de pe pământ
+a pomenilor pentru morți, „sugerând continuitatea registrelor spațiale pe o verticalitate
+care pleacă din mormânt și ajunge în rai” (Ibidem). Similar, timpul arhaic „nu este
+convențional, ci pulsatoriu. Sunt ritmuri care cresc și descresc, divizându‑l în fragmente
+subiective, uneori strict individuale, alteori comunitare, dar care vor avea întotdeauna o
+desfășurare organică” (p. 399). Geografia mitică românească a lumii de dincolo urmărește
+arhaicitatea riturilor funerare și deci a lumii de dincolo (de vârsta, musteriană, a primelor
+înmormântări: citată fiind Adela Toplean, p. 400), prin documentele străvechi de folclor
+literar despre crearea cerului, despre pricinile despărțirii cerului de pământ, despre
+numărul cerurilor și despre deschiderea lor, despre versurile Cântecului Zorilor și despre
+scara de ceară care leagă tărâmurile, despre Vămile și punțile din lumea cealaltă, despre
+Peisajul lumii de dincolo și despre Personaje metamorfozate în plante și animale.
+Ultima parte a acestui capitol ne aduce necesara abordare a figurilor emblematice
+ale imaginarului funerar românesc, Moșii și Blajinii, în scopul „enunțării unei ipoteze
+privind tendința de resemantizare, de recontextualizare și de înglobare treptată a cultului
+Blajinilor în cultul familial al morților, pe de o parte, și, pe de altă parte, examinarea
+unor aspecte teoretice și practice legate de această resemantizare” (p. 430). Numărul
+crescut de Moși din tradiția noastră, ca de altfel însăși supradimensionarea cultului
+
+Recenzii
+511
+morților la români, sunt considerate nu atât moșteniri ale numeroaselor contacte
+culturale stratificate (dacice, grecești, romane, slavo‑balcanice), în siajul cercetărilor
+lui Ion H. Ciubotaru, Victor Kernbach și Paul Simionescu, cât racordări ale diverselor
+specificități la structura profundă a culturii funerare românești. Între subiectele abordate
+stau: frecvența pomenirilor morților, polisemantismul și etimologia lui „a pomeni” („A
+pomeni morții trimite simbolic, așadar, la intenția de a‑i trezi numindu‑i” – p. 433);
+practica rituală a focurilor de Joi Mari (de la Vasile Tudor Crețu la cercetările de teren
+personale, cu prima atestare la Marco Bandini în secolul al XVII‑lea), rămânerea sufletelor
+morților de la Joi Mari până la Moșii de vară, în preziua Rusaliilor (Sâmbăta Moșilor sau
+Rusitori), setea/ foamea/ neodihna morților; „slobozirea apelor” și importanța luminii/
+lumânării/ pomenii de lumină, extrem ritualizate în cazul cenotafurilor; dezgroparea
+oaselor la șapte ani ca ”să vadă din nou lumina soarelui” (p. 441), luminile la morminte
+în noaptea de Înviere; alimentele funerare („arhetipuri alimentare” identificate de Ofelia
+Văduva) și numele nenumărate (enumerate) ale colacilor și pomenilor funerare („pomana
+de țărână” și „numele mai degrabă pitorești decât solemne” în Moldova, nume solemne
+și îndrăznețe în Oltenia – p. 445), Uitata muntenească de la Mucenici, colac antropomorf
+menit acelora dintre morți „care s‑au integrat complet părții nevăzute a neamului, adică
+Moșii” (p. 447); Paștile Blajinilor și ale Rohmanilor (după Lucia Berdan), odinioară
+sărbătoare a morților pur și simplu (după Adrian Șuștea), prezentă deja mitologic
+în chestionarul lui Nicolae Densușianu și în taxinomia ființelor mitice benefice a lui
+Constantin Eretescu („Rohmanii, Oamenii de Apă, Piticii și Blajinii” – p. 449); elementele
+unor „diverse «sisteme coperniciene» țărănești” (p. 451).
+Foarte bogate în argumentație, documentare și interpretări sunt paginile dedicate
+Blajinilor prezenți în folclorul românesc: de la originile termenilor și ale figurilor mitice,
+la analiza mențiunilor sărbătorilor lor dedicate și practicate în documente, între care se
+distinge cercetarea de teren extrem de atentă a autoarei în comuna Țibănești, jud. Iași,
+din 2015, parte a unui efort monografic personal impresionant. Amplitudinea abordării
+acestui capitol se află exprimată rezumativ în câteva formulări sclipitoare: „Conform
+geografiei mitice românești, Blajinii ies rareori din ostroavele albe de pe Apa Sâmbetei,
+purtați de nostalgia lunii pline, deosebit de evlavioși, ei trăiesc ascetic, se roagă pentru
+oameni și încearcă să amâne sfârșitul lumii; după ce apocalipsa se va fi produs, însă, ei
+vor locui pe pământ în mijlocul oamenilor, într‑o stare de ataraxie (de factură creștină,
+nu stoică). Ei sunt morți curați, echivalentul românesc a acelor daimones epichtonieni,
+proveniți din oamenii lipsiți de hybris ai vârstei de aur.” (p. 474). „Este evident faptul că
+există așteptarea unui ajutor din partea celor plecați «dincolo», dar nu credem că acest
+lucru se transpune în termenii unui negoț funerar. Dimpotrivă: credem că grija (în special
+feminină) pentru sufletele celor dragi este o manifestare a nevoii de a proteja viața, în
+toate formele ei – chiar și «viața de dincolo».” (p. 494).
+Al patrulea și ultimul capitol încheie, simetric cu primul, abundenta demonstrație
+a cercetătoarei asupra existenței unei metafizici a morții etno‑specifice spațiului cultural
+românesc: într‑adevăr, doar o asemenea paradigmă largă poate admite în cadrele ei
+documente atât de diverse, în spațiu și în timp; dar perspicacitatea intuitivă a autoarei are
+capacitatea de a apropia coerent toate aceste documente, dovedind că există Metafizica
+tradițională românească a morții – expresie rituală și lingvistică. În acest capitol, vine
+
+Recenzii
+512
+rândul reprezentărilor iconografice în vechile fresce ale bisericilor supraviețuitoare
+de la noi, închipuind Moartea, bogat ilustrate prin clișeele autoarei, în fotografii color.
+Analiza textuală reia narațiunile‑document despre moartea opusă urâțeniei – adică Maica
+Domnului, ori o pasăre frumoasă – dacă cel pe ducă este fără de păcat (copil); ori zâna
+funebră care vine să ia omul în Cântecul Zorilor; ori personajul fabulos cu multe nume:
+Sila Samodiva, Giva Samogiva, Gia Samogia, Sîma Sîmodiva, Niagra Samodivă, Samodia,
+Zâna bătrână; despre călătoria sufletului și despre repertoriul impresionant de cântece
+funebre: Zorile, Zâna bătrână, Calul mohorât, De petrecut, Fir de trandafir, A suliții, Bradul,
+Lemnu, Cântecu ăl mare, Cocoșdaiu, Ale țărânii, Hora mortului, Strigă moartea, Cucul și
+moartea, Soarele și moartea, Al boilor, Harângul, bocetele, care toate ar compune „o carte
+a morților românească nescrisă” (p. 514). Înțelegând bine că miza analizei îngemănate a
+unor materiale despărțite de o sută de ani de consemnare (manuscrise AFC, bunăoară,
+din răspunsurile la chestionarele lui Ion Mușlea și propriile cercetări de teren ale autoarei)
+este dovedirea unei legături între categoriile de documente, Astrid Cambose numește
+„perpetuarea cântecului ceremonial funebru dincolo de pragul secolului al XX‑lea”: „o
+chestiune crucială pentru tema în discuție” (p. 544), care ar fi: Mai persistă strigarea Zorilor
+în secolul nostru? Ne răspunde ea: „Este posibil ca tocmai contaminarea între cântecul
+ceremonial funebru și bocete să fie șansa de supraviețuire a ambelor, căci arhaicitatea
+imaginilor vehiculate de Zori și Brad hrănește închipuirea omului cu privire la lumea
+de dincolo, iar caracterul personal al durerii revărsate în bocete creează cadrul viu,
+foarte expresiv și percutant, al acestei experiențe colective care este moartea pentru
+omul tradițional.” (p. 545). Glosele lingvistice idiomatice cu care se încheie acest capitol
+îi permit autoarei un spectru foarte personal de comentarii, de la cele mai lucide –
+„proliferarea conceptelor nu este însă întotdeauna semn de înțelegere” (Ibidem) – la cele
+mai ludice, tocmai pentru „a deschide apetitul cititorului spre a‑și adânci propriile reflecții
+și intuiții pornind de la inepuizabilele resurse ale limbii vii” (p. 554).
+Considerațiile finale vin să rezume și să unifice motivația fiecărui pas întemeiat de
+autoare de‑a lungul cărții: recursul la paralela cu filosofia elină, chiar atunci când nu era
+de urmărit vreo filiație ideatică (căci „între sapiența tradițională și filosofia propriu‑zisă
+funcționează adeseori principiul vaselor comunicante. Metafizica țărănească ar putea
+fi considerată o filosofie fără titulari...” – p. 557); căutarea productivității gnoseologice a
+faptelor de cultură populară (în ideea că „toate formele și nivelurile producției culturale
+coexistă și că ele au ca unică sorginte aptitudinea minții umane de a da sens lumii.
+Toate formele de expresie ale acestei aptitudini – îndeobște numită «cunoaștere» – sunt
+sincrone și egal îndreptățite” – p. 558); asumarea personală a subiectului („te apasă
+conștiința propriilor limitări ori nostalgia unui tărâm pierdut și a timpului în care s‑au
+născut creațiile [...], timp în care între a trăi, a simți și a cunoaște poate că nu exista un
+hiatus” – p. 559); balansul între obiectivele urmate de etnolog/‑ie (recurgând la aserțiuni
+istorico‑disciplinare semnate de Radu Toader, Bogdan Neagota și François Laplantine)
+și reconfigurarea „de factură «colonială» a datelor astfel selectate, încât terenul să pară
+în perfect acord cu scopurile inițiale ale cercetătorului” (p. 560); în fine, metaforica
+preumblare trează prin pădurea de simboluri, Arboretum frumos stilizat pictural de
+către autoarea noastră: „Pădurea de simboluri e alta pentru fiecare dintre noi.” „... nu
+spre a o depăși am pătruns în miezul ei, croindu‑ne aici propriile cărări, ci spre a o locui.”

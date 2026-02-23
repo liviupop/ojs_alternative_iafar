@@ -1,0 +1,243 @@
+# H. Ciubotaru, Iași, Editura Universității „Alexandru Ioan Cuza”, 2018, 688 p. cu ilustrații (Maria Aldea)
+
+- Autor(i): N/A
+- Secțiune TOC: Petru Caraman, Restituiri etnologice, ediție îngrijită, introducere și notă asupra ediției de Ion
+- Pagini: p. 614–618
+- Afiliere: Institutul de Filologie Română „A. Philippide”, Iaşi
+- Email: N/A
+- DOI: N/A
+- Limbă: ro
+- Tip intrare: recenzie
+- Număr: Vol. 25-26 Nr. 1 (2022)
+
+## Abstract
+_Nedetectat_
+
+## Keywords
+_Nedetectate_
+
+## Text extras din PDF
+Recenzii
+614
+care istoricul și arheologul Adrian A. Rusu afirma că sunt „cele mai vechi imagini ale
+plugurilor medievale cunoscute într‑un mediu românesc”.
+În încheiere, autorul amintește de țelurile urmărite în acest studiu. Evoluția plugului
+este una dintre cele mai impresionante revoluții ale spiritului uman. Ea a fost constantă,
+pentru că, așa cum se poate observa în Europa, pornind de la epoca tehnică a fierului,
+e aproape imposibil să izolezi o perioadă de mai mult de două secole, în care să nu se fi
+produs nici o inovație importantă în domeniul agricol. Plugul este un simbol al creației
+umane, iar Plugarul este meșteșugarul său miraculos.
+dr. Silvia Ciubotaru
+Institutul de Filologie Română „A. Philippide”, Iaşi
+Petru Caraman, Restituiri etnologice, ediție îngrijită, introducere și
+notă asupra ediției de Ion H.  Ciubotaru, Iași, Editura Universității
+„Alexandru Ioan Cuza”, 2018, 688 p. cu ilustrații.
+Volumul de față restituie publicului larg o parte din creația științifică a eruditului
+Petru Caraman (1898–1980), reputat cărturar al universității ieșene, completând, prin
+apariția sa, seria de opere a acestuia, fiind „al șaisprezecelea și ultimul” (p. 10) ce vede
+lumina tiparului.
+Organizat în două părți, I. Studii (p. 37–459) și II. Recenzii (p. 461–630), volumul
+debutează cu o amplă Introducere (p. 5–29) și o Notă asupra ediției (p. 31–35), semnate
+de Ion H. Ciubotaru, cercetător științific în cadrul Institutului de Filologie Română
+„A. Philippide” al Academiei Române, Filiala Iași, ce aduc informații biobibliografice
+prețioase în legătură cu personalitatea, formația intelectuală și opera profesorului Caraman.
+Prima parte a volumului însumează treisprezece lucrări, unele inedite, altele
+publicate în timpul vieții sau post‑mortem în reviste de specialitate sau culturale românești:
+„Arhiva” (Iași), „Anuarul Muzeului Etnografic al Moldovei” și „Însemnări ieșene”.
+Primul studiu, inedit de altfel, Importanța morilor de apă în trecutul neamului
+nostru (Studiu folcloric) (p. 39–49), elaborat de P. Caraman la vârsta de 18 ani, se prezintă
+cititorului de astăzi ca un omagiu adus, în ansamblu, lumii rurale și, în particular, unui
+element definitoriu al acesteia: morile de apă. Dispărută în timp, moara de apă reprezenta
+pentru universul rural „locul de întâlnire al țăranilor din diferite sate, era răspântia cea
+mare la care se‑ncrucișau atâtea chipuri necunoscute. Acolo făceau sătenii noi cunoștințe
+și legau prietenii noi. Noaptea făceau focuri pe lângă moară și se așezau împrejurul lor,
+povestindu‑și nevoile și necazurile” (p. 42).
+În al doilea studiu, Motive românești în literatura semipopulară cehă. Teatrul de
+marionete: „Horea și Cloșca” (p. 50–66), P. Caraman abordează originea, circulația și
+răspândirea unor motive – „eroi și evenimente [...] împrumutate de la români” (p. 50), în
+literatura cehă, prin teatrul de marionete. Mai precis, este vorba de piesa Horia a Gloska
+
+Recenzii
+615
+aneb Zapáleni Hermanštadtu, též povstání srbsky’ch zemanů [Horia și Cloșca sau Arderea
+Sibiului și încă răscoala moșnenilor sârbi], publicată sub numele lui Matĕj Kopecky’,
+fondatorul teatrului de păpuși ceh. Se cuvine reținută aici ideea avansată de P. Caraman
+în legătură cu studierea teatrului haiducesc: „[a]r fi foarte interesant să se adune diferitele
+texte manuscripte ale teatrului de Jieni și să se descopere originea acestui teatru la
+români [...]” (p. 66).
+„Hoja, lero, dolerije” – „Haileroi, d’aileroi!”. Un important document folcloric din
+literatura raguzană, despre expansiunea românilor pe coasta dalmatină la sfârșitul Evului
+Mediu (p. 67–89) este al doilea studiu inedit al volumului, un „studiu neterminat” (p. 31).
+Aplecându‑se asupra literaturii raguzane, P. Caraman identifică o serie de „exclamații
+enigmatice, cărora diferiți comentatori n‑au reușit să le descopere originea și nici
+semnificația, deși scriitorii dalmatini au căutat adesea să le dea un sens precis. E vorba
+de expresiile: Hoja, Lero, Dolerije” (p. 67–68). În acest context, pornind de la aprecierea
+etnologului croat Milovan Gavazzi, anume că originea acestor expresii ar fi românească
+(p. 68), cărturarul ieșean trece în revistă toate sursele în care le‑a putut repera, însă
+fără a reuși „prezentarea și critica părerilor emise asupra lor” și „concluziile ce trebuie
+trase” (p. 68).
+Pornind de la premisa că „lemnul și piatra au putut fi considerate cândva, la ruralii
+europeni, drept surse de viață omenească: a existat credința că din ele se nasc copii” (p. 92),
+profesorul Caraman analizează în al patrulea studiu, Xilogeneza și litogeneza omului.
+Eseu despre originea și evoluția credințelor în Europa Orientală (p. 90–123), „credința
+în nașterea omului din lemn” (p. 92) în basme de proveniență românească, ucraineană,
+rusească și bielorusă, în legende și datini, căutând să identifice originea xilogenezei, „o
+metamorfoză în toată puterea cuvântului”, pentru că „aici se naște copilul dintr‑un lemn
+mort” (p. 119), și conchizând: „numai într‑un mediu folcloric, unde asemenea credințe se
+încrucișau – fiind foarte familiare poporului de la țară – numai acolo a putut lua naștere
+mitul xilogenezei” (p. 122–123).
+În studiul Românitatea Basarabiei văzută de știința oficială sovietică (p. 124–145),
+P. Caraman examinează critic lucrarea lui L.S. Berg, anume Populația Basarabiei
+– componența etnografică și numărul (Petrograd, 1923), pentru a concluziona astfel:
+„în ciuda procedeelor artificiale ale oficialității ruse – oricât ar fi ele de măiestrite –
+românitatea Basarabiei nu va putea fi ascunsă sau contestată niciodată de nimeni și nici
+desprinsă de trunchiul etnic din care a crescut” (p. 145).
+În cercetarea Porțile monumentale ale României (p. 146–193), cărturarul Caraman
+discută, așa cum titlul anunță, un „obiect etnografic” particular, și anume poarta
+monumentală, ce „frapează pe spectator nu numai prin frumusețea ei, ci și prin proporțiile
+sale care dau impresia de grandios” (p. 148), aplecându‑se atât asupra aspectului lor
+arhitectonic, cât și asupra ornamenticii lor. Considerând că „aspectul arhitectonic al
+porților monumentale românești se explică, din punct de vedere genetic, ca o contaminare
+a schemei porților gospodărești – atașate gardului la intrarea în curte – cu schema
+mormântului pe stâlpi” (p. 154), în concepția populară, aceasta fiind „reprezentanta
+casei și a gospodăriei întregi” (p. 156), autorul subliniază „virtutea protectoare a porții
+față de familie, casă și gospodărie”, analizând „simbolistica mistică a magiei” (p. 158)
+prin figurile încrestate pe aceasta, ca, în final, să afirme: „aria, unde porțile monumentale
+
+Recenzii
+616
+sunt în cea mai înfloritoare situație, coincide aproximativ cu regiunile Daciei antice, unde
+colonizarea romană a fost cea mai compactă. Acesta constituie un argument în plus, deosebit
+de elocvent, care vine să confirme aderențele genetice ale porților monumentale românești
+cu arcul de triumf roman” (p. 178).
+Înțelegând produsul folcloric ca un element ce „trebuie integrat în mediul rural care
+i‑a dat naștere” (p. 194), P. Caraman se apleacă, în studiul Asupra modalității de a studia
+balada populară. Metoda estetizantă (p. 194–202), asupra unui aspect foarte sensibil,
+anume problematica frumosului, într‑un cunoscut „cântec popular, care tratează despre
+zidirea unei ființe umane în temelia unei clădiri monumentale și care este cunoscut la
+toate popoarele balcanice, și chiar extra‑balcanice, afară de turci se pare” (p. 195), prin
+examinarea critică a demersului analitic desfășurat de D. Caracostea în articolul Material
+sud‑est european și formă românească. Meșterul Manole (publicat în „Revista Fundațiilor
+Regale”, IX, 1942, nr. 12, p. 619–656).
+Considerând blestemul „ca produs folcloric prin excelență” care, în forma lui
+originară a apărut „ca emanația cea mai pură a magiei cuvântului, de sens negativ”
+(p. 203), profesorul Caraman ilustrează, în studiul Blestemul ca expresie folclorică a
+unui complex afect negativ (p. 203–253), „tematica și unele forme de expresie mai
+tipice ale inspirației de aspect magic pur” (p. 220), așa cum se prezintă acesta „pe cea
+mai mare parte din spațiul european” (p. 246), pentru a conchide: „măcar că aceste
+blesteme își trag originea din sursa populară de credințe turcești, este evident că cei
+ce le‑au primit nu le‑au adoptat nicidecum ca pe niște elemente religioase. Aceasta ar
+fi fost tocmai un foarte serios motiv pentru a le suspecta și a se feri ca de foc de ele.
+Ci popoarele creștine din sud‑estul Europei, la care le aflăm atestate, și le‑au apropiat
+exclusiv pentru faptul că au fost impresionate în chip neobișnuit de tainica forță care
+li se atribuia de către turci. Ele au fost deci percepute ca niște produse eminamente
+magice. Însușindu‑și‑le, aceste popoare nu au făcut decât să‑și consolideze arsenalul
+magiei cuvântului, de sens negativ, cu încă un mijloc, pe cât de original pe atât de
+eficace. Ba, cu atât mai eficace, cu cât el apărea mai original și mai plin de mister prin
+exotismul său” (p. 253).
+Dacă „[m]itul reprezintă în imagine concretă fantezia creatoare, care, atât artistului,
+cât și omului de știință, fără ca acestuia să‑i treacă măcar prin minte – le trasează calea ce
+se cuvine urmată și le fixează jaloanele” (p. 254–314), în lucrarea Identificarea episodului
+despre Cupidon și Psyche, din romanul Metamorphoses al lui Apuleius, cu un basm
+autentic popular (p. 254–314), eruditul ieșean se apleacă asupra temei „soțului‑balaur”
+identificată în povestirea lui Apuleius, având convingerea fermă că „substratul cel mai
+adânc al basmului apuleian, ca și al tuturor variantelor sale moderne, în sensul cel mai
+larg – în ce privește în special motivul lor atât de caracteristic, al mirelui‑animal sau
+al miresei‑animal – este constituit din mituri de esență totemică” (p. 274) și căutând,
+printr‑o investigație atentă și critică, să‑i stabilească originea și căile de răspândire pe
+continentul european.
+Apreciind „[c]odicele de povestiri orientale, cunoscut sub titlul 1001 de nopți” drept
+o capodoperă a literaturii universale, „una din cele mai răspândite în sensul geografic al
+cuvântului și totodată una din cele mai populare în sensul că a străbătut toate straturile
+sociale” (p. 316), P. Caraman realizează, în studiul O mie și una de nopți capodoperă a
+
+Recenzii
+617
+literaturii universale (p. 315–345), un inventar analitic al pătrunderii traducerilor acestei
+opere în spațiul european.
+În lucrarea Reflexul meșteșugurilor și al negoțului în folclor și în etnografie la români
+(p. 346–383), profesorul ieșean trece în revistă nu doar meșteșugurile practicate de
+români, ci și pe cele practicate de străini în România, acordând o atenție particulară atât
+receptării acestora, cât și meșteșugului văzut ca „ideal pedagogic” prin analiza prezenței
+lor în literatura paremiologică și în basmele românești.
+În penultimul studiu al primei părți, intitulat Etnograful Cantemir și folclorul
+Orientului asiatic (p. 384–450), consacrat patriarhului etnografiei române (p. 450),
+savantului român Dimitrie Cantemir, cărturarul ieșean demonstrează – sintetizând în
+descrieri pertinente interesul lui Cantemir pentru muzică, pentru credințele și obiceiurile
+turcești, pentru „datinile cardinale în legătură cu viața umană la turci” (p. 435), pentru
+mitologia musulmană și folclorul turcesc (și, implicit, pentru folclorul juridic turcesc)
+etc. – că, pe lângă Descriptio Moldaviae, „interesul său [al lui D. Cantemir, precizarea n. –
+MA] pentru etnografie transpare tot așa de clar și în alte opere ale lui. Iar proporțiile acestui
+interes se dovedesc a fi chiar mult mai impunătoare și de un mult mai larg orizont decât se
+știe, luând nu o dată dimensiuni etnologice” (p. 384–385).
+Lucrarea ce încheie prima secțiune, O influență românească asupra limbilor slovacă și
+cehă (p. 451–459), aduce în prim‑plan o analiză subtilă dedicată împrumutului termenului
+folcloric drak, de la români, de către slovaci și cehi, termen care prin „conținutul său
+semantic pare a fi departe de a se identifica cu cel al termenului românesc perfect omonim
+drac” (p. 452), subliniind că „[o] dovadă concretă că fixarea lui la aceste popoare – cu
+rădăcini împlântate atât de adânc în limbile lor, ca un ecou al credințelor folclorice
+– trebuie pusă pe seama acelei vechi migrații românești o constituie faptul că o dâră
+adâncă – neștearsă până azi – a acestei influențe marchează drumul ciobanilor noștri
+către Slovacia și Moravia” (p. 457).
+A doua parte a volumului, Recenzii (p. 463–630), grupează un număr de unsprezece
+prezentări de carte. Exceptând două recenzii publicate postum în „Anuarul Muzeului
+Etnografic al Moldovei”, toate celelalte au apărut în perioada interbelică în periodice
+precum „Arhiva”, „Buletinul Institutului de Filologie Română «A. Philippide»”, „Însemnări
+ieșene” și „Balcania”, fiind redactate fie în limba română [sub titlul Folclor românesc în
+englezește. Contribuție critică asupra folclorului român în străinătate realizează o recenzie
+la lucrarea lui Marcu Beza, Paganism in Roumanian folklore, London, 1928, pages: X+162
+(and illustrations) – (p. 477–489); Dr. Petru Iroaie, Cântece populare istroromâne, Cernăuți
+1936 (Extras din „Făt‑Frumos”) (p. 490–498); sub titlul Fresca huțulă face o prezentare
+critică la apariția cărții lui Stanisław Vincenz, Na wysokiej połoninie. Obrazy, dumy i
+gawędy z Wierchowiny huculskiej (Pe culmea plaiului. Icoane, gânduri și taifasuri din
+munții huțuli), Warszawa, 1936, 720p., 8° mare (p. 499–517); sub titlul Observații critice,
+urmate de discuția câtorva probleme etnografice și etnologice, cu privire specială asupra
+Artei populare întâmpină apariția lucrării lui Antonín Václavík, Vỷroční občeje a lidové
+umĕní (Obiceiurile anuale și arta populară, Praga, 1959, in 4°, 584 pag. + XCV planșe
+anexe cu ilustrații. /Editura Academiei Cehoslovace de Științe/) (p. 565–604)], fie în limba
+franceză [Pierre Bogatyrev, Actes magiques, rites et croyances en Russie subcarpathique,
+Paris, Librairie Ancienne Honoré Champion, 1929 (p. 436–476); Milovan Gavazzi, Godina
+
+Recenzii
+618
+Dana Hrvatskih Narodnih Običaja, I–II. (Cycle annuel des coutumes populaires croates),
+Zagreb, 1939 (p. 518–525); «ETHNOS» – Revistă de grai, studiu și creație românească,
+publiée par I. Diaconu, Focșani, 1941–1942, Année I‑ère, Fasc. I (1941), II (1942),
+(p. 531–536); Ion Chelcea, Rudarii. Contribuții la o enigmă etnografică (Les Roudari.
+Contributions à une énygme ethnographique), București, Casa Școalelor, 1944, p. 214, in
+8° (p. 537–554); C. Bobulescu, Lăutari și hori în pictura bisericilor noastre (Musiciens et
+danses dans la peinture de nos églises), București, 1940, 80p. (55 planches) (p. 555– 564);
+Aperçu critique sur l’oeuvre folklorique de Lutz Röhrich, Lexikon der sprichwörtlichen
+Redensarten (Band I–IV, Freiburg‑Basel‑Wien, 1977) (p. 605–630)].
+Se cuvine, de asemenea, subliniat faptul că fiecare prezentare de carte poate constitui
+în sine un articol datorită recenzării obiective, critice.
+Nu în ultimul rând, dorim să semnalăm recenzia la „Anuarul Arhivei de Folklor”
+(L’Annuaire des Archives de Folklore), VI, publié par Ion Mușlea, Bucarest, 1942, 425 pages
+(p. 536–630), în care profesorul Caraman notează: „[l]es Archives de Folklore de Cluj, qui
+représentent le mouvement folklorique officiel du pays – sous les auspices de l’Académie
+de Roumanie – publient leur VI‑ème annuaire après une longue interruption. Nous
+tenons a relever le grand mérite de M. Mușlea, le directeur des Archives, qui – en dépit des
+événements si peu propices de l’exode de Transylvanie – a réussi a nous donner un aussi
+gros volume, comprenant surtout des matériaux venant des Roumains restés en dehors
+des frontières de la Roumanie” (p. 526). Și continuă: „l’Annuaire remplit intégralement
+sa mission dans le cadre purement folklorique, conformément a sa destination initiale,
+comme organe des Archives de Folklore”, pentru a conchide: „[n]ous espérons aussi voir
+se réaliser la bonne intention de M. Mușlea (p. 3–4) de publier séparément les collections
+folkloriques plus amples, de même que les éventuelles collections ethnographiques
+dont nous venons de parler. De cette façon, non seulement il dégrèverait le bulletin en
+lui réservant le but strictement scientifique d’être un organe d’études et de recherches,
+mais il créerait des conditions beaucoup plus favorables au progrès de notre discipline
+en Roumanie” (p. 530).
+Volumul se termină cu o serie de Ilustrații (p. 631–670), „popasuri existențiale”, ce
+surprind clipe din viața profesorului, urmată de Bibliografie (Abrevieri) (p. 671–677) și
+un Indice de autori (p. 679–685).
+În ceea ce ne privește, încheiem această succintă prezentare prin a sublinia meritul
+indiscutabil al d. cercetător științific Ion H. Ciubotaru, editorul volumului, de a readuce
+în atenția specialiștilor și a celor mai puțin avizați opera magistrului, afirmând cu toată
+convingerea că materialul deosebit de dens și excelent documentat de cărturarul Petru
+Caraman, acum mai bine de o jumătate de veac, rămâne actual și punct de plecare pentru
+alte studii nu doar pentru etnologi și folcloriști, ci și pentru lingviști, istorici literari
+și comparatiști.
+Lector univ. dr. Maria Aldea
+Facultatea de Litere, Universitatea Babeș‑Bolyai
+maria.aldea@ubbcluj.ro
