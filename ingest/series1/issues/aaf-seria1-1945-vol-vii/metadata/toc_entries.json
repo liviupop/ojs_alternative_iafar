@@ -1,0 +1,83 @@
+[
+  {
+    "index": 1,
+    "section": "",
+    "author": "Ion Mjuşlea",
+    "title": "Prefafă",
+    "page_start_label": "V",
+    "page_start": 5,
+    "page_end": 11
+  },
+  {
+    "index": 2,
+    "section": "",
+    "author": "Artur Gorovei",
+    "title": "M. Gaster şi folkiorul românesc",
+    "page_start_label": "1",
+    "page_start": null,
+    "page_end": null
+  },
+  {
+    "index": 3,
+    "section": "",
+    "author": "Tatiana Găluşcă",
+    "title": "\"Mocanii\". Un. joc dramatic al Românilor din Dobrogea",
+    "page_start_label": "12",
+    "page_start": 12,
+    "page_end": 34
+  },
+  {
+    "index": 4,
+    "section": "",
+    "author": "G H . Pavelescu",
+    "title": "Cercetări folklorice în Sudul judefului Bihor .'",
+    "page_start_label": "35",
+    "page_start": 35,
+    "page_end": 122
+  },
+  {
+    "index": 5,
+    "section": "ARTICOLE MĂRUNTE",
+    "author": "Enea Hodoş",
+    "title": "\"Din activitatea mea de folklorist\"",
+    "page_start_label": "123",
+    "page_start": 123,
+    "page_end": 127
+  },
+  {
+    "index": 6,
+    "section": "ARTICOLE MĂRUNTE",
+    "author": "Ion Muşlea",
+    "title": "Practice magice şi denumirea lor în circularele epis- copeşti şi protopopeşti delà începutul veacului trecut",
+    "page_start_label": "128",
+    "page_start": 128,
+    "page_end": 129
+  },
+  {
+    "index": 7,
+    "section": "ARTICOLE MĂRUNTE",
+    "author": "G H . Pavelescu",
+    "title": "Despre \"pasărea — suflet\"",
+    "page_start_label": "130",
+    "page_start": 130,
+    "page_end": 130
+  },
+  {
+    "index": 8,
+    "section": "ARTICOLE MĂRUNTE",
+    "author": "Romulus Todoran",
+    "title": "Poezii populare într'un manuscris ardelean din 1831",
+    "page_start_label": "131",
+    "page_start": 131,
+    "page_end": 139
+  },
+  {
+    "index": 9,
+    "section": "ARTICOLE MĂRUNTE",
+    "author": "",
+    "title": "Bibliografia folklorului românesc pe anii 1939—1943",
+    "page_start_label": "140",
+    "page_start": 140,
+    "page_end": null
+  }
+]

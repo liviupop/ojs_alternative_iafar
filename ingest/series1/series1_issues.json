@@ -1,0 +1,72 @@
+[
+  {
+    "slug": "aaf-seria1-1932-vol-i",
+    "series": "seria-1",
+    "series_label": "Seria I (1932-1945)",
+    "year": "1932",
+    "volume": "I",
+    "number": "1",
+    "title": "Anuarul Arhivei de Folklor I",
+    "source_pdf_name": "BCUCLUJ_FP_490809_1932_001.pdf"
+  },
+  {
+    "slug": "aaf-seria1-1933-vol-ii",
+    "series": "seria-1",
+    "series_label": "Seria I (1932-1945)",
+    "year": "1933",
+    "volume": "II",
+    "number": "2",
+    "title": "Anuarul Arhivei de Folklor II",
+    "source_pdf_name": "BCUCLUJ_FP_490809_1933_002.pdf"
+  },
+  {
+    "slug": "aaf-seria1-1935-vol-iii",
+    "series": "seria-1",
+    "series_label": "Seria I (1932-1945)",
+    "year": "1935",
+    "volume": "III",
+    "number": "3",
+    "title": "Anuarul Arhivei de Folklor III",
+    "source_pdf_name": "BCUCLUJ_FP_490809_1935_003.pdf"
+  },
+  {
+    "slug": "aaf-seria1-1937-vol-iv",
+    "series": "seria-1",
+    "series_label": "Seria I (1932-1945)",
+    "year": "1937",
+    "volume": "IV",
+    "number": "4",
+    "title": "Anuarul Arhivei de Folklor IV",
+    "source_pdf_name": "BCUCLUJ_FP_490809_1937_004.pdf"
+  },
+  {
+    "slug": "aaf-seria1-1939-vol-v",
+    "series": "seria-1",
+    "series_label": "Seria I (1932-1945)",
+    "year": "1939",
+    "volume": "V",
+    "number": "5",
+    "title": "Anuarul Arhivei de Folklor V",
+    "source_pdf_name": "BCUCLUJ_FP_490809_1939_005.pdf"
+  },
+  {
+    "slug": "aaf-seria1-1942-vol-vi",
+    "series": "seria-1",
+    "series_label": "Seria I (1932-1945)",
+    "year": "1942",
+    "volume": "VI",
+    "number": "6",
+    "title": "Anuarul Arhivei de Folklor VI",
+    "source_pdf_name": "BCUCLUJ_FP_490809_1942_006.pdf"
+  },
+  {
+    "slug": "aaf-seria1-1945-vol-vii",
+    "series": "seria-1",
+    "series_label": "Seria I (1932-1945)",
+    "year": "1945",
+    "volume": "VII",
+    "number": "7",
+    "title": "Anuarul Arhivei de Folklor VII",
+    "source_pdf_name": "BCUCLUJ_FP_490809_1945_007.pdf"
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "index": 1,
+    "section": "",
+    "author": "Ion Muşlea",
+    "title": "Prefaţă",
+    "page_start_label": "I",
+    "page_start": 1,
+    "page_end": 4
+  },
+  {
+    "index": 2,
+    "section": "",
+    "author": "Prodan",
+    "title": "Versuri contemporane despre răscoala lui Horea",
+    "page_start_label": "5",
+    "page_start": 5,
+    "page_end": 42
+  },
+  {
+    "index": 3,
+    "section": "",
+    "author": "Vgh . Pavelescu",
+    "title": "Pasărea-suflet C^jD^",
+    "page_start_label": "",
+    "page_start": null,
+    "page_end": null
+  },
+  {
+    "index": 4,
+    "section": "",
+    "author": "Emilpetrovici",
+    "title": "Note de folklor delà Românii Valea Mlavei (Sârbia)",
+    "page_start_label": "43",
+    "page_start": 43,
+    "page_end": 76
+  },
+  {
+    "index": 5,
+    "section": "",
+    "author": "P . V. Ştefănucă",
+    "title": "O familie de povestitori din Iurceni (Basarabia)",
+    "page_start_label": "77",
+    "page_start": 77,
+    "page_end": 100
+  },
+  {
+    "index": 6,
+    "section": "",
+    "author": "Ion Mărcuş",
+    "title": "Preocupările folklorice ale teologilor sibieni în anii 1871—1907",
+    "page_start_label": "101",
+    "page_start": 101,
+    "page_end": 122
+  },
+  {
+    "index": 7,
+    "section": "",
+    "author": "Vasilescurtu",
+    "title": "Cercetări folklorice în Ugocea românească",
+    "page_start_label": "123",
+    "page_start": 123,
+    "page_end": 300
+  },
+  {
+    "index": 8,
+    "section": "",
+    "author": "Elisabeta Nanu",
+    "title": "Un manuscris cu Irozi al lui Picu Pătruţ",
+    "page_start_label": "301",
+    "page_start": 301,
+    "page_end": 328
+  },
+  {
+    "index": 9,
+    "section": "",
+    "author": "Ion Pătruţ",
+    "title": "Folklor delà Românii din Sârbia",
+    "page_start_label": "329",
+    "page_start": 329,
+    "page_end": 384
+  },
+  {
+    "index": 10,
+    "section": "",
+    "author": "",
+    "title": "Bibliografia folklorului românesc pe anul 1938",
+    "page_start_label": "385",
+    "page_start": 385,
+    "page_end": null
+  }
+]
