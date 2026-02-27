@@ -15,16 +15,54 @@ except Exception as exc:  # pragma: no cover - import guard
         "PyMuPDF is required for ingest. Install with: pip install PyMuPDF"
     ) from exc
 
+try:
+    from markitdown import MarkItDown  # type: ignore
+except Exception:  # pragma: no cover - optional dependency
+    MarkItDown = None
+
 from .config import OCR_DPI, OCR_LANGUAGES, TESSERACT_BIN, TMP_ROOT
 from .text_cleanup import ligature_repair
 
 LOGGER = logging.getLogger(__name__)
+_MARKITDOWN_INSTANCE = None
 
 
 def page_count(pdf_path: Path) -> int:
     """Return number of pages using PyMuPDF."""
     with fitz.open(pdf_path) as doc:
         return len(doc)
+
+
+def _clean_markdown_output(text: str) -> str:
+    cleaned = (text or "").replace("\ufeff", "").replace("\x00", "")
+    cleaned = re.sub(r"[\x01-\x08\x0b\x0c\x0e-\x1f]", "", cleaned)
+    cleaned = cleaned.replace("\r\n", "\n").replace("\r", "\n")
+    return cleaned.strip()
+
+
+def _markitdown_instance():
+    global _MARKITDOWN_INSTANCE
+    if MarkItDown is None:
+        return None
+    if _MARKITDOWN_INSTANCE is None:
+        _MARKITDOWN_INSTANCE = MarkItDown()
+    return _MARKITDOWN_INSTANCE
+
+
+def extract_markdown_with_markitdown(pdf_path: Path) -> str:
+    """Extract markdown from a PDF using Microsoft MarkItDown."""
+    converter = _markitdown_instance()
+    if converter is None:
+        return ""
+
+    try:
+        result = converter.convert(pdf_path)
+    except Exception:
+        LOGGER.exception("markitdown conversion failed for %s", pdf_path)
+        return ""
+
+    markdown = getattr(result, "markdown", "") or getattr(result, "text_content", "")
+    return _clean_markdown_output(markdown)
 
 
 def _extract_page_text(page: "fitz.Page") -> str:

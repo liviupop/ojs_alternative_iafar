@@ -37,3 +37,23 @@ pip install -r scripts/requirements.txt
 
 Notă:
 - Pentru copertă, adaugă manual fișierul în `ingest/issues/<slug>/cover/` (ex: `cover.jpg`).
+
+## extract_article_markdown.py
+Generează fișiere `.md` din toate PDF-urile de articol folosind **Microsoft MarkItDown**.
+
+Ce face:
+- scanează `ingest/**/articles/*.pdf`
+- generează `*.md` lângă fiecare PDF (fără a modifica PDF-ul)
+- curăță caracterele de control din output
+- poate suprascrie fișierele existente cu `--force`
+
+Rulare:
+```bash
+python3 scripts/extract_article_markdown.py
+```
+
+Opțiuni utile:
+```bash
+python3 scripts/extract_article_markdown.py --limit 20 --log-level DEBUG
+python3 scripts/extract_article_markdown.py --force
+```

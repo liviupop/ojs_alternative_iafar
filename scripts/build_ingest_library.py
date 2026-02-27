@@ -31,6 +31,7 @@ from ingest.manifest import build_global_manifest, build_issue_meta
 from ingest.metadata import parse_frontmatter
 from ingest.pdf_extract import (
     extract_text_best_effort,
+    extract_markdown_with_markitdown,
     find_text_hits,
     page_count,
     score_text_quality,
@@ -150,7 +151,13 @@ def infer_page_offset(local_pdf: Path, first_entry: dict | None, total_pages: in
     return 0
 
 
-def build_article_md(entry: dict, frontmatter: dict, issue_meta: dict, full_text: str) -> str:
+def build_article_md(
+    entry: dict,
+    frontmatter: dict,
+    issue_meta: dict,
+    full_text: str,
+    markdown_body: str,
+) -> str:
     lines = [
         f"# {entry['title']}",
         "",
@@ -170,7 +177,10 @@ def build_article_md(entry: dict, frontmatter: dict, issue_meta: dict, full_text
         "## Keywords",
         frontmatter.get("keywords_en", "") or "_Nedetectate_",
         "",
-        "## Text extras din PDF",
+        "## Text extras din PDF (Markdown)",
+        markdown_body or "_Markdown indisponibil_",
+        "",
+        "## Text extras din PDF (fallback text)",
         full_text or "_Text indisponibil_",
         "",
     ]
@@ -272,6 +282,9 @@ def build_issue(issue_input: dict) -> tuple[dict, list[dict]]:
             min_words=max(55, article_page_count * 22),
         )
         full_text = normalize_full_text(full_text_raw)
+        markdown_body = extract_markdown_with_markitdown(article_abs)
+        if not markdown_body:
+            markdown_body = full_text
 
         front_quality = score_text_quality(front_text)
         full_quality = score_text_quality(full_text)
@@ -295,7 +308,10 @@ def build_issue(issue_input: dict) -> tuple[dict, list[dict]]:
         md_rel = f"ingest/issues/{issue_input['slug']}/md/{idx:03d}-{title_slug}.md"
         md_abs = ROOT / md_rel
         md_abs.parent.mkdir(parents=True, exist_ok=True)
-        md_abs.write_text(build_article_md(entry_with_pages, parsed, issue_meta, full_text), encoding="utf-8")
+        md_abs.write_text(
+            build_article_md(entry_with_pages, parsed, issue_meta, full_text, markdown_body),
+            encoding="utf-8",
+        )
 
         processed.append(
             {
