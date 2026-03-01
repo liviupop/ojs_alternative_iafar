@@ -3,7 +3,7 @@
     "index": 1,
     "section": "",
     "author": "Dumitru Pop",
-    "title": "Cultura populară si viața modernă",
+    "title": "Cultura populară și viața modernă",
     "page_start_label": "11",
     "page_start": 11,
     "page_end": 18
@@ -11,8 +11,8 @@
   {
     "index": 2,
     "section": "STUDII",
-    "author": "",
-    "title": "“Gheorghe Pavelescu, Mircea Eliade — exeget al folclorului românesc arhaic",
+    "author": "Gheorghe Pavelescu",
+    "title": "Mircea Eliade — exeget al folclorului românesc arhaic",
     "page_start_label": "19",
     "page_start": 19,
     "page_end": 38
@@ -21,25 +21,25 @@
     "index": 3,
     "section": "STUDII",
     "author": "Mircea Eliade",
-    "title": "Istoria religiilor si culturile „poßulare”. Trad. de Ioana Bot 2",
+    "title": "Istoria religiilor și culturile „populare\". Trad. de Ioana Bot",
     "page_start_label": "39",
     "page_start": 39,
-    "page_end": null
+    "page_end": 58
   },
   {
     "index": 4,
     "section": "STUDII",
     "author": "Mihai Coman",
-    "title": "Procesele de constituire a discursului milologic. Cîteva considerații . . . 59 ®",
-    "page_start_label": "",
-    "page_start": null,
+    "title": "Procesele de constituire a discursului mitologic. Cîteva considerații",
+    "page_start_label": "59",
+    "page_start": 59,
     "page_end": 80
   },
   {
     "index": 5,
     "section": "STUDII",
-    "author": "Ion Seuleanu",
-    "title": "Deschideri metodologice în cercetarea litevaturii și culturii orale",
+    "author": "Ion Șeuleanu",
+    "title": "Deschideri metodologice în cercetarea literaturii și culturii orale",
     "page_start_label": "81",
     "page_start": 81,
     "page_end": 86
@@ -48,7 +48,7 @@
     "index": 6,
     "section": "STUDII",
     "author": "Dumitru Pop",
-    "title": "Istorie si folclor. Evenimentul politic în istoria folclorului . 2.2",
+    "title": "Istorie și folclor. Evenimentul politic în istoria folclorului",
     "page_start_label": "87",
     "page_start": 87,
     "page_end": 96
@@ -56,838 +56,730 @@
   {
     "index": 7,
     "section": "STUDII",
-    "author": "Ton Cuceu",
-    "title": "Maria Cuceu, Un corpus al basmelor romänesti despre animale",
+    "author": "Ion Cuceu, Maria Cuceu",
+    "title": "Un corpus al basmelor românești despre animale",
     "page_start_label": "97",
     "page_start": 97,
-    "page_end": null
+    "page_end": 122
   },
   {
     "index": 8,
     "section": "STUDII",
     "author": "Iordan Datcu",
-    "title": "Celebra polemică D. Caracostea — P. Caraman pe tema ,,Cântecului",
-    "page_start_label": "",
-    "page_start": null,
-    "page_end": 182
+    "title": "Celebra polemică D. Caracostea — P. Caraman pe tema „Cîntecului Gerului\". Contribuții documentare",
+    "page_start_label": "123",
+    "page_start": 123,
+    "page_end": 134
   },
   {
     "index": 9,
     "section": "STUDII",
-    "author": "",
-    "title": "Vi Gevului”. Contribuţii dooumentare . „eee",
-    "page_start_label": "183",
-    "page_start": 183,
-    "page_end": null
+    "author": "Gabriella Vöö",
+    "title": "Tendințe estetice ale basmului contemporan. Procesele de veridicizare și comicizare ale elementelor fantastice",
+    "page_start_label": "135",
+    "page_start": 135,
+    "page_end": 146
   },
   {
     "index": 10,
     "section": "STUDII",
-    "author": "Gabriella V55",
-    "title": "Tendinţe estetice ale basmului contemporan. Procesele de veridicizare si",
-    "page_start_label": "",
-    "page_start": null,
-    "page_end": 134
+    "author": "István Almási",
+    "title": "Din începuturile metodei științifice de culegere a folclorului muzical. Cercetările lui Béla Vikár în Transilvania",
+    "page_start_label": "147",
+    "page_start": 147,
+    "page_end": 154
   },
   {
     "index": 11,
     "section": "STUDII",
-    "author": "",
-    "title": "Pr comicizare ale elemenielor fantastice . . . > 2222",
-    "page_start_label": "135",
-    "page_start": 135,
-    "page_end": null
+    "author": "Hanni Markel, Virgiliu Florea",
+    "title": "Folcloristul I. C. Hintz-Hințescu. Noi contribuții bio-bibliografice",
+    "page_start_label": "155",
+    "page_start": 155,
+    "page_end": 174
   },
   {
     "index": 12,
     "section": "STUDII",
-    "author": "Istvän Almäsi",
-    "title": "Din începuturile metodei științifice de culegere a folclorului muzical. Cer-",
-    "page_start_label": "",
-    "page_start": null,
-    "page_end": null
+    "author": "Andrei Negru, Emil Pop",
+    "title": "Contribuția Institutului Social Banat-Crișana la cercetarea culturii populare",
+    "page_start_label": "175",
+    "page_start": 175,
+    "page_end": 190
   },
   {
     "index": 13,
     "section": "STUDII",
-    "author": "Hanni Markel",
-    "title": "Virgiliu Florea, Folcloristul I. C. Hintz-Hintescu. Noi contribuţii bio-biblio-",
-    "page_start_label": "",
-    "page_start": null,
-    "page_end": null
-  },
-  {
-    "index": 14,
-    "section": "STUDII",
-    "author": "Andrei Negru",
-    "title": "Emil Pop, Contribuţia Institutului Social Banat-Crişana la cercetarea",
-    "page_start_label": "",
-    "page_start": null,
-    "page_end": 4
-  },
-  {
-    "index": 15,
-    "section": "STUDII",
-    "author": "Stelian Mindrutf",
-    "title": "Simeon Florea Marian — inedit . Pa 1}",
-    "page_start_label": "5",
-    "page_start": 5,
+    "author": "Stelian Mîndruț",
+    "title": "Simeon Florea Marian — inedit",
+    "page_start_label": "191",
+    "page_start": 191,
     "page_end": 196
   },
   {
-    "index": 16,
+    "index": 14,
     "section": "SISTEMATICĂ TIPOLOGICĂ",
-    "author": "Zucia Istoc",
-    "title": "Tipuri melodice de bocet din Transivania . . . » 2.2.2",
+    "author": "Lucia Iștoc",
+    "title": "Tipuri melodice de bocet din Transilvania",
     "page_start_label": "197",
     "page_start": 197,
-    "page_end": 292
+    "page_end": 222
+  },
+  {
+    "index": 15,
+    "section": "SISTEMATICĂ TIPOLOGICĂ",
+    "author": "Ilona Szenik",
+    "title": "Tipuri melodice în bocetele maghiare din România",
+    "page_start_label": "223",
+    "page_start": 223,
+    "page_end": 240
+  },
+  {
+    "index": 16,
+    "section": "IN MEMORIAM",
+    "author": "I. Cuceu",
+    "title": "Tony Brill (1910—1986)",
+    "page_start_label": "241",
+    "page_start": 241,
+    "page_end": 242
   },
   {
     "index": 17,
-    "section": "SISTEMATICĂ TIPOLOGICĂ",
-    "author": "Zlona Szeuik",
-    "title": "Tipuri melodice în bocetele maghiare din România",
-    "page_start_label": "293",
-    "page_start": 293,
-    "page_end": null
+    "section": "IN MEMORIAM",
+    "author": "M. Bocșe",
+    "title": "Nicolae Dunăre (1916—1987)",
+    "page_start_label": "243",
+    "page_start": 243,
+    "page_end": 246
   },
   {
     "index": 18,
     "section": "IN MEMORIAM",
-    "author": "",
-    "title": "Tony Brill (1910—1986), de I. Cuceu . 2 . cc m nn. Al",
-    "page_start_label": "",
-    "page_start": null,
-    "page_end": null
+    "author": "I. Cuceu",
+    "title": "Radu Niculescu (1938—1987)",
+    "page_start_label": "247",
+    "page_start": 247,
+    "page_end": 250
   },
   {
     "index": 19,
-    "section": "IN MEMORIAM",
-    "author": "",
-    "title": "Nicolae Dunăre (1916—1987), de M. Bocse i",
-    "page_start_label": "",
-    "page_start": null,
-    "page_end": null
+    "section": "NOTE",
+    "author": "I. Bot",
+    "title": "O contribuție esențială la definirea Omului",
+    "page_start_label": "251",
+    "page_start": 251,
+    "page_end": 252
   },
   {
     "index": 20,
-    "section": "IN MEMORIAM",
-    "author": "",
-    "title": "Radu Niculescu (1938—1987), de I. Cuceu",
-    "page_start_label": "",
-    "page_start": null,
-    "page_end": null
+    "section": "NOTE",
+    "author": "I. Cuceu",
+    "title": "Comisia de Folclor a Academiei",
+    "page_start_label": "253",
+    "page_start": 253,
+    "page_end": 253
   },
   {
     "index": 21,
     "section": "NOTE",
-    "author": "",
-    "title": "O. contribuția esenţială la definirea Omului (L. Bot) . . cc... Bl",
-    "page_start_label": "",
-    "page_start": null,
-    "page_end": 37
+    "author": "R. Ghircoiașiu",
+    "title": "Cercetări de folclor la românii din Iugoslavia",
+    "page_start_label": "254",
+    "page_start": 254,
+    "page_end": 255
   },
   {
     "index": 22,
     "section": "NOTE",
     "author": "",
-    "title": "Comisia de Folclor a Academiei (1. Cuceu) . . . . cc",
-    "page_start_label": "38",
-    "page_start": 38,
-    "page_end": 23
+    "title": "Conferințe românești la Universitatea din Oxford, acum o sută de ani (V. Florea) .",
+    "page_start_label": "256",
+    "page_start": 256,
+    "page_end": 256
   },
   {
     "index": 23,
     "section": "NOTE",
-    "author": "",
-    "title": "Cercetäri.de folclor la românii din Iugoslavia (R. Ghircoiaşiu) .. . nn",
-    "page_start_label": "24",
-    "page_start": 24,
-    "page_end": 255
+    "author": "A. Măniuțiu",
+    "title": "Études et Documents Balkaniques et Méditerranéens",
+    "page_start_label": "257",
+    "page_start": 257,
+    "page_end": 259
   },
   {
     "index": 24,
     "section": "NOTE",
-    "author": "V. Florea",
-    "title": "Conferinţe româneşti la Universitatea din Oxford, acum o sută de ani",
-    "page_start_label": "256",
-    "page_start": 256,
-    "page_end": null
+    "author": "L. Iștoc, I. Șeuleanu",
+    "title": "O teză americană de doctorat despre colindatul cu dubele la români",
+    "page_start_label": "260",
+    "page_start": 260,
+    "page_end": 261
   },
   {
     "index": 25,
     "section": "NOTE",
-    "author": "",
-    "title": "Etudes et Documents Balkaniques et Mediterrandens (A. Mäniufiu) EEG",
-    "page_start_label": "",
-    "page_start": null,
-    "page_end": 259
+    "author": "I. Datcu",
+    "title": "O bibliografie fundamentală",
+    "page_start_label": "262",
+    "page_start": 262,
+    "page_end": 263
   },
   {
     "index": 26,
     "section": "NOTE",
-    "author": "L. Istoc, I. Șeuleanu",
-    "title": "© teză americană de doctorat despre colindatul cu dubele la români",
-    "page_start_label": "260",
-    "page_start": 260,
-    "page_end": null
+    "author": "M. Cuceu",
+    "title": "Anuarul ICED",
+    "page_start_label": "264",
+    "page_start": 264,
+    "page_end": 265
   },
   {
     "index": 27,
     "section": "NOTE",
-    "author": "I. Datcu",
-    "title": "U bibliografie fundamentală",
-    "page_start_label": "",
-    "page_start": null,
-    "page_end": null
+    "author": "R. Oșianu",
+    "title": "Buletinul științific al Muzeului Etnografic Croat din Zagreb",
+    "page_start_label": "266",
+    "page_start": 266,
+    "page_end": 268
   },
   {
     "index": 28,
     "section": "NOTE",
-    "author": "",
-    "title": "Anuarul ICED (M. Cuceu) . . cc cc... BE",
-    "page_start_label": "",
-    "page_start": null,
-    "page_end": null
+    "author": "O. Vințeler",
+    "title": "O importantă sinteză a lui Eliazar M. Meletinski",
+    "page_start_label": "269",
+    "page_start": 269,
+    "page_end": 271
   },
   {
     "index": 29,
     "section": "NOTE",
-    "author": "R. Osianu",
-    "title": "Buletinul. ştiinţific al Muzeului Etnografic Croat din Zagreb",
-    "page_start_label": "",
-    "page_start": null,
-    "page_end": null
+    "author": "C. Negreanu",
+    "title": "Bibliografii paremiologice internaționale",
+    "page_start_label": "272",
+    "page_start": 272,
+    "page_end": 274
   },
   {
     "index": 30,
     "section": "NOTE",
-    "author": "O. Vinteler",
-    "title": "O importantä sinteză a lui Eliazar M. Meletinski",
-    "page_start_label": "",
-    "page_start": null,
-    "page_end": null
+    "author": "O. Cătineanu",
+    "title": "Un deceniu al revistei „Man\": teme și orientări",
+    "page_start_label": "275",
+    "page_start": 275,
+    "page_end": 281
   },
   {
     "index": 31,
     "section": "NOTE",
-    "author": "C. Negream",
-    "title": "Bibliografii paremiologice internafionale",
-    "page_start_label": "",
-    "page_start": null,
-    "page_end": null
+    "author": "H. Markel",
+    "title": "Lucrări recente ale Școlii din Tübingen",
+    "page_start_label": "282",
+    "page_start": 282,
+    "page_end": 284
   },
   {
     "index": 32,
     "section": "NOTE",
-    "author": "O. Cătineanu",
-    "title": "Un deceniu al revistei „Man” : teme si orientări",
-    "page_start_label": "",
-    "page_start": null,
-    "page_end": null
+    "author": "V. I. Oprișiu",
+    "title": "Ipoteze privind originea cuvîntului „doină\"",
+    "page_start_label": "285",
+    "page_start": 285,
+    "page_end": 286
   },
   {
     "index": 33,
     "section": "NOTE",
-    "author": "H. Markel",
-    "title": "Lucrări recente ale Școlii din Tübingen",
-    "page_start_label": "",
-    "page_start": null,
-    "page_end": null
+    "author": "A. Pavelescu",
+    "title": "Copie-manuscris a colecției „Doine și strigături din Ardeal\"",
+    "page_start_label": "287",
+    "page_start": 287,
+    "page_end": 289
   },
   {
     "index": 34,
     "section": "NOTE",
-    "author": "",
-    "title": "Ipoteze privind originea cuvîntului „doină” (V. IL. Oprişiu) . a",
-    "page_start_label": "",
-    "page_start": null,
-    "page_end": null
+    "author": "L. Malița",
+    "title": "Lirica populară în actualitate",
+    "page_start_label": "290",
+    "page_start": 290,
+    "page_end": 292
   },
   {
     "index": 35,
     "section": "NOTE",
-    "author": "A. Pavelescu",
-    "title": "Copie-manuscris a colecției „„Doine si strigäturi din Ardeal”",
-    "page_start_label": "",
-    "page_start": null,
-    "page_end": null
+    "author": "Z. Dejeu",
+    "title": "Festivalul jocului fecioresc din Transilvania",
+    "page_start_label": "293",
+    "page_start": 293,
+    "page_end": 296
   },
   {
     "index": 36,
     "section": "NOTE",
-    "author": "L. Malița",
-    "title": "Livica populară in actualiiate",
-    "page_start_label": "",
-    "page_start": null,
-    "page_end": null
+    "author": "V. Florea",
+    "title": "Ispirescu reeditat",
+    "page_start_label": "297",
+    "page_start": 297,
+    "page_end": 297
   },
   {
     "index": 37,
     "section": "NOTE",
-    "author": "Z. Dejeu",
-    "title": "Festivalul jocului fecioresc din Transilvania",
-    "page_start_label": "",
-    "page_start": null,
-    "page_end": null
+    "author": "V. Florea",
+    "title": "Noi bibliografii folclorice",
+    "page_start_label": "298",
+    "page_start": 298,
+    "page_end": 299
   },
   {
     "index": 38,
     "section": "NOTE",
-    "author": "V. Florea",
-    "title": "Ispirescu reeditat",
-    "page_start_label": "",
-    "page_start": null,
-    "page_end": null
+    "author": "N. Bot",
+    "title": "Etnobotanică și etnoiatrie",
+    "page_start_label": "300",
+    "page_start": 300,
+    "page_end": 304
   },
   {
     "index": 39,
-    "section": "NOTE",
-    "author": "",
-    "title": "Noi bibliografii folclorice (V. Florea",
-    "page_start_label": "",
-    "page_start": null,
-    "page_end": null
+    "section": "RECENZII",
+    "author": "D. Pop",
+    "title": "Adăscălitei, V., Istoria unui obicei. Plugușorul. Iași, 1987",
+    "page_start_label": "322",
+    "page_start": 322,
+    "page_end": 324
   },
   {
     "index": 40,
-    "section": "NOTE",
-    "author": "N. Bot",
-    "title": "Einobotanicä si elnoiatrie",
-    "page_start_label": "",
-    "page_start": null,
-    "page_end": null
+    "section": "RECENZII",
+    "author": "V. Florea",
+    "title": "Anghelescu, M., Introducere în opera lui Petre Ispirescu. București, 1987",
+    "page_start_label": "332",
+    "page_start": 332,
+    "page_end": 334
   },
   {
     "index": 41,
     "section": "RECENZII",
-    "author": "",
-    "title": "Adäscälifei, V., Istoria unui obicei. Plugusorul. Iași, 1987 (D. Pop) en",
-    "page_start_label": "",
-    "page_start": null,
-    "page_end": null
+    "author": "I. Mureșanu",
+    "title": "Anton, M., I. Mărgineanu (ed.), Cîntece și tradiții populare despre Horca și Avram Iancu. București, 1985",
+    "page_start_label": "347",
+    "page_start": 347,
+    "page_end": 348
   },
   {
     "index": 42,
     "section": "RECENZII",
-    "author": "V. Florea",
-    "title": "Anghelescu, M., Introducere in opera lui Petre Ispirescu. București, 1987",
-    "page_start_label": "",
-    "page_start": null,
-    "page_end": null
+    "author": "D. Pop",
+    "title": "Apolzan, L., Carpații tezaur de istorie. București, 1987",
+    "page_start_label": "328",
+    "page_start": 328,
+    "page_end": 328
   },
   {
     "index": 43,
     "section": "RECENZII",
-    "author": "",
-    "title": "Anton, M., I. Mărgineanu (ed.), Cintece și tradiţii populare despre Horca si Avram",
-    "page_start_label": "",
-    "page_start": null,
-    "page_end": null
+    "author": "I. Șeuleanu",
+    "title": "Bănățeanu, T., Prolegomene la o teorie a esteticii artei populare. București, 1985",
+    "page_start_label": "320",
+    "page_start": 320,
+    "page_end": 321
   },
   {
     "index": 44,
     "section": "RECENZII",
     "author": "",
-    "title": "Iancu. București, 1985 (I. Mureşanu) .. . 2",
-    "page_start_label": "",
-    "page_start": null,
-    "page_end": null
+    "title": "Bîrgu-Georgescu, L. (ed.), Basme cu animale și păsări. București, 1987 (V. Florea) .",
+    "page_start_label": "350",
+    "page_start": 350,
+    "page_end": 350
   },
   {
     "index": 45,
     "section": "RECENZII",
-    "author": "",
-    "title": "Apolzan, I., Carpaţii tezaur de istorie. București, 1987 (D. Pop) FE",
-    "page_start_label": "",
-    "page_start": null,
-    "page_end": 1984
+    "author": "A. Măniuțiu",
+    "title": "Bouras, A., Quand l'arbre devient bois. Paris, 1986",
+    "page_start_label": "362",
+    "page_start": 362,
+    "page_end": 363
   },
   {
     "index": 46,
     "section": "RECENZII",
-    "author": "",
-    "title": "Bănățeanu, T., Prolegomene la o teorie a esteticii artei populare. București,",
-    "page_start_label": "1985",
-    "page_start": 1985,
-    "page_end": null
+    "author": "E. Hlinca-Drăgan",
+    "title": "Brînaru, M. I., Cîntece de pe Olt, I—II. Rîmnicu Vîlcea, 1973, f.a",
+    "page_start_label": "362",
+    "page_start": 362,
+    "page_end": 363
   },
   {
     "index": 47,
     "section": "RECENZII",
-    "author": "",
-    "title": "(I. Seuleanu) DN",
-    "page_start_label": "",
-    "page_start": null,
-    "page_end": null
+    "author": "A. Stoian",
+    "title": "Busuioceanu, A., Zamolxis sau mitul dacic în istoria și legendele spaniole. București, 1985",
+    "page_start_label": "356",
+    "page_start": 356,
+    "page_end": 356
   },
   {
     "index": 48,
     "section": "RECENZII",
-    "author": "V. Florea",
-    "title": "Birgu— Georgescu, L. (ed.), Basme cu animale şi păsări. Bucureşti, 1987",
-    "page_start_label": "",
-    "page_start": null,
-    "page_end": null
+    "author": "",
+    "title": "Canciovici, M. (ed.), Domnitori români în legende. București, 1984 (I. Mureșanu) .",
+    "page_start_label": "327",
+    "page_start": 327,
+    "page_end": 327
   },
   {
     "index": 49,
     "section": "RECENZII",
-    "author": "",
-    "title": "Bouras, A., Quand Yarbre devient bois. Paris, 1986 (A. Măniuţiu) . PR",
-    "page_start_label": "",
-    "page_start": null,
-    "page_end": null
+    "author": "D. Pop",
+    "title": "Caraman, P., Studii de folclor, I—II. București, 1987, 1988",
+    "page_start_label": "352",
+    "page_start": 352,
+    "page_end": 353
   },
   {
     "index": 50,
     "section": "RECENZII",
-    "author": "",
-    "title": "Brinaru, M.I., Cântece de pe Olt, I—II. Rimnicu Vilcea, 1973, f.a. (E. Hlinca—",
-    "page_start_label": "",
-    "page_start": null,
-    "page_end": null
+    "author": "I. Mureșanu",
+    "title": "Coatu, N. (ed.), Legende populare geografice. București, 1986",
+    "page_start_label": "313",
+    "page_start": 313,
+    "page_end": 314
   },
   {
     "index": 51,
     "section": "RECENZII",
     "author": "",
-    "title": "Drăgan) ne",
-    "page_start_label": "",
-    "page_start": null,
-    "page_end": null
+    "title": "Cojocaru, N., Cîntece, obiceiuri și tradiții românești. București, 1989 (M. Cuceu) .",
+    "page_start_label": "349",
+    "page_start": 349,
+    "page_end": 349
   },
   {
     "index": 52,
     "section": "RECENZII",
-    "author": "",
-    "title": "Busuioceanu, A., Zamolxis sau mitul dacic în istoria şi legendele spaniole. Bucureşti,",
-    "page_start_label": "",
-    "page_start": null,
-    "page_end": null
+    "author": "L. Iștoc",
+    "title": "Comișel, E., Studii de entomuzicologie. București, 1986",
+    "page_start_label": "354",
+    "page_start": 354,
+    "page_end": 354
   },
   {
     "index": 53,
     "section": "RECENZII",
-    "author": "",
-    "title": "1985 (A. Stoian) n",
-    "page_start_label": "",
-    "page_start": null,
-    "page_end": null
+    "author": "I. Șeuleanu",
+    "title": "Constantinescu, N., Relațiile de rudenie în societățile tradiționale. București, 1987",
+    "page_start_label": "325",
+    "page_start": 325,
+    "page_end": 326
   },
   {
     "index": 54,
     "section": "RECENZII",
     "author": "I. Mureșanu",
-    "title": "Canciovici, M. (ed.), Domnitori români în legende. Bucureşti, 1984",
-    "page_start_label": "",
-    "page_start": null,
-    "page_end": null
+    "title": "Evseev, I., Simboluri folclorice. Timișoara, 1987",
+    "page_start_label": "340",
+    "page_start": 340,
+    "page_end": 340
   },
   {
     "index": 55,
-    "section": "STUDII",
-    "author": "Coatu",
-    "title": "N. (ed.), Legende populare geografice. București, 1986 (I. Mureșanu)",
-    "page_start_label": "",
-    "page_start": null,
-    "page_end": null
+    "section": "RECENZII",
+    "author": "D. Pop",
+    "title": "Fochi, A., Cîntecul epic tradițional al românilor. București, 1985",
+    "page_start_label": "315",
+    "page_start": 315,
+    "page_end": 317
   },
   {
     "index": 56,
-    "section": "STUDII",
-    "author": "Cojocaru",
-    "title": "N., Cîntece, obiceiuri și tradiții româneşti. București, 1989 (M. Cuceu)",
-    "page_start_label": "",
-    "page_start": null,
-    "page_end": 1986
+    "section": "RECENZII",
+    "author": "",
+    "title": "Fochi, A., Valori ale culturii populare. I—II. București, 1987, 1988 (I. Șeuleanu) .",
+    "page_start_label": "318",
+    "page_start": 318,
+    "page_end": 319
   },
   {
     "index": 57,
-    "section": "STUDII",
-    "author": "Constantinescu",
-    "title": "N., Relaţiile de rudenie in societățile tradiționale. București,",
-    "page_start_label": "1987",
-    "page_start": 1987,
-    "page_end": null
+    "section": "RECENZII",
+    "author": "V. Florea",
+    "title": "Fotea, M., Simeon Florea Marian, folclorist. București, 1987",
+    "page_start_label": "336",
+    "page_start": 336,
+    "page_end": 338
   },
   {
     "index": 58,
-    "section": "STUDII",
-    "author": "",
-    "title": "(I. Şeuleanu) i",
-    "page_start_label": "",
-    "page_start": null,
-    "page_end": null
+    "section": "RECENZII",
+    "author": "C. Negreanu",
+    "title": "Hasan-Rokem, Proverbs in Israeli Folk Narratives. Helsinki, 1982",
+    "page_start_label": "366",
+    "page_start": 366,
+    "page_end": 366
   },
   {
     "index": 59,
-    "section": "STUDII",
-    "author": "Evseev",
-    "title": "I., Simboluri folclorice. Timișoara, 1987 (I. Mureşanu)",
-    "page_start_label": "",
-    "page_start": null,
-    "page_end": null
+    "section": "RECENZII",
+    "author": "V. Florea",
+    "title": "Hințescu, I. C., Proverbele românilor. Timișoara, 1985",
+    "page_start_label": "355",
+    "page_start": 355,
+    "page_end": 355
   },
   {
     "index": 60,
-    "section": "STUDII",
-    "author": "Fochi",
-    "title": "A., Cîntecul epic traditional al românilor. București, 1985 (D. Pop)",
-    "page_start_label": "",
-    "page_start": null,
-    "page_end": null
+    "section": "RECENZII",
+    "author": "I. Șeuleanu",
+    "title": "Holbek, B., Interpretation of Fairy Tales. Helsinki, 1987",
+    "page_start_label": "369",
+    "page_start": 369,
+    "page_end": 370
   },
   {
     "index": 61,
-    "section": "STUDII",
-    "author": "Fochi",
-    "title": "A., Valori ale culturii populare. I-II. Bucureşti, 1987, 1988 (I. Șeuleanu)",
-    "page_start_label": "",
-    "page_start": null,
-    "page_end": null
+    "section": "RECENZII",
+    "author": "I. Németh",
+    "title": "Iahin, A. G., Sistema tatarskovo folklora. Kazan, 1984",
+    "page_start_label": "362",
+    "page_start": 362,
+    "page_end": 363
   },
   {
     "index": 62,
-    "section": "STUDII",
-    "author": "Fotea",
-    "title": "M., Simeon Florea Marian, folclorist. Bucureşti, 1987 (V. Florea) rn",
-    "page_start_label": "",
-    "page_start": null,
-    "page_end": null
+    "section": "RECENZII",
+    "author": "I. Mureșanu",
+    "title": "Ioniță, M., Drumul Urieșilor. Cluj-Napoca",
+    "page_start_label": "351",
+    "page_start": 351,
+    "page_end": 351
   },
   {
     "index": 63,
-    "section": "STUDII",
-    "author": "Hasan—Rokem",
-    "title": "Proverbs in Israeli Folk Narratives. Helsinki, 1982 (C. Negreanu)",
-    "page_start_label": "",
-    "page_start": null,
-    "page_end": null
+    "section": "RECENZII",
+    "author": "",
+    "title": "Ispas, S., D. Truță, Lirica de dragoste, I—IV. București, 1985—1989 (I. Cuceu) .",
+    "page_start_label": "305",
+    "page_start": 305,
+    "page_end": 305
   },
   {
     "index": 64,
-    "section": "STUDII",
-    "author": "Hintescu",
-    "title": "I. C., Proverbele romänilor. Timisoara, 1985 (V. Florea) . nn",
-    "page_start_label": "",
-    "page_start": null,
-    "page_end": null
+    "section": "RECENZII",
+    "author": "H. Markel",
+    "title": "Jerrendorf, M., Grimms Märchen in Medien. Tübingen, 1985",
+    "page_start_label": "371",
+    "page_start": 371,
+    "page_end": 371
   },
   {
     "index": 65,
-    "section": "STUDII",
-    "author": "Holbek",
-    "title": "B., Interpretation of Fairy Tales. Helsinki, 1987 (I. Seuleanu)",
-    "page_start_label": "",
-    "page_start": null,
-    "page_end": null
+    "section": "RECENZII",
+    "author": "I. Herțea",
+    "title": "Jurjovan, T., Folclorul muzical românesc din Ovcea. Ovcea, 1983",
+    "page_start_label": "357",
+    "page_start": 357,
+    "page_end": 358
   },
   {
     "index": 66,
-    "section": "STUDII",
-    "author": "Iahin",
-    "title": "A. G., Sistema tatarskovo folklora. Kazan, 1984 (I. Nemeth)",
-    "page_start_label": "",
-    "page_start": null,
-    "page_end": null
+    "section": "RECENZII",
+    "author": "I. Herțea",
+    "title": "Kahane, M., L. Georgescu-Stănculeanu, Cîntecul Zorilor și Bradului. București, 1988",
+    "page_start_label": "306",
+    "page_start": 306,
+    "page_end": 307
   },
   {
     "index": 67,
-    "section": "STUDII",
-    "author": "Ioniţă",
-    "title": "M., Drumul Uriesilor. Cluj-Napoca (I. Mureșanu) nn",
-    "page_start_label": "",
-    "page_start": null,
-    "page_end": null
+    "section": "RECENZII",
+    "author": "",
+    "title": "Kausel, E., Volkskundler in und aus Österreich heute. Wien, 1987 (H. Markel) .",
+    "page_start_label": "368",
+    "page_start": 368,
+    "page_end": 368
   },
   {
     "index": 68,
-    "section": "STUDII",
-    "author": "Ispas",
-    "title": "$., D. Trutä, Lirica de dragoste, I-IV. București, 1985-— 1989 (I. Cuceu)",
-    "page_start_label": "",
-    "page_start": null,
-    "page_end": null
+    "section": "RECENZII",
+    "author": "C. Negreanu",
+    "title": "Kunsi, M., Proverbia septentrionalia. Helsinki, 1985",
+    "page_start_label": "364",
+    "page_start": 364,
+    "page_end": 364
   },
   {
     "index": 69,
-    "section": "STUDII",
-    "author": "Jerrendorf",
-    "title": "M., Grimms Märchen in Medien. Tübingen, 1985 (H. Markel)",
-    "page_start_label": "",
-    "page_start": null,
-    "page_end": null
+    "section": "RECENZII",
+    "author": "O. Vințeler",
+    "title": "Latysskie dainy. Moscova, 1987",
+    "page_start_label": "360",
+    "page_start": 360,
+    "page_end": 361
   },
   {
     "index": 70,
-    "section": "STUDII",
-    "author": "Jurjovan",
-    "title": "T., Folclorul muzical românesc din Ovcea. Ovcea, 1983 (I. Hertea)",
-    "page_start_label": "",
-    "page_start": null,
-    "page_end": 1987
+    "section": "RECENZII",
+    "author": "G. Vöö",
+    "title": "Magyar népmesekatalógus l. Budapest, 1987",
+    "page_start_label": "372",
+    "page_start": 372,
+    "page_end": 372
   },
   {
     "index": 71,
-    "section": "STUDII",
-    "author": "Kahane",
-    "title": "M., L. Georgescu— Stănculeanu, Cîntecul Zorilor și Bradului. Bucureşti,",
-    "page_start_label": "1988",
-    "page_start": 1988,
-    "page_end": null
+    "section": "RECENZII",
+    "author": "V. Florea",
+    "title": "Micu Moldovan, I., Povești populare din Transilvania culese prin elevii școlilor din Blaj (1863—1878). București, 1987",
+    "page_start_label": "308",
+    "page_start": 308,
+    "page_end": 309
   },
   {
     "index": 72,
-    "section": "STUDII",
-    "author": "",
-    "title": "(I. Herea) . rn",
-    "page_start_label": "",
-    "page_start": null,
-    "page_end": null
+    "section": "RECENZII",
+    "author": "C. Negreanu",
+    "title": "Mieder, W., Deutsche Sprichwörter in Literatur, Politik, Presse und Werbung. Hamburg, 1983",
+    "page_start_label": "365",
+    "page_start": 365,
+    "page_end": 365
   },
   {
     "index": 73,
-    "section": "STUDII",
-    "author": "Kausel",
-    "title": "E., Volkskundler in und aus Österreich heute. Wien, 1987 (H. Markel)",
-    "page_start_label": "",
-    "page_start": null,
-    "page_end": null
+    "section": "RECENZII",
+    "author": "A. Negru",
+    "title": "Miftode, V., Elemente de sociologie rurală. București, 1984",
+    "page_start_label": "342",
+    "page_start": 342,
+    "page_end": 342
   },
   {
     "index": 74,
-    "section": "STUDII",
-    "author": "Kuusi",
-    "title": "M., Proverbia septentrionalia. Helsinki, 1985 (C. Negreanu)",
-    "page_start_label": "",
-    "page_start": null,
-    "page_end": null
+    "section": "RECENZII",
+    "author": "E. Hlinca-Drăgan",
+    "title": "Nicola, I. R., Folclorul muzical din Mărginimea Sibiului. București, 1987",
+    "page_start_label": "311",
+    "page_start": 311,
+    "page_end": 312
   },
   {
     "index": 75,
-    "section": "STUDII",
+    "section": "RECENZII",
     "author": "",
-    "title": "Latysskie dainy. Moscova, 1987 (0. Vinteler) .. FE",
-    "page_start_label": "",
-    "page_start": null,
-    "page_end": null
+    "title": "Olteanu, A. Gh., Structurile retorice ale liricii orale românești, 1985 (M. Cuceu) .",
+    "page_start_label": "335",
+    "page_start": 335,
+    "page_end": 335
   },
   {
     "index": 76,
-    "section": "STUDII",
-    "author": "",
-    "title": "Magyar n&pmesekatalögus 1. Budapest, 1987 (G. V56) ten",
-    "page_start_label": "",
-    "page_start": null,
-    "page_end": null
+    "section": "RECENZII",
+    "author": "D. Pop",
+    "title": "Papadima, O. (ed.), Cu cît cînt, atîta sînt. București, 1987",
+    "page_start_label": "344",
+    "page_start": 344,
+    "page_end": 344
   },
   {
     "index": 77,
-    "section": "STUDII",
-    "author": "Micu Moldovan",
-    "title": "I., Povesti populare din Transilvania culese prin elevü scolilor din",
-    "page_start_label": "",
-    "page_start": null,
-    "page_end": null
+    "section": "RECENZII",
+    "author": "",
+    "title": "Pogorilovschi, I., Arhetipul expresiei lirice românești. [București], 1987 (I. Cuceu) .",
+    "page_start_label": "331",
+    "page_start": 331,
+    "page_end": 331
   },
   {
     "index": 78,
-    "section": "STUDII",
-    "author": "",
-    "title": "Blaj (1863— 1878). Bucureşti, 1987 (V. Florea) . ae",
-    "page_start_label": "",
-    "page_start": null,
-    "page_end": null
+    "section": "RECENZII",
+    "author": "L. Bot",
+    "title": "Popescu, A., Ideea de dreptate și libertate în cîntecul popular. Craiova, 1988",
+    "page_start_label": "346",
+    "page_start": 346,
+    "page_end": 346
   },
   {
     "index": 79,
-    "section": "STUDII",
-    "author": "Mieder",
-    "title": "W., Deutsche Sprichwörter in Literatur, Politik, Presse und Werbung",
-    "page_start_label": "",
-    "page_start": null,
-    "page_end": null
+    "section": "RECENZII",
+    "author": "O. Pecican",
+    "title": "Popescu, Al., Tradiții de muncă în obiceiuri, folclor, artă populară. București, 1986",
+    "page_start_label": "339",
+    "page_start": 339,
+    "page_end": 339
   },
   {
     "index": 80,
-    "section": "STUDII",
-    "author": "Hamburg",
-    "title": "1983 (C. Negreanu) ernennen",
-    "page_start_label": "",
-    "page_start": null,
-    "page_end": null
+    "section": "RECENZII",
+    "author": "C. Negreanu",
+    "title": "Schellbach-Kopra, I., Finnisch-Deutsches Sprichwörterbuch. Helsinki—Bonn, 1980",
+    "page_start_label": "367",
+    "page_start": 367,
+    "page_end": 367
   },
   {
     "index": 81,
-    "section": "STUDII",
-    "author": "Miftode",
-    "title": "V., Elemente de sociologie rurală. București, 1984 (A. Negru)",
-    "page_start_label": "",
-    "page_start": null,
-    "page_end": null
+    "section": "RECENZII",
+    "author": "",
+    "title": "Schenk, A., Familie und Wohnen in Stolzenburg. Köln—Wien, 1984 (H. Markel) .",
+    "page_start_label": "373",
+    "page_start": 373,
+    "page_end": 385
   },
   {
     "index": 82,
-    "section": "STUDII",
-    "author": "Nicola",
-    "title": "I. R., Folclorul wuzical din Mărginimea Sibiului. Bucureşti, 1987 (E. Hlinca—",
-    "page_start_label": "",
-    "page_start": null,
-    "page_end": null
+    "section": "RECENZII",
+    "author": "M. Cuceu",
+    "title": "Șandru, D., Folclor românesc. București, 1987",
+    "page_start_label": "310",
+    "page_start": 310,
+    "page_end": 310
   },
   {
     "index": 83,
-    "section": "STUDII",
-    "author": "",
-    "title": "Drägan)",
-    "page_start_label": "",
-    "page_start": null,
-    "page_end": null
+    "section": "RECENZII",
+    "author": "E. Hlinca-Drăgan",
+    "title": "Toma Zoicaș, L., Pedagogia muzicii și valorile folclorului. București, 1987",
+    "page_start_label": "343",
+    "page_start": 343,
+    "page_end": 343
   },
   {
     "index": 84,
-    "section": "STUDII",
-    "author": "Olteanu",
-    "title": "A. Gh., Structurile zetozice ale lizicii orale “româneşti. \"Craiova, 1985 im. Cucen",
-    "page_start_label": "",
-    "page_start": null,
-    "page_end": null
+    "section": "RECENZII",
+    "author": "O. Pecican",
+    "title": "Trebici, N, Ghinoiu I. Demografie și etnografie. București, 1986",
+    "page_start_label": "341",
+    "page_start": 341,
+    "page_end": 341
   },
   {
     "index": 85,
-    "section": "STUDII",
-    "author": "Papadima",
-    "title": "O. (ed.), Cu cît cint, atita sint. București, 1987 (D. Pop)",
-    "page_start_label": "",
-    "page_start": null,
-    "page_end": null
+    "section": "RECENZII",
+    "author": "M. Cuceu",
+    "title": "Vasiliu, Al., Literatură populară din Moldova. București, 1984",
+    "page_start_label": "345",
+    "page_start": 345,
+    "page_end": 345
   },
   {
     "index": 86,
-    "section": "STUDII",
-    "author": "Pogorilovschi",
-    "title": "I., Arhetipul expresiei lirice româneşti. [București], 1987 a. \"Cucen)",
-    "page_start_label": "",
-    "page_start": null,
-    "page_end": null
+    "section": "RECENZII",
+    "author": "L. Bot",
+    "title": "Veveris, E., M. Kuplais, Latvijes Etnografiskaia brivdabas museja. Riga, 1986",
+    "page_start_label": "359",
+    "page_start": 359,
+    "page_end": 359
   },
   {
     "index": 87,
-    "section": "STUDII",
-    "author": "Popescu",
-    "title": "A., Ideca de dreptate şi libertate in cîntecul popular. Craiova, 1988 (L. Bot)",
-    "page_start_label": "",
-    "page_start": null,
-    "page_end": 1985
-  },
-  {
-    "index": 88,
-    "section": "STUDII",
-    "author": "Popescu",
-    "title": "Al., Tradiţii de muncă în obiceiuri, folclor, artă populară. Bucureşti,",
-    "page_start_label": "1986",
-    "page_start": 1986,
-    "page_end": null
-  },
-  {
-    "index": 89,
-    "section": "STUDII",
-    "author": "",
-    "title": "\"0. Pecican)",
-    "page_start_label": "",
-    "page_start": null,
-    "page_end": 1979
-  },
-  {
-    "index": 90,
-    "section": "STUDII",
-    "author": "Schellbach— Kegra",
-    "title": "I., Finnisch- Deutsches Sprinchwörterbuch. Helsinki— Bonn,",
-    "page_start_label": "1980",
-    "page_start": 1980,
-    "page_end": null
-  },
-  {
-    "index": 91,
-    "section": "STUDII",
-    "author": "",
-    "title": "(©. Negream)",
-    "page_start_label": "",
-    "page_start": null,
-    "page_end": null
-  },
-  {
-    "index": 92,
-    "section": "STUDII",
-    "author": "Schenk",
-    "title": "A., Familie und W ohnen : in \" Stolzenburg.. Köln Wien, 1984 A. Marke)",
-    "page_start_label": "",
-    "page_start": null,
-    "page_end": null
-  },
-  {
-    "index": 93,
-    "section": "STUDII",
-    "author": "Sandru",
-    "title": "D., Folclor romäncsc. Bucureşti, 1987 (M. Cuceu)",
-    "page_start_label": "",
-    "page_start": null,
-    "page_end": null
-  },
-  {
-    "index": 94,
-    "section": "STUDII",
-    "author": "Toma Zoicaş",
-    "title": "L., Pedagogia muzicii şi valorile folclorului. Bucureşti, 1987 (8. Hlinca-",
-    "page_start_label": "",
-    "page_start": null,
-    "page_end": null
-  },
-  {
-    "index": 95,
-    "section": "STUDII",
-    "author": "",
-    "title": "Drägan)",
-    "page_start_label": "",
-    "page_start": null,
-    "page_end": null
-  },
-  {
-    "index": 96,
-    "section": "STUDII",
-    "author": "Trebici",
-    "title": "N, Ghinoiu I. Demografie şi etnografie. Pucureşti, 1586 (0. Pecican)",
-    "page_start_label": "",
-    "page_start": null,
-    "page_end": null
-  },
-  {
-    "index": 97,
-    "section": "STUDII",
-    "author": "Vasiliu",
-    "title": "Al., Literaturä populară din Moldova. Bucureşti, 1584 (M. Cuceu)",
-    "page_start_label": "",
-    "page_start": null,
-    "page_end": null
-  },
-  {
-    "index": 98,
-    "section": "STUDII",
-    "author": "Veveris",
-    "title": "E., M. Kuplais, Latvijes Etnografiskaia briv dabas museja. Riga, 1986 (1 Bot)",
-    "page_start_label": "",
-    "page_start": null,
-    "page_end": null
-  },
-  {
-    "index": 99,
-    "section": "STUDII",
-    "author": "Vrabie",
-    "title": "Ch., Proza populară românească .Bucuresti, 1986 (A. Rujan) . . . oa",
-    "page_start_label": "",
-    "page_start": null,
-    "page_end": null
+    "section": "RECENZII",
+    "author": "A. Rujan",
+    "title": "Vrabie, Gh., Proza populară românească. București, 1986",
+    "page_start_label": "329",
+    "page_start": 329,
+    "page_end": 330
   }
 ]

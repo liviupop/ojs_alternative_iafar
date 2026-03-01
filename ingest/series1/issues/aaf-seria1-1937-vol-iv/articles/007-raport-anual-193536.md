@@ -1,0 +1,61 @@
+![image 1](007-raport-anual-193536_images/imageFile1.png)
+
+# RESUME DES ARTICLES
+
+SILVII DRAGOMIR, Les écrivains de Raguse et le refrain des Noëls roumains
+
+(pp. 5—11) . — L'auteur signale le fait, presque inconnu de ceux qui chez nous s'intéressent au folklore, que chez nombre d'écrivains de Raguse des XVI et XVII-èmes siècles l'on trouve le leit-motiv « Hoja, Lero, Dolerije », presque identique au refrain des Noëls roumains « Oi 1er oi d'ai 1er oi ». On doit écarter l'hypothèse selon laquelle on aurait à faire ici au nom d'une vieille divinité slave. L'auteur avance quelques arguments philologiques et ethnographiques qui confirment — ce que M. Gavazzi a soutenu dès 1923 —le fait que nous avons ici un élément emprunté aux Noëls («colinde ») des Valaques et des Maurovalaques. Ces Roumains slavisés de la Péninsule Balkanique, dont la présence à Raguse a été par ailleurs prouvée, ont gardé dans leur vie et leurs coutumes certaines traces de roumanisme, dont le leit-motiv ci-dessus.
+
+D. ST. PETRUŢIU, Les « Saintes femmes » (pp. 13—29). L'auteur montre que ce drame religieux est l'unique « mystère de la Passion » que connaisse le folklore roumain. On le joue durant les fêtes de Pâques en Transylvanie (région de Sălişte-Sibiu et de TeiuşAlba). Cette représentation est d'origine récente, du milieu du XlX-ème siècle. Elle a été donnée pour la première fois à Sălişte, étant l'œuvre de l'écrivain populaire Procopiu Pieu Petruţ. Le poème présente de frappantes analogies avec la représentation des Mages, à Noël, aussi bien par la structure de la versification que par la mise en scène. Dans ce drame aucune influence des Passions connues dans l'Europe Occidentale. Il est presque certain que les Mages ont été les inspirateurs et les modèles de ce mystère pascal.
+
+![image 2](007-raport-anual-193536_images/imageFile2.png)
+
+Ce mystère est composé de quelques scènes relatives à la Passion du Christ, en particulier aux lamentations de la Vierge Marie et des « saintes femmes » près du Saint Tombeau. Les personnages du drame sont : la Vierge Marie, les « saintes femmes » Marie-Madeleine, Salome, Jeanne, Suzanne, puis le Christ, l'Ange, le centurion Longin, un prêtre et l'apôtre Pierre, tous interprêtés par des fillettes et des garçons du village, entre 12 et 15 ans. Comme dans le «jeu des Mages», la troupe des «saintes femmes » a coutume de se rendre dans les villages des alentours.
+
+La planche représente le groupe des « saintes femmes » de Galeş (arrondissement de Sălişte) en 1895.
+
+Suit le texte du drame, tel qu'il est donné au cours de la représentation.
+
+P. V. ŞTEFĂNUCĂ, Recherches folkloriques dans la valée du Bas-Dniestr (pp.
+
+31—226). — L'auteur déjà connu par un travail publié dans notre second annuaire, (pp. 89—180) a poursuivi ses recherches dans la même province et cette fois dans 1 0 villages situés dans la Bessarabie sud-orientale, où des populations roumaines, russes et ukrainiennes forment un intéressant complexe folklorique. Après une introduction qui constitue une véritable petite monographie de la région (histoire, état économique, occupations, habitations, ressources, types humains, costumes, vie religieuse.
+
+![image 3](007-raport-anual-193536_images/imageFile3.png)
+
+dialectes et folklore), suit un très riche recueil sur les cérémonies périodiques, les coutumes sur la vie, du berceau à la tombe, et de nombreux textes de littérature populaire (chansons, contes, légendes, superstitions, magie, etc.). Les textes sont accompagnés d'un glossaire et d'une carte de la région explorée (p. 227)
+
+TlBERIU MORARIU, « Focul viu » (le feu vivant) en Transylvanie, Maramureş et Bu­
+
+covine (pp. 229—236).—Parmi les coutumes les plus intéressantes conservées dans quelques coins plus retirés des Carpathes roumaines, on trouve celle du feu « vif ». L'importance de cette coutume no consiste pas seulement dans le fait qu'on allume le feu vivant par frottement, grâce à deux morceaux de bois secs, mais surtout dans les nombreuses croyances et superstitions qui s'y rattachent et qui nous expliquent le caractère presque sacré de ce « feu vivant » dans l'esprit des pâtres de ces régions.
+
+Enumérons tout d'abord les divers procédés dont on se sert pour l'allumer.
+
+- 1. On enfonce dans le sol deux morceaux de bois, bien secs, à un mètre l'un de l'autre. Chaque piquet a été percé d'un trou à mi-hauteur; entre les deux pièces de bois, on place un autre bâton, à l'extrémité duquel se trouve un morceau d'amadou. Une corde met en mouvement ce bâton transversal et le frottement devient si fort que l'amadou s'enflamme (Fig. 1 et Pl. I, 1, 2). Les bois enfoncés dans la terre sont souvent remplacés par deux minces troncs de sapins issus d'une même souche.
+- 2. On place entre deux pièces de bois une troisième; par un frottement rapide, ces morceaux de bois se réchauffent à tel point, qu'en approchant un objet inflammable celui-ci prend feu (Fig. 2).
+- 3. On fixe un pieu en terre; sur son extrémité supérieure amincie, tourne une plan­
+
+chette garnie d'amadou. Par le tournoiement de la planchette, l'amadou prend feu.
+
+- 4. On frotte deux pièces de bois, dont l'une est prise verticalement et l'autre per­
+
+
+![image 4](007-raport-anual-193536_images/imageFile4.png)
+
+pendiculairement (Fig. 4 et Pl. II, 1)
+
+Une variante de ce système est de frotter deux planches en un mouvement de scie <Fig. 5 et Pl. II, 2).
+
+S- On introduit dans un sapin sec un morceau de bois dur, ayant au bout de l'amadou. En lui imprégnant un mouvement tournant de va-et-vient entre les paumes, l'amadou s'enflamme (Fig. 6, 7 et Pl. III, 1)
+
+6. Après avoir percé un morceau de bois en son milieu, on introduit l'amadou, dans le
+
+trou. On le frotte ensuite avec une corde jusqu'à ce qu'il prend feu (Fig. 8 et Pl. III, 2).
+
+Comme nous le disions plus haut, un grand nombre de croyances et de coutumes sont liées à l'allumage, à l'entretien et à l'emploi du feu vivant.
+
+Par son caractère sacré, ce feu a, en effet, la vertu de défendre les troupeaux contre les différents dangers qui les menacent : mauvais esprits, bêtes sauvages, épidémies et même l'orage. Pour échapper à tant de menaces, toutes les brebis doivent sauter par dessus le feu vivant, installé devant le parc à moutons; il arrive même qu'on encercle tout le troupeau d'un cordon de fumée émanant de ce feu. Dans les cas plus graves d'épizootie, on creuse sur le versant de la colline une sorte de tunnel, dans lequel est placé un brasier; le troupeau tout entier doit traverser ce tunnel, se purifiant ainsi et échappant à l'épidémie.
+
+ION MUŞLEA, Matériaux pour la connaissance de l'aire du feu vivant (focul viu) chez
+
+les Roumains (pp. 237—242). — Faisant suite à l'appel par lequel Mr. T. Morariu termine son article publié dans ce même Annuaire (pp. 229—236), l'auteur relève quelques témoignages ignorés sur l'existence du feu vivant dans les littératures roumaine, hongroise et russe. Le plus important est celui concernant la Bessarabie, province dans laquelle cette manière d'allumer le feu n'était pas encore connue. Tout
+

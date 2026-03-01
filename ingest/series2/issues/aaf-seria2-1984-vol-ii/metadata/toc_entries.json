@@ -2,694 +2,568 @@
   {
     "index": 1,
     "section": "",
-    "author": "PREFAŢĂ",
-    "title": "cc... eee eee. Pag",
+    "author": "",
+    "title": "Prefață",
     "page_start_label": "10",
     "page_start": 10,
-    "page_end": null
+    "page_end": 10
   },
   {
     "index": 2,
-    "section": "CENTENARUL NAŞTERII LUI BÉLA BARTÓK",
-    "author": "Ovidiu Birlea",
-    "title": "Exemplul lui Bela Bartok. . . . . cc. cc... .. oo",
-    "page_start_label": "",
-    "page_start": null,
-    "page_end": null
+    "section": "CENTENARUL NAȘTERII LUI BÉLA BARTÓK",
+    "author": "Ovidiu Bîrlea",
+    "title": "Exemplul lui Béla Bartók",
+    "page_start_label": "11",
+    "page_start": 11,
+    "page_end": 17
   },
   {
     "index": 3,
-    "section": "CENTENARUL NAŞTERII LUI BÉLA BARTÓK",
-    "author": "Istvän Almäsi",
-    "title": "Principiile lui Bartök si Brăiloiu privind metoda de culegere a folclorului",
-    "page_start_label": "",
-    "page_start": null,
-    "page_end": null
+    "section": "CENTENARUL NAȘTERII LUI BÉLA BARTÓK",
+    "author": "István Almási",
+    "title": "Principiile lui Bartók și Brăiloiu privind metoda de culegere a folclorului",
+    "page_start_label": "18",
+    "page_start": 18,
+    "page_end": 27
   },
   {
     "index": 4,
-    "section": "CENTENARUL NAŞTERII LUI BÉLA BARTÓK",
+    "section": "CENTENARUL NAȘTERII LUI BÉLA BARTÓK",
     "author": "Szenik Ilona",
-    "title": "Bela Bartök și unele probleme ale cercetării muzicii populare instrumentale",
-    "page_start_label": "",
-    "page_start": null,
-    "page_end": null
+    "title": "Béla Bartók și unele probleme ale cercetării muzicii populare instrumentale",
+    "page_start_label": "28",
+    "page_start": 28,
+    "page_end": 43
   },
   {
     "index": 5,
-    "section": "CENTENARUL NAŞTERII LUI BÉLA BARTÓK",
+    "section": "CENTENARUL NAȘTERII LUI BÉLA BARTÓK",
     "author": "Ioan T. Florea",
-    "title": "Culegerile folclorice ale lui Bela Bartök în județul Arad",
-    "page_start_label": "",
-    "page_start": null,
-    "page_end": null
+    "title": "Culegerile folclorice ale lui Béla Bartók în județul Arad",
+    "page_start_label": "44",
+    "page_start": 44,
+    "page_end": 56
   },
   {
     "index": 6,
     "section": "STUDII",
-    "author": "",
-    "title": "Petru Caraman |, Descolindatul în sud-estul Europei. Partea I",
-    "page_start_label": "",
-    "page_start": null,
-    "page_end": null
+    "author": "Petru Caraman",
+    "title": "Descolindatul în sud-estul Europei. Partea I.",
+    "page_start_label": "57",
+    "page_start": 57,
+    "page_end": 94
   },
   {
     "index": 7,
     "section": "STUDII",
-    "author": "Ion Talos",
-    "title": "Miorița în Transilvania . . . 2: 222000. FE",
-    "page_start_label": "",
-    "page_start": null,
-    "page_end": null
+    "author": "Ion Taloș",
+    "title": "Miorița în Transilvania",
+    "page_start_label": "95",
+    "page_start": 95,
+    "page_end": 134
   },
   {
     "index": 8,
     "section": "STUDII",
     "author": "Adrian Fochi",
-    "title": "Structurä si cronologie in construcția poeziei epice . ... . . .o",
-    "page_start_label": "",
-    "page_start": null,
-    "page_end": null
+    "title": "Structură și cronologie în construcția poeziei epice",
+    "page_start_label": "135",
+    "page_start": 135,
+    "page_end": 146
   },
   {
     "index": 9,
     "section": "STUDII",
-    "author": "Faragö J6zseî",
-    "title": "Paralele între baladele populare româneşti și maghiare. ,",
-    "page_start_label": "",
-    "page_start": null,
-    "page_end": null
+    "author": "Faragó József",
+    "title": "Paralele între baladele populare românești și maghiare",
+    "page_start_label": "147",
+    "page_start": 147,
+    "page_end": 156
   },
   {
     "index": 10,
     "section": "STUDII",
-    "author": "",
-    "title": "Traian Gherman | , Plugarul sau trasul în APĂ eee",
-    "page_start_label": "",
-    "page_start": null,
-    "page_end": null
+    "author": "Traian Gherman",
+    "title": "Plugarul sau trasul în apă",
+    "page_start_label": "157",
+    "page_start": 157,
+    "page_end": 200
   },
   {
     "index": 11,
     "section": "STUDII",
-    "author": "Ion Cueeu",
-    "title": "Maria Cuceu, „,Sîngeorzul” — un ritual mana iu folclorul româneasc",
-    "page_start_label": "",
-    "page_start": null,
-    "page_end": null
+    "author": "Ion Cuceu, Maria Cuceu",
+    "title": "„Sîngeorzul\" — un ritual mana în folclorul româneasc",
+    "page_start_label": "201",
+    "page_start": 201,
+    "page_end": 214
   },
   {
     "index": 12,
     "section": "STUDII",
-    "author": "V55 Gabriella",
-    "title": "Lueia Iştoc, Modele cognitive şi artistice într-un ecosistem : Cheile Turzii",
-    "page_start_label": "",
-    "page_start": null,
-    "page_end": null
+    "author": "Vöö Gabriella, Lucia Iștoc",
+    "title": "Modele cognitive și artistice într-un ecosistem: Cheile Turzii",
+    "page_start_label": "215",
+    "page_start": 215,
+    "page_end": 233
   },
   {
     "index": 13,
     "section": "STUDII",
-    "author": "Ion Seuleanu",
-    "title": "Cîntecul „curunii la fată”. . ne",
-    "page_start_label": "",
-    "page_start": null,
-    "page_end": null
+    "author": "Ion Șeuleanu",
+    "title": "Cîntecul „curunii la fată\"",
+    "page_start_label": "234",
+    "page_start": 234,
+    "page_end": 240
   },
   {
     "index": 14,
     "section": "STUDII",
     "author": "Virgiliu Florea",
     "title": "Culegeri folclorice inedite ale elevilor din Blaj (1876—1879)",
-    "page_start_label": "",
-    "page_start": null,
-    "page_end": null
+    "page_start_label": "241",
+    "page_start": 241,
+    "page_end": 266
   },
   {
     "index": 15,
     "section": "STUDII",
     "author": "Hanni Markel",
-    "title": "Proveniența poveştilor din culegerea lui Josef Haltrich",
-    "page_start_label": "",
-    "page_start": null,
-    "page_end": null
+    "title": "Proveniența povestilor din culegerea lui Josef Haltrich",
+    "page_start_label": "267",
+    "page_start": 267,
+    "page_end": 270
   },
   {
     "index": 16,
     "section": "IN MEMORIAM",
-    "author": "Valeriu Butură",
-    "title": "Leontin Ghergariu (1897—1980) . . . cc",
-    "page_start_label": "",
-    "page_start": null,
-    "page_end": null
+    "author": "1897—1980",
+    "title": "Valeriu Butură, Leontin Ghergariu",
+    "page_start_label": "288",
+    "page_start": 288,
+    "page_end": 289
   },
   {
     "index": 17,
     "section": "NOTE",
-    "author": "",
-    "title": "Semicentenarul Arhivei de folclor (Ion Taloș). . . . . cc... cc",
-    "page_start_label": "",
-    "page_start": null,
-    "page_end": 2219
+    "author": "Ion Taloș",
+    "title": "Semicentenarul Arhivei de folclor",
+    "page_start_label": "290",
+    "page_start": 290,
+    "page_end": 291
   },
   {
     "index": 18,
     "section": "NOTE",
-    "author": "",
-    "title": "Artur Gorovei către Moses Gaster (Virgiliu Florea). . . . . 22",
-    "page_start_label": "2220",
-    "page_start": 2220,
-    "page_end": null
+    "author": "Virgiliu Florea",
+    "title": "Artur Gorovei către Moses Gaster",
+    "page_start_label": "292",
+    "page_start": 292,
+    "page_end": 297
   },
   {
     "index": 19,
     "section": "NOTE",
-    "author": "",
-    "title": "O enciclopedie de etnobotanică românească (A. Radu) ...... rennen",
-    "page_start_label": "",
-    "page_start": null,
-    "page_end": null
+    "author": "A. Radu",
+    "title": "O enciclopedie de etnobotanică românească",
+    "page_start_label": "298",
+    "page_start": 298,
+    "page_end": 299
   },
   {
     "index": 20,
     "section": "NOTE",
-    "author": "",
-    "title": "Materialuri folcloristice (Ion Cuceu). .... . 0. een",
-    "page_start_label": "",
-    "page_start": null,
-    "page_end": null
+    "author": "Ion Cuceu",
+    "title": "Materialuri folcloristice",
+    "page_start_label": "298",
+    "page_start": 298,
+    "page_end": 299
   },
   {
     "index": 21,
     "section": "NOTE",
-    "author": "",
-    "title": "Elemente de folclor românesc în lucrări sovietice (O. Vineler) ver ae... |",
-    "page_start_label": "",
-    "page_start": null,
-    "page_end": null
+    "author": "O. Vințeler",
+    "title": "Elemente de folclor românesc în lucrări sovietice",
+    "page_start_label": "300",
+    "page_start": 300,
+    "page_end": 301
   },
   {
     "index": 22,
     "section": "NOTE",
-    "author": "",
-    "title": "Grădina vrăjită irlandeză (Diane L. Hollingsworth) . . .. 2.2",
-    "page_start_label": "",
-    "page_start": null,
-    "page_end": null
+    "author": "Diane L. Hollingsworth",
+    "title": "Grădina vrăjită irlandeză",
+    "page_start_label": "302",
+    "page_start": 302,
+    "page_end": 302
   },
   {
     "index": 23,
     "section": "NOTE",
-    "author": "Ion Taloş",
+    "author": "Ion Taloș",
     "title": "Cartea baladelor",
-    "page_start_label": "",
-    "page_start": null,
-    "page_end": null
+    "page_start_label": "303",
+    "page_start": 303,
+    "page_end": 303
   },
   {
     "index": 24,
     "section": "NOTE",
-    "author": "",
-    "title": "Popor fără carte (Ion Taloş) . . ....... ne",
-    "page_start_label": "",
-    "page_start": null,
-    "page_end": null
+    "author": "Ion Taloș",
+    "title": "Popor fără carte",
+    "page_start_label": "304",
+    "page_start": 304,
+    "page_end": 304
   },
   {
     "index": 25,
-    "section": "STUDII",
-    "author": "Ovidiu Birlea",
-    "title": "Poetică folclorică. Bucureşti, 1979 (Nicolae Bot)",
-    "page_start_label": "",
-    "page_start": null,
-    "page_end": null
+    "section": "NOTE",
+    "author": "L. Iștoc",
+    "title": "Studii de folclor în „Lucrări de muzicologie\" (1979)",
+    "page_start_label": "305",
+    "page_start": 305,
+    "page_end": 306
   },
   {
     "index": 26,
-    "section": "STUDII",
-    "author": "Mibai Coman",
-    "title": "Izvoare mitice. București, 1980, (Șt. Gencäräu) BE",
-    "page_start_label": "",
-    "page_start": null,
-    "page_end": null
+    "section": "RECENZII",
+    "author": "I.T.",
+    "title": "Mircea Eliade, De la Zalmoxis la Genghis-Han. Studii comparative despre religiile și folclorul Daciei și Europei Orientale. București, 1980",
+    "page_start_label": "307",
+    "page_start": 307,
+    "page_end": 308
   },
   {
     "index": 27,
-    "section": "STUDII",
-    "author": "Birlea. Cluj-Napoca",
-    "title": "1979 (1.C.) en",
-    "page_start_label": "",
-    "page_start": null,
-    "page_end": null
+    "section": "RECENZII",
+    "author": "Nicolae Bot",
+    "title": "Ovidiu Bîrlea, Poetică folclorică. București, 1979",
+    "page_start_label": "309",
+    "page_start": 309,
+    "page_end": 310
   },
   {
     "index": 28,
-    "section": "STUDII",
-    "author": "Steluţa Popa",
-    "title": "Obiceiuri de iarnă. Folclor muzical din repertoriul copiilor. Tipologie",
-    "page_start_label": "",
-    "page_start": null,
-    "page_end": null
+    "section": "RECENZII",
+    "author": "Șt. Gencărău",
+    "title": "Mihai Coman, Izvoare mitice. București, 1980",
+    "page_start_label": "311",
+    "page_start": 311,
+    "page_end": 312
   },
   {
     "index": 29,
-    "section": "STUDII",
-    "author": "Nagy Olga",
-    "title": "A tältos törvenye. Nepmese &s esztetikum. București, 1978, (V56 Gabriella)",
-    "page_start_label": "",
-    "page_start": null,
-    "page_end": null
+    "section": "RECENZII",
+    "author": "I.C.",
+    "title": "B.P. Hasdeu, Studii de folclor. Ediție îngrijită și note de Nicolae Bot. Prefață de Ovidiu Bîrlea. Cluj-Napoca, 1979",
+    "page_start_label": "313",
+    "page_start": 313,
+    "page_end": 314
   },
   {
     "index": 30,
-    "section": "STUDII",
-    "author": "Birgu-Georgescu. Bucuresti",
-    "title": "1980, (M. Cuceu) En",
-    "page_start_label": "",
-    "page_start": null,
-    "page_end": null
+    "section": "RECENZII",
+    "author": "Elena Hlinca Drăgan",
+    "title": "Steluța Popa, Obiceiuri de iarnă. Folclor muzical din repertoriul copiilor. Tipologie muzicală. Colecție de cîntece. București, 1981",
+    "page_start_label": "315",
+    "page_start": 315,
+    "page_end": 315
   },
   {
     "index": 31,
-    "section": "STUDII",
-    "author": "Vasile T. Poniga",
-    "title": "Folclor din Maramureș. Cu o prefață de Mihai Pop. Bucureşti, \"1980",
-    "page_start_label": "",
-    "page_start": null,
-    "page_end": null
+    "section": "RECENZII",
+    "author": "Vöö Gabriella",
+    "title": "Nagy Olga, A táltos törvénye. Népmese és esztétikum. București, 1978",
+    "page_start_label": "316",
+    "page_start": 316,
+    "page_end": 317
   },
   {
     "index": 32,
-    "section": "STUDII",
-    "author": "",
-    "title": "(I. Cuceu) . 22 2220. . a",
-    "page_start_label": "",
-    "page_start": null,
-    "page_end": null
+    "section": "RECENZII",
+    "author": "M. Cuceu",
+    "title": "Antologie de lirică populară românească. Ediție îngrijită și studiu introductiv de Ligia Bîrgu-Georgescu. București, 1980",
+    "page_start_label": "318",
+    "page_start": 318,
+    "page_end": 318
   },
   {
     "index": 33,
-    "section": "STUDII",
-    "author": "Traian Mirza",
-    "title": "Ilona Szenik, Gheorghe Petrescu, Zamtir Dejeu, Mircea Bejinariu, Folclor",
-    "page_start_label": "",
-    "page_start": null,
-    "page_end": null
+    "section": "RECENZII",
+    "author": "I. Cuceu",
+    "title": "Vasile T. Doniga, Folclor din Maramureș. Cu o prefață de Mihai Pop. București, 1980",
+    "page_start_label": "319",
+    "page_start": 319,
+    "page_end": 320
   },
   {
     "index": 34,
-    "section": "STUDII",
-    "author": "",
-    "title": "1979 (Lucia Istoc) Den",
-    "page_start_label": "",
-    "page_start": null,
-    "page_end": null
+    "section": "RECENZII",
+    "author": "Lucia Iștoc",
+    "title": "Traian Mîrza, Ilona Szenik, Gheorghe Petrescu, Zamfir Dejeu, Mircea Bejinariu, Folclor muzical din zona Huedin — Huedin környéki népzene. Cluj-Napoca, 1979",
+    "page_start_label": "321",
+    "page_start": 321,
+    "page_end": 321
   },
   {
     "index": 35,
-    "section": "STUDII",
-    "author": "Almâsi Istvän",
-    "title": "Szilägysägi magyar nepzene. București, 1979 (Szenik Ilona)",
-    "page_start_label": "",
-    "page_start": null,
-    "page_end": null
+    "section": "RECENZII",
+    "author": "Szenik Ilona",
+    "title": "Almási István, Szilágysági magyar népzene. București, 1979",
+    "page_start_label": "322",
+    "page_start": 322,
+    "page_end": 322
   },
   {
     "index": 36,
-    "section": "STUDII",
-    "author": "Gh. Iordache",
-    "title": "Mărturii etno-lingvistice despre vechimea meseriilor populare românești",
-    "page_start_label": "",
-    "page_start": null,
-    "page_end": 1979
+    "section": "RECENZII",
+    "author": "",
+    "title": "Gh. Iordache, Mărturii etno-lingvistice despre vechimea meseriilor populare românești. Studiu cu privire specială la Oltenia. Craiova, 1980 (S. Belozerov) .",
+    "page_start_label": "323",
+    "page_start": 323,
+    "page_end": 324
   },
   {
     "index": 37,
-    "section": "STUDII",
-    "author": "Gazda Klâra",
-    "title": "Gyermekviläg  Esztelneken. Neprajzi monogrâfia. București,",
-    "page_start_label": "1980",
-    "page_start": 1980,
-    "page_end": null
+    "section": "RECENZII",
+    "author": "Vöö Gabriella",
+    "title": "Gazda Klára, Gyermekvilág Esztelneken. Néprajzi monográfia. București, 1980",
+    "page_start_label": "325",
+    "page_start": 325,
+    "page_end": 325
   },
   {
     "index": 38,
-    "section": "STUDII",
-    "author": "",
-    "title": "(V66 Gabriella) . Denn",
-    "page_start_label": "",
-    "page_start": null,
-    "page_end": null
+    "section": "RECENZII",
+    "author": "Hanni Markel",
+    "title": "Deutsche Volksdichtung. Eine Einführung. Leipzig, 1979",
+    "page_start_label": "326",
+    "page_start": 326,
+    "page_end": 327
   },
   {
     "index": 39,
-    "section": "STUDII",
-    "author": "Deutsche Volksdichtung. Eine Tinführung. Leipzig",
-    "title": "1979 (Hanni Markel)",
-    "page_start_label": "",
-    "page_start": null,
-    "page_end": null
+    "section": "RECENZII",
+    "author": "I.T.",
+    "title": "Günter Wiegelmann, Matthias Zender, Gerhard Heilfurth, Volkskunde. Eine Einführung. Berlin, 1977",
+    "page_start_label": "328",
+    "page_start": 328,
+    "page_end": 329
   },
   {
     "index": 40,
-    "section": "STUDII",
-    "author": "Günter Wiegelmann",
-    "title": "Matthias Zender, Gerhard Heilfurth, Volkskunde. Fine Einführung",
-    "page_start_label": "",
-    "page_start": null,
-    "page_end": null
+    "section": "RECENZII",
+    "author": "Vöö Gabriella",
+    "title": "A magyar folklór. Szerkesztette Ortutay Gyula. Budapest, 1979",
+    "page_start_label": "330",
+    "page_start": 330,
+    "page_end": 330
   },
   {
     "index": 41,
-    "section": "STUDII",
-    "author": "Berlin",
-    "title": "1977 (LT.) nen",
-    "page_start_label": "",
-    "page_start": null,
-    "page_end": null
+    "section": "RECENZII",
+    "author": "István Almási",
+    "title": "Martin György, A magyar körtánc és európai rokonsága. Budapest, 1979",
+    "page_start_label": "331",
+    "page_start": 331,
+    "page_end": 331
   },
   {
     "index": 42,
-    "section": "STUDII",
-    "author": "",
-    "title": "A magyar folklör. Szerkesztette Ortutay Gyula. Budapest, 1979 (Vö6 Gabriella)",
-    "page_start_label": "",
-    "page_start": null,
-    "page_end": null
+    "section": "RECENZII",
+    "author": "István Almási",
+    "title": "Magyar néptánchagyományok. Budapest, 1980",
+    "page_start_label": "332",
+    "page_start": 332,
+    "page_end": 333
   },
   {
     "index": 43,
-    "section": "STUDII",
-    "author": "Martin György",
-    "title": "A magyar körtänc €s euröpai rokonsâga. Budapest, 1979 (Istvân Al-",
-    "page_start_label": "",
-    "page_start": null,
-    "page_end": null
+    "section": "RECENZII",
+    "author": "Anca Goția",
+    "title": "Helga Stein, Zur Herkunft und Altersbestimmung einer Novellenballade, (DVldr. Nr. 76 und Nr. 77) Die Schwiegermutter beseitigt die ihr anvertraute Schwiegertochter. Helsinki 1979",
+    "page_start_label": "334",
+    "page_start": 334,
+    "page_end": 335
   },
   {
     "index": 44,
-    "section": "STUDII",
-    "author": "",
-    "title": "Magyar neptänchagyomänyok. Budapest, 1980 (Istvân Almäsi)",
-    "page_start_label": "",
-    "page_start": null,
-    "page_end": null
+    "section": "RECENZII",
+    "author": "Ion Taloș",
+    "title": "Otto Holzapfel, Folkevise und Volksballade. Die Nachbarschaft deutscher und skandinavischer Texte. München, 1976",
+    "page_start_label": "336",
+    "page_start": 336,
+    "page_end": 336
   },
   {
     "index": 45,
-    "section": "STUDII",
-    "author": "Heiga Stein",
-    "title": "Zur Herkunft und Altersbestimmung einer Novellenballade, (DVldr",
-    "page_start_label": "",
-    "page_start": null,
-    "page_end": null
+    "section": "RECENZII",
+    "author": "Hanni Markel",
+    "title": "Michael Belgrader. Das Märchen von dem Machandelboom (KHM 47). Der Märchentypus AT 720. My Mother Slew Me, My Father Ate Me. Frankfurt a.M., Bern, Cirencester/U.K. 1980",
+    "page_start_label": "337",
+    "page_start": 337,
+    "page_end": 339
   },
   {
     "index": 46,
-    "section": "STUDII",
-    "author": "",
-    "title": "Nr. 76 und Nr. 77) Die Schwiegermutter beseitigt die ihr anvertraute",
-    "page_start_label": "",
-    "page_start": null,
-    "page_end": null
+    "section": "RECENZII",
+    "author": "Ion Taloș",
+    "title": "Das Recht der kleinen Leute. Beiträge zur rechtlichen Volkskunde, herausgegeben von Konrad Köstlin und Kai Detlef Sievers. Berlin, 1976",
+    "page_start_label": "340",
+    "page_start": 340,
+    "page_end": 341
   },
   {
     "index": 47,
-    "section": "STUDII",
-    "author": "",
-    "title": "Schwiegertochter. Helsinki 1979 (Anca Gofia)",
-    "page_start_label": "",
-    "page_start": null,
-    "page_end": null
+    "section": "RECENZII",
+    "author": "Ion Taloș",
+    "title": "Elisabeth Frenzel, Stoffe der Weltliteratur. Ein Lexikon dichtungsgeschichtlicher Längsschnitte. 4., überarbeitete Auflage, Stuttgart, 1976; Elisabeth Frenzel, Motive der Weltliteratur. Ein Lexikon dichtungsgeschichtlicher Längsschnitte. Stuttgart, 1976",
+    "page_start_label": "342",
+    "page_start": 342,
+    "page_end": 344
   },
   {
     "index": 48,
-    "section": "STUDII",
-    "author": "Otto Holzapiel",
-    "title": "Folkevise und Volksballade. Die Nachbarschaft deutscher und skan-",
-    "page_start_label": "",
-    "page_start": null,
-    "page_end": null
+    "section": "RECENZII",
+    "author": "",
+    "title": "Wörterbuch der Symbolik. Unter Mitarbeit zahlreicher Fachwissenschaftler herausgegeben von Manfred Lurker. Stuttgart, 1979; Wörterbuch der Religionen. Begründet von Alfred Bertholet in Verbindung mit Hans Freiherrn von Campenhausen. Dritte Auflage. Neu bearbeitet, ergänzt und herausgegeben von Kurt Goldammer. Stuttgart, 1976 (Ion Taloș) .",
+    "page_start_label": "345",
+    "page_start": 345,
+    "page_end": 346
   },
   {
     "index": 49,
-    "section": "STUDII",
-    "author": "",
-    "title": "Michael Belgrader. Das Märchen von dem Machandelboom (KHM 49). Der Mărchenty pus",
-    "page_start_label": "",
-    "page_start": null,
-    "page_end": null
+    "section": "RECENZII",
+    "author": "Ion Taloș",
+    "title": "Polnische Sagen. Herausgegeben und übersetzt von Veroboj Vildomec. Vorwort und Parallelennachweise von Will-Erich Peuckert. Berlin, 1979",
+    "page_start_label": "347",
+    "page_start": 347,
+    "page_end": 348
   },
   {
     "index": 50,
-    "section": "STUDII",
-    "author": "",
-    "title": "AT 720. My Mother Slew Me, My Father Ate Me. Frankfurt a.M., Bern,",
-    "page_start_label": "",
-    "page_start": null,
-    "page_end": null
+    "section": "RECENZII",
+    "author": "Ion Taloș",
+    "title": "Das große Hausbuch der Volkslieder. Über 400 Lieder aus Deutschland, Österreich und der Schweiz und Illustrationen von Ludwig Richter. Herausgegeben von Walter Hansen unter beratender Mitarbeit von Georg Schwenk und Dr. Wirgand Stief. München, 1978",
+    "page_start_label": "349",
+    "page_start": 349,
+    "page_end": 349
   },
   {
     "index": 51,
-    "section": "STUDII",
-    "author": "",
-    "title": "Cirencester/U.K. 1980 (Hanni Markel) . aa",
-    "page_start_label": "",
-    "page_start": null,
-    "page_end": null
+    "section": "RECENZII",
+    "author": "I.T.",
+    "title": "August Stöber, Die Sagen des Elsasses zum ersten Male getreu nach der Volksüberlieferung, den Chroniken und anderen gedruckten und handschriftlichen Quellen, gesammelt und erläutert von —. Mit einer Sagenkarte von J. Ringel. Nachdruck der Ausgabe St. Gallen 1858. Lindlar, 1979",
+    "page_start_label": "350",
+    "page_start": 350,
+    "page_end": 350
   },
   {
     "index": 52,
-    "section": "STUDII",
-    "author": "",
-    "title": "Das Recht der kleinen Leute. Beiträge zur rechtlichen Volkskunde, herausgegeben",
-    "page_start_label": "",
-    "page_start": null,
-    "page_end": null
+    "section": "RECENZII",
+    "author": "I.T.",
+    "title": "Märkische Sagen. Berlin und die Mark Brandenburg. Herausgegeben von Ingeborg Drewitz, Düsseldorf, Köln, 1979",
+    "page_start_label": "351",
+    "page_start": 351,
+    "page_end": 351
   },
   {
     "index": 53,
-    "section": "STUDII",
-    "author": "Elisabeth Frenzel",
-    "title": "Stoffe der Weltliteratur. Ein Lexikon dichtungsgeschichtlicher",
-    "page_start_label": "",
-    "page_start": null,
-    "page_end": null
+    "section": "RECENZII",
+    "author": "I.C.",
+    "title": "Folclor poetic. Cîntece și strigături din județul Botoșani. Antologie alcătuită și prefață de Ion H. Ciubotaru, Botoșani, 1980",
+    "page_start_label": "352",
+    "page_start": 352,
+    "page_end": 352
   },
   {
     "index": 54,
-    "section": "STUDII",
-    "author": "",
-    "title": "Längsschnitte. 4., überarbeitete Auflage, Stuttgart, 1976; Elisabeth",
-    "page_start_label": "",
-    "page_start": null,
-    "page_end": null
+    "section": "RECENZII",
+    "author": "Alla Vințeler și Onufrie Vințeler",
+    "title": "Todor Iv. Jivkov, Narod i Pesen (Problemi na folklornata pesenna tradicija). Sofia, 1977",
+    "page_start_label": "353",
+    "page_start": 353,
+    "page_end": 354
   },
   {
     "index": 55,
-    "section": "STUDII",
-    "author": "Frenzel",
-    "title": "Motive der Weltliteratur. Fin Lexikon dichtungsgeschichtlicher",
-    "page_start_label": "",
-    "page_start": null,
-    "page_end": null
+    "section": "RECENZII",
+    "author": "Livia Bot",
+    "title": "G. L. Permyakov, From proverb to folk-tale, Notes on the general theory of cliché, Moscow, 1979",
+    "page_start_label": "355",
+    "page_start": 355,
+    "page_end": 357
   },
   {
     "index": 56,
-    "section": "STUDII",
-    "author": "Längsschnitte. Stuttgart",
-    "title": "1976 (Ion 'Taloş)",
-    "page_start_label": "",
-    "page_start": null,
-    "page_end": null
+    "section": "RECENZII",
+    "author": "Nicolae Bot",
+    "title": "Vasile Tudor Crețu, Ethosul folcloric — sistem deschis, Timișoara, 1980",
+    "page_start_label": "358",
+    "page_start": 358,
+    "page_end": 360
   },
   {
     "index": 57,
-    "section": "STUDII",
-    "author": "",
-    "title": "Wörterbuch der Symbolik. Unter Mitarbeit zahlreicher Fachwissenschaftler heraus-",
-    "page_start_label": "",
-    "page_start": null,
-    "page_end": null
+    "section": "RECENZII",
+    "author": "Nicolae Bot",
+    "title": "Antologie de folclor din județul Maramureș, vol. I, Poezia, Baia Mare, 1980",
+    "page_start_label": "361",
+    "page_start": 361,
+    "page_end": 362
   },
   {
     "index": 58,
-    "section": "STUDII",
-    "author": "",
-    "title": "Polnische Sagen. Herausgegeben und übersetzt von Veroboj Vildomec. Vorwort und",
-    "page_start_label": "",
-    "page_start": null,
-    "page_end": null
+    "section": "RECENZII",
+    "author": "N. B.",
+    "title": "Ion Bogdan, Mihai Olos, Nicoară Timiș, Calendarul Maramureșului, Baia Mare, 1980",
+    "page_start_label": "363",
+    "page_start": 363,
+    "page_end": 363
   },
   {
     "index": 59,
-    "section": "STUDII",
-    "author": "",
-    "title": "Parallelennachweise von Will-Erich Peuckert. Berlin, 1979 (Ion Talos)",
-    "page_start_label": "",
-    "page_start": null,
-    "page_end": null
+    "section": "RECENZII",
+    "author": "N. B.",
+    "title": "„Foaie verde, spic de grîu\", vol I. Poezia lirică, Zrenjanin, 1979",
+    "page_start_label": "364",
+    "page_start": 364,
+    "page_end": 365
   },
   {
     "index": 60,
-    "section": "STUDII",
-    "author": "",
-    "title": "Das große Hausbuch der Volkslieder. Über 400 Lieder aus Deutschland, Österreich",
-    "page_start_label": "",
-    "page_start": null,
-    "page_end": null
+    "section": "RECENZII",
+    "author": "N. B.",
+    "title": "G. Coșbuc. Opere alese, vol. IV, Ediție îngrijită și prefață de Gavril Scridon, București, 1979",
+    "page_start_label": "366",
+    "page_start": 366,
+    "page_end": 366
   },
   {
     "index": 61,
-    "section": "STUDII",
-    "author": "Dr. Wirgand Stief. München",
-    "title": "1978 (Ion Talos)",
-    "page_start_label": "",
-    "page_start": null,
-    "page_end": null
+    "section": "RECENZII",
+    "author": "N. B.",
+    "title": "Tradiții maramureșene, vol. II, Baia Mare, 1979",
+    "page_start_label": "367",
+    "page_start": 367,
+    "page_end": 368
   },
   {
     "index": 62,
-    "section": "STUDII",
-    "author": "August Stâber",
-    "title": "Die Sagen des Elsasses zum ersten Male getreu nach der Volksüberliefer-",
-    "page_start_label": "",
-    "page_start": null,
-    "page_end": null
+    "section": "",
+    "author": "",
+    "title": "COLABORATORI",
+    "page_start_label": "369",
+    "page_start": 369,
+    "page_end": 370
   },
   {
     "index": 63,
-    "section": "STUDII",
-    "author": "",
-    "title": "Märkische Sagen. Berlin und die Mask Brandenburg. Herausgegeben von Ingeborg",
-    "page_start_label": "",
-    "page_start": null,
-    "page_end": null
-  },
-  {
-    "index": 64,
-    "section": "STUDII",
-    "author": "Drewitz",
-    "title": "Düsseldorf, Köln, 1979 (I.T.)",
-    "page_start_label": "",
-    "page_start": null,
-    "page_end": null
-  },
-  {
-    "index": 65,
-    "section": "STUDII",
-    "author": "",
-    "title": "Folclor poetic. Cintece si strigäturi din judeţul Botoșani. Antologie alcătuită ș şi prefaţă",
-    "page_start_label": "",
-    "page_start": null,
-    "page_end": null
-  },
-  {
-    "index": 66,
-    "section": "STUDII",
-    "author": "de Ion H. Ciubotaru",
-    "title": "Botoşani, 1980 (T.C.) een",
-    "page_start_label": "",
-    "page_start": null,
-    "page_end": 1976
-  },
-  {
-    "index": 67,
-    "section": "STUDII",
-    "author": "Todor Iv. Jivkov",
-    "title": "Narod i Pesen (Problemi na folklornata pesenna tradicija). Sofia,",
-    "page_start_label": "1977",
-    "page_start": 1977,
-    "page_end": null
-  },
-  {
-    "index": 68,
-    "section": "STUDII",
-    "author": "",
-    "title": "(Alla Vinteler si Onufrie Vinteler)",
-    "page_start_label": "",
-    "page_start": null,
-    "page_end": null
-  },
-  {
-    "index": 69,
-    "section": "NOTE",
-    "author": "Nicolae Bot",
-    "title": "Vasile Tudor Creţu, Ethosul folcloric — sistem deschis, Wimigoara, 1980",
-    "page_start_label": "",
-    "page_start": null,
-    "page_end": null
-  },
-  {
-    "index": 70,
-    "section": "NOTE",
-    "author": "",
-    "title": "Antologie de folclor din județul Maramureș, vol. I, Poezia, Baia Mare, 1980 (Nicolae",
-    "page_start_label": "",
-    "page_start": null,
-    "page_end": 1979
-  },
-  {
-    "index": 71,
-    "section": "NOTE",
-    "author": "",
-    "title": "Ion Bogdan, Mihai Olos, Nicoară Timiş, “Calendarul Maramureșului, Baia Mare,",
-    "page_start_label": "1980",
-    "page_start": 1980,
-    "page_end": null
-  },
-  {
-    "index": 72,
-    "section": "NOTE",
-    "author": "",
-    "title": "(N. B.) en",
-    "page_start_label": "",
-    "page_start": null,
-    "page_end": null
-  },
-  {
-    "index": 73,
-    "section": "NOTE",
-    "author": "",
-    "title": "„Foaie verde, spic de grîu”, vol I. Poezia lirică, Zrenjanin, 1979 m. 2). on",
-    "page_start_label": "",
-    "page_start": null,
-    "page_end": null
-  },
-  {
-    "index": 74,
-    "section": "NOTE",
-    "author": "",
-    "title": "G. Cosbue. Opere alese, vol. IV, Ediţie îngrijită şi pretaţă de Gavril Seridon, Bucuresti,",
-    "page_start_label": "",
-    "page_start": null,
-    "page_end": null
-  },
-  {
-    "index": 75,
-    "section": "NOTE",
-    "author": "",
-    "title": "1979 (N. B.) PR",
-    "page_start_label": "",
-    "page_start": null,
-    "page_end": null
-  },
-  {
-    "index": 76,
-    "section": "NOTE",
-    "author": "N. 3",
-    "title": "Tradiţii maramureşene, vol. II, Baia Mare, 1979",
-    "page_start_label": "",
-    "page_start": null,
-    "page_end": null
-  },
-  {
-    "index": 77,
-    "section": "NOTE",
+    "section": "",
     "author": "",
     "title": "ABREVIERI",
-    "page_start_label": "",
-    "page_start": null,
-    "page_end": null
+    "page_start_label": "271",
+    "page_start": 271,
+    "page_end": 287
   }
 ]

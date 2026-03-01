@@ -1647,7 +1647,7 @@ function hydrateSeries1Data() {
         doi_prefix: '',
         series: 'seria-1',
         series_label: iss.series_label || 'Seria I (1932\u20131945)',
-        issue_pdf_path: 'ingest/series1/issues/' + iss.slug + '/source/issue.pdf',
+        issue_pdf_path: iss.issue_pdf_path || ('ingest/series1/' + String(iss.source_pdf_name || '').trim()),
         cover_hint_path: ''
       });
     }
@@ -1810,7 +1810,7 @@ function hydrateSeries2Data() {
     const key = issueId + '|' + title.trim().toLowerCase();
     if (!title || existingArticleKeys.has(key)) continue;
 
-    const idx = Number(art.index) || 0;
+    const idx = Number(art.toc_index || art.index) || 0;
     const fallbackPdf = idx > 0
       ? ('ingest/series2/issues/' + art.issue_slug + '/articles/' + String(idx).padStart(3, '0') + '-' + slugify(title) + '.pdf')
       : '';
@@ -1826,8 +1826,8 @@ function hydrateSeries2Data() {
       abstract_en: '',
       keywords_ro: '',
       keywords_en: '',
-      pages_start: art.page_start != null ? String(art.page_start) : '',
-      pages_end: art.page_end != null ? String(art.page_end) : '',
+      pages_start: (art.pages_start ?? art.page_start) != null ? String(art.pages_start ?? art.page_start) : '',
+      pages_end: (art.pages_end ?? art.page_end) != null ? String(art.pages_end ?? art.page_end) : '',
       doi: '',
       language: 'ro',
       status: 'published',
@@ -1957,6 +1957,9 @@ const PUBLIC_PAGES = new Set([
   'public-article',
   'public-article-md',
   'public-author',
+  'public-about',
+  'public-editorial-team',
+  'public-advisory-board',
   'pdf-viewer',
   'submit',
 ]);
@@ -2217,6 +2220,9 @@ function parseLocationRoute() {
   if (clean === '/login') return { page: 'login', params: {} };
   if (clean === '/') return { page: 'public-home', params: {} };
   if (clean === '/issues') return { page: 'public-issues', params: {} };
+  if (clean === '/about') return { page: 'public-about', params: {} };
+  if (clean === '/editorial-team') return { page: 'public-editorial-team', params: {} };
+  if (clean === '/advisory-board') return { page: 'public-advisory-board', params: {} };
   if (clean === '/submit') return { page: 'submit', params: {} };
   if (/^\/issue\/[^/]+$/.test(clean)) return { page: 'public-issue', params: { id: decodeURIComponent(clean.split('/')[2]) } };
   if (/^\/article\/[^/]+\.md$/.test(clean)) return { page: 'public-article-md', params: { id: decodeURIComponent(clean.split('/')[2].replace(/\.md$/,'')) } };
@@ -2360,7 +2366,6 @@ const ROLE_NAV = {
     { icon:'solar:info-circle-bold-duotone', label:'Despre', page:'public-about' },
     { icon:'solar:users-group-rounded-bold-duotone', label:'Echipa de redacție', page:'public-editorial-team' },
     { icon:'solar:shield-user-bold-duotone', label:'Consiliu consultativ', page:'public-advisory-board' },
-    { section: '' },
     { icon:'solar:pen-new-square-bold-duotone', label:'Trimite articol', page:'submit' },
     { icon:'solar:lock-password-bold-duotone', label:'Login', page:'login' },
   ],
@@ -2469,16 +2474,19 @@ function renderSidebar() {
   const nav = ROLE_NAV[activeRole] || [];
   let html = '';
   for (const item of nav) {
-    if (item.section) {
-      html += `<div class="nav-section"><div class="nav-section-label">${ui(item.section)}</div></div>`;
-    } else {
-      const active = State.currentPage === item.page ? 'active' : '';
-      html += `<div class="nav-item ${active}" onclick="navigate('${item.page}')">
-        <span class="nav-icon">${solarIcon(item.icon)}</span>
-        <span>${ui(item.label)}</span>
-        ${item.badge ? `<span class="nav-badge">${item.badge}</span>` : ''}
-      </div>`;
+    if ('section' in item) {
+      if (item.section) {
+        html += `<div class="nav-section"><div class="nav-section-label">${ui(item.section)}</div></div>`;
+      }
+      continue;
     }
+    if (!item.page || !item.label) continue;
+    const active = State.currentPage === item.page ? 'active' : '';
+    html += `<div class="nav-item ${active}" onclick="navigate('${item.page}')">
+      <span class="nav-icon">${solarIcon(item.icon)}</span>
+      <span>${ui(item.label)}</span>
+      ${item.badge ? `<span class="nav-badge">${item.badge}</span>` : ''}
+    </div>`;
   }
   document.getElementById('sidebar-nav').innerHTML = html;
   document.getElementById('role-label').textContent = hasSession()

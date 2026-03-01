@@ -2,1234 +2,883 @@
   {
     "index": 1,
     "section": "",
-    "author": "",
-    "title": "Sabina Ispas",
-    "page_start_label": "",
-    "page_start": null,
-    "page_end": null
+    "author": "Ion Cuceu",
+    "title": "Prefață",
+    "page_start_label": "9",
+    "page_start": 9,
+    "page_end": 9
   },
   {
     "index": 2,
     "section": "",
     "author": "",
-    "title": "Prefață",
-    "page_start_label": "",
-    "page_start": null,
-    "page_end": null
+    "title": "ABREVIERI",
+    "page_start_label": "10",
+    "page_start": 10,
+    "page_end": 10
   },
   {
     "index": 3,
-    "section": "",
-    "author": "",
-    "title": "AbrevVieri. 20000 rn",
-    "page_start_label": "",
-    "page_start": null,
-    "page_end": null
+    "section": "STUDII",
+    "author": "Sabina Ispas",
+    "title": "Cultură orală și informație transculturală",
+    "page_start_label": "11",
+    "page_start": 11,
+    "page_end": 26
   },
   {
     "index": 4,
     "section": "STUDII",
-    "author": "",
-    "title": "Cultură orală si informatie transculturalä",
-    "page_start_label": "",
-    "page_start": null,
-    "page_end": null
+    "author": "Romeo Ghircoiașiu",
+    "title": "Testamentul științific al lui Constantin Brăiloiu",
+    "page_start_label": "27",
+    "page_start": 27,
+    "page_end": 36
   },
   {
     "index": 5,
     "section": "STUDII",
-    "author": "M",
-    "title": "Mesnil, A. Popova Le four mobile — image du monde",
-    "page_start_label": "",
-    "page_start": null,
-    "page_end": null
+    "author": "M. Mesnil, A. Popova",
+    "title": "Le four mobile — image du monde",
+    "page_start_label": "37",
+    "page_start": 37,
+    "page_end": 56
   },
   {
     "index": 6,
     "section": "STUDII",
-    "author": "",
-    "title": "Dumitru Pop",
-    "page_start_label": "",
-    "page_start": null,
-    "page_end": null
+    "author": "Dumitru Pop, La Coupe du Félibrige",
+    "title": "symbole folklorique",
+    "page_start_label": "67",
+    "page_start": 67,
+    "page_end": 86
   },
   {
     "index": 7,
     "section": "STUDII",
-    "author": "",
-    "title": "Cristina Papa",
-    "page_start_label": "",
-    "page_start": null,
-    "page_end": null
+    "author": "Cristina Papa",
+    "title": "Lupul între realitate si reprezentare într-o arie apenninică destinată ca parc național",
+    "page_start_label": "57",
+    "page_start": 57,
+    "page_end": 66
   },
   {
     "index": 8,
     "section": "STUDII",
-    "author": "",
-    "title": "Lilia Cosma-Hanganu",
-    "page_start_label": "",
-    "page_start": null,
-    "page_end": null
+    "author": "Lilia Cosma-Hanganu",
+    "title": "Dragonul — metaforă a lumii exterioare (Interferențe folclorice româno-bulgare)",
+    "page_start_label": "87",
+    "page_start": 87,
+    "page_end": 94
   },
   {
     "index": 9,
     "section": "STUDII",
-    "author": "",
-    "title": "La Coupe du Felibrige, symbole Folklorique",
-    "page_start_label": "",
-    "page_start": null,
-    "page_end": null
+    "author": "Alexandru Filipașcu",
+    "title": "Leul la porțile mitologiei și colindului românesc",
+    "page_start_label": "95",
+    "page_start": 95,
+    "page_end": 106
   },
   {
     "index": 10,
     "section": "STUDII",
-    "author": "",
-    "title": "_Lupul_intre_realitate si reprezentare_într-o_arie ape-",
-    "page_start_label": "",
-    "page_start": null,
-    "page_end": null
+    "author": "Maria Cuceu",
+    "title": "Genii sau spirite ale grâului și ultimele spice",
+    "page_start_label": "107",
+    "page_start": 107,
+    "page_end": 132
   },
   {
     "index": 11,
     "section": "STUDII",
-    "author": "",
-    "title": "Alexarrlru_Filipascu",
-    "page_start_label": "",
-    "page_start": null,
-    "page_end": null
+    "author": "Ovidiu Pecican",
+    "title": "Gesta lui Roman și Vlahata",
+    "page_start_label": "133",
+    "page_start": 133,
+    "page_end": 156
   },
   {
     "index": 12,
     "section": "STUDII",
-    "author": "",
-    "title": "Dragonul — înctăoră_a_lumii exterioare(Interferente",
-    "page_start_label": "",
-    "page_start": null,
-    "page_end": null
+    "author": "Andrei Hâncu",
+    "title": "Geneza complexului riturilor de trecere",
+    "page_start_label": "157",
+    "page_start": 157,
+    "page_end": 180
   },
   {
     "index": 13,
     "section": "STUDII",
-    "author": "",
-    "title": "Leul la porţile mitologiei_si_colindului_romänese",
-    "page_start_label": "",
-    "page_start": null,
-    "page_end": null
+    "author": "Nicoleta Coatu",
+    "title": "Tabu și metaforă — Între magic, ludic și estetic",
+    "page_start_label": "181",
+    "page_start": 181,
+    "page_end": 198
   },
   {
     "index": 14,
     "section": "STUDII",
-    "author": "",
-    "title": "Genii sau spirite ale grâului si ultimele",
-    "page_start_label": "",
-    "page_start": null,
-    "page_end": null
+    "author": "I. Șeuleanu, E. Șerbu",
+    "title": "Mitul în preocupările lui Lucian Blaga",
+    "page_start_label": "199",
+    "page_start": 199,
+    "page_end": 202
   },
   {
     "index": 15,
     "section": "STUDII",
-    "author": "",
-    "title": "Ovidiu Pecican",
-    "page_start_label": "",
-    "page_start": null,
-    "page_end": null
+    "author": "Ioana Bot",
+    "title": "D. Caracostea între folclor și antropologie",
+    "page_start_label": "203",
+    "page_start": 203,
+    "page_end": 244
   },
   {
     "index": 16,
     "section": "STUDII",
-    "author": "",
-    "title": "Andrei Hâncu",
-    "page_start_label": "",
-    "page_start": null,
-    "page_end": null
+    "author": "Gabriella Vöö, Arhetipul",
+    "title": "baza cercetărilor comparative",
+    "page_start_label": "245",
+    "page_start": 245,
+    "page_end": 250
   },
   {
     "index": 17,
     "section": "STUDII",
-    "author": "",
-    "title": "Nicoleta Coatu",
-    "page_start_label": "",
-    "page_start": null,
-    "page_end": null
+    "author": "Gheorghe Șișeștean",
+    "title": "Repere socio-etnologice în studiul formelor de proprietate",
+    "page_start_label": "251",
+    "page_start": 251,
+    "page_end": 260
   },
   {
     "index": 18,
     "section": "STUDII",
-    "author": "",
-    "title": "Gesta lui Roman si Viahata 2",
-    "page_start_label": "",
-    "page_start": null,
-    "page_end": null
+    "author": "Ion Chiș Șter",
+    "title": "Credințele și riturile de înmormântare în Evul Mediu românesc",
+    "page_start_label": "261",
+    "page_start": 261,
+    "page_end": 286
   },
   {
     "index": 19,
     "section": "STUDII",
-    "author": "",
-    "title": "Geneza complexului riturilor de trecere",
-    "page_start_label": "",
-    "page_start": null,
-    "page_end": null
+    "author": "Viorel Rogoz",
+    "title": "Nășia — instituție a înrudirii spirituale în zona Codrului",
+    "page_start_label": "287",
+    "page_start": 287,
+    "page_end": 292
   },
   {
     "index": 20,
     "section": "STUDII",
-    "author": "",
-    "title": "Gabriella Vöö",
-    "page_start_label": "",
-    "page_start": null,
-    "page_end": null
+    "author": "Lucia Berdan",
+    "title": "Practici magice augurale și de divinație în obiceiurile de naștere",
+    "page_start_label": "293",
+    "page_start": 293,
+    "page_end": 300
   },
   {
     "index": 21,
     "section": "STUDII",
-    "author": "",
-    "title": "Gheorghe Sisesteanu",
-    "page_start_label": "",
-    "page_start": null,
-    "page_end": null
+    "author": "István Pál Demény",
+    "title": "Unele aspecte ale motivului „trecerii peste apă\" în folclorul românesc și maghiar",
+    "page_start_label": "301",
+    "page_start": 301,
+    "page_end": 316
   },
   {
     "index": 22,
     "section": "STUDII",
-    "author": "",
-    "title": "Ion Chis Ster",
-    "page_start_label": "",
-    "page_start": null,
-    "page_end": null
+    "author": "Dumitru Pop",
+    "title": "Interferențe: folclor — literatură",
+    "page_start_label": "317",
+    "page_start": 317,
+    "page_end": 326
   },
   {
     "index": 23,
     "section": "STUDII",
-    "author": "",
-    "title": "Viorel Rogoz",
-    "page_start_label": "",
-    "page_start": null,
-    "page_end": null
+    "author": "István Almási",
+    "title": "Ipostaze ale unui cântec popular din zona dintre Mureș și Târnava Mică",
+    "page_start_label": "327",
+    "page_start": 327,
+    "page_end": 340
   },
   {
     "index": 24,
     "section": "STUDII",
-    "author": "",
-    "title": "Lucia Berdan",
-    "page_start_label": "",
-    "page_start": null,
-    "page_end": null
+    "author": "Constanța Cristescu",
+    "title": "Toaca — probleme de organologie",
+    "page_start_label": "341",
+    "page_start": 341,
+    "page_end": 356
   },
   {
     "index": 25,
     "section": "STUDII",
-    "author": "",
-    "title": "‚ Isivän Päl Demeny",
-    "page_start_label": "",
-    "page_start": null,
-    "page_end": null
+    "author": "Zamfir Dejeu, La „Purtata\" chantée",
+    "title": "la „Purtata\" dansée",
+    "page_start_label": "357",
+    "page_start": 357,
+    "page_end": 364
   },
   {
     "index": 26,
-    "section": "STUDII",
-    "author": "",
-    "title": "Dumitru Pop",
-    "page_start_label": "",
-    "page_start": null,
-    "page_end": null
+    "section": "MATERIALE ȘI CONTRIBUȚII LA ISTORIA ȘTIINȚELOR ETNOLOGICE",
+    "author": "Dumitru Pop",
+    "title": "Izvoare folclorice. Un manuscris inedit de la 1864",
+    "page_start_label": "365",
+    "page_start": 365,
+    "page_end": 382
   },
   {
     "index": 27,
-    "section": "STUDII",
-    "author": "",
-    "title": "Constanta Cristescu",
-    "page_start_label": "",
-    "page_start": null,
-    "page_end": null
+    "section": "MATERIALE ȘI CONTRIBUȚII LA ISTORIA ȘTIINȚELOR ETNOLOGICE",
+    "author": "Nicolae Bot",
+    "title": "Colecția inedită de folclor a profesorului Teodor Murășanu. II",
+    "page_start_label": "383",
+    "page_start": 383,
+    "page_end": 430
   },
   {
     "index": 28,
-    "section": "STUDII",
-    "author": "",
-    "title": "Zamfir Dejeu",
-    "page_start_label": "",
-    "page_start": null,
-    "page_end": null
+    "section": "MATERIALE ȘI CONTRIBUȚII LA ISTORIA ȘTIINȚELOR ETNOLOGICE",
+    "author": "Nicolae Băieșu",
+    "title": "Materiale etnografico-folclorice de arhivă, privind tradiția Caloianului și Paparudei la românii din Republica Moldova și Ucraina",
+    "page_start_label": "431",
+    "page_start": 431,
+    "page_end": 466
   },
   {
     "index": 29,
-    "section": "STUDII",
-    "author": "",
-    "title": "Tabu și metaforă — Între magic, ludic și estetic",
-    "page_start_label": "",
-    "page_start": null,
-    "page_end": null
-  },
-  {
-    "index": 30,
-    "section": "STUDII",
-    "author": "",
-    "title": "Mitul în preocupările lui Lucian Blaga UT",
-    "page_start_label": "",
-    "page_start": null,
-    "page_end": null
-  },
-  {
-    "index": 31,
-    "section": "STUDII",
-    "author": "",
-    "title": "D. Caracostea între folclor si antropologie",
-    "page_start_label": "",
-    "page_start": null,
-    "page_end": null
-  },
-  {
-    "index": 32,
-    "section": "STUDII",
-    "author": "Arhetipul",
-    "title": "baza cercetărilor comparative oo",
-    "page_start_label": "",
-    "page_start": null,
-    "page_end": null
-  },
-  {
-    "index": 33,
-    "section": "STUDII",
-    "author": "",
-    "title": "Credintele şi riturile de înmormântare in Evul Me-",
-    "page_start_label": "",
-    "page_start": null,
-    "page_end": null
-  },
-  {
-    "index": 34,
-    "section": "STUDII",
-    "author": "",
-    "title": "Näsia — instituţie a înrudirii spirituale în zona Co-",
-    "page_start_label": "",
-    "page_start": null,
-    "page_end": null
-  },
-  {
-    "index": 35,
-    "section": "STUDII",
-    "author": "",
-    "title": "Practici magice augurale",
-    "page_start_label": "",
-    "page_start": null,
-    "page_end": null
-  },
-  {
-    "index": 36,
-    "section": "STUDII",
-    "author": "",
-    "title": "Unele aspecte ale motivului „trecerii peste apă“ în",
-    "page_start_label": "",
-    "page_start": null,
-    "page_end": null
-  },
-  {
-    "index": 37,
-    "section": "STUDII",
-    "author": "",
-    "title": "Interferente: folclor — literaturä rn",
-    "page_start_label": "",
-    "page_start": null,
-    "page_end": null
-  },
-  {
-    "index": 38,
-    "section": "STUDII",
-    "author": "",
-    "title": "Ipostaze ale unui cântec popular din zona dintre",
-    "page_start_label": "",
-    "page_start": null,
-    "page_end": null
-  },
-  {
-    "index": 39,
-    "section": "STUDII",
-    "author": "",
-    "title": "Mureș si Târnava Mică oo",
-    "page_start_label": "",
-    "page_start": null,
-    "page_end": null
-  },
-  {
-    "index": 40,
-    "section": "STUDII",
-    "author": "",
-    "title": "Toaca — probleme de organologie",
-    "page_start_label": "",
-    "page_start": null,
-    "page_end": null
-  },
-  {
-    "index": 41,
-    "section": "STUDII",
-    "author": "",
-    "title": "La „Purtata“ chantee, la „Purtata“ dansde",
-    "page_start_label": "",
-    "page_start": null,
-    "page_end": null
-  },
-  {
-    "index": 42,
-    "section": "STUDII",
-    "author": "",
-    "title": "MATERIALE SI CONTRIBUȚII LA ISTORIA",
-    "page_start_label": "",
-    "page_start": null,
-    "page_end": null
-  },
-  {
-    "index": 43,
-    "section": "STUDII",
-    "author": "",
-    "title": "Dumitru Pop",
-    "page_start_label": "",
-    "page_start": null,
-    "page_end": null
-  },
-  {
-    "index": 44,
-    "section": "STUDII",
-    "author": "",
-    "title": "Nicolae Bot",
-    "page_start_label": "",
-    "page_start": null,
-    "page_end": null
-  },
-  {
-    "index": 45,
-    "section": "STUDII",
-    "author": "",
-    "title": "Nicolae Bäjesu",
-    "page_start_label": "",
-    "page_start": null,
-    "page_end": null
-  },
-  {
-    "index": 46,
-    "section": "STUDII",
-    "author": "A. Negru",
-    "title": "E. Pop",
-    "page_start_label": "",
-    "page_start": null,
-    "page_end": null
-  },
-  {
-    "index": 47,
-    "section": "STUDII",
-    "author": "",
-    "title": "STIINTELOR ETNOLOGICE",
-    "page_start_label": "",
-    "page_start": null,
-    "page_end": 1863
-  },
-  {
-    "index": 48,
-    "section": "STUDII",
-    "author": "",
-    "title": "Izuoare folclorice. Un manuscris inedit de la",
-    "page_start_label": "1864",
-    "page_start": 1864,
-    "page_end": null
-  },
-  {
-    "index": 49,
-    "section": "STUDII",
-    "author": "",
-    "title": "Colecţia inedită de folclor a profesorului Teodor Mu-",
-    "page_start_label": "",
-    "page_start": null,
-    "page_end": null
-  },
-  {
-    "index": 50,
-    "section": "STUDII",
-    "author": "",
-    "title": "Materiale etnografico-folclorice de arhivă, privind",
-    "page_start_label": "",
-    "page_start": null,
-    "page_end": null
-  },
-  {
-    "index": 51,
-    "section": "STUDII",
-    "author": "",
-    "title": "Contribuţia publicaţiilor transilvănene şi bänätene la",
-    "page_start_label": "",
-    "page_start": null,
+    "section": "MATERIALE ȘI CONTRIBUȚII LA ISTORIA ȘTIINȚELOR ETNOLOGICE",
+    "author": "A. Negru, E. Pop",
+    "title": "Contribuția publicațiilor transilvănene și bănățene la descrierea realității sociale — monografiile sătești",
+    "page_start_label": "467",
+    "page_start": 467,
     "page_end": 474
   },
   {
-    "index": 52,
-    "section": "STUDII",
-    "author": "",
-    "title": "Iordarı Daicu Jurnal de editor (1963—1994)",
+    "index": 30,
+    "section": "MATERIALE ȘI CONTRIBUȚII LA ISTORIA ȘTIINȚELOR ETNOLOGICE",
+    "author": "Iordan Datcu",
+    "title": "Jurnal de editor (1963—1994)",
     "page_start_label": "475",
     "page_start": 475,
-    "page_end": null
+    "page_end": 546
   },
   {
-    "index": 53,
-    "section": "STUDII",
-    "author": "",
-    "title": "Alexandru Dobre Simion Mehedinţi şi polemica în “ jurul “discursului",
-    "page_start_label": "",
-    "page_start": null,
-    "page_end": null
+    "index": 31,
+    "section": "MATERIALE ȘI CONTRIBUȚII LA ISTORIA ȘTIINȚELOR ETNOLOGICE",
+    "author": "Alexandru Dobre",
+    "title": "Simion Mehedinți și polemica în jurul discursului de recepție al lui Duiliu Zamfirescu",
+    "page_start_label": "547",
+    "page_start": 547,
+    "page_end": 558
   },
   {
-    "index": 54,
-    "section": "STUDII",
-    "author": "",
-    "title": "de recepție al lui Duiliu Zamfirescu en BAT",
-    "page_start_label": "",
-    "page_start": null,
-    "page_end": 908
-  },
-  {
-    "index": 55,
-    "section": "STUDII",
-    "author": "",
-    "title": "Virgiliu Florea Ion Pop-Reteganul. După 90 de ani",
-    "page_start_label": "909",
-    "page_start": 909,
-    "page_end": null
-  },
-  {
-    "index": 56,
-    "section": "STUDII",
-    "author": "",
-    "title": "ALTERNATIV A",
-    "page_start_label": "",
-    "page_start": null,
+    "index": 32,
+    "section": "MATERIALE ȘI CONTRIBUȚII LA ISTORIA ȘTIINȚELOR ETNOLOGICE",
+    "author": "Virgiliu Florea",
+    "title": "Ion Pop-Reteganul. După 90 de ani",
+    "page_start_label": "559",
+    "page_start": 559,
     "page_end": 566
   },
   {
-    "index": 57,
-    "section": "STUDII",
-    "author": "",
-    "title": "Nicolae Constantineseu Perspectives on Contemporary Legend",
+    "index": 33,
+    "section": "ALTERNATIVA",
+    "author": "Nicolae Constantinescu",
+    "title": "Perspectives on Contemporary Legend",
     "page_start_label": "567",
     "page_start": 567,
-    "page_end": null
+    "page_end": 569
   },
   {
-    "index": 58,
-    "section": "STUDII",
-    "author": "",
-    "title": "Enikö Magyari Vineze Understanding Cultural Anthr opology and the Re-",
-    "page_start_label": "",
-    "page_start": null,
-    "page_end": null
+    "index": 34,
+    "section": "ALTERNATIVA",
+    "author": "Enikő Magyari Vincze",
+    "title": "Understanding Cultural Anthropology and the Related Notions of Culture",
+    "page_start_label": "570",
+    "page_start": 570,
+    "page_end": 575
   },
   {
-    "index": 59,
-    "section": "STUDII",
-    "author": "",
-    "title": "Silvia Ciubotaru Election de Maire — Alegere de primar",
-    "page_start_label": "",
-    "page_start": null,
-    "page_end": null
+    "index": 35,
+    "section": "ALTERNATIVA",
+    "author": "Silvia Ciubotaru",
+    "title": "Élection de Maire — Alegere de primar",
+    "page_start_label": "576",
+    "page_start": 576,
+    "page_end": 581
   },
   {
-    "index": 60,
-    "section": "STUDII",
-    "author": "",
-    "title": "N. Constantinescu Un nou pas în cunoașterea mitologiei scandinave",
-    "page_start_label": "",
-    "page_start": null,
-    "page_end": null
+    "index": 36,
+    "section": "ALTERNATIVA",
+    "author": "N. Constantinescu",
+    "title": "Un nou pas în cunoașterea mitologiei scandinave",
+    "page_start_label": "582",
+    "page_start": 582,
+    "page_end": 586
   },
   {
-    "index": 61,
-    "section": "STUDII",
-    "author": "",
-    "title": "> Cristina Pop Deus Otiosus nn",
-    "page_start_label": "",
-    "page_start": null,
-    "page_end": null
+    "index": 37,
+    "section": "ALTERNATIVA",
+    "author": "Cristina Pop",
+    "title": "Deus Otiosus",
+    "page_start_label": "587",
+    "page_start": 587,
+    "page_end": 593
   },
   {
-    "index": 62,
-    "section": "STUDII",
-    "author": "",
-    "title": "Enikö Demeny Revolta impotr iva Einografiei",
-    "page_start_label": "",
-    "page_start": null,
-    "page_end": null
+    "index": 38,
+    "section": "ALTERNATIVA",
+    "author": "Enikő Demény",
+    "title": "Revolta împotriva Etnografiei",
+    "page_start_label": "594",
+    "page_start": 594,
+    "page_end": 597
   },
   {
-    "index": 63,
-    "section": "STUDII",
-    "author": "",
-    "title": "Alina Branda Înțelegerea si receptarea spaţiului în i mentalul și ima-",
-    "page_start_label": "",
-    "page_start": null,
-    "page_end": null
+    "index": 39,
+    "section": "ALTERNATIVA",
+    "author": "Alina Branda",
+    "title": "Înțelegerea și receptarea spațiului în mentalul și imaginarul popular",
+    "page_start_label": "598",
+    "page_start": 598,
+    "page_end": 607
   },
   {
-    "index": 64,
-    "section": "STUDII",
-    "author": "Laura",
-    "title": "Vancsik Jung si Kerenyi despre arhetipuri . „608",
-    "page_start_label": "",
-    "page_start": null,
-    "page_end": 2610
+    "index": 40,
+    "section": "ALTERNATIVA",
+    "author": "Laura Vanesik",
+    "title": "Jung și Kerényi despre arhetipuri",
+    "page_start_label": "608",
+    "page_start": 608,
+    "page_end": 610
   },
   {
-    "index": 65,
-    "section": "STUDII",
-    "author": "",
-    "title": "Lionel D. Roşca Miturile anticilor sub lupa cercetării contemporane",
-    "page_start_label": "2611",
-    "page_start": 2611,
-    "page_end": 31
+    "index": 41,
+    "section": "ALTERNATIVA",
+    "author": "Lionel D. Roșca",
+    "title": "Miturile anticilor sub lupa cercetării contemporane",
+    "page_start_label": "611",
+    "page_start": 611,
+    "page_end": 613
   },
   {
-    "index": 66,
-    "section": "STUDII",
-    "author": "",
-    "title": "Eugeria Bârlea Spre o istorie orală a comunismului pa",
-    "page_start_label": "32",
-    "page_start": 32,
-    "page_end": null
+    "index": 42,
+    "section": "ALTERNATIVA",
+    "author": "Romulus Oșianu",
+    "title": "Publicația Centrului de Tradiții Culturale și Limba din Sheffild (Marea Britanie)",
+    "page_start_label": "614",
+    "page_start": 614,
+    "page_end": 620
   },
   {
-    "index": 67,
-    "section": "STUDII",
-    "author": "",
-    "title": "Bogdan Neagota Un model hermeneutic . un. 824:",
-    "page_start_label": "",
-    "page_start": null,
+    "index": 43,
+    "section": "ALTERNATIVA",
+    "author": "Eugenia Bîrlea",
+    "title": "Spre o istorie orală a comunismului",
+    "page_start_label": "621",
+    "page_start": 621,
+    "page_end": 623
+  },
+  {
+    "index": 44,
+    "section": "ALTERNATIVA",
+    "author": "Bogdan Neagota",
+    "title": "Un model hermeneutic",
+    "page_start_label": "624",
+    "page_start": 624,
     "page_end": 625
   },
   {
-    "index": 68,
-    "section": "STUDII",
-    "author": "",
-    "title": "_S. Layman, I. Seuleanu Un dialog despre muzica popularä românească a",
+    "index": 45,
+    "section": "ALTERNATIVA",
+    "author": "S. Layman, I. Șeuleanu",
+    "title": "Un dialog despre muzica populară românească",
     "page_start_label": "626",
     "page_start": 626,
-    "page_end": 5
+    "page_end": 630
   },
   {
-    "index": 69,
-    "section": "STUDII",
-    "author": "",
-    "title": "Enikö Demeny Revista maghiară „Replika“ . . en",
-    "page_start_label": "6",
-    "page_start": 6,
-    "page_end": null
+    "index": 46,
+    "section": "ALTERNATIVA",
+    "author": "Enikő Demény",
+    "title": "Revista maghiară „Replika\"",
+    "page_start_label": "631",
+    "page_start": 631,
+    "page_end": 634
   },
   {
-    "index": 70,
+    "index": 47,
     "section": "SISTEMATICĂ TIPOLOGICĂ",
-    "author": "L. Istoc",
-    "title": "E. Hlinca Tipuri melodice ale cäntecelor de nuntä din Tran-",
-    "page_start_label": "",
-    "page_start": null,
-    "page_end": null
-  },
-  {
-    "index": 71,
-    "section": "SISTEMATICĂ TIPOLOGICĂ",
-    "author": "",
-    "title": "Drägan silvania do",
-    "page_start_label": "",
-    "page_start": null,
+    "author": "L. Iștoc, E. Hlinca Drăgan",
+    "title": "Tipuri melodice ale cântecelor de nuntă din Transilvania",
+    "page_start_label": "635",
+    "page_start": 635,
     "page_end": 688
   },
   {
-    "index": 72,
+    "index": 48,
     "section": "SISTEMATICĂ TIPOLOGICĂ",
-    "author": "",
-    "title": "Ion Cuceu Corpusul Fotetorului Românesc. \" Destinul unei idei II",
+    "author": "Ion Cuceu",
+    "title": "Corpusul Folclorului Românesc. Destinul unei idei II",
     "page_start_label": "689",
     "page_start": 689,
-    "page_end": null
+    "page_end": 716
   },
   {
-    "index": 73,
-    "section": "SISTEMATICĂ TIPOLOGICĂ",
-    "author": "",
-    "title": "ANIVERSARĂ",
-    "page_start_label": "",
-    "page_start": null,
-    "page_end": null
+    "index": 49,
+    "section": "ANIVERSARĂ",
+    "author": "Ion Taloș",
+    "title": "Antologia liricii populare românești a lui Lucian Blaga și destinul ei",
+    "page_start_label": "717",
+    "page_start": 717,
+    "page_end": 728
   },
   {
-    "index": 74,
-    "section": "SISTEMATICĂ TIPOLOGICĂ",
-    "author": "",
-    "title": "Ion Talos Antologia liricii populare românești a lui Lucian Blaga",
-    "page_start_label": "",
-    "page_start": null,
-    "page_end": 119
-  },
-  {
-    "index": 75,
+    "index": 50,
     "section": "IN MEMORIAM",
-    "author": "",
-    "title": "Tudor Pamfile — 75 de ani de la moarte (Virgiliu Florea) Denen",
-    "page_start_label": "120",
-    "page_start": 120,
-    "page_end": 77
+    "author": "ani de la moarte (Virgiliu Florea)",
+    "title": "Tudor Pamfile — 75",
+    "page_start_label": "729",
+    "page_start": 729,
+    "page_end": 730
   },
   {
-    "index": 76,
+    "index": 51,
     "section": "IN MEMORIAM",
-    "author": "",
-    "title": "Prietenul meu Alexandru Ciplea, folclorist (Alexandru E Borza) . . 0.0",
-    "page_start_label": "78",
-    "page_start": 78,
-    "page_end": 784
+    "author": "Alexandru Borza",
+    "title": "Prietenul meu Alexandru Ciplea, folclorist",
+    "page_start_label": "731",
+    "page_start": 731,
+    "page_end": 734
   },
   {
-    "index": 77,
+    "index": 52,
     "section": "IN MEMORIAM",
-    "author": "Vasile Creţu",
-    "title": "(1938—1989) (Otilia Hedesan) . . -",
-    "page_start_label": "785",
-    "page_start": 785,
-    "page_end": null
+    "author": "Otilia Hedișan",
+    "title": "Vasile Crețu, (1938—1989)",
+    "page_start_label": "735",
+    "page_start": 735,
+    "page_end": 740
   },
   {
-    "index": 78,
+    "index": 53,
     "section": "IN MEMORIAM",
-    "author": "",
-    "title": "Petru Munteanu (1902—1993) (Gh. Pavelescu) . nn nn Tall",
-    "page_start_label": "",
-    "page_start": null,
+    "author": "Gh. Pavelescu",
+    "title": "Petru Munteanu (1902—1993)",
+    "page_start_label": "741",
+    "page_start": 741,
     "page_end": 744
   },
   {
-    "index": 79,
+    "index": 54,
     "section": "IN MEMORIAM",
-    "author": "",
-    "title": "Käroly Kös (1919-1996) (Klara Gazda) . . . cc cc",
+    "author": "Klára Gazda",
+    "title": "Károly Kós (1919—1996)",
     "page_start_label": "745",
     "page_start": 745,
     "page_end": 748
   },
   {
-    "index": 80,
+    "index": 55,
     "section": "IN MEMORIAM",
-    "author": "",
-    "title": "Romulus Oşianu (1940—1996) (loan Tosa).. . . En",
+    "author": "Ioan Toșa",
+    "title": "Romulus Oșianu (1940—1996)",
     "page_start_label": "749",
     "page_start": 749,
-    "page_end": null
+    "page_end": 750
   },
   {
-    "index": 81,
+    "index": 56,
     "section": "NOTE",
     "author": "Gabriel Troc",
-    "title": "Românii si modernitatea ca o catastrofä",
-    "page_start_label": "",
-    "page_start": null,
-    "page_end": null
+    "title": "Românii și modernitatea ca o catastrofă",
+    "page_start_label": "751",
+    "page_start": 751,
+    "page_end": 751
   },
   {
-    "index": 82,
+    "index": 57,
     "section": "NOTE",
     "author": "Iordan Datcu",
-    "title": "Etnografia Basarabiei si Bucovinei. Cronologie selectivä",
-    "page_start_label": "",
-    "page_start": null,
-    "page_end": null
+    "title": "Etnografia Basarabiei și Bucovinei. Cronologie selectivă",
+    "page_start_label": "752",
+    "page_start": 752,
+    "page_end": 762
   },
   {
-    "index": 83,
+    "index": 58,
     "section": "NOTE",
-    "author": "",
-    "title": "45 de ani de la înființarea Institutului de Etnografie Si Folclor Cc. Br -ăiloiu“",
-    "page_start_label": "",
-    "page_start": null,
-    "page_end": null
+    "author": "Iordan Datcu",
+    "title": "45 de ani de la înființarea Institutului de Etnografie și Folclor „C. Brăiloiu\" din București",
+    "page_start_label": "763",
+    "page_start": 763,
+    "page_end": 763
   },
   {
-    "index": 84,
+    "index": 59,
     "section": "NOTE",
-    "author": "",
-    "title": "Landlerii — o enclavă lingvistică, în altă enclavă (Hanni Markel) DBA",
-    "page_start_label": "",
-    "page_start": null,
+    "author": "Hanni Markel",
+    "title": "Landlerii — o enclavă lingvistică, în altă enclavă",
+    "page_start_label": "764",
+    "page_start": 764,
     "page_end": 766
   },
   {
-    "index": 85,
+    "index": 60,
     "section": "NOTE",
-    "author": "",
-    "title": "Cărţile unor antropologi români la Paris (Iordan Datcu) . 2",
+    "author": "Iordan Datcu",
+    "title": "Cărțile unor antropologi români la Paris",
     "page_start_label": "767",
     "page_start": 767,
-    "page_end": 87
+    "page_end": 767
   },
   {
-    "index": 86,
+    "index": 61,
     "section": "NOTE",
     "author": "Monica Leheny",
-    "title": "„Lares“, în schimbul „Anuarului Arhivei de Folclor“",
-    "page_start_label": "88",
-    "page_start": 88,
+    "title": "„Lares\", în schimbul „Anuarului Arhivei de Folclor\"",
+    "page_start_label": "768",
+    "page_start": 768,
     "page_end": 769
   },
   {
-    "index": 87,
+    "index": 62,
     "section": "NOTE",
     "author": "V. Florea",
-    "title": "Un cărturar muresan, Aurel Filimon, într-o arhivă londoneză",
+    "title": "Un cărturar mureșan, Aurel Filimon, într-o arhivă londoneză",
     "page_start_label": "770",
     "page_start": 770,
-    "page_end": null
+    "page_end": 770
+  },
+  {
+    "index": 63,
+    "section": "NOTE",
+    "author": "Ion Maxim Danciu",
+    "title": "De vorbă cu Domnul Ion Cuceu, Directorul Institutului „Arhiva de Folclor a Academiei Române\"",
+    "page_start_label": "771",
+    "page_start": 771,
+    "page_end": 774
+  },
+  {
+    "index": 64,
+    "section": "NOTE",
+    "author": "Ion Șeuleanu",
+    "title": "Memoria documentului folcloric",
+    "page_start_label": "775",
+    "page_start": 775,
+    "page_end": 776
+  },
+  {
+    "index": 65,
+    "section": "NOTE",
+    "author": "O. Vințeler",
+    "title": "Probleme de folclor la Congresul slaviștilor",
+    "page_start_label": "777",
+    "page_start": 777,
+    "page_end": 778
+  },
+  {
+    "index": 66,
+    "section": "RECENZII",
+    "author": "Iordan Datcu",
+    "title": "Mihai Bălăianu, Ilie Constantinescu, Cântece bătrânești și doine. București, 1994",
+    "page_start_label": "789",
+    "page_start": 789,
+    "page_end": 789
+  },
+  {
+    "index": 67,
+    "section": "RECENZII",
+    "author": "Livia Bot",
+    "title": "S. Corina Bille, Maurice Chappaz, Edmond et René-Pierre Bille, L'Aventure de Chandolin. Sierre, 1994",
+    "page_start_label": "816",
+    "page_start": 816,
+    "page_end": 817
+  },
+  {
+    "index": 68,
+    "section": "RECENZII",
+    "author": "Ion Cuceu",
+    "title": "Dan Octavian Cepraga, Graiurile Domnului. Cluj-Napoca, 1995",
+    "page_start_label": "792",
+    "page_start": 792,
+    "page_end": 793
+  },
+  {
+    "index": 69,
+    "section": "RECENZII",
+    "author": "Livia Bot",
+    "title": "Michel de Certeau, L'invention du quotidien. Paris, 1990",
+    "page_start_label": "818",
+    "page_start": 818,
+    "page_end": 818
+  },
+  {
+    "index": 70,
+    "section": "RECENZII",
+    "author": "Livia Bot",
+    "title": "Maurice Chappaz, Lötschental secret. Sierre, 1995",
+    "page_start_label": "820",
+    "page_start": 820,
+    "page_end": 821
+  },
+  {
+    "index": 71,
+    "section": "RECENZII",
+    "author": "Iordan Datcu",
+    "title": "Jean Chevalier, Alain Gheerbrant, Dicționar de simboluri. I—III, București, 1994—1995",
+    "page_start_label": "815",
+    "page_start": 815,
+    "page_end": 815
+  },
+  {
+    "index": 72,
+    "section": "RECENZII",
+    "author": "Laura Top",
+    "title": "Mary Douglas, Purezza e pericole. Bologna, 1993",
+    "page_start_label": "825",
+    "page_start": 825,
+    "page_end": 826
+  },
+  {
+    "index": 73,
+    "section": "RECENZII",
+    "author": "Livia Bot",
+    "title": "Georges Dumézil, Le Roman des Jumeaux et autres essais. Paris, 1995",
+    "page_start_label": "814",
+    "page_start": 814,
+    "page_end": 814
+  },
+  {
+    "index": 74,
+    "section": "RECENZII",
+    "author": "Anamaria Petrean",
+    "title": "Ugo Fabietti, Storia dell'Antropologia. Bologna, 1991",
+    "page_start_label": "824",
+    "page_start": 824,
+    "page_end": 824
+  },
+  {
+    "index": 75,
+    "section": "RECENZII",
+    "author": "Ion Taloș",
+    "title": "Maria Jesus Ruiz Fernandez, El romancero tradicional de Jerez. Jerez, 1991",
+    "page_start_label": "801",
+    "page_start": 801,
+    "page_end": 801
+  },
+  {
+    "index": 76,
+    "section": "RECENZII",
+    "author": "Bogdan Neagota",
+    "title": "Carlo Ginzburg, Istorie nocturnă. Iași, 1996",
+    "page_start_label": "808",
+    "page_start": 808,
+    "page_end": 811
+  },
+  {
+    "index": 77,
+    "section": "RECENZII",
+    "author": "Mihai Pătrașcu",
+    "title": "Anca Giurchescu, Sunni Bloland, Romanian Traditional Dance. California, 1995",
+    "page_start_label": "779",
+    "page_start": 779,
+    "page_end": 780
+  },
+  {
+    "index": 78,
+    "section": "RECENZII",
+    "author": "Dan Brie",
+    "title": "Marvin Harris, La nostra specie. Milano, 1991",
+    "page_start_label": "827",
+    "page_start": 827,
+    "page_end": 832
+  },
+  {
+    "index": 79,
+    "section": "RECENZII",
+    "author": "Stela Ouș",
+    "title": "Andrei Hâncu, Probleme de geneză a creației poetice populare moldovenești. Chișinău, 1991",
+    "page_start_label": "782",
+    "page_start": 782,
+    "page_end": 783
+  },
+  {
+    "index": 80,
+    "section": "RECENZII",
+    "author": "Eugenia Bîrlea",
+    "title": "Klaus Heitmann, Imaginea românilor în spațiul lingvistic german. București, 1995",
+    "page_start_label": "798",
+    "page_start": 798,
+    "page_end": 800
+  },
+  {
+    "index": 81,
+    "section": "RECENZII",
+    "author": "Livia Bot",
+    "title": "Lorenz Homberger, Die Kunst der Dogon, Zürich, 1995",
+    "page_start_label": "812",
+    "page_start": 812,
+    "page_end": 813
+  },
+  {
+    "index": 82,
+    "section": "RECENZII",
+    "author": "Sidonia Nedeianu",
+    "title": "Carl Gustav Jung, In lumea arhetipurilor. București, 1994",
+    "page_start_label": "806",
+    "page_start": 806,
+    "page_end": 807
+  },
+  {
+    "index": 83,
+    "section": "RECENZII",
+    "author": "Olga Ciobanu",
+    "title": "Efim Junghietu, A. Furtună, Folclor păstoresc. Chișinău, 1991",
+    "page_start_label": "787",
+    "page_start": 787,
+    "page_end": 788
+  },
+  {
+    "index": 84,
+    "section": "RECENZII",
+    "author": "Iordan Datcu",
+    "title": "Ion Moanță, Cântece de stea. La Nașterea Domnului Nostru Iisus Hristos. București, 1995",
+    "page_start_label": "794",
+    "page_start": 794,
+    "page_end": 795
+  },
+  {
+    "index": 85,
+    "section": "RECENZII",
+    "author": "Hanni Markel",
+    "title": "Günter Noll (ed.), Musikalische Volkskultur und die politische Macht. Essen, 1994",
+    "page_start_label": "804",
+    "page_start": 804,
+    "page_end": 805
+  },
+  {
+    "index": 86,
+    "section": "RECENZII",
+    "author": "Iordan Datcu",
+    "title": "A. Gh. Olteanu, Folclor și literatură cultă. Brașov, 1994",
+    "page_start_label": "789",
+    "page_start": 789,
+    "page_end": 789
+  },
+  {
+    "index": 87,
+    "section": "RECENZII",
+    "author": "Ion Șeuleanu",
+    "title": "Cristina Papa, Antropologia e storia dell'alimentazione. Il Pane. Perugia, 1992",
+    "page_start_label": "822",
+    "page_start": 822,
+    "page_end": 823
   },
   {
     "index": 88,
-    "section": "ARHIVA",
-    "author": "",
-    "title": "Memoria documentului folcloric (Ion Seuleanu) . nn. MS",
-    "page_start_label": "",
-    "page_start": null,
-    "page_end": null
+    "section": "RECENZII",
+    "author": "Daniela Vartic",
+    "title": "Toma Pavel, Mirajul lingvistic, eseu asupra modernizării intelectuale. București, 1993",
+    "page_start_label": "796",
+    "page_start": 796,
+    "page_end": 796
   },
   {
     "index": 89,
-    "section": "ARHIVA",
-    "author": "",
-    "title": "Probleme de folclor la Congresul slavistilor (O. Vinteler) . nn. 7M",
-    "page_start_label": "",
-    "page_start": null,
-    "page_end": null
+    "section": "RECENZII",
+    "author": "Iordan Datcu",
+    "title": "Anton Rațiu, Românii de la Est de Bug. București, 1994",
+    "page_start_label": "794",
+    "page_start": 794,
+    "page_end": 795
   },
   {
     "index": 90,
     "section": "RECENZII",
     "author": "",
-    "title": "Mihai Bălăianu, Die Constantinescu, Cântece bätränesti si doine. Bucureşti,",
-    "page_start_label": "",
-    "page_start": null,
-    "page_end": null
+    "title": "Paul Henri Stahl, Les communaux: essai de clasification, in „Anamnèses. Cahiers de maieutique\", 1991",
+    "page_start_label": "815",
+    "page_start": 815,
+    "page_end": 815
   },
   {
     "index": 91,
     "section": "RECENZII",
-    "author": "",
-    "title": "\"1994 (lordan Datcu) rn",
-    "page_start_label": "",
-    "page_start": null,
-    "page_end": null
+    "author": "Iordan Datcu",
+    "title": "D. D. Stancu, Pe deal la Teleormănel. V. București, 1994",
+    "page_start_label": "792",
+    "page_start": 792,
+    "page_end": 793
   },
   {
     "index": 92,
     "section": "RECENZII",
-    "author": "",
-    "title": "S. Corina Bile, Maurice Chappaz, Edmond et Renö-Pierre Bille, L/Aventure",
-    "page_start_label": "",
-    "page_start": null,
-    "page_end": null
+    "author": "Ion Taloș",
+    "title": "Dorothe Schubarth e Antón Santamarina, Concioniero Popular Galega. VI Galicia Editorial, 1993",
+    "page_start_label": "802",
+    "page_start": 802,
+    "page_end": 803
   },
   {
     "index": 93,
     "section": "RECENZII",
-    "author": "Livia Bot",
-    "title": "de Chandolin. Sierre, 1994",
-    "page_start_label": "",
-    "page_start": null,
-    "page_end": null
+    "author": "Laura Top",
+    "title": "Ion Șeuleanu, Dincoace de sacru, dincolo de profan. Tg. Mureș, 1991",
+    "page_start_label": "781",
+    "page_start": 781,
+    "page_end": 781
   },
   {
     "index": 94,
     "section": "RECENZII",
-    "author": "on Cuceu",
-    "title": "Dan Octavian Cepraga, Graiurile Domnului. Cluj-Napoca, 1995",
-    "page_start_label": "",
-    "page_start": null,
-    "page_end": null
+    "author": "Anamaria Petrean",
+    "title": "Teresia B. Tătaru, Terminologia botanică creștină la poporul român. Augsburg, 1993",
+    "page_start_label": "790",
+    "page_start": 790,
+    "page_end": 791
   },
   {
     "index": 95,
     "section": "RECENZII",
-    "author": "Livia Bot",
-    "title": "Michel de Terteau, L'invention dw quotidien. Paris, 1990",
-    "page_start_label": "",
-    "page_start": null,
-    "page_end": null
+    "author": "Oana Năvodaru",
+    "title": "Arnold Van Gennep, Riturile de trecere. Iași, 1996",
+    "page_start_label": "797",
+    "page_start": 797,
+    "page_end": 797
   },
   {
     "index": 96,
     "section": "RECENZII",
-    "author": "",
-    "title": "Chanter la mort. Paris, 1990 (Livia Bo. |",
-    "page_start_label": "",
-    "page_start": null,
-    "page_end": null
+    "author": "Zamfir Dejeu",
+    "title": "Alexandru Voevidca, Cântece populare din Bucovina. București, 1990",
+    "page_start_label": "784",
+    "page_start": 784,
+    "page_end": 786
   },
   {
     "index": 97,
     "section": "RECENZII",
-    "author": "Livia Bot",
-    "title": "Maurice Chappaz, Lötschental secret. Sierre, 1995",
-    "page_start_label": "",
-    "page_start": null,
-    "page_end": null
+    "author": "Iordan Datcu",
+    "title": "Heinrich Zimmer, Mituri și simboluri în civilizația indiană. București, 1994",
+    "page_start_label": "812",
+    "page_start": 812,
+    "page_end": 813
   },
   {
     "index": 98,
     "section": "RECENZII",
-    "author": "",
-    "title": "Jean Chevalier, Alain Gheerbrant, Dicţionar de simboluri. TIL, Bucureşti,",
-    "page_start_label": "",
-    "page_start": null,
-    "page_end": null
-  },
-  {
-    "index": 99,
-    "section": "RECENZII",
-    "author": "",
-    "title": "1994—1995 (Jordan Datcu) . 2.20 oo",
-    "page_start_label": "",
-    "page_start": null,
-    "page_end": 1
-  },
-  {
-    "index": 100,
-    "section": "RECENZII",
-    "author": "Laura Top",
-    "title": "Mary Douglas, Purezza e pericole. Bologna, 1993",
-    "page_start_label": "2",
-    "page_start": 2,
-    "page_end": null
-  },
-  {
-    "index": 101,
-    "section": "RECENZII",
-    "author": "",
-    "title": "Georges Dumezil, Le Roman des Jumeaux et autres essais. Paris, 1995 (Livia",
-    "page_start_label": "",
-    "page_start": null,
-    "page_end": null
-  },
-  {
-    "index": 102,
-    "section": "RECENZII",
-    "author": "Anamaria Petrean",
-    "title": "Ugo Fabretki, Storia dell’ Antropelogia, Bologna, 1991",
-    "page_start_label": "",
-    "page_start": null,
-    "page_end": 1990
-  },
-  {
-    "index": 103,
-    "section": "RECENZII",
-    "author": "",
-    "title": "Maria Jesus Ruiz Fernandez, E! romancero tradicional de Jerez. Jerez,",
-    "page_start_label": "1991",
-    "page_start": 1991,
-    "page_end": null
-  },
-  {
-    "index": 104,
-    "section": "RECENZII",
-    "author": "",
-    "title": "(Ion Talos) a",
-    "page_start_label": "",
-    "page_start": null,
-    "page_end": 1
-  },
-  {
-    "index": 105,
-    "section": "RECENZII",
-    "author": "Bogdan Neagota",
-    "title": "Carlo Ginzburg, Istorie nocturnă. Iași, 1996",
-    "page_start_label": "2",
-    "page_start": 2,
-    "page_end": 1994
-  },
-  {
-    "index": 106,
-    "section": "RECENZII",
-    "author": "",
-    "title": "Anca Giurchescu, Sunni Bloland, Romanian Traditional Dance. California,",
-    "page_start_label": "1995",
-    "page_start": 1995,
-    "page_end": null
-  },
-  {
-    "index": 107,
-    "section": "RECENZII",
-    "author": "",
-    "title": "(Mihai Pătraşcu) Da",
-    "page_start_label": "",
-    "page_start": null,
-    "page_end": null
-  },
-  {
-    "index": 108,
-    "section": "RECENZII",
-    "author": "",
-    "title": "Marvin Harris, La nostra specie. Milano, 1991 (Dan Brie) . Fe",
-    "page_start_label": "",
-    "page_start": null,
-    "page_end": null
-  },
-  {
-    "index": 109,
-    "section": "RECENZII",
-    "author": "",
-    "title": "Andrei Häncu, Probleme de genezä a creației poetice populare moldoveneşti",
-    "page_start_label": "",
-    "page_start": null,
-    "page_end": null
-  },
-  {
-    "index": 110,
-    "section": "RECENZII",
-    "author": "",
-    "title": "; Chisinäu, 1991 (Stela Ous) . . . nn",
-    "page_start_label": "",
-    "page_start": null,
-    "page_end": null
-  },
-  {
-    "index": 111,
-    "section": "RECENZII",
-    "author": "",
-    "title": "Klaus Heitmann, Imaginea românilor in spațiul lingvistic german, Bucureşti,",
-    "page_start_label": "",
-    "page_start": null,
-    "page_end": null
-  },
-  {
-    "index": 112,
-    "section": "RECENZII",
-    "author": "",
-    "title": "1995 (Eugenia Bârlea) nn",
-    "page_start_label": "",
-    "page_start": null,
-    "page_end": null
-  },
-  {
-    "index": 113,
-    "section": "RECENZII",
-    "author": "Livia Bot",
-    "title": "Lorenz Homberger, Die Kunst der Dogon, Zürich, 1995",
-    "page_start_label": "",
-    "page_start": null,
-    "page_end": null
-  },
-  {
-    "index": 114,
-    "section": "RECENZII",
-    "author": "",
-    "title": "Carl Gustav Jung, In lumea arhetipurilor. București, 1994 (Sidonia Nedeianu",
-    "page_start_label": "",
-    "page_start": null,
-    "page_end": null
-  },
-  {
-    "index": 115,
-    "section": "RECENZII",
-    "author": "",
-    "title": "Grama)",
-    "page_start_label": "",
-    "page_start": null,
-    "page_end": null
-  },
-  {
-    "index": 116,
-    "section": "RECENZII",
-    "author": "Olga Ciobanu",
-    "title": "Etim Junghietu, A. Furtună, Folclor păstoresc. 'Chişinău, 1991",
-    "page_start_label": "",
-    "page_start": null,
-    "page_end": null
-  },
-  {
-    "index": 117,
-    "section": "RECENZII",
-    "author": "",
-    "title": "Günter Noll (ed.), Musikalische Volleskultur und die politische Macht. Essen,",
-    "page_start_label": "",
-    "page_start": null,
-    "page_end": null
-  },
-  {
-    "index": 118,
-    "section": "RECENZII",
-    "author": "",
-    "title": "1994. (Hanni Markel) PD",
-    "page_start_label": "",
-    "page_start": null,
-    "page_end": null
-  },
-  {
-    "index": 119,
-    "section": "RECENZII",
-    "author": "Iordan Datcu",
-    "title": "A. Gh. Olteanu, Folclor și literatură cultă. Brașov, 1994",
-    "page_start_label": "",
-    "page_start": null,
-    "page_end": 1991
-  },
-  {
-    "index": 120,
-    "section": "RECENZII",
-    "author": "",
-    "title": "Cristina Papa, Antropologia e storia dell 'alimentazione. Tl Pane. Perugia,",
-    "page_start_label": "1992",
-    "page_start": 1992,
-    "page_end": null
-  },
-  {
-    "index": 121,
-    "section": "RECENZII",
-    "author": "",
-    "title": "(Ion Seuleanu) DEEE",
-    "page_start_label": "",
-    "page_start": null,
-    "page_end": null
-  },
-  {
-    "index": 122,
-    "section": "RECENZII",
-    "author": "",
-    "title": "Toma Pavel, Mirajul lingvistic, eseu asupra modernizării intelectuale. Bucu-",
-    "page_start_label": "",
-    "page_start": null,
-    "page_end": null
-  },
-  {
-    "index": 123,
-    "section": "RECENZII",
-    "author": "Iordan Datcu",
-    "title": "Anton Raţiu, Românii de la Est de Bug. București, 1994",
-    "page_start_label": "",
-    "page_start": null,
-    "page_end": null
-  },
-  {
-    "index": 124,
-    "section": "RECENZII",
-    "author": "",
-    "title": "Paul Henri Stahl, Les communaux: essai de clasification, in „Anamnöses",
-    "page_start_label": "",
-    "page_start": null,
-    "page_end": null
-  },
-  {
-    "index": 125,
-    "section": "RECENZII",
-    "author": "",
-    "title": "Cahiers ‘de maieutique“, 1991 . en",
-    "page_start_label": "",
-    "page_start": null,
-    "page_end": null
-  },
-  {
-    "index": 126,
-    "section": "RECENZII",
-    "author": "Iordan Datcu",
-    "title": "D. D. Stancu, Pe deal lu Teleormänel. V. București, 1994",
-    "page_start_label": "",
-    "page_start": null,
-    "page_end": null
-  },
-  {
-    "index": 127,
-    "section": "RECENZII",
-    "author": "",
-    "title": "Dorothe Schubarth e Anton Santamarina, Concioniero Popular Galega. VI",
-    "page_start_label": "",
-    "page_start": null,
-    "page_end": null
-  },
-  {
-    "index": 128,
-    "section": "RECENZII",
-    "author": "",
-    "title": "Galicia Editorial, 1993 (ion Taloș) . rn",
-    "page_start_label": "",
-    "page_start": null,
-    "page_end": null
-  },
-  {
-    "index": 129,
-    "section": "RECENZII",
-    "author": "",
-    "title": "Ion Seuleanu, Dincoace de sacru, dincolo de profan. Tg. Mureș, 1991 (Laura",
-    "page_start_label": "",
-    "page_start": null,
-    "page_end": null
-  },
-  {
-    "index": 130,
-    "section": "RECENZII",
-    "author": "",
-    "title": "“Teresia B. Tătaru, Terminologia botanică creștină la poporul român. Augsburg,",
-    "page_start_label": "",
-    "page_start": null,
-    "page_end": null
-  },
-  {
-    "index": 131,
-    "section": "RECENZII",
-    "author": "Anamaria Petrean",
-    "title": "1993",
-    "page_start_label": "",
-    "page_start": null,
-    "page_end": null
-  },
-  {
-    "index": 132,
-    "section": "RECENZII",
-    "author": "Oana Nävodaru",
-    "title": "Arnold Van Gennep, Riturile de trecere. Jasi, 1996,",
-    "page_start_label": "",
-    "page_start": null,
-    "page_end": null
-  },
-  {
-    "index": 133,
-    "section": "RECENZII",
-    "author": "",
-    "title": "Alexandru Voevidca, Cântece populare din Bucovina. Bucureşti, 11990 (Zamfir",
-    "page_start_label": "",
-    "page_start": null,
-    "page_end": null
-  },
-  {
-    "index": 134,
-    "section": "RECENZII",
-    "author": "",
-    "title": "Dejeu)",
-    "page_start_label": "",
-    "page_start": null,
-    "page_end": 1993
-  },
-  {
-    "index": 135,
-    "section": "RECENZII",
-    "author": "",
-    "title": "Heinrich Zimmer, Mituri si simboluri în civilizaţia indiană. Bucuresti,",
-    "page_start_label": "1994",
-    "page_start": 1994,
-    "page_end": null
-  },
-  {
-    "index": 136,
-    "section": "RECENZII",
-    "author": "",
-    "title": "(lordan Datcu) en",
-    "page_start_label": "",
-    "page_start": null,
-    "page_end": null
-  },
-  {
-    "index": 137,
-    "section": "RECENZII",
-    "author": "",
-    "title": "Heinrich Zimmer, Regele si cadavrul. !Bucurestil, 1994 (Pat",
-    "page_start_label": "",
-    "page_start": null,
-    "page_end": null
+    "author": "Patricia Mihulecea",
+    "title": "Heinrich Zimmer, Regele și cadavrul. [București], 1994",
+    "page_start_label": "819",
+    "page_start": 819,
+    "page_end": 819
   }
 ]
