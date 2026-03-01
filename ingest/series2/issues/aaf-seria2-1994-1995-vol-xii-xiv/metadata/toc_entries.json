@@ -6,19 +6,10 @@
     "title": "Prefață",
     "page_start_label": "9",
     "page_start": 9,
-    "page_end": 9
-  },
-  {
-    "index": 2,
-    "section": "",
-    "author": "",
-    "title": "ABREVIERI",
-    "page_start_label": "10",
-    "page_start": 10,
     "page_end": 10
   },
   {
-    "index": 3,
+    "index": 2,
     "section": "",
     "author": "Ion Șeuleanu",
     "title": "Revista „Șezătoarea\" — 100 de ani de la apariție",
@@ -27,7 +18,7 @@
     "page_end": 18
   },
   {
-    "index": 4,
+    "index": 3,
     "section": "STUDII",
     "author": "Marianne Mesnil",
     "title": "Aspecte metodologice ale etnologiei europene",
@@ -36,7 +27,7 @@
     "page_end": 26
   },
   {
-    "index": 5,
+    "index": 4,
     "section": "STUDII",
     "author": "Tiberiu Alexandru",
     "title": "Un studiu inedit al lui Ilarion Cocișiu",
@@ -45,7 +36,7 @@
     "page_end": 36
   },
   {
-    "index": 6,
+    "index": 5,
     "section": "STUDII",
     "author": "Ilarion Cocișiu",
     "title": "Despre dialectul muzical ardelean",
@@ -54,7 +45,7 @@
     "page_end": 142
   },
   {
-    "index": 7,
+    "index": 6,
     "section": "STUDII",
     "author": "Romulus Todoran",
     "title": "Cel mai vechi descântec românesc?",
@@ -63,7 +54,7 @@
     "page_end": 146
   },
   {
-    "index": 8,
+    "index": 7,
     "section": "STUDII",
     "author": "Sabina Ispas",
     "title": "Eros-polemos. Comentarii asupra unei balade",
@@ -72,7 +63,7 @@
     "page_end": 158
   },
   {
-    "index": 9,
+    "index": 8,
     "section": "STUDII",
     "author": "Ilona Szenik",
     "title": "Trăsăturile muzicale ale țăpuriturilor din Oaș",
@@ -81,7 +72,7 @@
     "page_end": 184
   },
   {
-    "index": 10,
+    "index": 9,
     "section": "STUDII",
     "author": "Nicoleta Coatu, Soarele",
     "title": "simbol cultural. Aspecte ale antropozoomorfismului solar: capul solarizat",
@@ -90,7 +81,7 @@
     "page_end": 196
   },
   {
-    "index": 11,
+    "index": 10,
     "section": "STUDII",
     "author": "Mihai Al. Canciovici",
     "title": "Universul floral în legenda populară românească",
@@ -99,7 +90,7 @@
     "page_end": 204
   },
   {
-    "index": 12,
+    "index": 11,
     "section": "STUDII",
     "author": "István Pál Demény",
     "title": "Balada „Corbul și Vântul\". Contribuție la cunoașterea epicii mitologice românești",
@@ -108,7 +99,7 @@
     "page_end": 216
   },
   {
-    "index": 13,
+    "index": 12,
     "section": "STUDII",
     "author": "Maria Cuceu",
     "title": "Cununa la seceriș. Contribuții privind structura ritualului",
@@ -117,7 +108,7 @@
     "page_end": 228
   },
   {
-    "index": 14,
+    "index": 13,
     "section": "STUDII",
     "author": "Ioana Bot",
     "title": "Făt-Frumos din Lacrimă și fratele său de cruce",
@@ -126,7 +117,7 @@
     "page_end": 234
   },
   {
-    "index": 15,
+    "index": 14,
     "section": "STUDII",
     "author": "Ion Cruceană",
     "title": "Ceremonialul nunții în comuna Mozăceni—Argeș",
@@ -135,7 +126,7 @@
     "page_end": 246
   },
   {
-    "index": 16,
+    "index": 15,
     "section": "STUDII",
     "author": "Zamfir Dejeu",
     "title": "Feciorește-românește — un dans distinct din zona Huedin—Cluj",
@@ -144,7 +135,7 @@
     "page_end": 256
   },
   {
-    "index": 17,
+    "index": 16,
     "section": "STUDII",
     "author": "Viorel Rogoz",
     "title": "Căsătoria în contextul mentalității arhaice",
@@ -153,7 +144,7 @@
     "page_end": 264
   },
   {
-    "index": 18,
+    "index": 17,
     "section": "CONTRIBUȚII DE ISTORIE A FOLCLORISTICII ȘI ETNOGRAFIE",
     "author": "Dumitru Pop, Clujul",
     "title": "centru de cercetare a culturii populare românești",
@@ -162,7 +153,7 @@
     "page_end": 298
   },
   {
-    "index": 19,
+    "index": 18,
     "section": "CONTRIBUȚII DE ISTORIE A FOLCLORISTICII ȘI ETNOGRAFIE",
     "author": "Iordan Datcu",
     "title": "Folcloriști și etnografi. Pagini de dicționar",
@@ -171,7 +162,7 @@
     "page_end": 326
   },
   {
-    "index": 20,
+    "index": 19,
     "section": "CONTRIBUȚII DE ISTORIE A FOLCLORISTICII ȘI ETNOGRAFIE",
     "author": "Francisc László",
     "title": "Un nou document al colaborării dintre Béla Bartók și Constantin Brăiloiu",
@@ -180,7 +171,7 @@
     "page_end": 332
   },
   {
-    "index": 21,
+    "index": 20,
     "section": "CONTRIBUȚII DE ISTORIE A FOLCLORISTICII ȘI ETNOGRAFIE",
     "author": "Nicolae Bot",
     "title": "Colecția inedită de folclor a profesorului Teodor Murășanu",
@@ -189,7 +180,7 @@
     "page_end": 342
   },
   {
-    "index": 22,
+    "index": 21,
     "section": "CONTRIBUȚII DE ISTORIE A FOLCLORISTICII ȘI ETNOGRAFIE",
     "author": "István Almási",
     "title": "Însemnătatea cercetărilor făcute în Transilvania de László Lajtha",
@@ -198,7 +189,7 @@
     "page_end": 350
   },
   {
-    "index": 23,
+    "index": 22,
     "section": "CONTRIBUȚII DE ISTORIE A FOLCLORISTICII ȘI ETNOGRAFIE",
     "author": "Virgiliu Florea, Agnes Murgoci — o animatoare",
     "title": "în Anglia, a studiilor de folclor românesc",
@@ -207,7 +198,7 @@
     "page_end": 368
   },
   {
-    "index": 24,
+    "index": 23,
     "section": "CONTRIBUȚII DE ISTORIE A FOLCLORISTICII ȘI ETNOGRAFIE",
     "author": "Dumitru Pop",
     "title": "Interesul profesorului Alexandru Borza pentru cultura populară",
@@ -216,7 +207,7 @@
     "page_end": 378
   },
   {
-    "index": 25,
+    "index": 24,
     "section": "SISTEMATICĂ TIPOLOGICĂ",
     "author": "Lucia Iștoc, Elena Hlinca-Drăgan",
     "title": "Tipuri melodice ale cântecului de cunună la seceriș",
@@ -225,7 +216,7 @@
     "page_end": 404
   },
   {
-    "index": 26,
+    "index": 25,
     "section": "SISTEMATICĂ TIPOLOGICĂ",
     "author": "Ion Cuceu",
     "title": "Corpusul Folclorului Românesc. Destinul unei idei",
@@ -234,7 +225,7 @@
     "page_end": 422
   },
   {
-    "index": 27,
+    "index": 26,
     "section": "IN MEMORIAM",
     "author": "Nicolae Bot",
     "title": "Valer Butură (1910—1989)",
@@ -243,7 +234,7 @@
     "page_end": 425
   },
   {
-    "index": 28,
+    "index": 27,
     "section": "IN MEMORIAM",
     "author": "Iordan Datcu",
     "title": "Sabina C. Stroescu (1912—1989)",
@@ -252,7 +243,7 @@
     "page_end": 428
   },
   {
-    "index": 29,
+    "index": 28,
     "section": "IN MEMORIAM",
     "author": "Ion Cuceu",
     "title": "Ovidiu Bîrlea (1917—1990)",
@@ -261,7 +252,7 @@
     "page_end": 432
   },
   {
-    "index": 30,
+    "index": 29,
     "section": "IN MEMORIAM",
     "author": "Ion Cuceu",
     "title": "Gheorghe Vrabie (1908—1991)",
@@ -270,7 +261,7 @@
     "page_end": 435
   },
   {
-    "index": 31,
+    "index": 30,
     "section": "IN MEMORIAM",
     "author": "Ion Șeuleanu",
     "title": "Henri H. Stahl (1901—1991)",
@@ -279,7 +270,7 @@
     "page_end": 438
   },
   {
-    "index": 32,
+    "index": 31,
     "section": "IN MEMORIAM",
     "author": "Hans Friedrich Foltin",
     "title": "Ingeborg Weber-Kellermann (1918—1993)",
@@ -288,7 +279,7 @@
     "page_end": 439
   },
   {
-    "index": 33,
+    "index": 32,
     "section": "IN MEMORIAM",
     "author": "Maria Bocșe",
     "title": "Viorica Pascu (1922—1993)",
@@ -297,7 +288,7 @@
     "page_end": 442
   },
   {
-    "index": 34,
+    "index": 33,
     "section": "NOTE",
     "author": "D. Pop",
     "title": "„Revista de Etnografie și Folclor\" la 38 de ani de existență",
@@ -306,7 +297,7 @@
     "page_end": 444
   },
   {
-    "index": 35,
+    "index": 34,
     "section": "NOTE",
     "author": "I. Datcu",
     "title": "Profesorul Paul H. Stahl",
@@ -315,7 +306,7 @@
     "page_end": 446
   },
   {
-    "index": 36,
+    "index": 35,
     "section": "NOTE",
     "author": "D. Pop",
     "title": "Profesorul Paul H. Stahl și colecția „Sociétés européennes\"",
@@ -324,7 +315,7 @@
     "page_end": 448
   },
   {
-    "index": 37,
+    "index": 36,
     "section": "NOTE",
     "author": "Fr. László",
     "title": "Preliminarii la culegerea de muzică populară românească a lui Zoltán Kodály",
@@ -333,7 +324,7 @@
     "page_end": 450
   },
   {
-    "index": 38,
+    "index": 37,
     "section": "NOTE",
     "author": "V. Zvanciuc",
     "title": "Sensul tradiției",
@@ -342,7 +333,7 @@
     "page_end": 453
   },
   {
-    "index": 39,
+    "index": 38,
     "section": "NOTE",
     "author": "",
     "title": "Proverbul — document de limbă și istorie românească (Al. Stanciulescu-Bîrda) .",
@@ -351,7 +342,7 @@
     "page_end": 456
   },
   {
-    "index": 40,
+    "index": 39,
     "section": "NOTE",
     "author": "István Almási",
     "title": "Sistemul Bartók",
@@ -360,7 +351,7 @@
     "page_end": 460
   },
   {
-    "index": 41,
+    "index": 40,
     "section": "NOTE",
     "author": "",
     "title": "Convergențe spirituale. Spre tărâmurile unei ecologii culturale (Ana P. Fabian) .",
@@ -369,7 +360,7 @@
     "page_end": 461
   },
   {
-    "index": 42,
+    "index": 41,
     "section": "NOTE",
     "author": "H. Markel",
     "title": "Ediție completă a repertoriului popular cântat de sași",
@@ -378,7 +369,7 @@
     "page_end": 464
   },
   {
-    "index": 43,
+    "index": 42,
     "section": "NOTE",
     "author": "I. Datcu",
     "title": "Traian Gherman în scrisori către Gheorghe Vrabie",
@@ -387,7 +378,7 @@
     "page_end": 468
   },
   {
-    "index": 44,
+    "index": 43,
     "section": "NOTE",
     "author": "H. Markel",
     "title": "Cercetarea etnografică a naționalităților",
@@ -396,7 +387,7 @@
     "page_end": 470
   },
   {
-    "index": 45,
+    "index": 44,
     "section": "NOTE",
     "author": "",
     "title": "O impunătoare sursă documentară în studierea mitologiei românești (V. Tihan) .",
@@ -405,7 +396,7 @@
     "page_end": 472
   },
   {
-    "index": 46,
+    "index": 45,
     "section": "NOTE",
     "author": "P. Mureșan",
     "title": "Ceasul slab",
@@ -414,7 +405,7 @@
     "page_end": 474
   },
   {
-    "index": 47,
+    "index": 46,
     "section": "NOTE",
     "author": "I. Datcu",
     "title": "Ion Mușlea despre „titlul de glorie\" al lui Artur Gorovei",
@@ -423,7 +414,7 @@
     "page_end": 475
   },
   {
-    "index": 48,
+    "index": 47,
     "section": "NOTE",
     "author": "I. Datcu",
     "title": "Opera inedită a lui Ion Pop Reteganul",
@@ -432,7 +423,7 @@
     "page_end": 476
   },
   {
-    "index": 49,
+    "index": 48,
     "section": "NOTE",
     "author": "V. Florea",
     "title": "I. G. Sbiera către M. Gaster",
@@ -441,7 +432,7 @@
     "page_end": 477
   },
   {
-    "index": 50,
+    "index": 49,
     "section": "NOTE",
     "author": "I. Datcu",
     "title": "O pagină din istoria editării cărții de folclor și etnografie",
@@ -450,7 +441,7 @@
     "page_end": 478
   },
   {
-    "index": 51,
+    "index": 50,
     "section": "NOTE",
     "author": "Nicolae Băieșu",
     "title": "O nouă ediție din opera lui Gorovei",
@@ -459,7 +450,7 @@
     "page_end": 481
   },
   {
-    "index": 52,
+    "index": 51,
     "section": "NOTE",
     "author": "I. Datcu",
     "title": "Gh. Vrabie și valorificarea estetică a literaturii populare",
@@ -468,7 +459,7 @@
     "page_end": 482
   },
   {
-    "index": 53,
+    "index": 52,
     "section": "NOTE",
     "author": "E. Roșcovan",
     "title": "Proverbe românești din Basarabia și echivalente rusești",
@@ -477,7 +468,7 @@
     "page_end": 484
   },
   {
-    "index": 54,
+    "index": 53,
     "section": "NOTE",
     "author": "H. Markel",
     "title": "Identitate și etnicitate",
@@ -486,7 +477,7 @@
     "page_end": 486
   },
   {
-    "index": 55,
+    "index": 54,
     "section": "NOTE",
     "author": "Iordan Datcu",
     "title": "Alexei Mateevici și creația populară din Basarabia",
@@ -495,12 +486,12 @@
     "page_end": 488
   },
   {
-    "index": 56,
+    "index": 55,
     "section": "NOTE",
     "author": "N. Constantinescu",
     "title": "Documentul folcloric într-o istorie nouă a Țărilor Romîne",
     "page_start_label": "489",
     "page_start": 489,
-    "page_end": 581
+    "page_end": 582
   }
 ]

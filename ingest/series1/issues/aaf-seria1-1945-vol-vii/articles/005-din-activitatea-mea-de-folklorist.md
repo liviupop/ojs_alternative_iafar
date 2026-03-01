@@ -1,110 +1,236 @@
-![image 1](005-din-activitatea-mea-de-folklorist_images/imageFile1.png)
+<!-- Extracted from 005-din-activitatea-mea-de-folklorist.pdf via fitz -->
 
-şi ei, o mărs la preumblare ţînându-să de mâni, Sântilie o mărs să să loapte afară. Sântilie o luat pe luda şi l-o băgat de-o jumătate meter în pământ, luda iar l-o prins pe Sântilie şi nu l-o putut băga pă Sântilie decât o palmă. A trăia oară, l-o băgat Sântilie pă luda până în gurmazi. „No, o zîs luda cătă Sântilie, ne prindem fartaţ, că acum noi sântem tari şi nu ne mai poate bate nime"! — „Noi, zîce mai departe luda, noi am trăi bine, dacă n-ar fi oamenii ăşti care mărg la preumblare" (oamenii erau cu spatele cătă ei). — No, lasă, ice Sântilie, că-i găt eu He pe lume". S-o luat şi s-o dus şi o dat cu sabia în ma-sa ş-o picat jos. Ş-o dat cu sabia în tată-so şi l-o omorît". Da atunci tată-so s-o întors cu capu cătă el şi l-o văzut că-i tată-so.
+A R T I C O L E
+M Ă R U N T E
+„DIN ACTIVITATEA MEA DE FOLKLORIST"
+Sub acest titlu, directorul „Arhivei de folklor a Academiei Române" a
+binevoit să-mi comunice un mic chestionar cu următoarele întrebări adre­
+sate subsemnatului, ca unui (fost) folklorist:
+„Când aţi început să faceţi culegeri?
+Ce v'a îndemnat — cine? Exemple ale altora?
+Afi cules personal sau prin elevi?
+Amintiri deosebite din timpul culegerilor; informatori mai interesanţi, etc.
+Cu ce folklorişti români şi străini afi stat în legătură sau corespondenţă?
+Pentru ce, delà o vreme, n'aţi mai publicat folklor?
+Aveţi sau aţi avut culegeri în manuscris? Unde sunt?"
+In rândurile de mai jos, voiu încerca să răspund întrebărilor puse.
+In anul 1867, cu prilejul şedinţelor Academiei Române (pe atunci „So­
+cietatea Academică Română"), în August, venise la Bucureşti şi Vasile Alecsandri, poetul delà Mirceşti şi dărui colegilor săi — între ei era şi tatăl
+meu, losif Hodoş — câte un exemplar din „Poesii Populare ale Românilor,
+adunate şi întocmite de Vasile Alecsandri" (Bucureşti, 1866).
+Din acest exemplar, adus în orăşelul Baia-de-Criş, din ţinutul Zarandului,
+tatăl meu ne citea seara, în familia cu câţiva copii de şcoală, unele ba­
+lade, ca bunăoară „Mioriţa, Movila lui Burcel, Brâncoveanul Constantin",
+ş. a. în vacanţa anilor şcolari următori, nu numai că citeam şi noi, copiii de
+şcoală, ci le şi recitam, la ocazii, în cercurile celor iubitori de limbă şi
+versuri româneşti din culegerea lui Alecsandri.
+1
+Imaginea primă, deşteptată pentru frumuseţile din poezia poporului, mi-a
+fost susţinută şi întărită de unii profesori ai şcoalei noastre secundare, între
+care ţin să amintesc pe Ion Al. Lapedatu, delà Braşov, ca mare admirator
+al cântecului poporal.
+Mi s'a lărgit această imagine pe timpul studiilor universitare. Tocmai la
+1 Cel ce, la vârsta d e 7 sau 8 ani, se d e o s e b i a
+prin
+„ a r t a " d e a spune versuri din
+b a l a d e , era fratele m e u , scriitorul d e mai târziu Ion G o r u n .
 
-După ce l-o omorît, s-o dus Sântilie la nouăzăcişinouă de popi, să spuie ce păcate are el şi pe toţ i-o omorît, că niciunul nu i-o putut face canonu. Până o ajuns la un călugăr şi o zîs călugăru: „No, stai aci la masă, cu un pahar de vin şi un fîpoi de pită". Şi călugăru o închis iute uşa pe el. Da aclea l-o găsît la anu şi llie avea barbă până la piept şi albă şi el o adurmit,acolo. Şi llie o zîs că nu să poate scula. — „No, zice călugăru, te-nburdă cu scaonul jos şi te roagă de pământ să te ierte, că Dumnezău te-o iertat". Şi s-o rugat şi s-o sculat iar tânăr, cum o fost şl s-o dus la Dumnezău: „Doamne, îmi dă armele tale să mărg eu a tuna cu ele". — „Mă llie, armele mele îs foarte grele şi mă tem că te-i vătăma cu eile". „N-ai bai, grija mea de ele". Şi i-o dat armele. Sântilie s-o apucat a trâşni după luda şi l-o prins şi l-o băgat în lanţ şi o zîs că atâta robie ai, până îs Pastile în Maiu (da Pastile totdeauna-s în Prier), luda tot aşa zîce: „Paşti în Maiu, Paşti în Maiu" până să scapă de zîce: „Paşti în Prier". Şi atunci iar să îngroaşe lanţu şi nu poate scăpa.
+Budapesta, mi-a fost dat să primesc, ca dar din partea profesorului de is­
+torie romană, Carol Torma, filoromân şi membru onorar al Academiei Ro­
+mâne,
+ 1 gn volum din culegerea de poezii populare Jarnik-Bârseanu. (Ob­
+serv că numitul profesor n'avea înscrişi la cursul său de atunci, decât doi
+studenţj: unul sas, Schullerus, delà Sibiu, al doilea —
+subsemnatul).
+Volumul Jarnik-Bârseanu, cu doinele şi strigăturile ardeleneşti, mi-a slujit
+mai târziu ca îndemn de urmat, cu atât mai vârtos că această culegere era
+opera fostului meu profesor Ion Micu-Moldovanu delà Blaj. Deşi aparţinând şcoalei cipariane, Moldovanu a manifestat, spre deosebire de Cip a r i u ,
+2 o deplină înţelegere pentru poezia poporului şi a cerut delà elevii
+săi, 'mai tofi băieţi delà fără, să-şi întrebuinţeze vacantele culegând din
+gura poporului cântece şi alt material folkloristic.
+Intrând în cariera dăscălească în 1889, ca profesor la Şcoala Normală
+(Institutul pedagogic) delà Caransebeş şi dorind să cunosc mai de aproape
+lumea sufletească a satului românesc, am socotit să urmez neapărat exem­
+plul, vrednic de laudă, al profesorului delà Blaj în materie de folklor, Ion
+Micu-Moldovanu.
+Am început astfel, din anul 1890, a face culegeri, în împrejurări când
+ştiinţa folklorului era încă departe de propăşirea înfăptuită la noi în tim­
+purile mai nouă.
+Am cules — mai rar — personal, şi — mai des — prin mijlocirea ele­
+vilor şi elevelor institutului, precum şi a unor membri din corpul didactic
+banäfean. (Motivele, pentru care am apelat la şcolărime, sunt în parte, in­
+dicate în publicaţia mea Descântece,
+scrisă în 1905
+şi
+apărută în 1912,
+(Sibiu, Editura „Asociaţiumi", pag. 6),
+Dintre amintirile deosebite din timpul culegerilor, reţin câteva din cele
+comunicate de elevi localnici (numele lor şi ale comunelor unde s'au .făcut
+culegeri, sunt înşirate în prefaţa vol. I din: Poezii
+pop. din
+Banat).
+Aşa
+bunăoară, în ţinutul Almăjului şi în alte părţi, când ţăranul bănăţean vrea
+să audă un „cântec de bătrâneţe" (baladă), porunceşte lăutarului:
+—
+„Dzâ-mi una djin bătrâni" sau „dzâ-mi una dje bătrâneţe!"
+Se mai zice:
+—
+„Dzâ-mi una dje masă", când, bunăoară, nuntaşii se aşează la mân­
+care. E, de obiceiu, tot baladă. Când se ridică masa, lăutarul primeşte co­
+manda:
+—
+„Acuma trage-mi una dje joc" va să însemne, nu mai ^'ice din gură,
+ci trage din arcuş. Lăutarul trage: o horă, o ardeleană, o logojană, ori alt
+joc.
 
-![image 2](005-din-activitatea-mea-de-folklorist_images/imageFile2.png)
+3
+1
+Ales în anul 1882. Răposat în 1897.
+5 Pentru f i l o l o g u l şi istoricul
+care a fost canonicul blăjan C i p a r i u ,
+balada ţăranului
+român —
+d u p ă chiar p r o p r i a - i mărturisire —
+este lipsită d e o r i c e valoare estetică.
+3
+A l t e amănunte a se v e d e a în v o i . „Literatura Z i l e i " (Sibiu, 1 9 4 1 , p a g . 99 s.u.),
 
-Cân o is de-o mărs de fafă la Dumnezău, luda o făcut mare ciufală cu raiu. O furat, până o fost rob llie, ciubăru botezului, crucea, cădelniţa, hainele de lăturghie, cartia şi le-o adus în iad. Cân o cerut llie armele, o zîs: „Trâşneşte rar şi fulgeră des şi te du în iad şi prinde pe luda". El, cân SrO apropiat de luda, odată: „Bum!" de s-o legănat iadu. „Mă, o hi ieşit tâlharu acela din robie de o trâşnit spurcat aşş". Cân o trâşnit a doua oară, s-o legănat şi mai tare. A trîia oară: „Hâm!" şi s-o despicat iadu în trîi şi o tins fuga. llie o zis: „Nu fugi, leagă-le toate laolaltă şi ie-le în spate, să le punem ine o fost". O mărs apoi la Dumnezău şi o dat legea să hie rob până îs Pastile în Maiu.
+în corespondentă foklorică am stat cu Jarnik, ale cărui scrisori le-am dă­
+ruit „Arhivei de Folklor a Academiei Române". Cu folklorişti români n'am
+avut altă legătură, decât schimbul unor volume, cerute de învăţătorii PopReteganul din Ardeal şi Gheorghe Cătană din Banat,
+1 precum şi comenzi
+primite delà profesorul Sîrcu din Leningrad (Petrograd).
+După plecarea din Caransebeş (1905), n'am mai făcut culegeri. Dar, la
+redacfiunea „Telegrafului Român", al cărei membru sunt, am primit multe
+cântece populare trimise de pe front; au şi apărut unele, ca documente
+grăitoare din războiul delà 1914—1918. Am publicat, despre aceste cân­
+tece „cătăneşti", câteva notije în cartea pomenită: Liieraiura
+zilei (pag. 107).
+Sprijin moral pentru publicarea culegerilor, mi s'a dat peste aşteptare,
+atât din partea particularilor, cât şi a unor aşezăminte culturale; sprijinul
+material a fost, în schimb, mult prea redus pentru a putea continua cu zor
+o muncă plăcută, dar împreunată cu felurite greutăţi şi neajunsuri.
+ENEA HODOŞ
+MATERIAL ROMÂNESC ÎN CERCETĂRILE DE
+FOLKLOR COMPARAT
+In articolul nostru despre „Snoava cu femeia necredincioasă" (Anuarul II,
+p. 195), am arătat ce loc redus ocupă, în general, materialul românesc în
+cercetările de folklor comparat ale străinilor, în special ale nordicilor. Vina
+nu trebue aruncată pe autorii acelor studii, ci pe lipsa de culegeri sufi­
+ciente făcute în toate ramurile folklorului românesc, de o parte; iar d e alta,
+pe necunoaşterea limbii noastre de către acei cercetători. Cât i-a fost po­
+sibil, Arhiva noastră a încercat să completeze astfel de lipsuri, stând la
+dispoziţia învajatilor străini, atât cu informaţii bibliografice, cât şi cu an­
+chete întreprinse anume, între corespondenţii Arhivei, pentru a găsi mate­
+rial inedit. Rezultatele au fost foarte satisfăcătoare şi mulţumirea noastră
+deosebită, când unii învăjati străini, ca acel despre care va fi vorba mai
+jos, au ajuns să nu ne mai considere între popoarele care nu răspund ce­
+rerilor de informaţii folklorice . . .
+în cele următoare vom prezenta două din cercetările făcute în ultimul
+timp de folkloriştii nordici, în care s'a utilizat şi material românesc, trimis
+de Arhiva noastră. Prezentarea acestor lucrări o socotim interesantă şi utilă.
+Aceasta nu numai pentru problemele puse, ci şi pentrucă cercetările de
+1 C â n d mi-a cerut să-i r e v ă d un manuscris de poveşti
+bănăţene.
 
-Câm p — Irimie Moş, 70 ani
-
-212.
-
-O fost nişte oameni şi s-or dus la lucru şi ei mărgân pe drum li-o ieşit un şşrpe alb pe drum şi l-o omorît. Ei n-o ştiut de ce-i bun, până o auzît, inde-o durmit, de ce-i bun. Da acolo o fost o babă. — „Coată, babă, că
-
-![image 3](005-din-activitatea-mea-de-folklorist_images/imageFile3.png)
-
-CERCETĂRI FOLKLORICE ÎN JUD. BIHOR 113
-
-noi am găsît un şerpe în drum şi l-am omorît?" „Apă inde-i?" — „Aici". Baba s-o pus ş-o tăiat şerpele tăt dărăburi şi l-o pus pe poliţă şi atunci q acleâ o zis (o crezut că dorm oamenii): „Asta-i bun, că cine o mânca din el, ştie ce vorbesc marhăle". Şi ice că o vorovit cocoşu'l cătă ghini: „Cucurigu, ice, din prag, săracu gazdă meu, ce-o păfi el astară, că, ice, muerea clocoteşte o oală de apă, să-l opărească la noaptea asta". Un popă s-o suit călare pe o iapă najosu, la vale. Iapa o zis: „Bată-te Dumnezău, omule, cum nu te pof pricepe să te scobori de pe mine najosu, că greu nu-i mai mare decât aiesta, că te sui pe mine najosu.
-
-Câmp — Todor Nica, 80 ani. 213.
-
-Când o umblat Dumnezău cu Sânchetru pă pământ, atunce o nimerit la o muere săracă, de avş cinci copii, c-o fost băgată o baligă de vacă în foc să ogoaie pruncii, că-i pită. Pruncii tot cereau: „Scoate, maică, pogacea, că n-i foame". Da e-i iera ruşine de Sfântu Patru. Da Sfântu Patru ştia şi
-
-- o întrebat: „Da ai făcut pogace, scoate-o şi le dă la copii, că l-i foamei"! Ea n-o avut ce face şi i-o spus la Sânchetru. „Da, ia coată, zîce Sf. Patru, de le dă la copii, să nu mai plângă"! Şi o scos o pită, cât o roată de plug, ca neaua. O zîs: „Doamne, Doamne, ce ne-ai dăruit? Mulfamim Iu Domnu Dumnezău, că ne-a dat". Ş-o scos pogacea şi i-o rugat şi pe ei să mance. Tot Sâmpetru a fost vorovind, Dumnezău n-o fost vorovind. După ce o plecat, Patru o zîs: „Doamne, Doamne, ce mare bine ai făcut, că ai făcut pomană cu femeia aceia"! Şi s-o luat şi s-o dus de acolo. Cân
-- o fost pă sară, o nimerit la un bghirău. Şi o fost muerea bghirău. Şi muerea o zîs cătă bărbat: „Eu mă duc în piafă, tu ai să faci aluatu şi coace, fîpă vifei la vaci şi le mulge şi ciupăeşte pruncu şi-l aluă şi mai pof lucra". El o pus apă la foc şi o băgat apa clocotind în ciupă şi copilu
-- o fîpat odată ş-o murit. El o crezut că acum s-o alinat şi doarme. S-o dus să coacă. O băgat pita în cuptoriu. O avut nişte gâşte să le dea de mâncare. Gâştele o căfăit cătă el. El o dat cu bâta şi le^o omorît. Muerea o zîs să aleagă şi unt. El, cernând făină, o legat ghiobu deasupra fundului, că s-alege şi untu. Smântână toată s-o vărsat pe fund. O ţipat vifau la vacă. Tăt o supt vacile. O vint un om să-i dee vinars ş-o lăsat vifăii la vaci, o luat cepu la bute. El ş-o dus aminte că-s vifăii la vaci şi o fugit cu cepu în brâncă la vaci. Vinarsul o curs pă jos din hărdău.
-
-
-![image 4](005-din-activitatea-mea-de-folklorist_images/imageFile4.png)
-
-Sara o venit Sânchetru cu Dumnezău şi o cerut sălaş. — „V^aş da, oamenii lui Dumnezău, da am o muere yiravă şi îi ghirău şi om avea bai cu ea"! — „Nu-i bai, că ne-om împăca noi cumva cu ea". . . S-o suit'în pat. Dumnezău o fost de cătă părete, Sfântu Patru de cătă răstalnijă. Şi atunci zop, muerea!
-
-— „Bună sara, bărbate:'
+126
+I O N
+MUŞLEA
+acest gen nu se găsesc, de obiceiu, în bibliografiile folklorice româneşti,
+deoarece din titlul lor nu se vede că ele se ocupă şi de folklorul nostru.
+Oskar Loorits, un foarte serios şi bine cunoscut cercetător eston, se ocupă în Pharaos Heer in der Voiksüber/ieferung (Tartu, 1935), de oameni ipeşti, cunoscuţi la noi sub numele de „faraoni" sau „faraonoaice", care ar
+reprezenta pe urmaşii Faraonului şi ai armatei sale înnecate în Marea Roşie.
+I s'a putut trimite şi a şi utilizat următorul material publicat în româneşte:
+Tudor Pamfile: Mitologie
+românească,
+I (Bucureşti, 1916, p. 301) şi E. Niculiţă-Voronca: Datine
+şi credinţe...
+(Cernăuţi, 1903, p. 999); iar, ca ma­
+terial inedit, două comunicări primite de Arhiva noastră, una din Valea
+Copcii-Mehedinţi (No. 420), alta din Miroşi-Teleorman (No. 445).
+„Spre deosebire de răspunsurile negative primite din Serbia —
+spune
+Loorits, la p. 158 —
+se constată deci o legătură între Faraon şi fiinţele
+omeneşti
+cu coadă de peşte cunoscute în România, precum am
+putut
+stabili, de altfel, pentru toată Europa estică.
+Acum se pune însă interesanta chestiune: au ajuns aceste ştiri, la Ro­
+mâni, numai în timpurile mai nouă, delà Ucrainieni, sau putem pune, cu
+toi mai multă convingere, ipoteza, atât de elocventă din punct de vedere
+istoric-cultural, că miturile despre transformarea lui Faraon s'ar fi născut
+încă în Bizanţ,
+centrul de odinioară al ortodoxiei greceşti şi transmiţătorul
+atât al tradiţiilor antichităţii clasice, cât şi ale orientului apropiat, înspre
+Balcani, Europa estică şi ţările baltice şi scandinave, până în Nord, spre
+Islanda"?
+i
 
 1
+Dată fiind această problemă importantă, pusă în legătură cu materialul
+românesc, am continuat cercetările, reuşind să mai descoperim şase va­
+riante ale acestui motiv, pe care le dăm în cele următoare:
+a) „Faraoni.
+Despre ei poporul crede că-s jumătate om, jumătate pe­
+şte. Ei au scos şi scot cântecele de dragoste". (Arhiva de Folklor a Aca­
+demiei Române, Manuscris No. 964, p. 27. Cules în 1937, din Uda-Tătăruşi,
+jud. Baia, de Elena Gh. Stoian, învăţătoare).
+b) „Sunt peşti care cântă: „Faraon, faraon". Jumătate-i peşte, în jos şi
+în sus îi om, numa trăieşte în apă. Ăia îs delà Faraon, când o trecut prin
+Marea Roşie şi l-o acoperit apa. Din Faraon şi din oamenii lui s'o făcut
+peşti". (Arhiva de Folklor, Ms. No. 863, p. 5. Cules în 1936, în Baru-Mare,
+jud. Hunedoara, de Prof. Victor I. Oprişu).
+c) „Faraoance. Zânele trăesc în apă şi până la brâu sunt femei frumoase,
+iar delà brâu în jos sunt peşti. Care sunt mai tinere, cântă de joc, iar cele
+mai bătrâne de jăle. Ele au stârnit jocurile şi cântecele". (Arhiva de Folk­
+lor, Ms. Nr. 773, p. 2—3. Cules în 1935, în Boroaia, jud. Baia, de Ecat.
+C. Covataru, învăţătoare).
 
-![image 5](005-din-activitatea-mea-de-folklorist_images/imageFile5.png)
-
-— „Bună sara"!
-
-— „Coaptă-i pita"?
-
-— „Coaptă"!
-
-— „Untu alesu-l-ai"?
-
-— „Ales"!
-
-— „Da la gâşte dat-ai? Vacile mulsu-le-ai? Da pruncu l-ai ciupăit"?
-
-— „Pruncu l-am băgat în ciupă şi-o tot durmit"! S-o dus să-l vadă: „Da el îi mort!"
-
-Da i-o vait pe sălăii.
-
-— „Da ce sălăi ai tu acolo"?
-
-— „Da nişte oameni năcăjit"I
-
-Şi s-o apucat cu bâta de Sânchetru, până s-o rupt bâta. — „No, acum să mă duc să iau alta"! Dumnezău o zîs cătă Sânchetru: „Mută-te cătă părete, să nu mâne tot pă tine"! Şi q o dat tăt pe Sânchetru. No, s-o culcat ş, că a fost bată. Şi s-o sculat Dumnezău şi Sânchetru, de s-o dus afară: — „Doamne, Doamne, o zîs Sânchetru, nu mai lăsa să hie muerea bgh;-
-
-- rău!" Şi de atunci or cherdut ele coroana de bghirăijă. Şi s-o dus omu ş-o întâlnit un ficior durmin supt un păr şi de lene nu
-- să scula să ridice perele. S-o tot mutat cu gura, să-i pchice în gură. „Doamne, oare ce-o fi cu ficioru aiesta, că nu să poate scula să-ş bage în gură?" Şi s-o luat mai departe şi o nimerit la o fată săcerân la grâu. Da Sânchetru o zîs: „ — N-ai, fată, un ol cu apă, să ne dai să bem?" Da e o zîs: „îs face bine şi hodinit, că odată mă Jîp şi aduc apă rece!" Ş-or băut. Ş-amu d-acolea or purces. O zîs Sânchetru: — „Doamne, oare cum o trăi omu ăla lenios şi fata harnică, asta cum lucra?!" — „No, zice Dumnezău, fata asta după ficioru ăla să mărită". — „Da, Doamne, Doamne, cum să-şi mance fata zîlele cu leniosu ăla?" — „Vezi, cât pot tu pricepe că pe Isniosu ăla îl mancă porcii, dacă nu-l mişcă cineva de acolo".
-
-Câm p — Irimie Moş, 70 ani.
-
-214. Feciorul de împărat şi lupul ou cap d e fier
-
-O fost un ficior de-mpărat. Cân s-o născut, i-o ursît ursîtorile că cân o fi de şşpte ani, l-o tuna Sântilie sau cân o me. la cununie, l-o mânca un lup cu cap de fer. Ş-atunci tata lui o înfăles ş-o făcut un zîd înt-acei şşpte ani. Ş-atunce când o fost şşpte ani, o zîs împăratu, tata pruncului: „Să te bagi, pruncule, acolo în zîd, să nu te tune Sântilie"! Pruncu o zîs: „Tată, io nu mă bag acolo, numa Dumrîavoastră aducej o masă şi scaon în mijlocu curtî şi io m-oi ruga la Dumnezău. Facă Dumnezău ce-o vrea cu mine. Io acolo nu mă bag!" Şi când o fost la amniază}, o trăsnit în zîd,
-
-- tăt l-a sfărmat. Băiatu a rămas sănătos. Atunci cân o fost să margă la cununie, s-o luat cu armata şi cu tunu.
-
-
-![image 6](005-din-activitatea-mea-de-folklorist_images/imageFile6.png)
-
-![image 7](005-din-activitatea-mea-de-folklorist_images/imageFile7.png)
-
-Şi înt-o vreme vede napoi vinind un lup cu oap cTi fier şi dădeau cu funu, el tăt vinş. Atunci plruncu să ie. şi fuge şi lasă armata şi să duce până
-
-- pă sară la Sfânta Joie. Şi atunci spune ce s-o tâmplat cu ejl. Sfânta Joie îi răspunde: „Băiet'e, te hodineşte, că eu am o căţaua şi-l sîmte de trii mile de pământ ş-atuncia când a bafe, îi pleca şi-i fugi". Şi s-alinat băiatu. Noapfş, într'o vreme, aude căţaua bătând. Ş-atunci tătă zua tăt fuge, până sara. Şi atunci sosăşte la Sfânta Vineri şî-ri spune baiu. Sfânta Vineri îi răspunde: „Te poţ hodini, că am o căţaua şi-l sîmte de şasă mîle de pământ şi când o bate căţaua, îi pleca şi îi fugi mai d'epad'e". Aşe. s-o alinat. Noapte., înt-o vreme, bate căţaua, iar capătă un colac (căpătase şi delà Sfânta Joie!) şi pleacă la drum toată zua. Sara sosăşte la Sfânta Sâm­
-
-
-- bătă şi-i spune baiu. Sfânta Sâmbătă îi răspunde: „Ti—I hodjpi, că am o
-- căţaua şi-l sîmfe de nouă mile de pământ". Şi s-o pus la hodină. Noaptş, într-o vreme, s-aude bătând căţaua ş-atunci îi dă un colac şi pleacă la drum toată zua. Sara sosăşte la Sfânta Duminecă şi-i spune baiu. Sfânta Duminecă zîce: „Ti-i hod'ini, că am o căţaua şi-l sîmte la douăsprăzece mile de pământ şi cân a bafe q, îi pleca la drum". Aşe. să alină. Noaptea, într-o vreme, aude căţaua bătând. Atunci capătă o ştergură şi pleacă la drum. Sfânta Duminecă i-o spus: „Să treci apa asta şi-i pune ştergura peste apă şi s-a face pod şi-i trece acolo. Acolo nu poate să te mancei că nu poate trece apa". Atunci o mărs până la apă ş-o ţipat ştergura pă apă şi i s-o făcut pod. O trecut de ceea parte. Atunci o prins de pod puţjn, i s-o făcut ştergură-napoi.
-
-
-![image 8](005-din-activitatea-mea-de-folklorist_images/imageFile8.png)
-
-Atunci o mărs pen pustiu, o umblat multă vreme. A dat pe la o muere ce avş o fată şi avş vo câteva capre. Zîce fata: „Mamă, văd un om, ar fi bun păstoriu la caprele noastre". Mama zîce: „Cheamă-I în casă". Fata merge şi-l cheamă. Mama zîce: „Băiete, nu t'i-i băga slugă la capre?" El zîce: „Ba, da, m-oi băga". Ş-o stat la capre câtva timp. (Din cei trei colaci s-o făcut trei câni. Pă unu Io- chemat „Aud'e-bine", pe unu „Ved'ebirie", pe unu „Greu-ca-pământu").
-
-Şi sta câtva timp şi mama fetii zîce: „Să-l întrebi că ce fel de băiet, d-ind'e vine?" Fata l-o-ntrebat. El i-o răspuns: „Eu sunt fecior de-mpărat ş-am fugit, că o curs un lup cu cap de fqr după mine, să mă mance şi pentru aceia am fugit". Fata merge la mama iei şi-i spune. Mama fetii ice să-l întrebe cum o trecut el apa. El o spus: „Am o ştergură ş-am pus-o pă apă şi s-o făcut pod ş-aşe. am trecut apa. Atunci puţin am tras de pod şi ni s-o făcut ştergura-napoi". Fata merge la ma-sa şi-i spune, că cum o trecut el apa. Mama fetii zîce să-l întrebe, că ind'e ţine el ştergura. Fata l-o-ntrebat că incfe-i ştergura. „La mine", ice. Fata zîce: „Las-o acasă, să n-o perzi pe-acolo, pela capre". Şi o lăsat-o. Ş-atunci fata o mărs cu ştergura la apă şi o ţîpat ştergura pe apă şi o trecut lupu. Şi lupu ăla o fost frate d'e-al fetii. L-o fost blăstămat ma-sa, să-l facă Dumnezău lup cu cap
-
-![image 9](005-din-activitatea-mea-de-folklorist_images/imageFile9.png)
-
-de fer, să nu aibă stare şi alinare până nu p mânca un ficior de împărat. Ş-atunci lupu vini acasă şi să vorbş cu mama lui, că cum să-l mance, că el nu-l poate să-l mance, că-l omoară cânii lui. Şi mama lui zîce: „Tu, fată, spunö-i să lese cânii acasă, că tu ai mai merge cu el la capre şi nu mei, că te femi de câni, că te mancă".
-
-Şi aşş el o închis cânii într'on grajd şi atunci fata a mărs cu el la capre. Cându-i odată vede lupu, vine cătă el. Atunci să suie înt-on fag. Lupu sosîşte acolo-şi zîce: „Acuma te cobor, să te mâne, că ştii că am umblat după fine". El zîce: „Na o opincă ş-o mancă întâie". în timpu acela el a grăit pe un câne, o zis: „Na, Aude-bine"! Cânele o auzît glasu stăpânuso. Atunci grăieşte lupu: „Cobori" zîce el. „Na şi astalaltă opincă!" Grăieşte pe altu câne. Cânele aude şi-i spune la cel mai mare, la „Greu-capământu" şi zîce: „Taci, eu n-am auzit!" şi lupu zîce: „Cobor!" El zîce: „Mai na, mancă şi jumătatea iesta de cojoc!" Iară strigă pe altu câne. Cânele aude, spune la Greu-ca-pământu. Zîce: „Eu n-am auzit!" Lupu zîce: „Cobor!" Atunci strigă pă Greu-ca-pământu şi zîce Greu-ca-pământu cătă Uşor-ca-vântu: „Du-te şi-l ţîne pă loc, până sosăsc eu!" S-o dus cânele şi l-o ţînut în loc, până a sosît Greu-ca-pământu. Atunci o sosît Greuca-pământu ş-a pus o labă pă el ş-atunci i-o grăit, o zis ficioru de împărat cătă gazda lui, cătă fată. „Ce vrei să las nezdrobjit?" Zice gazda: „Totul zdrobeşte, numa maiu şi plumânile lasă-le nezdrobite". Atunci tăt l-o zdrobit şi numa maiu şi plumânile nu. Şi iei s-o coborît din fag şi o făcut un foc şi o făcut o frigare şi i-o tras maiul şi plumânile în frigare şi le-o fript şi tot pe obraz la fată o dat cu ele, până fot o fript-o.
-
-![image 10](005-din-activitatea-mea-de-folklorist_images/imageFile10.png)
-
-Şi fata mş acasă tătă friptă pă obraz şi spune la mamă-sa. „No, mamă, frafele meu îi tăt zdrobit şi iacă, ce-o făcut cu mine". Mama zîce: „Oase nu ai găsit din el? Zîce fata: „Oase poate că aş găsî". No, du-te şi adu câteva"! S-o dus fata şi o adus câteva oasă ş;i le-o pus noaptea la el la cap şi o murit. Cânii, la efimineaţă, l-o văzut mort şi zîce cânele ăl mare, adică Greu-ca-pământu: „Meţ în lume, cătă cei trîi câni şi cotaţi buruiană învietoare"! S-o dus acaia trîi câni. Unu s-o-ntâlnit cu-n şerpe. Şi cânele l-o văzut c-o buruiană în gură şi o zîs: „Ce buruiană ai în gură?" Şerpele o zîs: „Am un pui mort, l-am aflat mort şi duc să-l înviu". Cânele zîce: „Să faci bine să mi-o dai mie, că mi-o murit gazda rieu şi te du să-f cau[ alta". Şarpele zîce: „N-o dau, că de două zile caut ş-^acuma am aflat-o". Atunci cânele luă pe şşrpe de pestă m)ijloc şi trânti cu el de pământ ş-atunci scăpă buruiana.
-
-Cânile o luă buruiana şi vini cu ea la stăpânu-so şi l-a frecat cu buruiană şi a înviat.
-
-Atunci zîce cătă bătrână: „Să-m dai ce am la tine şi sîmbrie cât avem înţelegere".
-
-Şi i-o dat, că s-o femut că le prapade şi pe ele. Ş-a plecat până la apă
-
+d) D-l Prof. Emil Pefrovici, delà Universitatea din Cluj, a binevoit să ne
+comunice următoarele
+informaţii
+culese din
+Limanul, jud. Constanţa, în
+anul 1939:
+Faraonii. Au fost „nişte oameni necredincioşi". Ei goneau pe Moise când
+a plecat cu ai lui din Egipt. Moise a ajuns la malul Mării şi a despărţit
+apele. A început să meargă ca pe uscat, să treacă dincolo. Faraonii au
+intrat după Moise, dar apele mării s'au încheiat peste ei şi ei „a rămas vii
+în apă, a rămas faraoni, oameni de apă".
+Au şi femei, „faraonoaice" şi
+copii, subt apă. Câte odată se văd ieşind la suprafaţă. Nu fac nimănui nici
+un rău. Se zice că la a doua venire vor ieşi cu toţii din apă şi se vor face
+ca ceilalţi oameni.
+e) în ancheta noastră personală pe Valea Gurghiului (jud. Mureş), am
+cules, în 1935, din Caşva, următoarea povestire: „L-o dus lângă
+Marea
+Neagră pe-un fişior din Ibăneşti, să robghiască, o făcut oareşeva. Şi el o
+adus câte şi mai câte cântece de-acolo şi ne povestea că atât de frumoase
+fete sunt, jumătate peşte, jumătate fată. Şi iera bărbaţi voinici, jumătate
+peşte, jumătate bărbalţi! Un fişior, care umbla cu vaporu pe marea, ş-o
+prins o ibomnică d'elea de apă şî-i duşe. struguri şi poame şî i le da. Faraoane, aşa le zîc; la bărbaţi — faraoni".
+f) în vol. V al acestui Anuar, la p. 190, Petre Ştefănucă
+a publicat un
+text (222), cules din Cioburciu, în care e vorba de un „faraon — chip de
+om mititel — " , care ieşea pe malul Nistrului şi striga: „Ni a mînca di cap
+di o m ! " Cine auzea, se 'nneca."
+Materialul românesc ocupă, e adevărat, un loc mai mic, deşi tot atât de
+important, şi în altă cercetare de folklor comparat a aceluiaşi O. Loorits:
+Das misshandelte und sich rächende Feuer (Tartu, 1935). E vorba, aici, de­
+spre dialogul între focurile din dou.ă case, privitor la felul în care e în­
+grijit focul. Faptul că variantele din Balcani lipsesc cu desăvârşire, pe când
+la Români se găseşte, totuşi, una (E.Niculiţa-Voronca, Datine şi credinfe.
+. .,
+Cernăuţi, 1903, p. 1201), face iarăşi pe autor să se întrebe dacă povestirea
+aceasta nu a iradiat tot din Bizanţ?
+Cercetările noastre ulterioare apariţiei studiului lui Loorits
+n'au mai des­
+coperit nicio singură variantă inedită; de aceea apelăm la cei care cunosc
+sau pot culege povestiri cu aceste motive, ca — dându-şi seama de în­
+semnătatea deosebită a materialului românesc pentru cercetările comparate
+şi pentru reala propagandă românească ce se poate face printr'o astfel de
+colaborare — să ne trimită variante, spre a putea ajuta astfel, cu povesti­
+rile poporului nostru, cercetările universale de folklor.
+ION MUŞLEA

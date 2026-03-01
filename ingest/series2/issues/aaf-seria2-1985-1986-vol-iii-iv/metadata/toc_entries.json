@@ -6,19 +6,10 @@
     "title": "Prefață",
     "page_start_label": "9",
     "page_start": 9,
-    "page_end": 9
-  },
-  {
-    "index": 2,
-    "section": "",
-    "author": "",
-    "title": "ABREVIERI",
-    "page_start_label": "10",
-    "page_start": 10,
     "page_end": 10
   },
   {
-    "index": 3,
+    "index": 2,
     "section": "",
     "author": "",
     "title": "Folclorul românesc — vechime, statornicie, originalitate",
@@ -27,7 +18,7 @@
     "page_end": 14
   },
   {
-    "index": 4,
+    "index": 3,
     "section": "STUDII",
     "author": "Ion Taloș",
     "title": "Miorița și vechile rituri funerare la români. I.",
@@ -36,7 +27,7 @@
     "page_end": 35
   },
   {
-    "index": 5,
+    "index": 4,
     "section": "STUDII",
     "author": "Nicolae Bot",
     "title": "Rituri funerare: vechime și semnificație",
@@ -45,7 +36,7 @@
     "page_end": 59
   },
   {
-    "index": 6,
+    "index": 5,
     "section": "STUDII",
     "author": "Adrian Fochi",
     "title": "Izvoare bizantine interesînd folcloristica românească",
@@ -54,7 +45,7 @@
     "page_end": 70
   },
   {
-    "index": 7,
+    "index": 6,
     "section": "STUDII",
     "author": "Harry A. Senn",
     "title": "Paralele românești în folclorul universal",
@@ -63,7 +54,7 @@
     "page_end": 85
   },
   {
-    "index": 8,
+    "index": 7,
     "section": "STUDII",
     "author": "Ion Șeuleanu",
     "title": "„Schimburile\" — o secvență a ceremonialului nupțial",
@@ -72,7 +63,7 @@
     "page_end": 100
   },
   {
-    "index": 9,
+    "index": 8,
     "section": "STUDII",
     "author": "Ion Cuceu, Maria Cuceu",
     "title": "Actualitatea unei teme etnografice și de folclor: obiceiurile agrare",
@@ -81,7 +72,7 @@
     "page_end": 110
   },
   {
-    "index": 10,
+    "index": 9,
     "section": "STUDII",
     "author": "Corneliu Dan Georgescu",
     "title": "Preliminarii la studiul repartiției zonale a culturii populare românești în funcție de criteriile folclorului muzical",
@@ -90,7 +81,7 @@
     "page_end": 119
   },
   {
-    "index": 11,
+    "index": 10,
     "section": "STUDII",
     "author": "Traian Mirza",
     "title": "Ludicul în cîntecul popular românesc",
@@ -99,7 +90,7 @@
     "page_end": 130
   },
   {
-    "index": 12,
+    "index": 11,
     "section": "STUDII",
     "author": "Iosif Herțea",
     "title": "Cimpoierul—păpușar",
@@ -108,7 +99,7 @@
     "page_end": 160
   },
   {
-    "index": 13,
+    "index": 12,
     "section": "STUDII",
     "author": "Lucia Iștoc",
     "title": "Elemente compoziționale în structura arhitectonică a țipurituri oșenești",
@@ -117,7 +108,7 @@
     "page_end": 174
   },
   {
-    "index": 14,
+    "index": 13,
     "section": "STUDII",
     "author": "Ion Chiș Șter",
     "title": "Cultura populară spirituală românească în perioada medievală. Izvoarele documentare",
@@ -126,7 +117,7 @@
     "page_end": 183
   },
   {
-    "index": 15,
+    "index": 14,
     "section": "STUDII",
     "author": "Hanni Markel",
     "title": "Prima generație de folcloriști sași",
@@ -135,7 +126,7 @@
     "page_end": 216
   },
   {
-    "index": 16,
+    "index": 15,
     "section": "STUDII",
     "author": "József Faragó",
     "title": "Un povestitor maghiar din Cristurul Secuiesc din anii de după 1810",
@@ -144,7 +135,7 @@
     "page_end": 224
   },
   {
-    "index": 17,
+    "index": 16,
     "section": "STUDII",
     "author": "Gabriella Vöö",
     "title": "Zilahy Kiss Károly și folclorul românesc din Transilvania",
@@ -153,25 +144,16 @@
     "page_end": 237
   },
   {
-    "index": 18,
+    "index": 17,
     "section": "STUDII",
     "author": "Mircea Popa",
     "title": "Texte populare într-un vechi manuscris bihorean",
     "page_start_label": "238",
     "page_start": 238,
-    "page_end": 245
-  },
-  {
-    "index": 19,
-    "section": "STUDII",
-    "author": "Iordan Datcu",
-    "title": "Colaboratori ai Arhivei de folclor—Cluj",
-    "page_start_label": "246",
-    "page_start": 246,
     "page_end": 256
   },
   {
-    "index": 20,
+    "index": 18,
     "section": "ANIVERSĂRI UNESCO",
     "author": "István Almási",
     "title": "Zoltán Kodály și cercetarea muzicii populare din Transilvania",
@@ -180,7 +162,7 @@
     "page_end": 265
   },
   {
-    "index": 21,
+    "index": 19,
     "section": "ARHIVA",
     "author": "Virgiliu Florea",
     "title": "Lazăr Șăineanu (1859—1934) către Moses Gaster",
@@ -189,7 +171,7 @@
     "page_end": 319
   },
   {
-    "index": 22,
+    "index": 20,
     "section": "IN MEMORIAM",
     "author": "Petru Idu",
     "title": "Tiberiu Morariu (1905—1982)",
@@ -198,7 +180,7 @@
     "page_end": 322
   },
   {
-    "index": 23,
+    "index": 21,
     "section": "IN MEMORIAM",
     "author": "Gheorghe Cordoș",
     "title": "George Em. Marica (1904—1982)",
@@ -207,7 +189,7 @@
     "page_end": 325
   },
   {
-    "index": 24,
+    "index": 22,
     "section": "IN MEMORIAM",
     "author": "Ion Cuceu",
     "title": "Ioan R. Nicola (1913—1981)",
@@ -216,7 +198,7 @@
     "page_end": 328
   },
   {
-    "index": 25,
+    "index": 23,
     "section": "IN MEMORIAM",
     "author": "Rolf Wilh. Brednich",
     "title": "Robert Wildhaber (1902—1982)",
@@ -225,7 +207,7 @@
     "page_end": 330
   },
   {
-    "index": 26,
+    "index": 24,
     "section": "NOTE",
     "author": "Maria Bocșe",
     "title": "60 de ani de la întemeierea Muzeului etnografic al Transilvaniei",
@@ -234,7 +216,7 @@
     "page_end": 333
   },
   {
-    "index": 27,
+    "index": 25,
     "section": "NOTE",
     "author": "Ion Șeuleanu",
     "title": "Cultura tradițională și destinul ei în actualitate",
@@ -243,7 +225,7 @@
     "page_end": 335
   },
   {
-    "index": 28,
+    "index": 26,
     "section": "NOTE",
     "author": "Ion Șeuleanu",
     "title": "Un remarcabil studiu despre balada populară",
@@ -252,7 +234,7 @@
     "page_end": 337
   },
   {
-    "index": 29,
+    "index": 27,
     "section": "NOTE",
     "author": "József Faragó",
     "title": "Lucrări preliminare la „Etnografia maghiară\"",
@@ -261,7 +243,7 @@
     "page_end": 339
   },
   {
-    "index": 30,
+    "index": 28,
     "section": "NOTE",
     "author": "Andrea Deletant",
     "title": "Studii de interpretare antropologică",
@@ -270,7 +252,7 @@
     "page_end": 340
   },
   {
-    "index": 31,
+    "index": 29,
     "section": "NOTE",
     "author": "Hanni Markel",
     "title": "Dansurile populației germane din Transilvania în atenția folcloriștilor și a practicienilor",
@@ -279,7 +261,7 @@
     "page_end": 343
   },
   {
-    "index": 32,
+    "index": 30,
     "section": "NOTE",
     "author": "Ion Cuceu",
     "title": "„Caietele Arhivei de folclor\"",
@@ -288,7 +270,7 @@
     "page_end": 345
   },
   {
-    "index": 33,
+    "index": 31,
     "section": "NOTE",
     "author": "Hanni Markel",
     "title": "Reeditare și inedit — F. W. Schuster",
@@ -297,7 +279,7 @@
     "page_end": 347
   },
   {
-    "index": 34,
+    "index": 32,
     "section": "NOTE",
     "author": "",
     "title": "Bibliografia internațională a etnografiei și folclorului pe anii 1977—1978 (Ion Taloș) .",
@@ -306,7 +288,7 @@
     "page_end": 349
   },
   {
-    "index": 35,
+    "index": 33,
     "section": "RECENZII",
     "author": "N. Bot",
     "title": "Ovidiu Bîrlea, Folclorul românesc, I—II. București, 1981, 1983",
@@ -315,7 +297,7 @@
     "page_end": 352
   },
   {
-    "index": 36,
+    "index": 34,
     "section": "RECENZII",
     "author": "A. Fochi",
     "title": "Al. I. Amzulescu, Cîntecul epic eroic. Tipologie și corpus de texte poetice. București, 1981",
@@ -324,7 +306,7 @@
     "page_end": 355
   },
   {
-    "index": 37,
+    "index": 35,
     "section": "RECENZII",
     "author": "N. Bot",
     "title": "Constantin Brăiloiu, Opere. Oeuvres, V, București, 1981",
@@ -333,7 +315,7 @@
     "page_end": 357
   },
   {
-    "index": 38,
+    "index": 36,
     "section": "RECENZII",
     "author": "",
     "title": "Dionisie Petcu, Conceptul de etnic. Eseu metodologic. București, 1980 (I. Șeuleanu) .",
@@ -342,7 +324,7 @@
     "page_end": 359
   },
   {
-    "index": 39,
+    "index": 37,
     "section": "RECENZII",
     "author": "I. Taloș",
     "title": "Hermann Bausinger, Utz Jeggle, Gottfried Korff, Martin Scharfe, Grundzüge der Volkskunde. Darmstadt, 1978",
@@ -351,7 +333,7 @@
     "page_end": 361
   },
   {
-    "index": 40,
+    "index": 38,
     "section": "RECENZII",
     "author": "H. Markel",
     "title": "Hermann Strobach (ed.), Geschichte der deutschen Volksdichtung. Berlin, 1982",
@@ -360,7 +342,7 @@
     "page_end": 363
   },
   {
-    "index": 41,
+    "index": 39,
     "section": "RECENZII",
     "author": "I. Almási",
     "title": "Vargyas Lajos, A magyarság népzenéje, Budapest, 1981",
@@ -369,7 +351,7 @@
     "page_end": 364
   },
   {
-    "index": 42,
+    "index": 40,
     "section": "RECENZII",
     "author": "I. Taloș",
     "title": "Adrian Fochi, Estetica oralității. București, 1980",
@@ -378,7 +360,7 @@
     "page_end": 365
   },
   {
-    "index": 43,
+    "index": 41,
     "section": "RECENZII",
     "author": "",
     "title": "Marco Cugno, Dumitru Loșonți, Folclore letterario romeno. Torino, 1981 (M. Cuceu) .",
@@ -387,7 +369,7 @@
     "page_end": 366
   },
   {
-    "index": 44,
+    "index": 42,
     "section": "RECENZII",
     "author": "I. Almási",
     "title": "Szendrei Janka, Dobszay László, Rajeczky Benjamin, XVI—XVII. századi dallamaink a népi emlékezetben. I—II. Budapest, 1979",
@@ -396,7 +378,7 @@
     "page_end": 367
   },
   {
-    "index": 45,
+    "index": 43,
     "section": "RECENZII",
     "author": "I. Taloș",
     "title": "11. Arbeitstagung über Probleme der europäischen Volksballade vom 22. bis 24. August 1980 in Jannina/Griechenland. Jannina, 1981",
@@ -405,7 +387,7 @@
     "page_end": 369
   },
   {
-    "index": 46,
+    "index": 44,
     "section": "RECENZII",
     "author": "I. Taloș",
     "title": "Jahrbuch für Volksliedforschung. Bd. 23—28",
@@ -414,7 +396,7 @@
     "page_end": 371
   },
   {
-    "index": 47,
+    "index": 45,
     "section": "RECENZII",
     "author": "I. Cuceu",
     "title": "Ion Diaconu, Cîntăreți și povestitori populari. București, 1980",
@@ -423,7 +405,7 @@
     "page_end": 373
   },
   {
-    "index": 48,
+    "index": 46,
     "section": "RECENZII",
     "author": "I. Cuceu",
     "title": "G. Dem. Teodorescu, Poezii populare române. București, 1982",
@@ -432,7 +414,7 @@
     "page_end": 374
   },
   {
-    "index": 49,
+    "index": 47,
     "section": "RECENZII",
     "author": "H. Markel",
     "title": "Ernst Klusen (ed.), Deutsche Lieder. Texte und Melodien. Frankfurt am Main, 1980",
@@ -441,7 +423,7 @@
     "page_end": 375
   },
   {
-    "index": 50,
+    "index": 48,
     "section": "RECENZII",
     "author": "I. Cuceu",
     "title": "Gh. I., Neagu (ed.), Cîntece și jocuri de copii. București, 1982",
@@ -450,7 +432,7 @@
     "page_end": 377
   },
   {
-    "index": 51,
+    "index": 49,
     "section": "RECENZII",
     "author": "G. Vöö",
     "title": "Faragó József, Fábián Imre, Bihari gyermekmondókák. Bukarest, 1982",
@@ -459,7 +441,7 @@
     "page_end": 378
   },
   {
-    "index": 52,
+    "index": 50,
     "section": "RECENZII",
     "author": "L. Iștoc",
     "title": "Ligia Toma Zoicaș, Antologie din folclorul copiilor destinată instruirii muzicale. Cluj-Napoca, 1981",
@@ -468,7 +450,7 @@
     "page_end": 379
   },
   {
-    "index": 53,
+    "index": 51,
     "section": "RECENZII",
     "author": "I. Taloș",
     "title": "Lutz Röhrich, Wolfgang Mieder, Sprichwort. Stuttgart, 1977",
@@ -477,16 +459,16 @@
     "page_end": 381
   },
   {
-    "index": 54,
+    "index": 52,
     "section": "RECENZII",
     "author": "I. Taloș",
     "title": "Wolfgang Mieder, Das Sprichwort in der deutschen Prosaliteratur des neunzehnten Jahrhunderts. München, 1976",
     "page_start_label": "382",
     "page_start": 382,
-    "page_end": 383
+    "page_end": 382
   },
   {
-    "index": 55,
+    "index": 53,
     "section": "RECENZII",
     "author": "L. Bot",
     "title": "Angăcitor armâneasâte/Aromunske zagonetke. Beograd, 1980",
@@ -495,7 +477,7 @@
     "page_end": 383
   },
   {
-    "index": 56,
+    "index": 54,
     "section": "RECENZII",
     "author": "",
     "title": "Ovidiu Bîrlea, Eseu despre dansul popular românesc. București, 1982 (I. Cuceu) .",
@@ -504,7 +486,7 @@
     "page_end": 385
   },
   {
-    "index": 57,
+    "index": 55,
     "section": "RECENZII",
     "author": "Harry A. Senn",
     "title": "Gail Kligman, Căluș. Symbolic Transformation in Romanian Ritual. Chicago and London, 1981",
@@ -513,7 +495,7 @@
     "page_end": 387
   },
   {
-    "index": 58,
+    "index": 56,
     "section": "RECENZII",
     "author": "",
     "title": "Brüder Grimm, Kinder- und Hausmärchen. Band 1—3. Stuttgart, 1980 (I. Taloș) .",
@@ -522,7 +504,7 @@
     "page_end": 390
   },
   {
-    "index": 59,
+    "index": 57,
     "section": "RECENZII",
     "author": "Șt. Gencărău",
     "title": "Andrei Oișteanu, Grădina de dincolo. Zoosofia. Cluj-Napoca, 1980",
@@ -531,7 +513,7 @@
     "page_end": 392
   },
   {
-    "index": 60,
+    "index": 58,
     "section": "RECENZII",
     "author": "I. Șeuleanu, M. Márk",
     "title": "Vöö Gabriella, Tréfás népi elbeszélések. Bukarest, 1980",
@@ -540,7 +522,7 @@
     "page_end": 394
   },
   {
-    "index": 61,
+    "index": 59,
     "section": "RECENZII",
     "author": "H. Markel",
     "title": "Felix Karlinger, Emanuel Turczynski (ed.), Rumänische Sagen und Sagen aus Rumänien. Berlin, 1982",
@@ -549,7 +531,7 @@
     "page_end": 396
   },
   {
-    "index": 62,
+    "index": 60,
     "section": "RECENZII",
     "author": "A. S. Ginter",
     "title": "Romanian Folk Tales. Bucharest, 1979",
@@ -558,7 +540,7 @@
     "page_end": 398
   },
   {
-    "index": 63,
+    "index": 61,
     "section": "RECENZII",
     "author": "",
     "title": "Ingo Reiffenstein (ed.). Österreichische Märchen. Düsseldorf-Köln, 1979 (I. Taloș) .",
@@ -567,7 +549,7 @@
     "page_end": 399
   },
   {
-    "index": 64,
+    "index": 62,
     "section": "RECENZII",
     "author": "",
     "title": "Bohdan Mykytiuk (ed.), Ukrainische Märchen. Düsseldorf-Köln, 1979 (I. Taloș) .",
@@ -576,7 +558,7 @@
     "page_end": 400
   },
   {
-    "index": 65,
+    "index": 63,
     "section": "RECENZII",
     "author": "I. Taloș",
     "title": "Günter Hartfiel, Karl-Heinz Hillmann, Wörterbuch der Soziologie. Stuttgart, 1982",
@@ -585,7 +567,7 @@
     "page_end": 402
   },
   {
-    "index": 66,
+    "index": 64,
     "section": "RECENZII",
     "author": "I. Taloș",
     "title": "René König, Die Familie der Gegenwart. Ein interkultureller Vergleich. München, 1978",
@@ -594,7 +576,7 @@
     "page_end": 403
   },
   {
-    "index": 67,
+    "index": 65,
     "section": "RECENZII",
     "author": "I. Taloș",
     "title": "Ina-Maria Greverus, Kultur und Alltagswelt. München, 1978",
@@ -603,7 +585,7 @@
     "page_end": 405
   },
   {
-    "index": 68,
+    "index": 66,
     "section": "RECENZII",
     "author": "H. Markel",
     "title": "Ingeborg Weber-Kellermann, Brauch. Familie. Arbeitsleben. Marburg, 1978",
@@ -612,7 +594,7 @@
     "page_end": 406
   },
   {
-    "index": 69,
+    "index": 67,
     "section": "RECENZII",
     "author": "N. Bot",
     "title": "Graiul, etnografia și folclorul zonei Chioar. Baia Mare, 1983",
@@ -621,7 +603,7 @@
     "page_end": 408
   },
   {
-    "index": 70,
+    "index": 68,
     "section": "RECENZII",
     "author": "I. Șeuleanu, M. Márk",
     "title": "Péntek János, A kalotaszegi népi hímzés és szókincse. Bukarest, 1979",
@@ -630,7 +612,7 @@
     "page_end": 409
   },
   {
-    "index": 71,
+    "index": 69,
     "section": "RECENZII",
     "author": "",
     "title": "Iordan Datcu, S. C. Stroescu, Dicționarul folcloriștilor, [I]. Folclorul literar. București, 1979; Iordan Datcu, Dicționarul folcloriștilor, [II]. Folclorul muzical, coregrafic și literar românesc. București, 1983 (I. Cuceu) .",
@@ -639,7 +621,7 @@
     "page_end": 411
   },
   {
-    "index": 72,
+    "index": 70,
     "section": "RECENZII",
     "author": "I. Taloș",
     "title": "Wörterbuch der Antike. Mit Berücksichtigung ihres Fortwirkens. Stuttgart, 1976",
@@ -648,7 +630,7 @@
     "page_end": 413
   },
   {
-    "index": 73,
+    "index": 71,
     "section": "RECENZII",
     "author": "I. Taloș",
     "title": "Helmut Koopmann (ed.), Mythos und Mythologie in der Literatur des 19. Jahrhunderts. Frankfurt am Main, 1979",
@@ -657,7 +639,7 @@
     "page_end": 414
   },
   {
-    "index": 74,
+    "index": 72,
     "section": "RECENZII",
     "author": "I. Taloș",
     "title": "Gunther Stephenson (ed.), Leben und Tod in den Religionen. Symbol und Wirklichkeit. Darmstadt, 1980",
@@ -666,7 +648,7 @@
     "page_end": 415
   },
   {
-    "index": 75,
+    "index": 73,
     "section": "RECENZII",
     "author": "L. Bot",
     "title": "Teodor T. Burada, Opere, III—IV. Folclor și etnografie. București, 1978, 1980",
@@ -675,7 +657,7 @@
     "page_end": 418
   },
   {
-    "index": 76,
+    "index": 74,
     "section": "RECENZII",
     "author": "L. Bot",
     "title": "Damaschin Bojincă, Scrieri. De la idealul luminării la idealul național. Timișoara. 1978",
@@ -684,7 +666,7 @@
     "page_end": 419
   },
   {
-    "index": 77,
+    "index": 75,
     "section": "RECENZII",
     "author": "I. Taloș",
     "title": "Inge Vielhaurer, Bruder und Schwester. Untersuchungen und Betrachtungen zu einem Urmotiv zwischenmenschlicher Beziehung. Bonn, 1979",
@@ -693,21 +675,12 @@
     "page_end": 420
   },
   {
-    "index": 78,
+    "index": 76,
     "section": "RECENZII",
     "author": "I. Șeuleanu",
     "title": "Herbert Halpert, A Folklore Sampler from the Maritimes. Newfoundland, 1982",
     "page_start_label": "421",
     "page_start": 421,
-    "page_end": 423
-  },
-  {
-    "index": 79,
-    "section": "",
-    "author": "",
-    "title": "COLABORATORI",
-    "page_start_label": "424",
-    "page_start": 424,
-    "page_end": 425
+    "page_end": 426
   }
 ]

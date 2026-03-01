@@ -1021,13 +1021,30 @@ def locate_article_pages(
     skip_up_to = max(toc_page_pdf, base_offset) if toc_page_pdf > 0 else max(0, base_offset)
     skip = frozenset(range(skip_up_to))
 
+    # Track the last located page to enforce sequential ordering.
+    last_located: int = 0
+
     with fitz.open(pdf_path) as doc:
         for entry in toc_entries:
             found = _find_article_pdf_page(
                 doc, entry.title, entry.page_start, base_offset, search_margin=15, skip_pages=skip,
             )
+            # Reject matches that break sequential order (false positives).
+            if found and found <= last_located:
+                LOGGER.warning(
+                    "locate_article_pages: #%d '%s' at PDF page %d breaks order (prev=%d), re-searching",
+                    entry.index, entry.title[:40], found, last_located,
+                )
+                # Re-search forward from last_located, skipping already-used pages.
+                forward_skip = skip | frozenset(range(last_located))
+                found = _find_article_pdf_page(
+                    doc, entry.title, entry.page_start, base_offset, search_margin=20, skip_pages=forward_skip,
+                )
+                if found and found <= last_located:
+                    found = None
             if found:
                 result[entry.index] = found
+                last_located = found
                 LOGGER.debug(
                     "locate_article_pages: #%d '%s' -> PDF page %d",
                     entry.index, entry.title[:40], found,
@@ -1035,8 +1052,9 @@ def locate_article_pages(
             else:
                 # Fallback: use offset-based estimate.
                 if entry.page_start is not None:
-                    est = entry.page_start + base_offset
+                    est = max(last_located + 1, entry.page_start + base_offset)
                     result[entry.index] = max(1, min(est, len(doc)))
+                    last_located = result[entry.index]
                     LOGGER.warning(
                         "locate_article_pages: #%d '%s' NOT FOUND, using estimate PDF page %d",
                         entry.index, entry.title[:40], result[entry.index],
@@ -1063,7 +1081,22 @@ def _is_title_match(expected_title: str, page_text: str) -> bool:
         return False
 
     # Stricter matching: require meaningful overlap, not just 1-2 words.
-    overlap = sum(1 for token in unique_words if token in text_norm)
+    # Use fuzzy per-word matching to handle OCR typos (e.g., "folkiorul" vs "folklorul").
+    def _word_in_text(word: str, text: str) -> bool:
+        if word in text:
+            return True
+        # Fuzzy: allow 1-char difference for words >= 5 chars.
+        if len(word) >= 5:
+            for text_word in text.split():
+                if len(text_word) >= len(word) - 1 and abs(len(text_word) - len(word)) <= 1:
+                    # Simple edit-distance-1 check: count differing chars.
+                    if len(text_word) == len(word):
+                        diffs = sum(1 for a, b in zip(word, text_word) if a != b)
+                        if diffs <= 1:
+                            return True
+        return False
+
+    overlap = sum(1 for token in unique_words if _word_in_text(token, text_norm))
     if len(unique_words) <= 3:
         threshold = max(2, len(unique_words))
     elif len(unique_words) <= 6:

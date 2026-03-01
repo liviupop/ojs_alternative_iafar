@@ -1,270 +1,806 @@
-![image 1](008-poezii-populare-intr-un-manuscris-ardelean-din-1831_images/imageFile1.png)
-
-# GLOSAR
-
-1
-
-Abpară, 10, doboară abora (a), 102, a sufla abur acar, p. 62, măcar, ori adipă, p. 66, adapă adeveri (a), 195, a arăta albofu, 107, alb alduit, 190, binecuvântat Aleu, 95, vale alina (a se), p. 66, a se aşeza amirosu, 101 , miros andăli (a), 215, a frimife anglicei, 165, grâuşor (plantă) Apăbotează, p. 56, Bobotează apiţura (cu), p. 54, un colindat special
-
-cânură, 117, lână căpătător, p. 60, sfrângător căput, p. 41 , poarta curţii cârcăi (a), 113, a cârăi cârceag, 3, ulcior cârceauă, 115, ic de fier cărujele, 163, flori câşleagă, 40, câşlegi cerca (a), p. 43, a căuta chiparcă, p. 42, ardei cimpoieş, p. 55, cimpoier ciripă, p. 40, ţiglă cioroind, 58, curgând ciorosclanu, p. 59, fierul plugului ciuclufă, 146, căciulă (?) ciumeli (a), 98, a ghici ciupă, 7, albie pentru copii ciupăi (a), 7, a scălda ciutură, 92, coada pipi i cleangă, p. 69, creangă cleanţ, p. 37, stâncă cleaşcă, 156, obiect de joc, în formă de
-
-![image 2](008-poezii-populare-intr-un-manuscris-ardelean-din-1831_images/imageFile2.png)
-
-al copiilor ariciu, 250, cancer Babarugă, 192, paparudă
-
-băbură, p. 40, partea de deasupra a vetrei bănat
-
-29, necaz Bârna, 147, nume de bo u bărnaci, 168, brunet, oacheş bat, 45, beaf bătuci (a), p. 58, a bate (merele) birişu, 49, cel care mână boii boboane , 175, boscoane boşcă, 159, vas pentru ulei bosorcaie, p. 57, vrăjitoare brâncă, p. 56, mână buholt, p. 58, vi/e/ie, furtună buneţă, 106, bineţe
-
-L
-
-cleşte clerii, 112, creierii clisă, p. 42, slănină clop, p. 41 , pălărie coasă, p. 55, casă de bani copârşeu, p. 68, sicriu cormi, p. 41 , coarne, coafură femeiască corindă, p. 49, colindă corintei, p. 66, rudele miresei cotătoare, p. 67, oglindă cotonie, p. 48, armafă Cou, p, 61 , Vaşcău crâng, p. 37, grup de case, crâng credinfă, p. 62, logodn ă
-
-Căhăli, p. 40, plăci de ceramică pentru cuptor camnifă, p. 40, partea de sobă de deasupra vetrei câmp, p. 37, loc fără pădure, poiană
-
-Cifrele indică numărul textului în care se găseşte cuvântul glosat. Când cuvântul se găseşte în Introducere, cifra este precedată de un p. indicând pagina respectivă,
-
-1
-
-![image 3](008-poezii-populare-intr-un-manuscris-ardelean-din-1831_images/imageFile3.png)
-
-crumpene, p. 42, cartofi culduşi, 101, sărac/' cumetri, p. 62, nănaşi curcubătă, p. 42, dovleac curui (a), 97, a croi cuşfiuli (a), 159, a gusta
-
-Jeşcău, 92, pungă de piele pentru tutun jerii, 113, jaruri
-
-La (a), 94, a spăla lădoaie, p. 40, laviţă loază, 100, vi|ă loptă, 152, minge luăsc (se), p. 52, se potrivesc ludaie, p. 58, dovleci lula, 107, lulea
-
-Dâlmă, p. 37, răzor dâmb , p. 37, răzor, deal descântece, p. 47, strigături dilui (a), 52, a chefui doscă, 198, scoarfa cărfifor drod , 178, sârmă dubă, p. 53, tobă din doag e durori, 114, dureri
-
-- Măduufă, 111, măduvi/ă mârhă, p. 41 , vifă mare masdifă, 40, nuia mere, p. 59, mire (delà a se mira) milufă, 109, miele (miei) mirel, p. 65, mire miref, p. 66, mire mriezîzî (a), 114, a mânca de amiazi monopol , p. 42, alcool
-- Nădăi (a), 102, a bănui najosu, 212, în jos nesălmată, 103, (piatră) nestimată Neazipăreasa, p. 56, mijlocul postului
-
-
-Fârtat, p. 61 , frate de cruce feredeu, p, 50, scaldă ferici, p. 40, ferigă fiecare, p. 70, cineva fies, 97, fiuf foitoit, 6, plin fufie, p. 41 , cusătură la cămaşe
-
-Galante, p, 41 , şnururi gance, p. 57, bub ă gardină, p. 41 , bor la pălărie gazdă, p. 68, boga t ghină, p. 64, găină ghiocei, p. 55, dopofei goz, p. 69, gunoi grindă, p. 40, raştiu, meşter-grindă grinzele, p. 40, grinzi
-
-![image 4](008-poezii-populare-intr-un-manuscris-ardelean-din-1831_images/imageFile4.png)
-
-mare tiilcoşie, p. 55, mândrie
-
-Obloc, p. 41 , fereastră obrăza (a se), 99, a se supăra ocol, p. 41 , curtea ogoi (a), 190, a astâmpăra olcufă, p. 70, oală mică oluri, p. 71 , vase d e lut
-
-Hârbui (a se), 7, a se face hârburi hârtop, p. 37, dolină herminoasă, 70, (buză) cărnoasă hicTccTe, p. 57, cetera, vioară hore, p. 47, doine hotrânca (a), 194, a scutura hudră, 215, gaură hurduca (a se), 52, a sări
-
-Padină, p. 37, foc şes pagrin, 38, salcâm păhueş, p. 58, arbore tânăr pălmăli (a), 100, a păfmui pârgălit, p. 42, prăjit pârlui, 168, a opări (hainele) pascarei, 97, păstori păsulă, p. 42, lasote păşuş, p. 64, bilet pemnifă, p. 41 , pivnijă pene, p. 58, flori picluită, 107, cernută pirgae, p. 70, clopot e pităngufă, 109, mici pitoace, p. 54, burefi de iască
-
-lagă, 56, sticlă iubagiu, 214, gazdă, gospodar iorsagu, 57, vitele îmburda (a), p. 69, a răsturna împrorătoare, p. 57, stropire îndăli (a), 112, a trimite învală, p. 66, înveleşte învisă (să), p. 56, se visează
-
-![image 5](008-poezii-populare-intr-un-manuscris-ardelean-din-1831_images/imageFile5.png)
-
-plan, 120, ? podişor, p. .40, blidar pogăcere, p. 61 , furfari pogan, p. 68, mare polărit, 109, (cojoc) cu bordură de blană porîeavă, p. 56, covor de lână porodică, p. 58, pătlăgea roşie portarăi, p. 64, portari pricazuri, p. 58, necazuri prime, p. 41 , panglicu/e profopi (a se), p. 70, a se sprijini pupită, p. 66, gătită, împodobit ă
-
-târnaf, p. 40, pridvor tău, p. 37, baltă femefeu , p. 70, cimitir tenchiu, p. 56, porum b filediu, p. 54, ciledul, căsenii t'ingea, 100, chinul finzui (a), 100, a chinui trus, 100, struf, buchet truscălău, 198, potentil'a verna tuluci, 107, junei tuf, 112, fără glas, făcu/i farină, p. 38, arătură fîpa (a), p. 67, a arunca făpoaie, p. 71 , pâini mici rotunde fov, p. 79, băţ fuica, 68, cucuvaia
-
-Răspi (a se), 215, a se răsti
-
-- răstalnifă, 213, stavila patului roşcovan, p. 67, roşu la faţă rug, p. 57, măcieş ruguş, 100, rug, măcieş
-
-Scâlfăvefe, p. 58, castravete
-
-- sălău, 1, oaspe scăfătură, p. 41 , cusătură la mânecile că­
-
-
-Uiagă, p. 63, sticlă ulfoană, p. 67, altoi uşura, p. 67, uşurează
-
-măşii şer (şir), p. 63, rând de case şerbălui (a), 11 , a fi şerb şihdilă, p. 40, draniţă smădită, 118, mlădiţă sobe, p. 54, camere, odăi soluri, 105, soli spătoi, p. 41 , ie spemnă, 116, lână sporiş, p. 58, o plantă sfredeli (a), 176, a sfredeli strige, p. 57, vrăjitoare strîgeauă, p. 70, bucăţică strungufă, p. 41 , dantelă la cămaşe sufluş, p. 67, suffu, abur sunet, 106, zumzet, zgomo t surată, p. 61 , soră d e cruce
-
-Vaiet, p. 68, bocet vânătări, 215, stânci văroşeni, 293, rude din veri veli, 100, ' a face vig , 102, val de pânză voarve, 53, vorb e vônotu, 95, vagonefe
-
-![image 6](008-poezii-populare-intr-un-manuscris-ardelean-din-1831_images/imageFile6.png)
-
-Zăletş, 100, curgea zănatu, p. 53, obiceiul zângăli (a), 56, a suna un clopot zăvun, 94, laibăr zdroabă (o), p. 70, un pic, puţin zgardă, p. 41 , lătifar de mărgele zâne, 102, sunet (?)
-
-Tălet'iu, p. 38, locul p e care e aşezată gospodăria
-
-Yegetul, 110, degetul yiravă, 213, nervoasă
-
-## GH. PAVELESCU
-
-![image 7](008-poezii-populare-intr-un-manuscris-ardelean-din-1831_images/imageFile7.png)
-
-ARTICOL E MĂRUNT E
-
-„DIN ACTIVITATEA MEA DE FOLKLORIST"
-
-Sub acest titlu, directorul „Arhivei de folklor a Academiei Române" a binevoit să-mi comunice un mic chestionar cu următoarele întrebări adresate subsemnatului, ca unui (fost) folklorist:
-
-„Când aţi început să faceţi culegeri? Ce v'a îndemnat — cine? Exemple ale altora? Afi cules personal sau prin elevi? Amintiri deosebite din timpul culegerilor; informatori mai interesanţi, etc. Cu ce folklorişti români şi străini afi stat în legătură sau corespondenţă? Pentru ce, delà o vreme, n'aţi mai publicat folklor? Aveţi sau aţi avut culegeri în manuscris? Unde sunt?"
-
-![image 8](008-poezii-populare-intr-un-manuscris-ardelean-din-1831_images/imageFile8.png)
-
-In rândurile de mai jos, voiu încerca să răspund întrebărilor puse. In anul 1867, cu prilejul şedinţelor Academiei Române (pe atunci „Societatea Academică Română"), în August, venise la Bucureşti şi Vasile Alecsandri, poetul delà Mirceşti şi dărui colegilor săi — între ei era şi tatăl meu, losif Hodoş — câte un exemplar din „Poesii Populare ale Românilor, adunate şi întocmite de Vasile Alecsandri" (Bucureşti, 1866).
-
-Din acest exemplar, adus în orăşelul Baia-de-Criş, din ţinutul Zarandului, tatăl meu ne citea seara, în familia cu câţiva copii de şcoală, unele balade, ca bunăoară „Mioriţa, Movila lui Burcel, Brâncoveanul Constantin", ş. a. în vacanţa anilor şcolari următori, nu numai că citeam şi noi, copiii de şcoală, ci le şi recitam, la ocazii, în cercurile celor iubitori de limbă şi versuri româneşti din culegerea lui Alecsandri.
-
-1
-
-Imaginea primă, deşteptată pentru frumuseţile din poezia poporului, mi-a fost susţinută şi întărită de unii profesori ai şcoalei noastre secundare, între care ţin să amintesc pe Ion Al. Lapedatu, delà Braşov, ca mare admirator al cântecului poporal.
-
-Mi s'a lărgit această imagine pe timpul studiilor universitare. Tocmai la
-
-Cel ce, la vârsta d e 7 sau 8 ani, se deosebia prin „arta" d e a spune versuri din balade, era fratele meu , scriitorul de mai târziu Ion Gorun .
-
-1
-
-![image 9](008-poezii-populare-intr-un-manuscris-ardelean-din-1831_images/imageFile9.png)
-
-Budapesta, mi-a fost dat să primesc, ca dar din partea profesorului de istorie romană, Carol Torma, filoromân şi membru onorar al Academiei Ro­
-
-- mâne, gn volum din culegerea de poezii populare Jarnik-Bârseanu. (Observ că numitul profesor n'avea înscrişi la cursul său de atunci, decât doi studenţj: unul sas, Schullerus, delà Sibiu, al doilea — subsemnatul).
-
-Volumul Jarnik-Bârseanu, cu doinele şi strigăturile ardeleneşti, mi-a slujit mai târziu ca îndemn de urmat, cu atât mai vârtos că această culegere era opera fostului meu profesor Ion Micu-Moldovanu delà Blaj. Deşi aparţi-
-
-- nând şcoalei cipariane, Moldovanu a manifestat, spre deosebire de Ci-
-
-
-o deplină înţelegere pentru poezia poporului şi a cerut delà elevii săi, 'mai tofi băieţi delà fără, să-şi întrebuinţeze vacantele culegând din gura poporului cântece şi alt material folkloristic.
-
-pariu,
-
-2
-
-Intrând în cariera dăscălească în 1889, ca profesor la Şcoala Normală (Institutul pedagogic) delà Caransebeş şi dorind să cunosc mai de aproape lumea sufletească a satului românesc, am socotit să urmez neapărat exemplul, vrednic de laudă, al profesorului delà Blaj în materie de folklor, Ion Micu-Moldovanu.
-
-Am început astfel, din anul 1890, a face culegeri, în împrejurări când ştiinţa folklorului era încă departe de propăşirea înfăptuită la noi în timpurile mai nouă.
-
-![image 10](008-poezii-populare-intr-un-manuscris-ardelean-din-1831_images/imageFile10.png)
-
-Am cules — mai rar — personal, şi — mai des — prin mijlocirea elevilor şi elevelor institutului, precum şi a unor membri din corpul didactic banäfean. (Motivele, pentru care am apelat la şcolărime, sunt în parte, indicate în publicaţia mea Descântece, scrisă în 1905 şi apărută în 1912, (Sibiu, Editura „Asociaţiumi", pag. 6),
-
-Dintre amintirile deosebite din timpul culegerilor, reţin câteva din cele comunicate de elevi localnici (numele lor şi ale comunelor unde s'au .făcut culegeri, sunt înşirate în prefaţa vol. I din: Poezii pop. din Banat). Aşa bunăoară, în ţinutul Almăjului şi în alte părţi, când ţăranul bănăţean vrea să audă un „cântec de bătrâneţe" (baladă), porunceşte lăutarului:
-
-— „Dzâ-mi una djin bătrâni" sau „dzâ-mi una dje bătrâneţe!" Se mai zice:
-
-— „Dzâ-mi una dje masă", când, bunăoară, nuntaşii se aşează la mâncare. E, de obiceiu, tot baladă. Când se ridică masa, lăutarul primeşte comanda:
-
-— „Acuma trage-mi una dje joc" va să însemne, nu mai ^'ice din gură, ci trage din arcuş. Lăutarul trage: o horă, o ardeleană, o logojană, ori alt joc.
-
+<!-- Extracted from 008-poezii-populare-intr-un-manuscris-ardelean-din-1831.pdf via fitz -->
+
+POEZII POPULARE INTR'UN MANUSCRIS
+ARDELEAN DIN 1831
+Tn 1899 G. Alexici semnala existenta unui manuscris „ d e mare valoare
+pentru folklorul nostru",
+1 pe care l-a dăruit Bibliotecii Asociafiunii din Sibiu.
+Manuscrisul, — necatalogat încă, de altfel ca toate manuscrisele Astrei — ,
+s'a crezut pierdut,
+2 în realitate el se găseşte tot la „Astra", o întâmplare
+norocoasă făcând să dăm peste el. Dată fiind însemnătatea lui, care constă
+mai cu seamă în poeziile populare sau de factură populară ce (le cu­
+prinde, cu mult înaintea colecţiei lui Alecsandri şi înaintea culegerii
+lui
+N. Pauletti (1838), îl prezentăm aci, înlăturând astfel ispita de a se face
+fel de fel de supoziţii cu privire la cuprinsul lui.
 3
+Manuscrisul de care ne ocupăm, de format 19,5X12,5, este bine pă­
+strat, fiind legat în scoarfe de carton, şi are 79 foi, nenumerotafe de autor,
+scrise cite} şi estetic.
+Autorul manuscrisului este Dimitrie Ardelean, iar data la care s'a scris
+e anul 1831. Aceste indica}iuni reies din cele două noti}e ce se găsesc în
+cuprinsul manuscrisului. Cea dintâi i}ine loc de titlu: „Aceasta pesmă cu
+cântări lumeşti şi veselitoare esfe a lui Ardelean Dimitrie, preparând în
+cursul al ll-lea, anul 1 8 3 1 " ,
+iar cealaltă,
+de pe fafa dinlăuntru a ultimei
+scoabe, de încheiere: ,,Sfârşitu-s'au acesta pezmă cu cântări
+lumeşti şi
+1 In Texfe d i n
+literatura p o p o r a n ă
+română, v o l . I, Budapesta, 1899, p. 126.
+2 V e z i I. BREAZU, Versuri
+populare
+în manuscrise
+ardelene
+vechi,
+în „Anuarul
+A r h i v e i
+d e
+F o l k l o r " , V, p. 80, nota 1.
+ä Cf. ID.,
+i b i d .
+strierte Völkerkunde Europa", p. 942, fotografia unui cimitir delà Ceremişi,
+populafie finică de pe Volga, în care se poate vedea foarte bine o pră­
+jină cu o pasăre de lemn în vârf.
+Din aceste informaţii reiese în special vechimea extrem de mare a obi­
+ceiului. Aceasta nu numai pentru faptul că e amintit cu o mie de ani în
+utmă, ci mai ales pentru că se găseşte la popoare atât de îndepărtate
+în spafiu (Ceremişii, Românii, Longobarzii), care au încetat de mult de a
+mai avea raporturi între ele.
+Fireşte, aşteptăm şi alte informafii şi completări, pentru a putea să ne
+pronunfam mai precis asupra originii, răspândirii şi semnificaţiei acestui in­
+teresant obiceiu, pe care îl mai păstrează unele sate ardelene.
+G H . PAVELËSCU
 
-Ales în anul 1882. Răposat în 1897.
+veselitoare în 28 de zile a lunii lui Februarie, la 5 ceasuri după ameazăzi,
+adecă sâmbătă, prin mine Ardelean Dimitrie, preparând în cursul al ll-lea.
+Scrisă pe semestru de iarnă,
+anul 1831, spre aducere aminte
+de acum
+înainte".
+Locul unde Dimitrie Ardelean a scris aceste versuri nu e amintit nicăiri.
+Anumite localizări ale acţiunii poeziilor (cf. f. 66 r., 36 v., 37 v., etc.) ne
+fac să credem că autorul a fost „preparând" în Arad şi poate originar din
+Lipova sau din împrejurimi. Provenienţa bănăţeană a acestor versuri e do­
+vedită şi de particularităţile dialectale specifice graiului din Banat, ca de
+ex.: golumbifă
+(f. 74 r.), pioanä
+(f. 69 v.), dopăsărea
+(f. 24 v.), m'o
+prindea
+(f. 24 v.), etc.
+în afară de versurile populare de care ne vom ocupa mai jos, manuscri­
+sul cuprinde poezii ocazionale: Cântarea
+lui Maior
+(f. 5 v.), Cântarea
+lui
+Danciu
+R. (f. 6 v.),
+Cântecul
+bunului
+"împăratului
+Franţ în l-lea
+carele
+?l
+cântă supuşii săi la zioa numelui
+(f. 10 r.), Cântarea
+episcopului
+foan Nestorovici
+(f. 22 r.), Cântarea
+lui Nicoarë
+Moisie (f. 22 v.), Cântarea lui Moisi
+Aron (f. 78 r.), altele de natură religioasă: Cântarea lui (sus Hristos
+(f. 18
+v.), Jalnica cântare
+care au cântat-o
+Romanii
+pre lângă apa Vavilonului
+(f.
+38 r.), poezii care trădează o accentuată influenţă latinistă: Cântarea
+Ro­
+manilor
+(f. 25 v.), Plângerea
+neamului
+daco-roman
+din Transilvania
+sau Ar­
+deal (f. 30 r.) şi în sfârşit „cântări lumeşti şi veselitoare".
+Multe din aceste „cântări lumeşti şi veselitoare" sunt poezii
+populare
+sau de factură populară. Cêa care merită să fie mai întâi relevată este va­
+rianta baladei Torna Al/moş (I), preţioasă şi prin forma ei, dar mai ales prin
+locul şi timpul când este atestată.
+1 Fragmentară pe alocuri, confuză câte­
+odată, varianta lui Dimitrie Ardelean nu se deosebeşte, în mare, ca ac­
+ţiune, de cele mai complete variante ale baladei (cf. G. Dem. Teodorescu,
+Poesii populare
+române,
+Buc, 1885, p. 581 ş. u., şi V. Alecsandri, Poezii
+populare ale Români/or, Sibiu, 1914, p. 40). Doar numele eroului principal
+apare schimbat: /os/f Dalimos.
+Merită apoi să fie amintite două variante
+ale Brumarului
+mare
+(II şi III), dintre care cea dintâi e mai completă.
+2 în
+sfârşit menţionăm o Amantă turturea
+(IV), care în esenţă are acelaşi con1 Pentru
+răspândirea
+acestei
+b a l a d e
+la R o m â n i , v. T. P A P A H A G I , Parafe/e
+f o l k l o r i c e
+( g r e c o - r o m â n e ) .
+Ac. Rom., Studii şi cercetări, LXVIII, B u c ,
+1944, p. 60. Bibliografia
+i n ­
+dicată aci nu e c o m p l e t ă . Subt a n u m i t e f o r m e , Torna A l i m o ş se găseşte şi în Argeş,
+cf.
+AL. ISTRĂTESCU, Epica p o p u l a r ă d i n Argeş, în „ G r a i şi Suflet", V, p. 248, şi la
+Românii
+d i n dreapta
+Dunării, cf.
+„ S o c i o l o g i e
+R o m â n e a s c ă " , II (1937), p.
+233.
+2 Variante ale acestei poezii g ă s i m în O . G H I B U , C o n t r i b u ţ i i
+la istoria p o e z i e i
+n o a -
+sfre populare
+şi cu/te, în Ac. Rom., M e m . Sec}. Lit., Seria III, Tomul VII, M e m . 1, B u c ,
+1934, p. 28 (într'un manuscris al M u z e u l u i A r d e l e a n d i n 1798); V. ALECSANDRI, o p . cit.,
+p. 2 1 , G . D E M . TEODORESCU, o p . cit., p. 453
+(cf. şi A .
+P A N N , Spitalul amorufui,
+IV,
+e d . Il, p. 1 1 — 1 2 ) , G . ALEXICI, o p . cit., p. 115 ş. u.
 
-1
+ţinut ca şi celelalte variante populare cunoscute.
+1 Restul poeziilor populare
+sunt de natură erotică. Dorul după fiinţa iubită e sentimentul mai des în­
+tâlnit în ele.
+Versuri ca:
+Venit-au vremea să mă duc,
+Cătră spurcatu de Turc,
+Să-m las plugu, să-m las boi,
+Să mă duc cătră război.
+Să-m las curtea şi sălaşul,
+Să mă duc cătră pizmaşul . . .
+(f. 13 r.)
+amintesc ceva din stările trecutului nu prea îndepărtat.
+Din lipsă de spaţiu nu putem reproduce decât câteva din aceste poezii,
+pe cele mai reuşite. Versuri de cea mai autentică substanţă populară se pot
+spicui însă şi din alte poezii ale manuscrisului:
+—
+„Du-mă, bade, şi pre mine
+Că şi eu îţi v o i
+2 prinde bine.
+De ţi-i ruşine de mine,
+Fă-mă brâu pre lângă tine.
+De ţi-i greu de brâul mieu,
+Fă-mă lumină de său
+Şi mă bagă'n sânul tău.
+Măcar unde-i însăra,
+Eu, mândrule, ţ-oi lumina".
+(f. 33 v.)
+sau:
+De-ar fi dorul vânzători,
+M'aş face neguţători.
+Şatră albă întinde-o-aşi
+De grab dorul vinde-l-aşi.
+Până soarele ar răsări
+Dorul eu l-aş târgui.
+(f. 72 r.)
+sau:
+Cântă puiul cucului
+In creanga măslinului.
+Aşa cântă de frumos
+Să răstoarne codrii jos.
+Aşa cântă de cu jale
+De stă apa'n loc nu mere . . .
+- (f. 25 r.)
+sau:
+Bată-te Domnul nănaşi
+Cu cine mă cununaşi,
+Cu urâta satului,
+Cu ciuma Bănatului,
+Cu urâta râtului,
+Cu ciuma pământului . . .
+(f. 74 v.)
+A compus Dimitrie Ardelean versurile din acest manuscris? Pe unele din
+ele se pare că da, pe altele însă, de origine cultă, cu un substrat popula*-,
+circulând în acea vreme mai ales printre tineretul şcolar, cu siguranţă le-a
+transcris numai. Concordanţa dintre Cântarea
+lumească
+(f. 59 r.) din ma­
+nuscrisul lui Dimitrie Ardelean şi poezia din „Cântece câmpeneşti cu gla-
+» Pentru
+răspândirea
+variantelor
+p o p u l a r e
+ale
+A m ă r î f e i
+turturele,
+v.
+D.
+G Ă Z D A R U ,
+O r i g i n e a şi răspândirea
+m o t i v u l u i
+„amărîfă
+turturică"
+in literaturile
+r o m a n i c e , laşi,
+1935,
+p p .
+1 4 3 — 1 5 1 .
+2 î/i v o i pentru f-oi ; forma p o p u l a r ă e
+literarizată.
 
-Pentru filologul şi istoricul care a fost canonicul blăjan Cipariu, balada ţăranului român — după chiar propria-i mărturisire — este lipsită de orice valoare estetică.
+suri rumeneşti", tipărită în 1768, dată de O. Ghibu, op. cit., la p. 22, face
+dovada deplină a acestei afirmafiuni.
+Dăm paralel fragmente din
+cele
+două poezii.
+Începutul e identic:
+Poezia din 1768:
+Poezia din 1831:
+D'ângă apa Someşului
+Lângă Valea Someşului
+Către Valea Mureşului...
+Cântă Valea Mureşului.. .
+Momentele acfiunii din poezie se desfăşoară în aceeaşi ordine. In amân­
+două e vorba de o despărfire. Iubita plecată lasă în urma sa un dor aprins. Iubitului îi apare în minte portretul ei:
+fi frumoasă ş' lată'n şele
+O h ! cum era de ciudată,
+Ca omătul albă'n piele . . .
+Oacheşă şi sprincenată
+La inima mea băgată . . .
+Are de bumbac rochie
+Avea haine frumuşele,
+Albă de joij şi z ă g h i e . . .
+Cu podoabe de mărgele . . .
+Când o văzui că se duce
+Când o văzui că să dusă
+In inimă'mi peafră-mi puse . . .
+Peatră la inimă-m
+pusă. . .
+Tot aci e locul să amintim că Jalnica cântare
+carea au cântat-o
+Romanii
+pre lângă apa VaviJonului (f. 38 r.) nu e decât psalmul 136 din „Psaltirea
+în versuri" a Mitropolitului Dosofteiu, cu foarte mici şi neînsemnate m o d i ­
+ficări.
+In orice caz, fapt cert este că în transcrierea versurilor populare „prepărandul"
+arădan, înşelat de memorie câteodată, a intervenit
+adeseori,
+dovedindu-se prin nedibăcia sa în făurirea versurilor lipsit de duhul poeziei.
+Interesul
+pentru
+poezia
+populară,
+în anul
+1831, nu ne surprinde
+în
+chip deosebit. în Ardeal, după cum a arătat recent I. Breazu,
+1 preocupările
+folklorice ne întâmpină încă din secolul al XVIII-lea, cunoscându-se versuri
+mai mult sau mai puţin populare cu mult anterior anului 1831.
+I. Cântare vesel itoare 2
+Jos, verile, jos,
+Jos la câmpii Nistrului,
+Jos, dragule, jos,
+Unde-i drag voinicului,
+1 In Folk/orul revistelor
+„Familia"
+şi „Şezătoarea". Bibliografie cu un studiu intro­
+ductiv, Sibiu, 1945, p. V ş. u.; cf. ID., op. cit., p. 79, ş. u. şi I. MUŞLEA, Interes
+pentru
+folklorul românesc în Ardeal înaintea aparifiei baladelor lui Alecsandri (1852), în „Tran­
+silvania", 57 (1926), p. 555 ş. u.
+2 In transcriere am notat / pentru ii (şi, veni în loc de f/i, venii,
+etc.), 'n în loc de
+în şi am pus linioară, când impunea ritmul.
 
-5
+La izvorul cu cinci ulmi din trupină
+Ca şi cinci fraţi din o mumă.
+Dar la ei cine să umbrea?
+losif cu murgu să odihnea.
+losif Dalimos,
+Boieri din Ţara de jos.
+Iară Manea cânii scornea
+Să i-o mance la ia să întindea,
+El la losif închina
+Şi frumos se uspăta.
+Iară losif Dalimos,
+Boieri din Ţara de jos,
+Din gură aşa grăia
+Şi cu lacrămi suspina:
+— „Dară eu cui să închin
+Că n'am pre nime vecin?
+Inchinare-aşi murgului
+Ca şi losif vecinului.
+Murgul îi o vită mută
+Şi nu ştie să răspundă.
+Inchinar-aşi armelor,
+Armele îs neşte fere răci
+Ca şi neşte lemne săci.
+Inchinar-aşi qlmilor
 
-Alte amănunte a se vedea în voi . „Literatura Zilei " (Sibiu, 1941, pag. 99 s.u.),
+1 frumoşi,
+Dar ei îs ca neşte fere săci".
+Iară Manea cânii scornea
+Şi paloşul că-l scotea
+Şi pre losif că-l tăia
+Şi prea rău că mi-l tăia,
+Numai majele că-i vărsa.
+Iară losif jos să apleca
+Şi matele le strângea
+Şi în foaie le punea,
+II.
+In cea verde grădinufă
+laste o mică coconită,
+N'are taică,
+N'are maică,
+N'are fraji, n'are surori
+Numai grădina cu flori.
+Cine trece
+Flori culege.
+Sub cel mare măr înflurit
+Zace un voinic războlit
+De grea boală betejit.
+Voinic din gură grăia:
+! Scris urmi/or.
+Brâu roşu că încingea
+Şi pre murgu să punea.
+— „Haida, murgule, de luat
+Că de buni rămaşi ai fost dat.
+Când pre tine te-am luoat,
+Delà altul te-am cumpărat.
+După cine vreu să fug
+Nici de cum nu-l ajung".
+Iară murgu aşa fugea,
+Cât numai pravu să vedea.
+Când pre Manea ajungea,
+înaintea lui eşea
+Şi din gură aşa grăia:
+— „Nu-m fugi ca curvele
+Şi zbura ca vuiturile
+Că tu m'ai tăia [t] muereşte,
+Dară eu să te tai voiniceşte.
+Nu prea rău că te-oi tăia
+Numai capu că-i reteza,
+Iară el cătră murgufu lui zicea
+Şi din gură aşa grăia:
+— „Auzi tu, murgufu meu,
+Du-mă tu la izvoru mieu,
+La izvoru cu cinci ulmi din trupină
+Ca şi cinci fraji dintr'o mumă.
+Cu gura groapă să-mi faci
+Şi cu picioarele să mă îngropi".
+Murgu bine asculta
+Şi acolo să ducea
+Şi cu gura groapă făcea,
+Cu picioare că-l îngropa
+Şi cu lacrămi îl scălda
+Şi în pustie să ducea.
+(f. 57 v. — 58 v.)
+Cântare
+— „Fată eşti, nevastă eşti,
+Cu mine nu te iubeşti?"
+Iară ea din gură grăia:
+— „Nici nu-s fată,
+Nici nu-s nevastă,
+Ci sânt floare de pe mare
+Cine mă iubeşte moare".
+El din gură aşa grăia:
+— „Eu sânt brumari de cel mare.
+Cad pre floare de cu sară
+Şi mă scol în prânzul mare.
 
-3
+Şi floarea să
+vestejeşte
+Şi nimărui nu t r e b u e ş t e " .
+tn g r ă d i n a
+înflurită
+Găsii p r e mândra
+adurmită
+Şi cu obrasul
+gătită
+Şi în brafă
+iarbă
+creafă,
+Subsioara
+Tămâioară,
+Iară sub
+fifă
+Romonifă
+Pe la
+b r â u ,
+Folofiu,
+III.
+Cântă cucu'n
+d u m b r ă v i f ă ,
+Voinic
+trece pre
+ulifă,
+M â n d r a - m şade în
+portifă
+Iarăşi ca o
+g o l u m b i f ă .
+Aurită-i,
+învălită-i
+Cu c o v o r v e r d e
+învălită-i.
+V o i n i c
+d i n gură
+g r ă i a :
+—
+„ O , cocoană, puica
+m e a ,
+M'aşi d a m u r g u l
+d e sub
+m i n e
+Numai
+să te a m
+p r e
+t i n e " .
+Ea d i n gură c ă - m
+g r ă i a :
+—
+„ O , b a d e , inima
+m e a ,
+Săruta-te-aşi
+a d u r m i t ă .
+Ea se fine
+'nceluită.
+Bate-o-aşi
+cu
+j o r d i f a ,
+Blăstăma-m'o
+cu
+gurifa.
+Bate-o-aşi
+cu
+d e g e t e l u ,
+B l e s t e m a - m ' o
+suflefelu.
+N'avu m u r g u
+ce
+lucra
+îndată î n c e p u a striga
+Şi pre m â n d r a o
+p o m e n e a ,
+Dragostea d e p l i n o
+făcea.
+(f. 75 r. —
+75
+Cântare
+De f-ai
+da
+şi
+chemeşa
+Pre m i n e nu-i
+căpăta,
+Că nu-s fată, nici
+nevastă,
+Ci sânt floare în fereastă.
+Ba sânt floare d e
+pre
+m a r e
+C i n e mă
+iubeşte
+m o a r e " .
+V o i n i c d i n g u r ă - m
+g r ă i a :
+—
+„ I u b i t ă floarea
+m e a ,
+De eşti floare d e
+pre
+mare,
+Eu sânt b r u m a r i
+d e cel
+mare,
+Floarea f - o i
+veştezi
+Şi la n i m e nu-i f r ă b u i " .
+(f.
+74
+IV. O cântare veselifoare
+Amărîtă
+turturea
+Să nu să m a i
+tânguească.
+Cumu-ş
+cântă
+sângurea
+U n d e îi un copaci
+frunzoşi,
+Că şi ea-i
+dopăsărea,
+Nici
+d e
+c u m
+nu şade
+jos.
+Să află d i n v o i a rea,
+Şi când şade câte
+odată
+Pre iubitul şi-l
+p e r d e a
+Şi nu-l m a i
+v e d e a .
+U n d e - i apa
+l i m p e d e
+Singură şede
+mâhnită
+O
+tulbură
+a p o i
+o
+b e a .
+Ca o m u e r e
+j e l i t ă .
+Vânătoriul cel m a i
+m a r e
+După sofia
+perdută
+A v e a
+lanfuri
+d e
+prinzare.
+Foarte tare e amărîtăi.
+Lanfurile'mi
+întindea,
+Zboară
+cu
+urgie
+Păsărică m-o
+p r i n d e a
+De p e r d e r e d e
+sofie.
+Şi într'o sticlă m - o
+b ă g a
+Toată z i o a
+ciricheşte,
+Şi ea d i n aripi
+flutura
+Cu amar să tângueşte.
+Şi sticla m - o
+r u m p e a
+U n d e
+şade
+vânătoriul,
+Şi în d u m b r a v ă să
+d u c e a
+A c o l o
+îi d u c e
+d o r u l .
+Şi m a i tare să jeluia.
+Să v a e t ă să o
+lovească,
+(f. 24
+v.
+Din cauză că s'a tăiat la legatul cărţii, nu se p o a t e
+c e t i .
 
-![image 11](008-poezii-populare-intr-un-manuscris-ardelean-din-1831_images/imageFile11.png)
+Măriufă dintre Greci,
+la luntrifa de mă treci
+Şi păzea să nu mă'neci,
+Că n'ai bani să mă plăteşti,
+Nici scânduri de cornifău,
+Să mă sui la Dumnezeu,
+Să scobor dumineca,
+V. [Fără titlu]
+Dincolo de Lipova,
+Să-m văd eu ibomnica
+Cum o bate maică-sa,
+C-o jordifă de-alunifă,
+Să m-o învefe curvărită,
+Cu jordifa de trifoi,
+Să m-o învefe la război.
+(f. 15
+VI. Cântare
+Mă dusăi la săcerat,
+Dorul mândrii m'au lăsat.
+Mă dusăi la strâns de fân
+Cu dorul mândrii în sân.
+Mă dusei la legat de grâu
+Cu dorul mândrii la brâu.
+Pentru voi pentru mueri
+Cheltuii 50 de lei.
+De un mii şi jumătate
+Văzui, mândro, latu'n spate.
+O, lelifă, n'am ce-fi face,
+Dacă nu mai vii încoace.
+Dacă astară voi veni,
+Dorul nu s'or destâmpi.
+Astăzi, mâne vom muri
+Şi apoi ne vom căi
+De ce, lele, n'am trăit
+Până pe lume am vefuit.
+(f. 64
+V. — 65
+VII.
+Părinte, popo llie,
+la caută'n pascalie
+Şi te uită, popo, 'n carte,
+Avea-oi multe păcate
+Pentru a tale nepoate,
+Căci le sărutam pre toate.
+Pentru că le-am prins de sân,
+Cântare
+Ţ-oi cosî vara la fân.
+Pentru că le-am sărutat
+Oi merge la căpifat.
+Pentru că le-am prins de fâfă
+Ţ-oi face şi o căpiţă.
+Pentru că le-am prins de mână,
+Ţ-oi lucra o săptămână.
+(f. 73
+VIII. Cântare
+De-aş şti cânta ca farca,
+Nu m'aşi munci eu cu cartea.
+De-aş şti cânta ca cucu,
+Nu m'aş munci cu lucru,
+Ci m-aş face haină albă
+Şi-aş iubi care m-i dragă.
+Şi aşa sări din frunză
+Ca mândra să mă auză.
+Pustiile dragostele
+Pioană ca păsările
+Pre la toate gardurile,
+La toate prilazurile.
+Vine la tine nu să întina.
+De dragoste n'am odihnă.
+Trec prin apă, nu se îneacă,
+De tiner voinic se leagă.
+Nu te lega dor de mine
+Că mă prăpădesc din lume.
+(f. 69 v. — 70
 
-în corespondentă foklorică am stat cu Jarnik, ale cărui scrisori le-am dăruit „Arhivei de Folklor a Academiei Române". Cu folklorişti români n'am avut altă legătură, decât schimbul unor volume, cerute de învăţătorii PopReteganul din Ardeal şi Gheorghe Cătană din Banat,
+Delà noi a frea casă
+laste-o dalbă jupâneasă.
+Tot cu coatele pe masă,
+Să laudă că ştie coasă.
+Frunză verde de gutei
+IX. [Fără titlu]
+De nâcazi mă prăpădii.
+Fără leac de bătătură,
+Sărută-te-aşi, mândro, 'n gură.
+(f. 79
+X. o
+Frunză verde lemn de nuc
+Vine vremea să mă duc.
+Frunză verde de gutii
+O, Aradule, rămâi pustii.
+Frunză verde dumbrăvifă
+D-am avut o puiculijă,
+Albă tare la cosiţă,
+cântare jăluiioare
+Ghelbinioară la peliţă,
+Ohl vai ce mai puiculiţă,
+Vârtoasă toarte la t't^<
+Cam stricată de vărsat
+Şi bună de sărutat.
+(f. 36 r. — 36
+XI.. Cântare
+De voi sta să-m versuesc,
+Dealurile înverzesc,
+Petrile să veselesc
+Şi munţii să jeluesc.
+De voi sta eu a cânta,
+Munţii să vor legăna,
+Petrile să vor despica
+Şi toate s-or sfărma.
+Pre pustia lui Iorgovan
+Fuge voinicul Drăgan.
+Şi pre drum că-m apucam
+Şi la mândra mă duceam
+Şi în pat mă suiam.
+Dar bărbatu blăstămatu
+Luoa furca delà patu,
+Mă lovi pre după cap.
+Luoai şuba,
+Tăiai fuga.
+Câte sânt vara căpşuni
+Căpătai palme şi pumni.
+(f. 76 r.
+76
+XII. Cântare
+Luncă, mult eşti lungă
+Şi n'am cal să te ajungă.
+Când cântă cucu din luncă
+Mult cântă mie de ducă.
+Când cântă cucu din vale
+Mult cântă mie de jale.
+Când cântă cucu de jos,
+Mult cântă mie frumos.
+Cântă, cuce, nu te duce
+Că glasul tău mult ajunge.
+Cântă, cuce, numa mie
+Doară m-o veni vro soţie,
+Că soţia ce-am avut
+O pus faţa la pământ.
+De nu-m veţi crede cuvântul
+D'oi să vă arăt mormântul
+Şi daţi ţărna la o parte
+Şi vedeţi oasă mâncate
+Şi pânza despre obraz
+Să vedeţi moarte cu năcaz.
+Cântă, cuce, nu te duce
+Să te prind frate de cruce.
+Cântă, cuce, numa mie
+Că e voinic fără soţie.
+morţii tăi de cuc,
+Cântă bine că te puşc.
+Când cu puşca eu c-oi da,
+Tot prin cap eu te voi puşca
+Şi-ţi răsfiră penele
+Ca mândra sprincenele.
+Şi-ji fă din codiţă,
+Ca mândra din guriţă.
 
-precum şi comenzi primite delà profesorul Sîrcu din Leningrad (Petrograd).
-
-1
-
-După plecarea din Caransebeş (1905), n'am mai făcut culegeri. Dar, la redacfiunea „Telegrafului Român", al cărei membru sunt, am primit multe cântece populare trimise de pe front; au şi apărut unele, ca documente grăitoare din războiul delà 1914—1918. Am publicat, despre aceste cântece „cătăneşti", câteva notije în cartea pomenită: Liieraiura zilei (pag. 107).
-
-Sprijin moral pentru publicarea culegerilor, mi s'a dat peste aşteptare, atât din partea particularilor, cât şi a unor aşezăminte culturale; sprijinul material a fost, în schimb, mult prea redus pentru a putea continua cu zor
-
-- o muncă plăcută, dar împreunată cu felurite greutăţi şi neajunsuri. ENEA HODOŞ
-
-MATERIAL ROMÂNESC ÎN CERCETĂRILE DE FOLKLOR COMPARAT
-
-In articolul nostru despre „Snoava cu femeia necredincioasă" (Anuarul II,
-
-- p. 195), am arătat ce loc redus ocupă, în general, materialul românesc în cercetările de folklor comparat ale străinilor, în special ale nordicilor. Vina nu trebue aruncată pe autorii acelor studii, ci pe lipsa de culegeri suficiente făcute în toate ramurile folklorului românesc, de o parte; iar de alta, pe necunoaşterea limbii noastre de către acei cercetători. Cât i-a fost posibil, Arhiva noastră a încercat să completeze astfel de lipsuri, stând la dispoziţia învajatilor străini, atât cu informaţii bibliografice, cât şi cu anchete întreprinse anume, între corespondenţii Arhivei, pentru a găsi material inedit. Rezultatele au fost foarte satisfăcătoare şi mulţumirea noastră deosebită, când unii învăjati străini, ca acel despre care va fi vorba mai jos, au ajuns să nu ne mai considere între popoarele care nu răspund cererilor de informaţii folklorice . . .
-
-
-![image 12](008-poezii-populare-intr-un-manuscris-ardelean-din-1831_images/imageFile12.png)
-
-în cele următoare vom prezenta două din cercetările făcute în ultimul timp de folkloriştii nordici, în care s'a utilizat şi material românesc, trimis de Arhiva noastră. Prezentarea acestor lucrări o socotim interesantă şi utilă. Aceasta nu numai pentru problemele puse, ci şi pentrucă cercetările de
-
-Când mi-a cerut să-i revăd un manuscris de poveşti bănăţene.
-
-1
-
-![image 13](008-poezii-populare-intr-un-manuscris-ardelean-din-1831_images/imageFile13.png)
-
-126 ION MUŞLEA
-
-acest gen nu se găsesc, de obiceiu, în bibliografiile folklorice româneşti, deoarece din titlul lor nu se vede că ele se ocupă şi de folklorul nostru.
-
-Oskar Loorits, un foarte serios şi bine cunoscut cercetător eston, se ocupă în Pharaos Heer in der Voiksüber/ieferung (Tartu, 1935), de oameni ipeşti, cunoscuţi la noi sub numele de „faraoni" sau „faraonoaice", care ar reprezenta pe urmaşii Faraonului şi ai armatei sale înnecate în Marea Roşie. I s'a putut trimite şi a şi utilizat următorul material publicat în româneşte: Tudor Pamfile: Mitologie românească, I (Bucureşti, 1916, p. 301) şi E. Niculiţă-Voronca: Datine şi credinţe... (Cernăuţi, 1903, p. 999); iar, ca material inedit, două comunicări primite de Arhiva noastră, una din Valea Copcii-Mehedinţi (No. 420), alta din Miroşi-Teleorman (No. 445).
-
-„Spre deosebire de răspunsurile negative primite din Serbia — spune Loorits, la p. 158 — se constată deci o legătură între Faraon şi fiinţele omeneşti cu coadă de peşte cunoscute în România, precum am putut stabili, de altfel, pentru toată Europa estică.
-
-Acum se pune însă interesanta chestiune: au ajuns aceste ştiri, la Români, numai în timpurile mai nouă, delà Ucrainieni, sau putem pune, cu toi mai multă convingere, ipoteza, atât de elocventă din punct de vedere istoric-cultural, că miturile despre transformarea lui Faraon s'ar fi născut încă în Bizanţ, centrul de odinioară al ortodoxiei greceşti şi transmiţătorul atât al tradiţiilor antichităţii clasice, cât şi ale orientului apropiat, înspre Balcani, Europa estică şi ţările baltice şi scandinave, până în Nord, spre Islanda"?
-
-![image 14](008-poezii-populare-intr-un-manuscris-ardelean-din-1831_images/imageFile14.png)
-
-i
-
-Dată fiind această problemă importantă, pusă în legătură cu materialul românesc, am continuat cercetările, reuşind să mai descoperim şase variante ale acestui motiv, pe care le dăm în cele următoare:
-
-- a) „Faraoni. Despre ei poporul crede că-s jumătate om, jumătate peşte. Ei au scos şi scot cântecele de dragoste". (Arhiva de Folklor a Academiei Române, Manuscris No. 964, p. 27. Cules în 1937, din Uda-Tătăruşi, jud. Baia, de Elena Gh. Stoian, învăţătoare).
-- b) „Sunt peşti care cântă: „Faraon, faraon". Jumătate-i peşte, în jos şi în sus îi om, numa trăieşte în apă. Ăia îs delà Faraon, când o trecut prin Marea Roşie şi l-o acoperit apa. Din Faraon şi din oamenii lui s'o făcut peşti". (Arhiva de Folklor, Ms. No. 863, p. 5. Cules în 1936, în Baru-Mare, jud. Hunedoara, de Prof. Victor I. Oprişu).
-- c) „Faraoance. Zânele trăesc în apă şi până la brâu sunt femei frumoase, iar delà brâu în jos sunt peşti. Care sunt mai tinere, cântă de joc, iar cele mai bătrâne de jăle. Ele au stârnit jocurile şi cântecele". (Arhiva de Folklor, Ms. Nr. 773, p. 2—3. Cules în 1935, în Boroaia, jud. Baia, de Ecat. C. Covataru, învăţătoare).
-
-
-![image 15](008-poezii-populare-intr-un-manuscris-ardelean-din-1831_images/imageFile15.png)
-
-d) D-l Prof. Emil Pefrovici, delà Universitatea din Cluj, a binevoit să ne comunice următoarele informaţii culese din Limanul, jud. Constanţa, în anul 1939:
-
-Faraonii. Au fost „nişte oameni necredincioşi". Ei goneau pe Moise când a plecat cu ai lui din Egipt. Moise a ajuns la malul Mării şi a despărţit apele. A început să meargă ca pe uscat, să treacă dincolo. Faraonii au intrat după Moise, dar apele mării s'au încheiat peste ei şi ei „a rămas vii în apă, a rămas faraoni, oameni de apă". Au şi femei, „faraonoaice" şi copii, subt apă. Câte odată se văd ieşind la suprafaţă. Nu fac nimănui nici un rău. Se zice că la a doua venire vor ieşi cu toţii din apă şi se vor face ca ceilalţi oameni.
-
-- e) în ancheta noastră personală pe Valea Gurghiului (jud. Mureş), am cules, în 1935, din Caşva, următoarea povestire: „L-o dus lângă Marea Neagră pe-un fişior din Ibăneşti, să robghiască, o făcut oareşeva. Şi el o adus câte şi mai câte cântece de-acolo şi ne povestea că atât de frumoase fete sunt, jumătate peşte, jumătate fată. Şi iera bărbaţi voinici, jumătate peşte, jumătate bărbalţi! Un fişior, care umbla cu vaporu pe marea, ş-o prins o ibomnică d'elea de apă şî-i duşe. struguri şi poame şî i le da. Faraoane, aşa le zîc; la bărbaţi — faraoni".
-- f) în vol. V al acestui Anuar, la p. 190, Petre Ştefănucă a publicat un text (222), cules din Cioburciu, în care e vorba de un „faraon — chip de om mititel —" , care ieşea pe malul Nistrului şi striga: „Ni a mînca di cap di om! " Cine auzea, se 'nneca."
-
-
-![image 16](008-poezii-populare-intr-un-manuscris-ardelean-din-1831_images/imageFile16.png)
-
-Materialul românesc ocupă, e adevărat, un loc mai mic, deşi tot atât de important, şi în altă cercetare de folklor comparat a aceluiaşi O. Loorits: Das misshandelte und sich rächende Feuer (Tartu, 1935). E vorba, aici, despre dialogul între focurile din dou.ă case, privitor la felul în care e îngrijit focul. Faptul că variantele din Balcani lipsesc cu desăvârşire, pe când la Români se găseşte, totuşi, una (E.Niculiţa-Voronca, Datine şi credinfe. . ., Cernăuţi, 1903, p. 1201), face iarăşi pe autor să se întrebe dacă povestirea aceasta nu a iradiat tot din Bizanţ?
-
-Cercetările noastre ulterioare apariţiei studiului lui Loorits n'au mai descoperit nicio singură variantă inedită; de aceea apelăm la cei care cunosc sau pot culege povestiri cu aceste motive, ca — dându-şi seama de însemnătatea deosebită a materialului românesc pentru cercetările comparate şi pentru reala propagandă românească ce se poate face printr'o astfel de colaborare — să ne trimită variante, spre a putea ajuta astfel, cu povestirile poporului nostru, cercetările universale de folklor.
-
-ION MUŞLEA
-
-![image 17](008-poezii-populare-intr-un-manuscris-ardelean-din-1831_images/imageFile17.png)
-
-128 ION MUŞLEA
-
-PRACTICE MAGICE Şl DENUMIREA LOR ÎN CIRCULARELE EPISCOPEŞTI Şl PROTOPOPEŞTI DELA ÎNCEPUTUL VEACULUI TRECUT
-
-Practicele pentru alungarea strigoilor sunt vechi la poporul nostru. Chirurgul austriac Georg Tallar
-
-le amintea încă pe la 1724. Dacă ele se mai întâlnesc, uneori şi astăzi, în corespondentele de provincie ale marilor ziare,
-
-1
-
-acum o sută de ani nu numai că erau foarte frecvente, dar se făceau în faţa preoţilor. De aceea episcopii noştri se vedeau siliţi să adreseze circulare protopopilor, spre a interzice subalternilor să mai asiste la asemenea acte. Adeseori episcopul trimitea astfel de dispoziţii la îndemnul sau cererea guvernului ardelean.
-
-2
-
-în „Protocolum pentru însemnarea Comisiilor arhiereşti şi gubernialiceşti din Marele Prinţipat al Ardealului", al bisericii din Râşnov (judeţul Braşov) — numit, mai scurt, „Cartea de porunci" — , întâlnim două circulare de acest fel, semnate de Vasile Moga, episcopul ortodox al Sibiului.
-
-In cea dintâi, datată 23 Sept. 1831, e vorba de desgroparea unei „muieri cu nume de strigoaie la satul Joseani din varmeghia Hinedoarii". Deoarece la acest act „au fost de faţă popa delà Joseani, să porunceşte ca să să leapede din preoţie şi să să arate la tistia din afară ca să să canonească^. Se mai arată că fiecare protopop e dator „să iasă în protopopiat la fieştece biserică şi să propovăduiască norodului ca să nu crează în strigoi şi să nu desgroape morţii, că din desgroparea acea se sporeşte moartea colerii mai tare, precum s'au întâmplat şi la satul Turdaşu".
-
-![image 18](008-poezii-populare-intr-un-manuscris-ardelean-din-1831_images/imageFile18.png)
-
-în a doua circulară, datată 7 Iulie 1840, se arată că „credinţa în strigoi este credinţă deşartă, că s'au întâmplat pă la varmeghia (comitatul) Zarandului în satul Luncoiul dese moarte întră pricini şi oameni poporeni au desgropaf oarecâţiva morţi de s'au căutat de stregoi şi au fost de faţă şi preoţii locului". Protopopul va învăţa pe „subordinaţii preoţi să nu crează în stirigoi (sici) şi preoţii să înveţe pă poporeni tot aceia că strigoi nu sânt".
-
-Şi mai interesant ni se pare faptul că protopopul Braşovului, Simion Pop[ovici] Datcu, într'o circulară din 1831, comentând în câteva cuvinte circulara aceasta, numeşte practica desgropării strigoilor: credinţă superstiţioasă.
-
-Să fie întâia oară când termenul „superstiţie" apare scris în limba românească? Numele protopopului Datcu — mort în anul 1837 — ar rămâne legat astfel de terminologia noastră folklorică.
-
-Alt protopop braşovean, Radu Verzea — care, dacă nu era el însuşi un cărturar, îi susţinea pe aceştia (cu cheltuiala lui s'a tipărit la Sibiu, în
-
-Anuarul Arhivei d e Folklor II, p. 159—168.
-
-1
-
-Vezi, d e exemplu , Universul din 14 Mai 1938 (Nr. 130, édifia pentru provincie).
-
-5
-
+Tot mă mir, cuce, d e
+tine
+Că nu poţi cânta mai
+bine.
+Vara vini, vara te duci,
+Nici d e
+un lucru nu te-apuci.
+Mă mir
+iarna ce
+mănânci
+Că nu lucri din adânci.
+—
+„ O !
+hai! hai! ale
+mele,
+XIII. Cântare
+Ajungă-te, bade,
+ajungă,'
+Ajungă-te în dor cu drag
+Să şezi toată zioa în
+prag.
+Când o fi p e la uşină
+Să te-aprinzi ca şi-o
+lumină,
+Când o fi coalea
+sara
+Să te legeni ca frunza,
+Când o fi la mez d e
+noapte,
+Treacă-te sudori d e
+moarte,
+Dragi-m
+voinicele,
+De ce grăifi aşa rău
+Că nu mâne din coşul tău,
+Ci mâne mugure d e
+fag
+Şi cânt codrului cu drag".
+(f. 65 r. —
+66
+r.)
+lumească
+Când
+o
+fi
+demineafa,
+Tu să ghefi cu viata,
+Că m'ai
+iubit şi m'ai
+lăsat
+Cu sufletul încărcat,
+Dar cum nu-fi va fi
+păcat.
+O h , vai d e zilele
+m e l e
+Că a m rămas numai cu jale.
+(f. 32 r. —
+32
+v.)
+ROMULUS
+TODORAN

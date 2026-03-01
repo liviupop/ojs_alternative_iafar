@@ -132,7 +132,7 @@
     "title": "Proveniența povestilor din culegerea lui Josef Haltrich",
     "page_start_label": "267",
     "page_start": 267,
-    "page_end": 270
+    "page_end": 287
   },
   {
     "index": 16,
@@ -168,7 +168,7 @@
     "title": "O enciclopedie de etnobotanică românească",
     "page_start_label": "298",
     "page_start": 298,
-    "page_end": 299
+    "page_end": 298
   },
   {
     "index": 20,
@@ -546,24 +546,6 @@
     "title": "Tradiții maramureșene, vol. II, Baia Mare, 1979",
     "page_start_label": "367",
     "page_start": 367,
-    "page_end": 368
-  },
-  {
-    "index": 62,
-    "section": "",
-    "author": "",
-    "title": "COLABORATORI",
-    "page_start_label": "369",
-    "page_start": 369,
-    "page_end": 370
-  },
-  {
-    "index": 63,
-    "section": "",
-    "author": "",
-    "title": "ABREVIERI",
-    "page_start_label": "271",
-    "page_start": 271,
-    "page_end": 287
+    "page_end": 367
   }
 ]

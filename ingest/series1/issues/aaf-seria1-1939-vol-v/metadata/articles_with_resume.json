@@ -52,9 +52,9 @@
     "summary_start_page_pdf": 223,
     "article_pdf_path": "ingest/series1/issues/aaf-seria1-1939-vol-v/articles/002-din-literatura-populara-a-romanilor-de-peste-nistru.pdf",
     "split_pages_start_pdf": 7,
-    "split_pages_end_pdf": 7,
+    "split_pages_end_pdf": 56,
     "split_source_start_pdf": 11,
-    "split_source_end_pdf": 11,
+    "split_source_end_pdf": 60,
     "split_title_ok": "yes"
   },
   {
@@ -82,9 +82,9 @@
     "article_pdf_path": "ingest/series1/issues/aaf-seria1-1939-vol-v/articles/003-tovarasiile-de-craciun-ale-feciorilor-romani-din-i-ardeal.pdf",
     "split_pages_start_pdf": 57,
     "split_pages_end_pdf": 79,
-    "split_source_start_pdf": 7,
+    "split_source_start_pdf": 61,
     "split_source_end_pdf": 83,
-    "split_title_ok": "no"
+    "split_title_ok": "yes"
   },
   {
     "series": "Seria I (1932-1945)",
@@ -200,6 +200,35 @@
     "split_pages_end_pdf": 218,
     "split_source_start_pdf": 221,
     "split_source_end_pdf": 222,
+    "split_title_ok": "yes"
+  },
+  {
+    "series": "Seria I (1932-1945)",
+    "issue_slug": "aaf-seria1-1939-vol-v",
+    "year": "1939",
+    "volume": "V",
+    "issue_number": "5",
+    "toc_index": 8,
+    "section": "",
+    "author": "",
+    "title": "Résumé des articles",
+    "pages_start_label": "219",
+    "pages_start": 219,
+    "pages_end": 224,
+    "abstract_fr": "",
+    "keywords_fr": "resume, articles",
+    "keywords_ro": "rezumat, articole",
+    "summary_matched": "no",
+    "summary_pages_start": "",
+    "summary_pages_end": "",
+    "source_pdf": "/Users/liviupop/Downloads/ojs_alternative_iafar/ingest/series1/BCUCLUJ_FP_490809_1939_005.pdf",
+    "toc_page_pdf": 4,
+    "summary_start_page_pdf": 223,
+    "article_pdf_path": "ingest/series1/issues/aaf-seria1-1939-vol-v/articles/008-resume-des-articles.pdf",
+    "split_pages_start_pdf": 219,
+    "split_pages_end_pdf": 224,
+    "split_source_start_pdf": 222,
+    "split_source_end_pdf": 223,
     "split_title_ok": "yes"
   }
 ]

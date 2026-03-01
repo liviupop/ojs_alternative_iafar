@@ -1,177 +1,87 @@
-![image 1](007-raport-anual-1937-38_images/imageFile1.png)
+<!-- Extracted from 007-raport-anual-1937-38.pdf via ocr -->
 
-i;
+F
+LA
+RAPORT ANUAL (1937-38)
 
-# 404. Bartok , Bel a. Dialectul muzical al Românilor din Hunedoara. Muzică şi Poezie I (1935—1936), No 4, p. 6—14.
+In al şaptelea și al optulea an de activitate, « Arhiva de Folklor a Academiei Române »
+a continuat culegerea de materiale folklorice. S'au întocmit şi răspândit alte două chestionare, unul (XI) referitor la « Nuntă (Obiceiuri si credinţe) » şi altul (XII) la « Obiceiurile juridice (credinţe, obiceiuri şi povestiri) ». La aceste chestionare, precum și la
+cele din anii precedenţi — care au fost trimise noilor corespondenţi —, sau primit
+numeroase şi preţioase materiale. Şi în aceşti ani a intrat mult material independent de
+răspunsurile la chestionare.
 
-Studi u publica t î n « Zeitschrif t fü r Musikwissenschaf t », Marti e 1920, tradu s d e Const . Brăiloiu .
+Mare parte din acest material a fost despoiat deja pentru catalogul pe specialităţi
+al Arhivei, care stă la dispoziţia cercetătorilor.
 
-# 405. Bartok , Be l a. Muzică populară românească. Muzică şi Poezie
+Ca şi în trecut, colaboratorii cei mai harnici $i pricepuţi au fost distinşi cu premiile
+urmätoare:
 
-(Î935—
+Premiul I (Lei 2.000): Dumitru Vlase, invätätor in Crihana-Nouä, jud. Cahul.
 
-# -
+» II (» 1.500): Vasile Grigor, învăţător în Vad, jud. Maramures.
+» III (» 1.000): Ion V. Sandu, învățător in Pâslari, jud. Vlașca.
 
-> P- 21—24.
+Patru premii a Lei 500: Ecaterina Lavric, învăţătoare în Fundätura-Härsovei, jud.
+Vaslui; Elena Grigore, învăţătoare în Rotunda-Liteni, jud. Baia; Vasile Pelin, învăţător
+în Stolniceni-Prăjescu, jud. Baia si loan Donisă, învăţător în Orbic, jud. Neamţ.
 
-93
+O serie de membri corespondenți, tot atât de harnici şi constiinciosi, care n'au putut fi
+premiaţi din cauza numărului limitat al premiilor, au fost distinsi cu exemplare din
+Anuarul Arhivei.
 
-)>
+Anuarul s'a mai trimis și tuturor membrilor corespondenţi, premiaţi în anii precedenti sau amintiţi în rapoartele noastre pe anii 1932-36, care au înţeles să rămână
+credincioşi colaboratori ai Arhivei.
 
-1
+S'au făcut patru anchete folklorice prin stipendiatii Arhivei. Două în vara anului
+1937, şi anume de către d-l Emil Petrovici, profesor la Universitatea din Cluj, la Românii
+de pe Valea "Timocului si de către d-l Victor I. Oprisu, profesor secundar, pe Valea
+Jiului (jud. Gorj); două în toamna anului 1938 şi anume de către d-l N. Smochină,
+profesor secundar, la refugiații transnistrieni din Basarabia si de către d-l Gh. Pavelescu, student în litere, pe Valea Sebeșului (jud. Alba).
 
-No
+S’au continuat lucrările pentru o bibliografie generală a folklorului românesc (în
+acest Anuar s'a publicat cea pentru anii 1936-37). Directorul Arhivei a pregătit pentru
+publicaţia internaţională « Volkskundliche Bibliographie » literatura folklorică românească a anilor 1935-36.
 
-6
+Biblioteca Arhivei s'a sporit cu 52 volume, parte donate, parte achiziţionate. S’au
+primit donatiuni dela: Academia Română (11 vol.), Arhiva de Folklor din Tartu-Estonia
+(6 vol.), Arhiva de Folklor din Kaunas-Lituania (3 vol.), cea din Oslo (3 vol.), cea din
+Copenhaga (2 vol.), Vasile Bologa (1 vol.), E. Butura (3 vol.), Const. Brăiloiu (2 vol.),
+Elena Costache-Găinaru (1 vol.), Georgescu-Breazul (3 vol.), Lükö Gabor (1 vol.),
+Ion Muslea (7 vol.), Eugen Nicoară (x vol.), G. T. Niculescu-Varone (2 vol.) si Nic.
+Ursu (1 vol.).
 
-1
+214 RAPORT ANUAL
 
-6
+In schimbul Anuarului, Arhiva primește următoarele publicaţii sträine:
 
-Dou ă articol e apărute , primu l î n volumu l al II-le a a l dicţionarulu i muzica l ungures c « Zene i Lexico n » (Budapest a 1931), a l doile a î n « A dictionar y o f moder n musi c an d mu sician s », Londr a 1924 —apo i î n ediţi a german ă a acestui a «Da s neu e Musiklexico n » (Berli n 1926). Traducer i d e Const . Brăiloiu .
+Budkavlen (Abo-Finlanda).
 
-# 406. Bartok , Be l a. Muzică populară românească. Muzică şi Poezie (!935— 93
+Danmarks Folkeminder (Copenhaga).
 
-## - 5> P- 18—22.
+Eesti Rahvaluule Arhiiv (Tartu-Estonia). Diferite publicaţii.
 
-)>
+Ethnographia şi A Neprajzi Muzeum Ertesitöje (Budapesta).
 
-6
+Lud Slowianski (Cracovia).
 
-No
+Nordiska Museets och Skansens Arsbok (Stockholm).
 
-Studi u publica t întâ i î n «Schweizerisch e Sängerzeitung » (Bern a 1933), tradu s e Const . Brăiloiu
+Norsk Folkeminnelag (Oslo).
 
-- 407. Bartok , Be l a. Rumänisch e Volkstänz e au s Ungarn . Wien , Universal -
+Oberdeutsche Zeitschrift fiir Volkskunde (Heidelberg).
 
-Edition .
+Schweizerisches Archiv für Volkskunde (Basel).
 
-Ree. Musikaleh t (Reval ) 8 (1931), 14 (R . P ä t s)
+Siebenbürgische Vierteljahrsschrift (Sibiu).
 
-- 408. Bartök , Béla . Scrieri mărunte despre muzica populară
+Stidostdeutsche Forschungen (München).
 
-românească adunate şi traduse de Const . Brăiloiu . Buc. 1937. « Luceafărul ». 8° 55 p.
+Tautosakos Darbai (Kaunas-Lituania).
 
-- 409. Bădoiu , Florian . începuturi muzicale la Leşu /Năsăud/.
+Ca si în ceilalți ani, Arhiva a căutat să stea la dispoziţia instituţiilor sau particularilorcare au nevoie de informaţii referitoare la folklorul românesc, satisfăcând — în parte:
+pe cale de corespondență — cererile următorilor cercetători: Prof. John Meier, directorul « Deutsches Volksliedarchiv »-ului din Freiburg; Prof. Mircea Eliade-Bucuresti
+(material despre mäträguna în folklor, publicat in revista « Zalmoxis», I (1938), pp.
+209—225); Prof. G. Breazul-Bucureşti; Prof. Petre Stefänucä-Chisinäu; Diacon Iosif”
+Naghiu-Cluj; Dr. Ion Chelcea-Bucuresti, etc.
 
-Sociologie Românească I (1936), No 10, p. 40—41.
-
-Istoricu l muzici i popular e di n Leşu .
-
-- 410. Bădoiu , Florian . Muzica populară în Leşu [-Năsăud].
-
-Arhiva Someşană No. 19 (1936), 377—380.
-
-- 411. B o b u 1 e s c u, C. Crâmpee din viaţa trecută a lăutarilor. Muzică
-
-şi Poezie I (1935—1936), No. 7, p. 9—15.
-
-- 412. Bobulescu , C. Melodii din cântece vechi româneşti. Muzică
-
-şi Poezie I (1935—1936), No. 3, p. 16—24.
-
-- 413. Brăiloiu , C. « Lazărul » («Cu sălcioara ») /Vidra-Ilfov/. So­
-
-ciologie Românească I (1936), No. 6, p. 18.
-
-- 414. Brăiloiu , Const . « Ale mortului ». Muzică şi Poezie II
-
-(1936), No. 1, p. 13—18.
-
-Cântecu l zorilo r şi a l bradului , cules e di n Gorj .
-
-- 415. Breazul , G. Die Musikerziehung in Rumänien. Bucureşti
-
-
-![image 2](007-raport-anual-1937-38_images/imageFile2.png)
-
-# 1936. Institutul de Arte Grafice «Luceafărul». 8° 51 p., 1 f., 32 planşe. (Extras din « Mélanges D. Guşti » 1936).
-
-Rec. Gân d Românes c V (1937), 249—250 (Coriola n Petranu) ; Revist a d e Pedagogi e I V (1936), 292-—293 (Cl . M a r c i a n u) .
-
-- 416. B u ga r iu, G r i g o r e. Corurile şi fanfarele bănăţene. Că­
-
-minul Cultural II (1935—1936), 723—724.
-
-- 417. C a r a n i c a, I o a n. 130 de melodii populare aromâneşti culese
-
-
-şi notate de —. Bucureşti 1937. Tipografia ziarului « Universul ». 8° 159 p Lei 150.
-
-Rec. Luceafăru l (Timişoara ) II I (1937), No 1—2, p . 48—49 (Nicola UTSU)
-
-![image 3](007-raport-anual-1937-38_images/imageFile3.png)
-
-- 418. Chant s populaire s roumains , transcrit s d'aprè s les Phonogramme »
-
-enregistré s pa r le Musé e d e la Parol e (Bibliothèqu e musical e d u Musé e d e la parol e e t d u Musé e Guimet . i-r e série, tom e 5). Pari s 1931. Pau l Geuthner . Gr . -i n 4 .
-
-- 419. C u c 1 i n, D i m i t r i e. Despre cântecul popular românesc. Mu*
-
-zică şi Poezie II (1937), No. 5, p. 1—5.
-
-- 420. Cuci i n, Dimitrie . Folclorul şi individualitatea creatoare.
-
-Muzică şi Poezie II (1936), No. 2, p. 13—15; No. 3 (1937), 12—14.
-
-- 421. D r ă g o i, S a b i n V. Observări la un răspuns al d-lui Bartok.
-
-Gând Românesc V (1937), 370—376.
-
-- 422. Dragoş-Ursu , Victoria . Jocurile româneşti [căluşarii]
-
-la Londra. Muzică şi Poezie II (1937), No. 5, p. 22.
-
-- 423. Fuchs , Teodor . Muzica populară rusească în comparaţie
-
-cu muzica populară românească. Bucureşti 1936. Tip. « Alfa ». 8° 14 p.
-
-- 424. Ionescu , Nelu . Cântece populare din Oltenia. Culese şi
-
-armonizate de —. Flamuri III (1937), 48—49.
-
-N u se indic ă locu l culegeri i nic i numel e informatorului .
-
-- 425. Ionescu , Nelu . Şapte coruri mixte. Craiova 1936. Tip.
-
-« Ramuri ». 8° 12 p.
-
-Tre i cântec e di n judeţu l Gor j şi tre i corur i compus e p e tem e popular e olteneşti .
-
-- 426. Marin , Scarla t I. Marine, Marine. Cântec popular cules
-
-
-![image 4](007-raport-anual-1937-38_images/imageFile4.png)
-
-şi armonizat pe două voci de —. /Coşereni-Ialomiţa/. Şcoala Ialomiţei VII (1936), No. 3-4, p. 18.
-
-- 427. O a n c e a, N. La horă 'n sat. Colecţia de coruri mixte. Vol. II.
-
-Bucureşti 1936. Tip. « Cărţilor Bisericeşti ». 8° 36 p., 1 f.
-
-- 428. Petranu , Coriolan . D. Béla Bartok şi muzica româ­
-
-
-nească. Cluj 1936. Tip. «Cartea Românească». 8° 6 p. (Extras din revista « Gând Românesc » No. 2, 1936).
-
-429. Petranu , Coriolan . M. Béla Bartok et la musique roumaine. Bucureşti 1937. Tip. « M. O., Impr. Naţională ». 8° 20 p. (Extrait de la Revue de Transylvanie. Tome III. No. 3, 1937).
-
-- 430. Petranu , Coriolan . Observations en marge des réponses
-
-de M. Béla Bartok. Revue de Transylvanie III (1937), 355—371.
-
-- 431. Popa , Grigore . Viziunea muzicală a lui Sabin Drăgoiu.
-
-Pagini Literare III (1936), 301—306.
-
-- 432. Stahl , H. H. Cum a învăţat Şerban Butoiu din ocarină. Socio­
-
-logie Românească I (1936), No. 4, p. 32—33.
-
-- 433. U r s u, N. Exemplificări caracteristice din folclorul musical bă­
-
-
-năţean. Revista Institutului Social Banat-Crişana V (1937), No. 17, p. 29—35-
-
-434. Zamfir , C. Despre muzica populară românească. Progres şi Cultură VII (1937), No. 9, p. 24—28; No. 10, p. 20—25.
-
+ION MUSLEA
