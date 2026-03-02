@@ -2003,6 +2003,8 @@ tr:hover td { background: var(--bg); }
 <script src="./ingest/series1/series1_manifest.js?v=20260301-213040"></script>
 <script src="/ingest/series2/series2_manifest.js"></script>
 <script src="./ingest/series2/series2_manifest.js"></script>
+<script src="/ingest/issues_manifest_user.js"></script>
+<script src="./ingest/issues_manifest_user.js"></script>
 <script>
 // ═══════════════════════════════════════════════════════════════════════
 //  DATA LAYER — CSV-parsed mock data
@@ -2081,18 +2083,26 @@ const JOURNAL = {
 };
 
 function hydratePreparedIngestData() {
-  const manifest = window.__INGEST_MANIFEST;
+  const manifest = window.__USER_MANIFEST_OVERRIDE || window.__INGEST_MANIFEST;
   if (!manifest) return;
+  if (window.__USER_MANIFEST_OVERRIDE) {
+    console.info('[AAF] Folosind issues_manifest_user.js (override admin) în loc de issues_manifest.js.');
+  }
 
   if (manifest.journal && typeof manifest.journal === 'object') {
     Object.assign(JOURNAL, manifest.journal);
   }
-  if (Array.isArray(manifest.issues) && manifest.issues.length) {
+  if (Array.isArray(manifest.issues)) {
     DB.issues = manifest.issues.map(issue => ({ ...issue, id: String(issue.id), series: issue.series || 'seria-3' }));
   }
-  if (Array.isArray(manifest.articles) && manifest.articles.length) {
+  if (Array.isArray(manifest.articles)) {
     DB.articles = manifest.articles.map(article => ({ ...article, id: String(article.id), issue_id: String(article.issue_id), series: article.series || 'seria-3' }));
   }
+}
+
+function hasFullUserManifestOverride() {
+  const override = window.__USER_MANIFEST_OVERRIDE;
+  return !!(override && (override.full_override || override.generated_by === 'admin-override-full'));
 }
 
 const SERIES1_SOURCE_PDF_BY_YEAR = {
@@ -2128,6 +2138,7 @@ function normalizePdfPath(path='', fallback='') {
 }
 
 function hydrateSeries1Data() {
+  if (hasFullUserManifestOverride()) return;
   const s1 = window.__INGEST_SERIES1;
   if (!s1) return;
 
@@ -2301,6 +2312,7 @@ function yearSortValue(value='') {
 }
 
 function hydrateSeries2Data() {
+  if (hasFullUserManifestOverride()) return;
   const s2 = window.__INGEST_SERIES2;
   const manifestIssues = (s2 && Array.isArray(s2.issues)) ? s2.issues : [];
   const sourceIssues = [...manifestIssues];
@@ -2486,6 +2498,8 @@ const STORAGE_KEYS = {
   locale: 'academcms-locale-v1',
   metrics: 'academcms-metrics-v1',
   csvBackups: 'academcms-csv-backups-v1',
+  adminPersistentData: 'academcms-admin-persistent-v1',
+  serverApiBase: 'academcms-server-api-base-v1',
 };
 
 const DEFAULT_AI_SETTINGS = {
@@ -2571,6 +2585,11 @@ const State = {
   metrics: { articleViews: {}, pdfDownloads: {}, articleViewEvents: {}, pdfDownloadEvents: {} },
   lastCountedArticleId: '',
   backupRootHandle: null,
+  hasPersistentAdminData: false,
+  persistentAdminSavedAt: '',
+  serverApiBase: localStorage.getItem(STORAGE_KEYS.serverApiBase) || (window.location.protocol === 'file:' ? 'http://localhost:8787' : ''),
+  serverSyncLastAt: '',
+  serverSyncLastError: '',
 };
 
 // ═══════════════════════════════════════════════════════════════════════
@@ -3345,7 +3364,7 @@ ${allIssuesSorted.map(issue=>`
           <td><strong style="font-size:0.9rem;">${art.title}</strong></td>
           <td class="text-sm text-muted">${art.authors}</td>
           <td style="display:flex;gap:8px;">
-            <button class="btn btn-secondary btn-sm" onclick="navigate('admin-article-edit',{id:'${art.id}'})">Editează</button>
+            <button class="btn btn-secondary btn-sm" onclick="openAdminArticleEditor('${art.id}')">Editează</button>
             <button class="btn btn-ghost btn-sm" onclick="navigate('public-article',{id:'${art.id}'})">→</button>
           </td>
         </tr>`).join('')}
@@ -4675,7 +4694,7 @@ function pagePublicIssue() {
             <div class="toc-item-actions">
               <span class="badge badge-gray">${tr('p.', 'pp.')} ${art.pages_start}–${art.pages_end}</span>
               <button class="btn btn-ghost btn-sm" onclick="event.stopPropagation();openPdfViewer('article','${art.id}')">PDF</button>
-              ${canAccessPage('admin-article-edit') ? `<button class="btn btn-ghost btn-sm" onclick="event.stopPropagation();navigate('admin-article-edit',{id:'${art.id}'})">${tr('Editează', 'Edit')}</button>` : ''}
+              ${canAccessPage('admin-article-edit') ? `<button class="btn btn-ghost btn-sm" onclick="event.stopPropagation();openAdminArticleEditor('${art.id}')">${tr('Editează', 'Edit')}</button>` : ''}
             </div>
           </div>
           <div style="padding-top:4px;color:var(--accent-strong);">→</div>
@@ -4831,7 +4850,7 @@ function pagePublicArticle() {
     <div class="article-side-actions">
       <button class="btn btn-secondary article-side-cta" onclick="navigate('public-issue',{id:'${art.issue_id}'})">← ${tr('Înapoi la număr', 'Back to issue')}</button>
       <button class="btn btn-primary article-side-cta" onclick="downloadPdfFromViewer('article','${art.id}')">⬇ ${tr('Descarcă articolul', 'Download article')}</button>
-      ${canAccessPage('admin-article-edit') ? `<button class="btn btn-secondary article-side-cta" onclick="navigate('admin-article-edit',{id:'${art.id}'})">${tr('Editează în admin', 'Edit in admin')}</button>` : ''}
+      ${canAccessPage('admin-article-edit') ? `<button class="btn btn-secondary article-side-cta" onclick="openAdminArticleEditor('${art.id}')">${tr('Editează în admin', 'Edit in admin')}</button>` : ''}
     </div>
 
     <div class="divider" style="margin:14px 0;"></div>
@@ -5261,6 +5280,25 @@ function pageAdminBackup() {
   const latestArticlesBackupLabel = latestArticlesBackup
     ? `${latestArticlesBackup.timestamp || latestArticlesBackup.saved_at || '—'}`
     : 'Niciun backup local detectat';
+  const persistentSavedAt = (() => {
+    const raw = String(State.persistentAdminSavedAt || '').trim();
+    if (!raw) return 'Niciun snapshot persistent local';
+    const t = Date.parse(raw);
+    return Number.isFinite(t) ? new Date(t).toLocaleString(State.locale === 'en' ? 'en-GB' : 'ro-RO') : raw;
+  })();
+  const overrideInfo = window.__USER_MANIFEST_OVERRIDE
+    ? (window.__USER_MANIFEST_OVERRIDE.full_override
+      ? 'Override activ: issues_manifest_user.js (complet, toate seriile).'
+      : 'Override activ: issues_manifest_user.js (parțial).')
+    : 'Niciun override activ — se folosesc datele din build script.';
+  const serverSavedAtLabel = (() => {
+    const raw = String(State.serverSyncLastAt || '').trim();
+    if (!raw) return 'Fără sincronizare server în sesiunea curentă';
+    const t = Date.parse(raw);
+    return Number.isFinite(t) ? new Date(t).toLocaleString(State.locale === 'en' ? 'en-GB' : 'ro-RO') : raw;
+  })();
+  const serverErrorLabel = String(State.serverSyncLastError || '').trim();
+  const serverApiValue = escapeHtml(State.serverApiBase || '');
   return `
 <div class="page-title">Backup și Date</div>
 <div class="page-subtitle">Export date și configurare backup automat.</div>
@@ -5273,8 +5311,34 @@ function pageAdminBackup() {
         <button class="btn btn-secondary" onclick="downloadArticlesCSV()">📊 Articole — CSV</button>
         <button class="btn btn-secondary" onclick="downloadIssuesCSV()">📊 Numere — CSV</button>
         <button class="btn btn-secondary" onclick="toast('Export submisii CSV generat','success')">📊 Submisii — CSV</button>
+        <div class="form-field" style="margin-top:8px;">
+          <label class="field-label">API server CSV</label>
+          <input type="text" id="server-api-base" value="${serverApiValue}" placeholder="http://localhost:8787">
+          <span class="field-hint">Lasă gol pentru același origin (când app-ul e servit pe server).</span>
+        </div>
+        <div style="display:flex;gap:8px;flex-wrap:wrap;">
+          <button class="btn btn-secondary" onclick="setServerApiBase(document.getElementById('server-api-base')?.value || ''); toast('URL API salvat local.','success')">💾 Salvează URL API</button>
+          <button class="btn btn-secondary" onclick="showServerStartHelp()">▶ Pornește server local (ghid)</button>
+          <button class="btn btn-secondary" onclick="syncStateFromServerIfAvailable({silent:false})">↻ Încarcă stare din server</button>
+          <button class="btn btn-primary" onclick="persistStateToServerNow()">☁ Persistă acum pe server</button>
+        </div>
+        <div class="alert ${serverErrorLabel ? 'alert-warning' : 'alert-info'} text-sm" style="margin-top:8px;">
+          <span>${serverErrorLabel ? '⚠' : '☁'}</span>
+          <div>${serverErrorLabel ? `Ultima eroare server: ${escapeHtml(serverErrorLabel)}` : `Ultima sincronizare server: ${serverSavedAtLabel}`}</div>
+        </div>
+        <div class="alert alert-info text-sm" style="margin-top:8px;"><span>💾</span><div>Snapshot persistent local: ${persistentSavedAt}</div></div>
+        <button class="btn btn-primary" onclick="savePersistentAdminDataNow()">💾 Salvează acum starea completă (persistent local)</button>
+        <button class="btn btn-danger" onclick="clearPersistentAdminData()">🗑️ Șterge snapshot persistent local</button>
         <div class="alert alert-warning text-sm" style="margin-top:8px;"><span>↺</span><div>Ultim backup local articole: ${latestArticlesBackupLabel}</div></div>
         <button class="btn btn-primary" onclick="restoreLatestArticlesFromLocalBackup()">♻ Restaurează backup local (prioritar ultima oră)</button>
+        <hr style="margin:12px 0;border-color:var(--border);">
+        <div class="text-sm text-muted mb-8" style="line-height:1.5;">
+          <strong>Manifest final (override permanent)</strong><br>
+          Salvează starea curentă a tuturor seriilor ca <code>ingest/issues_manifest_user.js</code>.
+          Fișierul are prioritate față de build script și nu va fi niciodată suprascris automat.
+        </div>
+        <button class="btn btn-primary" onclick="saveUserManifestOverride()" style="background:var(--success,#16a34a);">💾 Salvează manifest complet (override)</button>
+        ${window.__USER_MANIFEST_OVERRIDE ? `<div class="alert alert-success text-sm" style="margin-top:8px;"><span>✓</span><div>${overrideInfo}</div></div>` : `<div class="alert text-sm" style="margin-top:8px;background:#f8f9fa;border:1px solid var(--border);"><span>ℹ</span><div>${overrideInfo}</div></div>`}
       </div>
     </div>
   </div>
@@ -6570,6 +6634,271 @@ function backupTimestamp() {
   return `${now.getFullYear()}-${pad(now.getMonth()+1)}-${pad(now.getDate())}_${pad(now.getHours())}-${pad(now.getMinutes())}-${pad(now.getSeconds())}`;
 }
 
+function buildPersistentAdminPayload(reason='manual') {
+  return {
+    version: 1,
+    schema: 'academcms-admin-persistent-v1',
+    reason: String(reason || 'manual'),
+    saved_at: new Date().toISOString(),
+    journal: { ...JOURNAL },
+    issues: DB.issues.map(issue => ({ ...issue, id: String(issue.id || ''), series: issue.series || '' })),
+    articles: DB.articles.map(article => ({
+      ...article,
+      id: String(article.id || ''),
+      issue_id: String(article.issue_id || ''),
+      series: article.series || '',
+    })),
+  };
+}
+
+function persistAdminDataSnapshot(reason='manual', options={}) {
+  const { silent = false } = options || {};
+  try {
+    const payload = buildPersistentAdminPayload(reason);
+    localStorage.setItem(STORAGE_KEYS.adminPersistentData, JSON.stringify(payload));
+    State.hasPersistentAdminData = true;
+    State.persistentAdminSavedAt = payload.saved_at;
+    return payload;
+  } catch (err) {
+    console.error('[AAF] Eroare persistare locală admin:', err);
+    if (!silent) {
+      toast(`Eroare la salvarea persistentă locală: ${err?.message || err}`, 'error');
+    }
+    return null;
+  }
+}
+
+function hydratePersistentAdminData() {
+  const raw = localStorage.getItem(STORAGE_KEYS.adminPersistentData);
+  if (!raw) return false;
+  try {
+    const parsed = JSON.parse(raw);
+    if (!parsed || !Array.isArray(parsed.issues) || !Array.isArray(parsed.articles)) return false;
+
+    if (parsed.journal && typeof parsed.journal === 'object') {
+      Object.assign(JOURNAL, parsed.journal);
+    }
+    DB.issues = parsed.issues.map(issue => ({
+      ...issue,
+      id: String(issue.id || ''),
+      series: issue.series || 'seria-3',
+    }));
+    DB.articles = parsed.articles.map(article => ({
+      ...article,
+      id: String(article.id || ''),
+      issue_id: String(article.issue_id || ''),
+      series: article.series || '',
+    }));
+
+    State.hasPersistentAdminData = true;
+    State.persistentAdminSavedAt = String(parsed.saved_at || '');
+    console.info(`[AAF] Restaurat snapshot persistent admin: ${DB.issues.length} numere, ${DB.articles.length} articole.`);
+    return true;
+  } catch (err) {
+    console.warn('[AAF] Snapshot admin local invalid. Se ignoră.', err);
+    return false;
+  }
+}
+
+function savePersistentAdminDataNow() {
+  const payload = persistAdminDataSnapshot('manual-save', { silent: true });
+  if (!payload) return;
+  toast(`Stare salvată persistent: ${payload.issues.length} numere, ${payload.articles.length} articole.`, 'success');
+  renderPage();
+}
+
+function clearPersistentAdminData() {
+  localStorage.removeItem(STORAGE_KEYS.adminPersistentData);
+  State.hasPersistentAdminData = false;
+  State.persistentAdminSavedAt = '';
+  toast('Salvarea persistentă locală a fost ștearsă.', 'warning');
+  renderPage();
+}
+
+function normalizedServerApiBase() {
+  const raw = String(State.serverApiBase || '').trim();
+  if (!raw) return '';
+  return raw.replace(/\/+$/, '');
+}
+
+function setServerApiBase(value='') {
+  State.serverApiBase = String(value || '').trim();
+  localStorage.setItem(STORAGE_KEYS.serverApiBase, State.serverApiBase);
+}
+
+function buildServerApiUrl(path='') {
+  const base = normalizedServerApiBase();
+  const suffix = String(path || '').startsWith('/') ? String(path || '') : `/${String(path || '')}`;
+  if (base) return `${base}${suffix}`;
+  return suffix;
+}
+
+async function fetchServerJson(path, options={}) {
+  const url = buildServerApiUrl(path);
+  const rsp = await fetch(url, {
+    ...options,
+    headers: {
+      'Content-Type': 'application/json',
+      ...(options.headers || {}),
+    },
+  });
+  if (!rsp.ok) {
+    throw new Error(`HTTP ${rsp.status}`);
+  }
+  return rsp.json();
+}
+
+function getAdminServerStartCommand() {
+  return 'node scripts/admin_csv_server.js';
+}
+
+async function checkServerAvailability(options={}) {
+  const { timeoutMs = 1500 } = options || {};
+  const controller = new AbortController();
+  const timer = setTimeout(() => controller.abort(), Math.max(300, Number(timeoutMs) || 1500));
+  try {
+    const rsp = await fetch(buildServerApiUrl('/api/health'), {
+      method: 'GET',
+      headers: { Accept: 'application/json' },
+      signal: controller.signal,
+    });
+    if (!rsp.ok) throw new Error(`HTTP ${rsp.status}`);
+    await rsp.json().catch(() => ({}));
+    State.serverSyncLastError = '';
+    return true;
+  } catch (err) {
+    State.serverSyncLastError = String(err?.message || err);
+    return false;
+  } finally {
+    clearTimeout(timer);
+  }
+}
+
+async function ensureServerForAdminEdit(options={}) {
+  const { interactive = true } = options || {};
+  const healthy = await checkServerAvailability({ timeoutMs: 1300 });
+  if (healthy) return true;
+  if (!interactive) return false;
+
+  const cmd = getAdminServerStartCommand();
+  try {
+    if (navigator?.clipboard?.writeText) await navigator.clipboard.writeText(cmd);
+  } catch (_) {}
+
+  const apiBase = normalizedServerApiBase() || '(same-origin)';
+  window.alert(
+`Serverul de persistență CSV nu rulează.
+
+Browserul nu poate porni automat procese locale.
+Pornește serverul din Terminal, în folderul proiectului:
+${cmd}
+
+API curent: ${apiBase}
+Comanda a fost copiată în clipboard (dacă browserul permite).`
+  );
+  return false;
+}
+
+async function showServerStartHelp() {
+  const ok = await ensureServerForAdminEdit({ interactive: true });
+  if (ok) toast('Serverul CSV este deja online.', 'success');
+}
+
+async function openAdminArticleEditor(articleId) {
+  const serverOk = await ensureServerForAdminEdit({ interactive: true });
+  navigate('admin-article-edit', { id: String(articleId || '') });
+  if (!serverOk) {
+    toast('Editare deschisă în mod local. Pentru persistență CSV globală, pornește serverul.', 'warning');
+  }
+}
+
+function parseIsoMs(value='') {
+  const t = Date.parse(String(value || '').trim());
+  return Number.isFinite(t) ? t : 0;
+}
+
+async function syncStateFromServerIfAvailable(options={}) {
+  const { silent = true } = options || {};
+  try {
+    const payload = await fetchServerJson('/api/state');
+    const meta = payload?.meta || {};
+    if (meta.schema !== 'academcms-csv-state-v1') return false;
+    if (!Array.isArray(payload.issues) || !Array.isArray(payload.articles)) return false;
+
+    const serverSavedAt = parseIsoMs(meta.saved_at || '');
+    const localSavedAt = parseIsoMs(State.persistentAdminSavedAt || '');
+    if (localSavedAt && serverSavedAt && localSavedAt > serverSavedAt) {
+      return false;
+    }
+
+    if (payload.journal && typeof payload.journal === 'object') {
+      Object.assign(JOURNAL, payload.journal);
+    }
+    DB.issues = payload.issues.map(issue => ({
+      ...issue,
+      id: String(issue.id || ''),
+      series: issue.series || 'seria-3',
+    }));
+    DB.articles = payload.articles.map(article => ({
+      ...article,
+      id: String(article.id || ''),
+      issue_id: String(article.issue_id || ''),
+      series: article.series || '',
+    }));
+
+    State.serverSyncLastAt = String(meta.saved_at || new Date().toISOString());
+    State.serverSyncLastError = '';
+    persistAdminDataSnapshot('server-state-hydrate', { silent: true });
+    renderTopbar();
+    renderPage();
+    updateHeadMetadata();
+    if (!silent) toast(`Stare încărcată din server: ${DB.issues.length} numere, ${DB.articles.length} articole.`, 'success');
+    return true;
+  } catch (err) {
+    State.serverSyncLastError = String(err?.message || err);
+    if (!silent) toast(`Server indisponibil: ${State.serverSyncLastError}`, 'warning');
+    return false;
+  }
+}
+
+async function persistStateToServer(reason='manual-save', options={}) {
+  const { silent = false } = options || {};
+  try {
+    const payload = {
+      reason: String(reason || 'manual-save'),
+      journal: { ...JOURNAL },
+      issues: DB.issues.map(issue => ({ ...issue, id: String(issue.id || ''), series: issue.series || 'seria-3' })),
+      articles: DB.articles.map(article => ({
+        ...article,
+        id: String(article.id || ''),
+        issue_id: String(article.issue_id || ''),
+        series: article.series || '',
+      })),
+    };
+    const result = await fetchServerJson('/api/state/save', {
+      method: 'POST',
+      body: JSON.stringify(payload),
+    });
+    State.serverSyncLastAt = String(result?.meta?.saved_at || new Date().toISOString());
+    State.serverSyncLastError = '';
+    if (!silent) {
+      toast(`Persistat pe server: ${result?.counts?.issues || payload.issues.length} numere, ${result?.counts?.articles || payload.articles.length} articole.`, 'success');
+    }
+    return true;
+  } catch (err) {
+    State.serverSyncLastError = String(err?.message || err);
+    if (!silent) {
+      toast(`Nu am putut salva pe server (${State.serverSyncLastError}).`, 'warning');
+    }
+    return false;
+  }
+}
+
+async function persistStateToServerNow() {
+  const ok = await persistStateToServer('manual-admin-backup', { silent: false });
+  if (ok) renderPage();
+}
+
 function loadCsvBackups() {
   try {
     return JSON.parse(localStorage.getItem(STORAGE_KEYS.csvBackups) || '[]');
@@ -6648,7 +6977,7 @@ function getLatestCsvBackup(filename='articles.csv', maxAgeMinutes=0) {
   return backups[0];
 }
 
-function restoreLatestArticlesFromLocalBackup(maxAgeMinutes=60) {
+async function restoreLatestArticlesFromLocalBackup(maxAgeMinutes=60) {
   const windows = [];
   if (Number(maxAgeMinutes) > 0) windows.push(Number(maxAgeMinutes));
   windows.push(120, 360, 1440); // fallback gradual: 2h, 6h, 24h
@@ -6675,7 +7004,9 @@ function restoreLatestArticlesFromLocalBackup(maxAgeMinutes=60) {
     issue_id: String(article.issue_id || ''),
     series: article.series || '',
   }));
-  toast(`Backup restaurat: ${DB.articles.length} articole (${entry.timestamp || entry.saved_at || 'fără timestamp'}).`, 'success');
+  persistAdminDataSnapshot('restore-articles-backup', { silent: true });
+  const serverPersisted = await persistStateToServer('restore-articles-backup', { silent: true });
+  toast(`Backup restaurat: ${DB.articles.length} articole (${entry.timestamp || entry.saved_at || 'fără timestamp'}). Datele sunt persistente local${serverPersisted ? ' și pe server' : ''}.`, 'success');
   renderTopbar();
   renderPage();
   updateHeadMetadata();
@@ -6721,15 +7052,67 @@ async function saveAdminArticleEdits(articleId) {
   art.language = getValue('ae-language') || art.language || 'ro';
   art.status = getValue('ae-status') || art.status || 'published';
 
+  const persisted = persistAdminDataSnapshot('admin-article-edit', { silent: true });
+  const serverPersisted = await persistStateToServer('admin-article-edit', { silent: true });
   const csv = serializeCsvRows(DB.articles);
   const stamp = backupTimestamp();
   const writtenToFolder = await writeCsvBackupToFolder('articles.csv', csv, stamp);
   if (!writtenToFolder) {
     writeCsvBackupToLocalStorage('articles.csv', csv, stamp);
-    toast('Modificările au fost salvate. Backup local (timestamped) stocat în browser.', 'warning');
+    const segments = [
+      'Modificările au fost salvate',
+      persisted ? 'persistent în browser' : '',
+      serverPersisted ? 'și pe server' : 'fără server',
+      'Backup local (timestamped) stocat în browser.',
+    ].filter(Boolean);
+    toast(segments.join(' '), serverPersisted || persisted ? 'success' : 'warning');
     return;
   }
-  toast(`Modificările au fost salvate. Backup creat în folderul backups/${stamp}.`, 'success');
+  const segments = [
+    'Modificările au fost salvate',
+    persisted ? 'persistent în browser' : '',
+    serverPersisted ? 'și pe server' : 'fără server',
+    `Backup creat în folderul backups/${stamp}.`,
+  ].filter(Boolean);
+  toast(segments.join(' '), serverPersisted || persisted ? 'success' : 'warning');
+}
+
+async function saveUserManifestOverride() {
+  const allIssues = DB.issues.map(issue => ({ ...issue, id: String(issue.id || ''), series: issue.series || 'seria-3' }));
+  const allArticles = DB.articles.map(article => ({
+    ...article,
+    id: String(article.id || ''),
+    issue_id: String(article.issue_id || ''),
+    series: article.series || '',
+  }));
+  const manifest = {
+    journal: { ...JOURNAL },
+    issues: allIssues,
+    articles: allArticles,
+    generated_at: new Date().toISOString(),
+    generated_by: 'admin-override-full',
+    full_override: true,
+  };
+  const content = 'window.__USER_MANIFEST_OVERRIDE = ' + JSON.stringify(manifest, null, 2) + ';\n';
+  try {
+    if ('showSaveFilePicker' in window) {
+      const handle = await window.showSaveFilePicker({
+        suggestedName: 'issues_manifest_user.js',
+        types: [{ description: 'JavaScript manifest', accept: { 'application/javascript': ['.js'] } }],
+      });
+      const writable = await handle.createWritable();
+      await writable.write(content);
+      await writable.close();
+      toast(`Manifest complet salvat: ${allIssues.length} numere, ${allArticles.length} articole. Plasați fișierul în ingest/ dacă nu e deja acolo.`, 'success');
+    } else {
+      downloadFile(content, 'issues_manifest_user.js', 'application/javascript');
+      toast(`Manifest complet descărcat (${allIssues.length} numere, ${allArticles.length} articole). Copiați fișierul în ingest/.`, 'warning');
+    }
+  } catch (err) {
+    if (err?.name !== 'AbortError') {
+      toast('Eroare la salvarea manifest-ului: ' + (err?.message || err), 'error');
+    }
+  }
 }
 
 function downloadArticlesCSV() {
@@ -6839,6 +7222,7 @@ function selectTemplate(idx) {
 hydrateSession();
 hydrateAiSettings();
 hydrateMetrics();
+hydratePersistentAdminData();
 document.documentElement.lang = State.locale;
 
 if (isFileMode()) {
@@ -6848,6 +7232,7 @@ if (isFileMode()) {
 }
 
 routeFromLocation(true);
+syncStateFromServerIfAvailable({ silent: true });
 </script>
 </body>
 </html>
