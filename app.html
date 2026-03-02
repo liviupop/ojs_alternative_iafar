@@ -47,15 +47,15 @@
   --transition: 0.18s ease;
 
   /* Series palettes */
-  --s1-bg: #f0e6d2;
-  --s1-border: #c4a56e;
-  --s1-accent: #8b6914;
-  --s1-text: #5a3e0a;
-  --s1-text2: rgba(90,62,10,0.78);
-  --s1-badge-bg: #e6d5b8;
-  --s1-badge-text: #6b4e1a;
-  --s1-hover: #e8dac0;
-  --s1-card-bg: #f5eedd;
+  --s1-bg: #e7f3ea;
+  --s1-border: #b7d6bf;
+  --s1-accent: #6ea883;
+  --s1-text: #254c36;
+  --s1-text2: rgba(37,76,54,0.82);
+  --s1-badge-bg: #d7ebdd;
+  --s1-badge-text: #2d6445;
+  --s1-hover: #dff0e4;
+  --s1-card-bg: #edf7f0;
 
   --s2-bg: #e6edf8;
   --s2-border: #8ea3c0;
@@ -180,25 +180,118 @@
 .series-dot-seria-3 { background: var(--s3-accent); }
 
 /* TOC panel theme for series */
+.issue-panel.toc-seria-1 {
+  background: var(--s1-card-bg);
+  border-color: var(--s1-border);
+  --accent-strong: var(--s1-accent);
+}
 .issue-panel.toc-seria-1 .card-header {
   background: var(--s1-card-bg);
   border-bottom-color: var(--s1-border);
 }
+.issue-panel.toc-seria-1 .card-body {
+  background: #f4fbf6;
+}
+.issue-panel.toc-seria-1 .toc-item {
+  border-bottom-color: rgba(110, 168, 131, 0.22);
+}
 .issue-panel.toc-seria-1 .toc-item:hover {
   background: var(--s1-hover);
 }
+.issue-panel.toc-seria-1 .toc-item-title { color: var(--s1-accent); }
+.issue-panel.toc-seria-1 .toc-pages,
+.issue-panel.toc-seria-1 .toc-item-authors {
+  color: var(--s1-text2);
+}
+.issue-panel.toc-seria-1 .series-badge {
+  background: var(--s1-badge-bg);
+  color: var(--s1-badge-text);
+}
+.issue-panel.toc-seria-1 .badge-gray {
+  background: #e5f3e9;
+  color: #2f5f44;
+}
+.issue-panel.toc-seria-1 .badge-green {
+  background: #d7ebdd;
+  color: #2d6445;
+}
+.issue-panel.toc-seria-1 .btn-ghost {
+  color: var(--s1-accent);
+}
+.issue-panel.toc-seria-1 .btn-ghost:hover {
+  background: #e5f3e9;
+}
 
+.issue-panel.toc-seria-2 {
+  background: var(--s2-card-bg);
+  border-color: var(--s2-border);
+  --accent-strong: var(--s2-accent);
+}
 .issue-panel.toc-seria-2 .card-header {
   background: var(--s2-card-bg);
   border-bottom-color: var(--s2-border);
 }
+.issue-panel.toc-seria-2 .card-body {
+  background: #f4f8fe;
+}
+.issue-panel.toc-seria-2 .toc-item {
+  border-bottom-color: rgba(70, 106, 147, 0.2);
+}
 .issue-panel.toc-seria-2 .toc-item:hover {
   background: var(--s2-hover);
 }
+.issue-panel.toc-seria-2 .toc-item-title { color: var(--s2-accent); }
+.issue-panel.toc-seria-2 .toc-pages,
+.issue-panel.toc-seria-2 .toc-item-authors {
+  color: var(--s2-text2);
+}
+.issue-panel.toc-seria-2 .series-badge {
+  background: var(--s2-badge-bg);
+  color: var(--s2-badge-text);
+}
+.issue-panel.toc-seria-2 .badge-gray {
+  background: #e2ebf8;
+  color: #365a86;
+}
+.issue-panel.toc-seria-2 .badge-green {
+  background: #d7e2f2;
+  color: #2f4f78;
+}
+.issue-panel.toc-seria-2 .btn-ghost {
+  color: var(--s2-accent);
+}
+.issue-panel.toc-seria-2 .btn-ghost:hover {
+  background: #e2ebf8;
+}
 
+.issue-panel.toc-seria-3 {
+  background: var(--s3-card-bg);
+  border-color: var(--s3-border);
+  --accent-strong: var(--s3-border);
+}
 .issue-panel.toc-seria-3 .card-header {
-  background: var(--s3-badge-bg);
+  background: var(--s3-card-bg);
   border-bottom-color: var(--s3-border);
+}
+.issue-panel.toc-seria-3 .card-body {
+  background: #fdf2df;
+}
+.issue-panel.toc-seria-3 .toc-item {
+  border-bottom-color: rgba(100, 73, 23, 0.2);
+}
+.issue-panel.toc-seria-3 .toc-item:hover {
+  background: var(--s3-hover);
+}
+.issue-panel.toc-seria-3 .toc-item-title {
+  color: var(--s3-border);
+}
+.issue-panel.toc-seria-3 .toc-pages,
+.issue-panel.toc-seria-3 .toc-item-authors {
+  color: var(--s3-text2);
+}
+.issue-panel.toc-seria-3 .series-badge {
+  background: var(--s3-badge-bg);
+  color: var(--s3-badge-text);
 }
 *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
 html { font-size: 15px; }
@@ -583,6 +676,45 @@ td {
 tr:last-child td { border-bottom: none; }
 tr:hover td { background: var(--bg); }
 .tbl-actions { display: flex; gap: 6px; align-items: center; }
+.dashboard-issues-table .dashboard-issue-row td {
+  transition: background var(--transition);
+}
+.dashboard-issues-table .dashboard-issue-row.series-row-seria-1 td { background: #f7fcf8; }
+.dashboard-issues-table .dashboard-issue-row.series-row-seria-2 td { background: #f6f9fe; }
+.dashboard-issues-table .dashboard-issue-row.series-row-seria-3 td { background: #fff9ef; }
+.dashboard-issues-table .dashboard-issue-row td:first-child {
+  border-left: 3px solid transparent;
+}
+.dashboard-issues-table .dashboard-issue-row.series-row-seria-1 td:first-child { border-left-color: var(--s1-accent); }
+.dashboard-issues-table .dashboard-issue-row.series-row-seria-2 td:first-child { border-left-color: var(--s2-accent); }
+.dashboard-issues-table .dashboard-issue-row.series-row-seria-3 td:first-child { border-left-color: var(--s3-border); }
+.dashboard-series-chip {
+  margin-left: 8px;
+}
+.issue-view-btn-seria-1 {
+  border-color: var(--s1-accent);
+  background: #e5f3e9;
+  color: #2f5f44;
+}
+.issue-view-btn-seria-1:hover {
+  background: #dff0e4;
+}
+.issue-view-btn-seria-2 {
+  border-color: var(--s2-accent);
+  background: #e2ebf8;
+  color: #2f4f78;
+}
+.issue-view-btn-seria-2:hover {
+  background: #d7e2f2;
+}
+.issue-view-btn-seria-3 {
+  border-color: var(--s3-border);
+  background: #f7e6cd;
+  color: var(--s3-border);
+}
+.issue-view-btn-seria-3:hover {
+  background: #f3ddb7;
+}
 
 /* ─── STATS GRID ─── */
 .stats-grid { display: grid; grid-template-columns: repeat(4,1fr); gap: 16px; margin-bottom: 32px; }
@@ -1122,7 +1254,11 @@ tr:hover td { background: var(--bg); }
   position: relative;
   aspect-ratio: 3 / 4;
   overflow: hidden;
-  background: linear-gradient(160deg, #644917 0%, #f1b22b 55%, #f8dab5 100%);
+  --cover-g1: #644917;
+  --cover-g2: #f1b22b;
+  --cover-g3: #f8dab5;
+  --cover-text: #fff;
+  background: linear-gradient(160deg, var(--cover-g1) 0%, var(--cover-g2) 55%, var(--cover-g3) 100%);
 }
 .issue-cover-image {
   position: absolute;
@@ -1133,14 +1269,35 @@ tr:hover td { background: var(--bg); }
   display: block;
 }
 .issue-cover-fallback-inner {
-  background: linear-gradient(160deg, #644917 0%, #f1b22b 55%, #f8dab5 100%);
-  color: #fff;
+  background: linear-gradient(160deg, var(--cover-g1) 0%, var(--cover-g2) 55%, var(--cover-g3) 100%);
+  color: var(--cover-text);
   padding: 18px;
   width: 100%;
   height: 100%;
   display: flex;
   flex-direction: column;
   justify-content: space-between;
+}
+.issue-cover.series-seria-1,
+.issue-cover.series-seria-1 .issue-cover-fallback-inner {
+  --cover-g1: #5d8f72;
+  --cover-g2: #8db99a;
+  --cover-g3: #d0e8d7;
+  --cover-text: #fff;
+}
+.issue-cover.series-seria-2,
+.issue-cover.series-seria-2 .issue-cover-fallback-inner {
+  --cover-g1: #2f4f78;
+  --cover-g2: #5e7ea7;
+  --cover-g3: #b7cae2;
+  --cover-text: #fff;
+}
+.issue-cover.series-seria-3,
+.issue-cover.series-seria-3 .issue-cover-fallback-inner {
+  --cover-g1: #644917;
+  --cover-g2: #f1b22b;
+  --cover-g3: #f8dab5;
+  --cover-text: #fff;
 }
 .issue-cover:not(.issue-cover-fallback) .issue-cover-fallback-inner { display: none; }
 .issue-cover.issue-cover-fallback .issue-cover-image { display: none; }
@@ -1194,13 +1351,305 @@ tr:hover td { background: var(--bg); }
   padding: 28px 30px;
 }
 .article-side {
-  position: sticky;
-  top: calc(var(--header-h) + 18px);
+  position: static;
+  top: auto;
   background: var(--seashell);
   border: 1px solid var(--border);
   border-radius: var(--radius);
   box-shadow: var(--shadow);
-  padding: 14px;
+  padding: 28px 22px;
+}
+.article-side-actions {
+  display: grid;
+  gap: 8px;
+}
+.article-side-cta {
+  width: 100%;
+  justify-content: center;
+  font-size: 1rem;
+  padding: 13px 16px;
+}
+.article-side .meta-grid {
+  grid-template-columns: 1fr;
+  margin: 8px 0 12px;
+}
+.article-side .meta-box {
+  background: #fff;
+}
+.article-reference-block {
+  border: 1px solid var(--bg3);
+  border-radius: 6px;
+  background: #fff;
+  padding: 12px;
+}
+.article-reference-title {
+  font-family: var(--font-mono);
+  font-size: 0.78rem;
+  letter-spacing: 0.09em;
+  text-transform: uppercase;
+  color: var(--text2);
+  font-weight: 700;
+  margin-bottom: 8px;
+}
+.article-reference-text {
+  font-size: 1.04rem;
+  line-height: 1.6;
+  color: var(--text);
+  font-weight: 700;
+}
+.article-reference-copy {
+  margin-top: 10px;
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  font-size: 0.92rem;
+  color: var(--accent);
+  text-decoration: none;
+  font-weight: 700;
+}
+.article-reference-copy:hover { text-decoration: underline; }
+.article-side-badge-row {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  margin-top: 8px;
+}
+.article-alt-title {
+  margin-top: 10px;
+  padding: 10px 12px;
+  border: 1px solid var(--bg3);
+  border-radius: 6px;
+  background: #fff;
+}
+.article-alt-title-label {
+  display: block;
+  font-family: var(--font-mono);
+  font-size: 0.66rem;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: var(--text3);
+  margin-bottom: 4px;
+}
+.article-alt-title-text {
+  font-size: 1rem;
+  line-height: 1.45;
+  font-weight: 600;
+}
+.series-theme-seria-1 .article-side {
+  border-color: #b7d6bf;
+  background: #f3faf5;
+}
+.series-theme-seria-1 .article-reference-block,
+.series-theme-seria-1 .article-side .meta-box,
+.series-theme-seria-1 .citation-side-item,
+.series-theme-seria-1 .article-metric-box {
+  border-color: #c8e1d0;
+  background: #fff;
+}
+.series-theme-seria-1 .article-side-title,
+.series-theme-seria-1 .article-reference-title,
+.series-theme-seria-1 .article-metric-label,
+.series-theme-seria-1 .article-metric-breakdown-row .k {
+  color: #4f8163;
+}
+.series-theme-seria-1 .article-reference-copy {
+  color: #5f966f;
+}
+.series-theme-seria-1 .article-side-badge-row .badge {
+  border-color: #c8e1d0;
+  background: #e9f5ee;
+  color: #2f5f44;
+}
+.series-theme-seria-1 .article-side-cta.btn-primary,
+.series-theme-seria-1 .article-side-cta.btn-secondary {
+  background: #6ea883;
+  border-color: #6ea883;
+  color: #fff;
+}
+.series-theme-seria-1 .article-side-cta.btn-primary:hover,
+.series-theme-seria-1 .article-side-cta.btn-secondary:hover {
+  background: #5f966f;
+  border-color: #5f966f;
+  color: #fff;
+}
+.series-theme-seria-1 .quick-action.btn-primary {
+  background: #6ea883;
+  border-color: #6ea883;
+  color: #fff;
+}
+.series-theme-seria-1 .quick-action.btn-primary:hover {
+  background: #5f966f;
+  border-color: #5f966f;
+}
+.series-theme-seria-1 .issue-contact-box {
+  border-color: #c8e1d0;
+  background: #eef8f1;
+}
+.series-theme-seria-1 .article-main {
+  border-color: #b7d6bf;
+  background: #f3faf5;
+}
+.series-theme-seria-1 .article-main .author-row,
+.series-theme-seria-1 .article-main .article-alt-title,
+.series-theme-seria-1 .article-main .pdf-frame {
+  border-color: #c8e1d0;
+  background: #fff;
+}
+.series-theme-seria-1 .article-main .section-title {
+  border-bottom-color: #b7d6bf;
+  color: #2d6445;
+}
+.series-theme-seria-1 .article-main .section-block {
+  border-top-color: #c8e1d0;
+}
+.series-theme-seria-1 .article-main button.keyword-tag {
+  border-color: #c8e1d0;
+  background: #e9f5ee;
+  color: #2f5f44;
+}
+.series-theme-seria-1 .article-main button.keyword-tag:hover {
+  border-color: #6ea883;
+  background: #dff0e4;
+  color: #254c36;
+}
+.series-theme-seria-1 .article-main button.keyword-tag.active {
+  border-color: #6ea883;
+  background: #6ea883;
+  color: #fff;
+}
+.series-theme-seria-1 .citation-side-item .btn-secondary {
+  border-color: #6ea883;
+  background: #6ea883;
+  color: #fff;
+}
+.series-theme-seria-1 .citation-side-item .btn-secondary:hover {
+  border-color: #5f966f;
+  background: #5f966f;
+  color: #fff;
+}
+.series-theme-seria-2 .quick-action.btn-primary {
+  background: #4d6f98;
+  border-color: #4d6f98;
+  color: #fff;
+}
+.series-theme-seria-2 .quick-action.btn-primary:hover {
+  background: #3e618a;
+  border-color: #3e618a;
+}
+.series-theme-seria-2 .article-side-cta.btn-primary {
+  background: #4d6f98;
+  border-color: #4d6f98;
+  color: #fff;
+}
+.series-theme-seria-2 .article-side-cta.btn-primary:hover {
+  background: #3e618a;
+  border-color: #3e618a;
+}
+.series-theme-seria-2 .article-side-cta.btn-secondary {
+  background: #4d6f98;
+  border-color: #4d6f98;
+  color: #fff;
+}
+.series-theme-seria-2 .article-side-cta.btn-secondary:hover {
+  background: #3e618a;
+  border-color: #3e618a;
+}
+.series-theme-seria-2 .article-side {
+  border-color: #c9d8eb;
+  background: #f3f7fd;
+}
+.series-theme-seria-2 .article-reference-block,
+.series-theme-seria-2 .article-side .meta-box,
+.series-theme-seria-2 .citation-side-item,
+.series-theme-seria-2 .article-metric-box {
+  border-color: #d5e1f0;
+  background: #fff;
+}
+.series-theme-seria-2 .article-side-title,
+.series-theme-seria-2 .article-reference-title,
+.series-theme-seria-2 .article-metric-label,
+.series-theme-seria-2 .article-metric-breakdown-row .k {
+  color: #4b6790;
+}
+.series-theme-seria-2 .article-reference-copy {
+  color: #4d6f98;
+}
+.series-theme-seria-2 .article-side-badge-row .badge {
+  border-color: #d5e1f0;
+  background: #e8f0fb;
+  color: #2f4f78;
+}
+.series-theme-seria-2 .issue-contact-box {
+  border-color: #d5e1f0;
+  background: #eef4fb;
+}
+.series-theme-seria-2 .article-main {
+  border-color: #c9d8eb;
+  background: #f3f7fd;
+}
+.series-theme-seria-2 .article-main .author-row,
+.series-theme-seria-2 .article-main .article-alt-title,
+.series-theme-seria-2 .article-main .pdf-frame {
+  border-color: #d5e1f0;
+  background: #fff;
+}
+.series-theme-seria-2 .article-main .section-title {
+  border-bottom-color: #c9d8eb;
+  color: #2f4f78;
+}
+.series-theme-seria-2 .article-main .section-block {
+  border-top-color: #d5e1f0;
+}
+.series-theme-seria-2 .article-main button.keyword-tag {
+  border-color: #d5e1f0;
+  background: #e8f0fb;
+  color: #2f4f78;
+}
+.series-theme-seria-2 .article-main button.keyword-tag:hover {
+  border-color: #4d6f98;
+  background: #dae6f8;
+  color: #263f62;
+}
+.series-theme-seria-2 .article-main button.keyword-tag.active {
+  border-color: #4d6f98;
+  background: #4d6f98;
+  color: #fff;
+}
+.series-theme-seria-2 .citation-side-item .btn-secondary {
+  border-color: #4d6f98;
+  background: #4d6f98;
+  color: #fff;
+}
+.series-theme-seria-2 .citation-side-item .btn-secondary:hover {
+  border-color: #3e618a;
+  background: #3e618a;
+  color: #fff;
+}
+.series-theme-seria-3 .article-side-cta.btn-primary,
+.series-theme-seria-3 .article-side-cta.btn-secondary {
+  background: #f1b22b;
+  border-color: #f1b22b;
+  color: var(--olive-bark);
+}
+.series-theme-seria-3 .article-side-cta.btn-primary:hover,
+.series-theme-seria-3 .article-side-cta.btn-secondary:hover {
+  background: #d99f25;
+  border-color: #d99f25;
+}
+.issue-back-link.series-seria-1 {
+  color: var(--s1-accent);
+}
+.issue-back-link.series-seria-1:hover {
+  background: #e5f3e9;
+}
+.issue-back-link.series-seria-2 {
+  color: var(--s2-accent);
+}
+.issue-back-link.series-seria-2:hover {
+  background: #e2ebf8;
+}
+.issue-back-link.series-seria-3 {
+  color: var(--s3-border);
 }
 .author-list {
   display: flex;
@@ -1290,6 +1739,13 @@ tr:hover td { background: var(--bg); }
   justify-content: flex-start;
   margin-bottom: 8px;
 }
+.issue-contact-box {
+  margin-top: 10px;
+  padding: 10px;
+  border: 1px solid var(--bg3);
+  border-radius: 4px;
+  background: #fffaf4;
+}
 .btn-read-article {
   width: 100%;
   justify-content: center;
@@ -1329,6 +1785,29 @@ tr:hover td { background: var(--bg); }
   letter-spacing: 0.08em;
   text-transform: uppercase;
   color: var(--text3);
+}
+.article-metric-breakdown {
+  margin-top: 7px;
+  display: grid;
+  gap: 3px;
+}
+.article-metric-breakdown-row {
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+  font-size: 0.74rem;
+  color: var(--text2);
+}
+.article-metric-breakdown-row .k {
+  font-family: var(--font-mono);
+  font-size: 0.62rem;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  color: var(--text3);
+}
+.article-metric-breakdown-row .v {
+  font-weight: 700;
+  color: var(--text);
 }
 .citation-side-list {
   display: grid;
@@ -1520,8 +1999,8 @@ tr:hover td { background: var(--bg); }
 
 <script src="/ingest/issues_manifest.js"></script>
 <script src="./ingest/issues_manifest.js"></script>
-<script src="/ingest/series1/series1_manifest.js"></script>
-<script src="./ingest/series1/series1_manifest.js"></script>
+<script src="/ingest/series1/series1_manifest.js?v=20260301-213040"></script>
+<script src="./ingest/series1/series1_manifest.js?v=20260301-213040"></script>
 <script src="/ingest/series2/series2_manifest.js"></script>
 <script src="./ingest/series2/series2_manifest.js"></script>
 <script>
@@ -1616,9 +2095,60 @@ function hydratePreparedIngestData() {
   }
 }
 
+const SERIES1_SOURCE_PDF_BY_YEAR = {
+  '1932': 'BCUCLUJ_FP_490809_1932_001.pdf',
+  '1933': 'BCUCLUJ_FP_490809_1933_002.pdf',
+  '1935': 'BCUCLUJ_FP_490809_1935_003.pdf',
+  '1937': 'BCUCLUJ_FP_490809_1937_004.pdf',
+  '1939': 'BCUCLUJ_FP_490809_1939_005.pdf',
+  '1942': 'BCUCLUJ_FP_490809_1942_006.pdf',
+  '1945': 'BCUCLUJ_FP_490809_1945_007.pdf',
+};
+
+const SERIES1_SOURCE_PDF_BY_SLUG = {
+  'aaf-seria1-1932-vol-i': 'BCUCLUJ_FP_490809_1932_001.pdf',
+  'aaf-seria1-1933-vol-ii': 'BCUCLUJ_FP_490809_1933_002.pdf',
+  'aaf-seria1-1935-vol-iii': 'BCUCLUJ_FP_490809_1935_003.pdf',
+  'aaf-seria1-1937-vol-iv': 'BCUCLUJ_FP_490809_1937_004.pdf',
+  'aaf-seria1-1939-vol-v': 'BCUCLUJ_FP_490809_1939_005.pdf',
+  'aaf-seria1-1942-vol-vi': 'BCUCLUJ_FP_490809_1942_006.pdf',
+  'aaf-seria1-1945-vol-vii': 'BCUCLUJ_FP_490809_1945_007.pdf',
+};
+
+function extractFilename(path='') {
+  return String(path || '').trim().split('/').filter(Boolean).pop() || '';
+}
+
+function normalizePdfPath(path='', fallback='') {
+  const value = String(path || '').trim();
+  if (value && /\.pdf($|[?#])/i.test(value) && !value.endsWith('/')) return value;
+  const fb = String(fallback || '').trim();
+  if (fb && /\.pdf($|[?#])/i.test(fb) && !fb.endsWith('/')) return fb;
+  return '';
+}
+
 function hydrateSeries1Data() {
   const s1 = window.__INGEST_SERIES1;
   if (!s1) return;
+
+  // Reapply Series 1 deterministically from series1_manifest.js without touching Series 2/3.
+  const series1Slugs = new Set(
+    (Array.isArray(s1.issues) ? s1.issues : []).map(iss => String(iss?.slug || '')).filter(Boolean)
+  );
+  const removedIssueIds = new Set(
+    DB.issues
+      .filter(issue => issue?.series === 'seria-1' || series1Slugs.has(String(issue?.slug || '')))
+      .map(issue => String(issue.id || ''))
+      .filter(Boolean)
+  );
+  DB.issues = DB.issues.filter(issue =>
+    issue?.series !== 'seria-1' && !series1Slugs.has(String(issue?.slug || ''))
+  );
+  DB.articles = DB.articles.filter(article => {
+    const bySeries = article?.series === 'seria-1';
+    const byIssueId = removedIssueIds.has(String(article?.issue_id || ''));
+    return !bySeries && !byIssueId;
+  });
 
   let nextIssueId = Math.max(0, ...DB.issues.map(i => Number(i.id) || 0)) + 1;
   let nextArticleId = Math.max(0, ...DB.articles.map(a => Number(a.id) || 0)) + 1;
@@ -1632,6 +2162,20 @@ function hydrateSeries1Data() {
       const starts = arts.map(a => a.pages_start).filter(v => v != null);
       const ends = arts.map(a => a.pages_end).filter(v => v != null);
       const totalPages = (ends.length ? Math.max(...ends) : 0) - (starts.length ? Math.min(...starts) : 0);
+      const sourceFromIssue = extractFilename(iss.source_pdf_name || iss.source_pdf);
+      const sourceFromArticle = extractFilename((arts.find(a => a.source_pdf_name || a.source_pdf)?.source_pdf_name) || (arts.find(a => a.source_pdf_name || a.source_pdf)?.source_pdf));
+      const mappedSource = SERIES1_SOURCE_PDF_BY_SLUG[String(iss.slug || '')] || SERIES1_SOURCE_PDF_BY_YEAR[String(iss.year || '')] || '';
+      const sourcePdfName = sourceFromIssue || sourceFromArticle || mappedSource;
+      const fallbackIssuePdfPath = sourcePdfName ? `ingest/series1/${sourcePdfName}` : '';
+      const issuePdfPath = normalizePdfPath(iss.issue_pdf_path, fallbackIssuePdfPath);
+      const volumeLabel = String(iss.volume || '').trim();
+      let issueTitle = String(iss.title || '').trim();
+      if (!issueTitle || issueTitle.toLowerCase() === 'undefined') {
+        issueTitle = 'Anuarul Arhivei de Folklor';
+      }
+      if (volumeLabel && issueTitle.indexOf(volumeLabel) === -1) {
+        issueTitle = `${issueTitle} ${volumeLabel}`.trim();
+      }
 
       DB.issues.push({
         id: id,
@@ -1640,14 +2184,14 @@ function hydrateSeries1Data() {
         volume: iss.volume,
         number: iss.number,
         date_published: iss.year + '-12-31',
-        title: iss.title,
+        title: issueTitle,
         status: 'published',
         article_count: arts.length,
         pages: totalPages > 0 ? totalPages : '',
         doi_prefix: '',
         series: 'seria-1',
         series_label: iss.series_label || 'Seria I (1932\u20131945)',
-        issue_pdf_path: iss.issue_pdf_path || ('ingest/series1/' + String(iss.source_pdf_name || '').trim()),
+        issue_pdf_path: issuePdfPath,
         cover_hint_path: ''
       });
     }
@@ -1758,7 +2302,12 @@ function yearSortValue(value='') {
 
 function hydrateSeries2Data() {
   const s2 = window.__INGEST_SERIES2;
-  const sourceIssues = (s2 && Array.isArray(s2.issues) && s2.issues.length) ? s2.issues : SERIES2_FALLBACK_ISSUES;
+  const manifestIssues = (s2 && Array.isArray(s2.issues)) ? s2.issues : [];
+  const sourceIssues = [...manifestIssues];
+  const sourceIssueSlugs = new Set(sourceIssues.map(i => String(i.slug || '')));
+  for (const fallbackIssue of SERIES2_FALLBACK_ISSUES) {
+    if (!sourceIssueSlugs.has(String(fallbackIssue.slug || ''))) sourceIssues.push(fallbackIssue);
+  }
   const sourceArticles = (s2 && Array.isArray(s2.articles)) ? s2.articles : [];
 
   const existingIssueSlugs = new Set(DB.issues.map(issue => String(issue.slug || '')));
@@ -1771,7 +2320,9 @@ function hydrateSeries2Data() {
     const yearText = String(iss.year || '');
     const yearFirst = firstYearOfRange(yearText);
     const matchingArticles = sourceArticles.filter(a => String(a.issue_slug || '') === slug);
-    const issuePdf = iss.issue_pdf_path || ('ingest/series2/' + String(iss.pdf || iss.source_pdf_name || '').trim());
+    const fallbackIssuePdf = 'ingest/series2/' + String(iss.pdf || iss.source_pdf_name || '').trim();
+    const issuePdf = normalizePdfPath(iss.issue_pdf_path, fallbackIssuePdf);
+    const issueTitle = String(iss.title || `Anuarul Arhivei de Folclor ${iss.volume || ''}`).trim();
 
     DB.issues.push({
       id: String(nextIssueId++),
@@ -1780,7 +2331,7 @@ function hydrateSeries2Data() {
       volume: String(iss.volume || ''),
       number: String(iss.number || iss.volume || ''),
       date_published: yearFirst ? (yearFirst + '-12-31') : '',
-      title: String(iss.title || ''),
+      title: issueTitle,
       status: 'published',
       article_count: matchingArticles.length || 0,
       pages: String(iss.pages || ''),
@@ -2017,9 +2568,8 @@ const State = {
   currentSubmission: null,
   submitStep: 1,
   postLoginRedirect: '',
-  metrics: { articleViews: {}, pdfViews: {} },
+  metrics: { articleViews: {}, pdfDownloads: {}, articleViewEvents: {}, pdfDownloadEvents: {} },
   lastCountedArticleId: '',
-  lastCountedPdfKey: '',
   backupRootHandle: null,
 };
 
@@ -2127,14 +2677,28 @@ function hydrateAiSettings() {
 }
 
 function hydrateMetrics() {
+  const sanitizeEventsMap = (raw) => {
+    const source = raw && typeof raw === 'object' ? raw : {};
+    const out = {};
+    Object.entries(source).forEach(([key, value]) => {
+      const arr = Array.isArray(value) ? value : [];
+      const cleaned = arr
+        .map(item => Number(item))
+        .filter(item => Number.isFinite(item) && item > 0);
+      if (cleaned.length) out[String(key)] = cleaned;
+    });
+    return out;
+  };
   try {
     const saved = JSON.parse(localStorage.getItem(STORAGE_KEYS.metrics) || '{}');
     State.metrics = {
       articleViews: { ...(saved.articleViews || {}) },
-      pdfViews: { ...(saved.pdfViews || {}) },
+      pdfDownloads: { ...(saved.pdfDownloads || saved.pdfViews || {}) },
+      articleViewEvents: sanitizeEventsMap(saved.articleViewEvents),
+      pdfDownloadEvents: sanitizeEventsMap(saved.pdfDownloadEvents || saved.pdfViewEvents),
     };
   } catch (_) {
-    State.metrics = { articleViews: {}, pdfViews: {} };
+    State.metrics = { articleViews: {}, pdfDownloads: {}, articleViewEvents: {}, pdfDownloadEvents: {} };
   }
 }
 
@@ -2207,7 +2771,9 @@ function routePathFor(page, params={}) {
 
 function findAuthorBySlug(slug) {
   const names = [...new Set(DB.articles.flatMap(a => splitAuthors(a.authors)))];
-  return names.find(name => slugify(name) === slug) || '';
+  const matches = names.filter(name => slugify(name) === slug);
+  if (!matches.length) return '';
+  return matches.sort((a, b) => authorDisplayScore(b) - authorDisplayScore(a))[0];
 }
 
 function parseLocationRoute() {
@@ -2300,11 +2866,6 @@ function navigate(page, params={}, options={}) {
   const sameArticleRoute = State.currentPage === 'public-article'
     && targetPage === 'public-article'
     && String(State.pageParams?.id || '') === String(targetParams?.id || '');
-  const samePdfRoute = State.currentPage === 'pdf-viewer'
-    && targetPage === 'pdf-viewer'
-    && String(State.pageParams?.type || '') === String(targetParams?.type || '')
-    && String(State.pageParams?.id || '') === String(targetParams?.id || '');
-
   if (targetPage === 'login' && hasSession()) {
     targetPage = DEFAULT_PAGE_FOR_ROLE[State.role] || 'dashboard';
   }
@@ -2327,7 +2888,6 @@ function navigate(page, params={}, options={}) {
   }
 
   if (!sameArticleRoute) State.lastCountedArticleId = '';
-  if (!samePdfRoute) State.lastCountedPdfKey = '';
 
   State.currentPage = targetPage;
   State.pageParams = targetParams;
@@ -2605,6 +3165,7 @@ function renderPage() {
 // ═══════════════════════════════════════════════════════════════════════
 
 function pageDashboard() {
+  const allIssuesSorted = getDashboardIssuesOrdered();
   const publishedIssues = DB.issues.filter(issue => issue.status === 'published');
   const publishedArticles = DB.articles.filter(article => article.status === 'published');
   const activeSubmissions = DB.submissions.filter(sub => ['submitted', 'under_review', 'decision_pending'].includes(sub.status));
@@ -2716,20 +3277,20 @@ function pageDashboard() {
 </div>
 
 <div class="divider"></div>
-<div class="section-title">Numere recente</div>
-<div class="tbl-wrap">
-  <table>
+<div class="section-title">${tr('Toate numerele', 'All issues')} (${allIssuesSorted.length})</div>
+<div class="tbl-wrap dashboard-issues-wrap">
+  <table class="dashboard-issues-table">
     <thead><tr><th>Nr.</th><th>Titlu</th><th>Articole</th><th>Pagini</th><th>Status</th><th>Acțiuni</th></tr></thead>
     <tbody>
-    ${DB.issues.map(issue=>`
-      <tr>
-        <td><span class="text-mono" style="font-size:0.82rem;">Vol.${issue.volume} Nr.${issue.number} / ${issue.year}</span></td>
+    ${allIssuesSorted.map(issue=>`
+      <tr class="dashboard-issue-row series-row-${getIssueSeries(issue)}">
+        <td><span class="text-mono" style="font-size:0.82rem;">Vol.${getIssueDisplayVolume(issue)} Nr.${issue.number} / ${issue.year}</span><span class="series-badge dashboard-series-chip">${getSeriesLabel(getIssueSeries(issue))}</span></td>
         <td><strong>${issue.title}</strong></td>
         <td>${issue.article_count}</td>
-        <td>${issue.pages || '—'}</td>
+        <td>${getIssueTotalPages(issue)}</td>
         <td>${badgeStatus(issue.status)}</td>
         <td class="tbl-actions">
-          <button class="btn btn-secondary btn-sm" onclick="navigate('public-issue',{id:'${issue.id}'})">👁 Vizualizează</button>
+          <button class="btn btn-secondary btn-sm issue-view-btn-${getIssueSeries(issue)}" onclick="navigate('public-issue',{id:'${issue.id}'})">👁 Vizualizează</button>
         </td>
       </tr>`).join('')}
     </tbody>
@@ -2742,12 +3303,13 @@ ${State.role==='admin' ? `
   <div class="card-body" style="display:flex;gap:10px;flex-wrap:wrap;">
     <button class="btn btn-primary" onclick="openAdminFullJournalExport()">📤 Export XML jurnal complet</button>
     <button class="btn btn-secondary" onclick="downloadIssueMarkdownIndex('all')">📝 Index .md jurnal</button>
-    <button class="btn btn-danger" onclick="resetViewMetrics()">🧹 Reset views</button>
+    <button class="btn btn-danger" onclick="resetViewMetrics()">🧹 ${tr('Reset statistici accesare', 'Reset access stats')}</button>
   </div>
 </div>` : ''}`;
 }
 
 function pageEditorIssues() {
+  const allIssuesSorted = getDashboardIssuesOrdered();
   return `
 <div class="flex-between mb-24">
   <div>
@@ -2756,11 +3318,11 @@ function pageEditorIssues() {
   </div>
   <button class="btn btn-primary" onclick="navigate('ingest')">📥 Ingest PDF nou</button>
 </div>
-${DB.issues.map(issue=>`
+${allIssuesSorted.map(issue=>`
 <div class="card mb-16">
   <div class="card-header">
     <div>
-      <span class="text-mono text-muted text-sm">Vol.${issue.volume} Nr.${issue.number} / ${issue.year} &nbsp;·&nbsp; ISSN ${JOURNAL.issn}</span>
+      <span class="text-mono text-muted text-sm">Vol.${getIssueDisplayVolume(issue)} Nr.${issue.number} / ${issue.year} &nbsp;·&nbsp; ISSN ${JOURNAL.issn}</span>
       <div style="font-family:var(--font-serif);font-size:1.1rem;font-weight:700;margin-top:4px;">${issue.title}</div>
     </div>
     <div style="display:flex;align-items:center;gap:10px;">
@@ -2791,7 +3353,7 @@ ${DB.issues.map(issue=>`
     </table>
   </div>
   <div class="card-footer">
-    <span class="text-sm text-muted">${issue.article_count} articole &nbsp;·&nbsp; ${issue.pages||'—'} pagini &nbsp;·&nbsp; Publicat ${issue.date_published}</span>
+    <span class="text-sm text-muted">${issue.article_count} articole &nbsp;·&nbsp; ${getIssueTotalPages(issue)} pagini &nbsp;·&nbsp; Publicat ${issue.date_published}</span>
   </div>
 </div>`).join('')}`;
 }
@@ -2807,7 +3369,16 @@ function pageAdminArticleEdit() {
   }
 
   const issue = DB.getIssue(art.issue_id);
-  const mergedKeywords = [art.keywords_ro, art.keywords_en].filter(Boolean).join(', ');
+  const mergedKeywords = Array.from(new Set([
+    ...splitKeywords(art.keywords_ro || ''),
+    ...splitKeywords(art.keywords_en || ''),
+    ...splitKeywords(art.keywords_fr || ''),
+    ...splitKeywords(art.keywords_de || ''),
+  ])).join(', ');
+  const abstractSourceField = ['abstract_en', 'abstract_de', 'abstract_fr', 'abstract_ro']
+    .find(field => String(art[field] || '').trim()) || 'abstract_en';
+  const abstractValue = String(art[abstractSourceField] || '').trim();
+  const abstractLang = guessLangLabelFromField(abstractSourceField);
 
   return `
 <div class="flex-between mb-24">
@@ -2859,8 +3430,9 @@ function pageAdminArticleEdit() {
         <input type="number" id="ae-pages-end" value="${escapeHtml(art.pages_end)}">
       </div>
       <div class="form-field full">
-        <label class="field-label">Abstract</label>
-        <textarea id="ae-abstract" style="min-height:120px;">${escapeHtml(art.abstract_en || art.abstract_ro || '')}</textarea>
+        <label class="field-label">Abstract${abstractLang ? ` (${abstractLang})` : ''}</label>
+        <input type="hidden" id="ae-abstract-source" value="${escapeHtml(abstractSourceField)}">
+        <textarea id="ae-abstract" style="min-height:120px;">${escapeHtml(abstractValue)}</textarea>
       </div>
       <div class="form-field full">
         <label class="field-label">Cuvinte-cheie (RO + EN, o singură listă)</label>
@@ -3833,9 +4405,10 @@ function pageLogin() {
 function _renderIssueCard(issue) {
   const seriesCls = getSeriesCardClass(issue);
   const seriesLabel = getSeriesLabel(getIssueSeries(issue));
+  const issueTitle = String(issue?.title || 'Anuarul Arhivei de Folklor');
   return '<div class="issue-card ' + seriesCls + '" onclick="navigate(\'public-issue\',{id:\'' + issue.id + '\'})">'
     + '<div class="issue-vol">Vol. ' + issue.volume + ' &nbsp;·&nbsp; Nr. ' + issue.number + ' &nbsp;·&nbsp; ' + issue.year + '</div>'
-    + '<div class="issue-title">' + issue.title + '</div>'
+    + '<div class="issue-title">' + issueTitle + '</div>'
     + '<div class="issue-meta">' + (issue.article_count || '') + ' ' + tr('articole','articles') + (issue.pages ? ' ·&nbsp;' + issue.pages + ' ' + tr('pag.','pp.') : '') + '</div>'
     + '<div style="margin-top:auto;padding-top:10px;display:flex;align-items:center;gap:8px;">'
     + '<span class="series-badge">' + seriesLabel + '</span>'
@@ -3951,6 +4524,42 @@ function getSeriesLabel(series) {
   return 'Seria a III-a (2022\u2013prezent)';
 }
 
+function getDashboardIssuesOrdered() {
+  const sorted = [...DB.issues].sort(sortIssuesReverseChronological);
+  const seria3 = sorted.filter(issue => getIssueSeries(issue) === 'seria-3');
+  const seria2 = sorted.filter(issue => getIssueSeries(issue) === 'seria-2');
+  const seria1 = sorted.filter(issue => getIssueSeries(issue) === 'seria-1');
+  const other = sorted.filter(issue => !['seria-3', 'seria-2', 'seria-1'].includes(getIssueSeries(issue)));
+  return [...seria3, ...seria2, ...seria1, ...other];
+}
+
+function getIssueDisplayVolume(issue) {
+  const rawVolume = String(issue?.volume || '').trim();
+  const series = getIssueSeries(issue);
+  if (series !== 'seria-1') return rawVolume || '—';
+  const title = String(issue?.title || '');
+  const romanTokens = title.match(/\b[IVXLCDM]+(?:[-–][IVXLCDM]+)?\b/g);
+  if (romanTokens && romanTokens.length) return romanTokens[romanTokens.length - 1];
+  return rawVolume || '—';
+}
+
+function getIssueTotalPages(issue) {
+  const direct = Number(issue?.pages);
+  if (Number.isFinite(direct) && direct > 0) return String(Math.round(direct));
+  const articles = DB.getArticlesByIssue(issue?.id || '');
+  if (!articles.length) return '—';
+  let minStart = Infinity;
+  let maxEnd = -Infinity;
+  articles.forEach(article => {
+    const start = Number(article.pages_start);
+    const end = Number(article.pages_end);
+    if (Number.isFinite(start) && start > 0) minStart = Math.min(minStart, start);
+    if (Number.isFinite(end) && end > 0) maxEnd = Math.max(maxEnd, end);
+  });
+  if (!Number.isFinite(minStart) || !Number.isFinite(maxEnd) || maxEnd < minStart) return '—';
+  return String(maxEnd - minStart + 1);
+}
+
 function getSeriesCardClass(issue) {
   return 'series-' + getIssueSeries(issue);
 }
@@ -3988,6 +4597,7 @@ function pagePublicIssue() {
   const id = State.pageParams?.id || '1';
   const issue = DB.getIssue(id);
   if (!issue) return `<div class="page-title">${tr('Număr negăsit', 'Issue not found')}</div>`;
+  const issueTitle = String(issue.title || 'Anuarul Arhivei de Folklor');
   const articles = DB.getArticlesByIssue(id).filter(art => art.status === 'published');
   const groupedSections = [];
   const groupedByKey = new Map();
@@ -4007,20 +4617,20 @@ function pagePublicIssue() {
 
   return `
 <div style="margin-bottom:24px;">
-  <button class="btn btn-ghost btn-sm" onclick="navigate('public-issues')">← ${tr('Toate numerele', 'All issues')}</button>
+  <button class="btn btn-ghost btn-sm issue-back-link series-${getIssueSeries(issue)}" onclick="navigate('public-issues')">← ${tr('Toate numerele', 'All issues')}</button>
 </div>
 
-<div class="issue-layout">
+<div class="issue-layout series-theme-${getIssueSeries(issue)}">
   <aside class="issue-panel">
-    <div class="issue-cover ${coverFolder ? '' : 'issue-cover-fallback'}">
-      ${coverFolder ? `<img class="issue-cover-image" src="${coverJpg}" alt="${escapeHtml(`${issue.title} — Vol. ${issue.volume} Nr. ${issue.number}`)}" onerror="if(!this.dataset.try1){this.dataset.try1='1';this.src='${escapeJs(coverJpeg)}';return;}if(!this.dataset.try2){this.dataset.try2='1';this.src='${escapeJs(coverPng)}';return;}this.parentElement.classList.add('issue-cover-fallback');">` : ''}
+    <div class="issue-cover series-${getIssueSeries(issue)} ${coverFolder ? '' : 'issue-cover-fallback'}">
+          ${coverFolder ? `<img class="issue-cover-image" src="${coverJpg}" alt="${escapeHtml(`${issueTitle} — Vol. ${issue.volume} Nr. ${issue.number}`)}" onerror="if(!this.dataset.try1){this.dataset.try1='1';this.src='${escapeJs(coverJpeg)}';return;}if(!this.dataset.try2){this.dataset.try2='1';this.src='${escapeJs(coverPng)}';return;}this.parentElement.classList.add('issue-cover-fallback');">` : ''}
       <div class="issue-cover-fallback-inner">
         <div>
         <small>${JOURNAL.abbr} / ${tr('ACCES DESCHIS', 'OPEN ACCESS')}</small>
         <div class="issue-cover-title" style="margin-top:10px;">Vol. ${issue.volume} Nr. ${issue.number}</div>
         </div>
         <div>
-        <div style="font-family:var(--font-serif);font-size:1rem;line-height:1.4;">${issue.title}</div>
+        <div style="font-family:var(--font-serif);font-size:1rem;line-height:1.4;">${issueTitle}</div>
         <small style="margin-top:10px;display:block;">${issue.year}</small>
           ${coverFolder ? `<small style="margin-top:10px;display:block;">${tr('Adaugă coperta în', 'Add cover in')} ${coverFolder}/cover.jpg</small>` : ''}
         </div>
@@ -4033,7 +4643,7 @@ function pagePublicIssue() {
         <div><div class="text-mono text-sm text-muted">${tr('An', 'Year')}</div><div><strong>${issue.year}</strong></div></div>
         <div><div class="text-mono text-sm text-muted">ISSN</div><div class="text-mono"><strong>${JOURNAL.issn}</strong></div></div>
       </div>
-      <div style="margin-top:10px;padding:10px;border:1px solid var(--bg3);border-radius:4px;background:#fffaf4;">
+      <div class="issue-contact-box">
         <div class="text-sm"><strong>Academia Română – Filiala Cluj-Napoca</strong></div>
         <div class="text-sm">Institutul „Arhiva de Folclor a Academiei Române”</div>
         <div class="text-sm text-muted" style="margin-top:4px;">anuar@iafar.ro · +40-264-591864 · www.iafar.ro</div>
@@ -4047,7 +4657,7 @@ function pagePublicIssue() {
     <div class="card-header">
       <div>
         <div class="text-mono text-sm text-muted">Vol. ${issue.volume} · Nr. ${issue.number} · ${issue.date_published} &nbsp;·&nbsp; <span class="series-badge">${getSeriesLabel(getIssueSeries(issue))}</span></div>
-        <div style="font-family:var(--font-serif);font-size:1.4rem;font-weight:700;line-height:1.2;margin-top:6px;">${issue.title}</div>
+        <div style="font-family:var(--font-serif);font-size:1.4rem;font-weight:700;line-height:1.2;margin-top:6px;">${issueTitle}</div>
       </div>
       <span class="badge badge-green">${articles.length} ${tr('articole', 'articles')}</span>
     </div>
@@ -4068,7 +4678,7 @@ function pagePublicIssue() {
               ${canAccessPage('admin-article-edit') ? `<button class="btn btn-ghost btn-sm" onclick="event.stopPropagation();navigate('admin-article-edit',{id:'${art.id}'})">${tr('Editează', 'Edit')}</button>` : ''}
             </div>
           </div>
-          <div style="padding-top:4px;color:var(--accent);">→</div>
+          <div style="padding-top:4px;color:var(--accent-strong);">→</div>
         </li>`).join('')}
         </ul>
       </div>`).join('')}
@@ -4083,40 +4693,56 @@ function pagePublicArticle() {
   const art = DB.getArticle(id);
   if (!art) return `<div class="page-title">${tr('Articol negăsit', 'Article not found')}</div>`;
   const issue = DB.getIssue(art.issue_id);
+  const issueSeries = getIssueSeries(issue);
   const authors = getAuthorProfiles(art);
   registerArticlePageView(art.id);
-  const pageViews = articleViewCount(art.id);
-  const pdfViews = pdfViewCount(art.id);
+  const articlePdfAsset = resolvePdfAsset('article', art.id);
+  const viewStats = metricStats(art.id, 'views');
+  const downloadStats = metricStats(art.id, 'downloads');
   const standardRef = formatCitation(art, issue, 'apa');
+  const altTitle = getAlternateArticleTitle(art);
+  const primaryAbstract = getPrimaryArticleAbstract(art);
+  const primaryAbstractLang = firstNonEmptyField({
+    abstract_en: String(art.abstract_en || '').trim() ? 'EN' : '',
+    abstract_de: String(art.abstract_de || '').trim() ? 'DE' : '',
+    abstract_fr: String(art.abstract_fr || '').trim() ? 'FR' : '',
+    abstract_ro: String(art.abstract_ro || '').trim() ? 'RO' : '',
+  }, ['abstract_en', 'abstract_de', 'abstract_fr', 'abstract_ro']);
   const selectedKeyword = String(State.pageParams?.keyword || '').trim();
   const selectedKeywordNorm = selectedKeyword.toLowerCase();
   const mergedKeywords = Array.from(
     new Map(
-      [...splitKeywords(art.keywords_ro), ...splitKeywords(art.keywords_en)]
+      [
+        ...splitKeywords(art.keywords_ro),
+        ...splitKeywords(art.keywords_en),
+        ...splitKeywords(art.keywords_fr),
+        ...splitKeywords(art.keywords_de),
+      ]
         .map(keyword => String(keyword || '').trim())
         .filter(Boolean)
         .map(keyword => [keyword.toLowerCase(), keyword])
     ).values()
   );
+  const hasAbstractOrKeywords = Boolean(primaryAbstract || mergedKeywords.length);
   const relatedArticles = selectedKeyword
     ? DB.articles.filter(candidate => {
       if (candidate.status !== 'published' || candidate.id === art.id) return false;
-      const allKeywords = [...splitKeywords(candidate.keywords_ro), ...splitKeywords(candidate.keywords_en)]
+      const allKeywords = [
+        ...splitKeywords(candidate.keywords_ro),
+        ...splitKeywords(candidate.keywords_en),
+        ...splitKeywords(candidate.keywords_fr),
+        ...splitKeywords(candidate.keywords_de),
+      ]
         .map(value => value.toLowerCase());
       return allKeywords.includes(selectedKeywordNorm);
     })
     : [];
 
   return `
-<div class="article-shell">
+<div class="article-shell series-theme-${issueSeries}">
   <article class="article-main">
     <h1 class="article-hero-title" style="margin-bottom:6px;">${art.title}</h1>
-    <div style="margin-top:8px;display:flex;gap:8px;flex-wrap:wrap;">
-      <span class="badge badge-blue">${(art.language||'ro').toUpperCase()}</span>
-      <span class="badge badge-green">${tr('Acces deschis', 'Open access')}</span>
-      <span class="badge badge-gray">CC BY 4.0</span>
-    </div>
-
+    ${altTitle ? `<div class="article-alt-title"><span class="article-alt-title-label">${tr('Titlu alternativ', 'Alternate title')}${altTitle.lang ? ` (${altTitle.lang})` : ''}</span><div class="article-alt-title-text">${escapeHtml(altTitle.title)}</div></div>` : ''}
     <div class="author-list">
       ${authors.map(author => `
       <div class="author-row">
@@ -4132,16 +4758,16 @@ function pagePublicArticle() {
       </div>`).join('')}
     </div>
 
-    <section class="section-block">
+    ${hasAbstractOrKeywords ? `<section class="section-block">
       <h3 class="section-title" style="margin-bottom:10px;">${tr('Abstract și cuvinte-cheie', 'Abstract and keywords')}</h3>
       <div style="display:grid;grid-template-columns:1fr;gap:14px;">
         <div>
-          <div class="text-mono text-sm text-muted mb-8">${tr('Abstract', 'Abstract')}</div>
-          <div class="article-abstract">${art.abstract_en || art.abstract_ro || '—'}</div>
-          <div style="margin-top:8px;">${mergedKeywords.map(keyword => {
+          ${primaryAbstract ? `<div class="text-mono text-sm text-muted mb-8">${tr('Abstract', 'Abstract')}${primaryAbstractLang ? ` (${primaryAbstractLang})` : ''}</div>
+          <div class="article-abstract">${escapeHtml(primaryAbstract)}</div>` : ''}
+          ${mergedKeywords.length ? `<div style="margin-top:8px;">${mergedKeywords.map(keyword => {
             const active = keyword.toLowerCase() === selectedKeywordNorm;
-            return `<button type="button" class="keyword-tag keyword-link ${active ? 'active' : ''}" onclick="selectArticleKeyword('${escapeJs(keyword)}')">${keyword}</button>`;
-          }).join('')}</div>
+            return `<button type="button" class="keyword-tag keyword-link ${active ? 'active' : ''}" onclick="selectArticleKeyword('${escapeJs(keyword)}')">${escapeHtml(keyword)}</button>`;
+          }).join('')}</div>` : ''}
         </div>
       </div>
       ${selectedKeyword ? `
@@ -4157,34 +4783,24 @@ function pagePublicArticle() {
           }).join('') : `<div class="text-sm text-muted">${tr('Nu există alte articole publicate cu acest cuvânt-cheie.', 'No other published articles for this keyword.')}</div>`}
         </div>
       </div>` : ''}
-    </section>
+    </section>` : ''}
 
     <section class="section-block">
-      <h3 class="section-title" style="margin-bottom:10px;">${tr('Date număr și jurnal', 'Issue and journal metadata')}</h3>
-      <div class="meta-grid">
-        <div class="meta-box"><div class="label">${tr('Volum / Număr / An', 'Volume / Issue / Year')}</div><div>Vol. ${issue?.volume || '—'} / Nr. ${issue?.number || '—'} / ${issue?.year || '—'}</div></div>
-        <div class="meta-box"><div class="label">${tr('Pagini', 'Pages')}</div><div>${art.pages_start}–${art.pages_end}</div></div>
-        <div class="meta-box"><div class="label">${tr('Publicare', 'Published')}</div><div>${issue?.date_published || '—'}</div></div>
-        <div class="meta-box"><div class="label">${tr('Licență', 'License')}</div><div>CC BY 4.0</div></div>
-        <div class="meta-box"><div class="label">${tr('Jurnal', 'Journal')}</div><div>${JOURNAL.name}</div></div>
-        <div class="meta-box"><div class="label">ISSN</div><div>${JOURNAL.issn}</div></div>
-      </div>
-      <div class="simple-link-row">
-        <a href="#" onclick="navigate('public-issue',{id:'${art.issue_id}'});return false;">${tr('Vezi numărul', 'View issue')}</a>
-        <a href="#" onclick="navigate('public-home');return false;">${tr('Acasă jurnal', 'Journal home')}</a>
+      <h3 class="section-title" style="margin-bottom:10px;">${tr('Articol (PDF)', 'Article (PDF)')}</h3>
+      <div class="pdf-frame ${articlePdfAsset?.url ? '' : 'pdf-frame-missing'}" style="min-height:68vh;">
+        ${articlePdfAsset?.url ? `<iframe class="pdf-embed" src="${articlePdfAsset.url}#toolbar=1&navpanes=0&view=FitH" title="${escapeHtml(art.title)}"></iframe>` : `<div class="pdf-frame-inner">
+          <div style="font-family:var(--font-serif);font-size:1.2rem;font-weight:700;margin-bottom:10px;">${tr('PDF indisponibil', 'PDF unavailable')}</div>
+          <div class="text-sm text-muted">${tr('Fișierul PDF nu este configurat pentru acest articol.', 'The PDF file is not configured for this article.')}</div>
+        </div>`}
       </div>
     </section>
   </article>
 
   <aside class="article-side">
-    <button class="btn btn-primary btn-read-article" onclick="openPdfViewer('article','${art.id}')">📄 ${tr('Citește articolul', 'Read article')}</button>
-    ${canAccessPage('admin-article-edit') ? `<button class="btn btn-secondary" style="margin-top:8px;width:100%;" onclick="navigate('admin-article-edit',{id:'${art.id}'})">${tr('Editează în admin', 'Edit in admin')}</button>` : ''}
-
-    <div class="article-side-title">${tr('Referință standard', 'Standard citation')}</div>
-    <div class="text-sm">${escapeHtml(standardRef)}</div>
-    <div class="simple-link-row">
-      <a href="#" onclick="copyText('${escapeJs(standardRef)}');return false;">${tr('Copiază referința', 'Copy citation')}</a>
-      <a href="#" onclick="navigate('public-issue',{id:'${art.issue_id}'});return false;">${tr('Înapoi la număr', 'Back to issue')}</a>
+    <div class="article-reference-block">
+      <div class="article-reference-title">${tr('Referință standard', 'Standard citation')}</div>
+      <div class="article-reference-text">${escapeHtml(standardRef)}</div>
+      <a href="#" class="article-reference-copy" onclick="copyText('${escapeJs(standardRef)}');return false;">${tr('Copiază referința', 'Copy citation')}</a>
     </div>
 
     <div class="divider" style="margin:14px 0;"></div>
@@ -4197,15 +4813,47 @@ function pagePublicArticle() {
     </div>
 
     <div class="divider" style="margin:14px 0;"></div>
-    <div class="article-side-title">${tr('Metrici articol', 'Article metrics')}</div>
+    <div class="article-side-title">${tr('Detalii articol', 'Article details')}</div>
+    <div class="meta-grid">
+      <div class="meta-box"><div class="label">${tr('Volum / Număr / An', 'Volume / Issue / Year')}</div><div>Vol. ${issue?.volume || '—'} / Nr. ${issue?.number || '—'} / ${issue?.year || '—'}</div></div>
+      <div class="meta-box"><div class="label">${tr('Pagini', 'Pages')}</div><div>${art.pages_start}–${art.pages_end}</div></div>
+      <div class="meta-box"><div class="label">${tr('Publicare', 'Published')}</div><div>${issue?.date_published || '—'}</div></div>
+      <div class="meta-box"><div class="label">${tr('Jurnal', 'Journal')}</div><div>${getJournalTitleForIssue(issue)}</div></div>
+      <div class="meta-box"><div class="label">ISSN</div><div>${JOURNAL.issn}</div></div>
+    </div>
+    <div class="article-side-badge-row">
+      <span class="badge badge-blue">${(art.language||'ro').toUpperCase()}</span>
+      <span class="badge badge-green">${tr('Acces deschis', 'Open access')}</span>
+      <span class="badge badge-gray">CC BY 4.0</span>
+    </div>
+
+    <div class="divider" style="margin:14px 0;"></div>
+    <div class="article-side-actions">
+      <button class="btn btn-secondary article-side-cta" onclick="navigate('public-issue',{id:'${art.issue_id}'})">← ${tr('Înapoi la număr', 'Back to issue')}</button>
+      <button class="btn btn-primary article-side-cta" onclick="downloadPdfFromViewer('article','${art.id}')">⬇ ${tr('Descarcă articolul', 'Download article')}</button>
+      ${canAccessPage('admin-article-edit') ? `<button class="btn btn-secondary article-side-cta" onclick="navigate('admin-article-edit',{id:'${art.id}'})">${tr('Editează în admin', 'Edit in admin')}</button>` : ''}
+    </div>
+
+    <div class="divider" style="margin:14px 0;"></div>
+    <div class="article-side-title">${tr('Statistici de accesare', 'Access statistics')}</div>
     <div class="article-metric-grid">
       <div class="article-metric-box">
-        <div class="article-metric-value">${pageViews}</div>
-        <div class="article-metric-label">${tr('Vizualizări pagină', 'Page views')}</div>
+        <div class="article-metric-value">${viewStats.total}</div>
+        <div class="article-metric-label">${tr('Vizualizări', 'Views')}</div>
+        <div class="article-metric-breakdown">
+          <div class="article-metric-breakdown-row"><span class="k">${tr('Azi', 'Today')}</span><span class="v">${viewStats.today}</span></div>
+          <div class="article-metric-breakdown-row"><span class="k">${tr('7 zile', '7 days')}</span><span class="v">${viewStats.last7}</span></div>
+          <div class="article-metric-breakdown-row"><span class="k">${tr('Total', 'Total')}</span><span class="v">${viewStats.total}</span></div>
+        </div>
       </div>
       <div class="article-metric-box">
-        <div class="article-metric-value">${pdfViews}</div>
-        <div class="article-metric-label">${tr('Accesări PDF', 'PDF opens')}</div>
+        <div class="article-metric-value">${downloadStats.total}</div>
+        <div class="article-metric-label">${tr('Descărcări PDF', 'PDF downloads')}</div>
+        <div class="article-metric-breakdown">
+          <div class="article-metric-breakdown-row"><span class="k">${tr('Azi', 'Today')}</span><span class="v">${downloadStats.today}</span></div>
+          <div class="article-metric-breakdown-row"><span class="k">${tr('7 zile', '7 days')}</span><span class="v">${downloadStats.last7}</span></div>
+          <div class="article-metric-breakdown-row"><span class="k">${tr('Total', 'Total')}</span><span class="v">${downloadStats.total}</span></div>
+        </div>
       </div>
     </div>
   </aside>
@@ -4234,15 +4882,19 @@ function pagePublicArticleMarkdown() {
 function pagePublicAuthor() {
   const name = State.pageParams?.name || '';
   if (!name) return `<div class="page-title">${tr('Autor negăsit', 'Author not found')}</div>`;
-  const articles = DB.articles.filter(art => splitAuthors(art.authors).includes(name));
-  const externalLinks = getAuthorExternalLinks(name);
+  const matchedAuthorNames = [...new Set(
+    DB.articles.flatMap(art => splitAuthors(art.authors).filter(author => authorNamesEquivalent(author, name)))
+  )];
+  const articles = DB.articles.filter(art => splitAuthors(art.authors).some(author => authorNamesEquivalent(author, name)));
+  const externalLinks = getAuthorExternalLinks(name, matchedAuthorNames);
+  const orcid = resolveAuthorMapValue(AUTHOR_ORCID, name) || '';
   return `
 <div class="author-hero">
   <div class="text-mono text-sm text-muted">${tr('Autor', 'Author')}</div>
   <h1 style="font-family:var(--font-serif);font-size:1.8rem;">${name}</h1>
-  ${(externalLinks.length || AUTHOR_ORCID[name]) ? `<div class="simple-link-row">
+  ${(externalLinks.length || orcid) ? `<div class="simple-link-row">
     ${externalLinks.map(link => `<a href="${link.url}" target="_blank" rel="noopener">${link.label}</a>`).join('')}
-    ${AUTHOR_ORCID[name] ? `<a class="orcid-link" href="https://orcid.org/${AUTHOR_ORCID[name]}" target="_blank" rel="noopener">ORCID ${AUTHOR_ORCID[name]}</a>` : ''}
+    ${orcid ? `<a class="orcid-link" href="https://orcid.org/${orcid}" target="_blank" rel="noopener">ORCID ${orcid}</a>` : ''}
   </div>` : ''}
   <div class="text-sm text-muted" style="margin-top:6px;">${articles.length} ${tr('articole publicate în', 'articles published in')} ${JOURNAL.abbr}</div>
 </div>
@@ -4377,12 +5029,11 @@ function pagePdfViewer() {
   const id = String(State.pageParams?.id || '');
   if (!id) return `<div class="page-title">${tr('PDF negăsit', 'PDF not found')}</div>`;
 
-  if (type === 'article') registerPdfView(type, id);
-
   const article = type === 'article' ? DB.getArticle(id) : null;
   const issue = type === 'issue'
     ? DB.getIssue(id)
     : article ? DB.getIssue(article.issue_id) : null;
+  const issueTitle = String(issue?.title || 'Anuarul Arhivei de Folklor');
 
   if (!issue) return `<div class="page-title">${tr('PDF negăsit', 'PDF not found')}</div>`;
   const pdfAsset = resolvePdfAsset(type, id);
@@ -4391,7 +5042,7 @@ function pagePdfViewer() {
     ? `${tr('PDF număr', 'Issue PDF')} — Vol. ${issue.volume} Nr. ${issue.number}`
     : `${tr('PDF articol', 'Article PDF')} — ${article?.title || ''}`;
   const subtitle = type === 'issue'
-    ? `${issue.title} · ${issue.year}`
+    ? `${issueTitle} · ${issue.year}`
     : `${tr('Pagini', 'Pages')}: ${article?.pages_start || '—'}-${article?.pages_end || '—'}`;
 
   return `
@@ -4606,6 +5257,10 @@ Echipa editorială
 }
 
 function pageAdminBackup() {
+  const latestArticlesBackup = getLatestCsvBackup('articles.csv');
+  const latestArticlesBackupLabel = latestArticlesBackup
+    ? `${latestArticlesBackup.timestamp || latestArticlesBackup.saved_at || '—'}`
+    : 'Niciun backup local detectat';
   return `
 <div class="page-title">Backup și Date</div>
 <div class="page-subtitle">Export date și configurare backup automat.</div>
@@ -4618,6 +5273,8 @@ function pageAdminBackup() {
         <button class="btn btn-secondary" onclick="downloadArticlesCSV()">📊 Articole — CSV</button>
         <button class="btn btn-secondary" onclick="downloadIssuesCSV()">📊 Numere — CSV</button>
         <button class="btn btn-secondary" onclick="toast('Export submisii CSV generat','success')">📊 Submisii — CSV</button>
+        <div class="alert alert-warning text-sm" style="margin-top:8px;"><span>↺</span><div>Ultim backup local articole: ${latestArticlesBackupLabel}</div></div>
+        <button class="btn btn-primary" onclick="restoreLatestArticlesFromLocalBackup()">♻ Restaurează backup local (prioritar ultima oră)</button>
       </div>
     </div>
   </div>
@@ -4670,8 +5327,121 @@ function splitAuthors(authors='') {
   return authors.split(',').map(a => a.trim()).filter(Boolean);
 }
 
+function normalizeAuthorText(value='') {
+  return String(value || '')
+    .replace(/[Ş]/g, 'Ș')
+    .replace(/[ş]/g, 'ș')
+    .replace(/[Ţ]/g, 'Ț')
+    .replace(/[ţ]/g, 'ț')
+    .replace(/\s+/g, ' ')
+    .trim();
+}
+
+function parseAuthorIdentity(name='') {
+  const raw = normalizeAuthorText(name);
+  const ascii = raw
+    .toLowerCase()
+    .normalize('NFD')
+    .replace(/[\u0300-\u036f]/g, '')
+    .replace(/[’'`"]/g, '')
+    .replace(/[.,;:()[\]{}]/g, ' ')
+    .replace(/-/g, ' ')
+    .replace(/\s+/g, ' ')
+    .trim();
+  const tokens = ascii ? ascii.split(' ').filter(Boolean) : [];
+  const surname = tokens[tokens.length - 1] || '';
+  const given = tokens.slice(0, -1);
+  const firstGiven = given[0] || '';
+  const firstInitial = firstGiven ? firstGiven[0] : '';
+  const compact = [...given, surname].join(' ').trim();
+  const hasAbbreviation = /(^|\s)[A-Za-zĂÂÎȘȚŞŢ]\.?($|\s)/.test(raw);
+  return { raw, compact, tokens, surname, firstGiven, firstInitial, hasAbbreviation };
+}
+
+function authorNamesEquivalent(leftName='', rightName='') {
+  const left = parseAuthorIdentity(leftName);
+  const right = parseAuthorIdentity(rightName);
+  if (!left.compact || !right.compact) return false;
+  if (left.compact === right.compact) return true;
+  const leftCompactNoSpace = left.compact.replace(/\s+/g, '');
+  const rightCompactNoSpace = right.compact.replace(/\s+/g, '');
+  if (leftCompactNoSpace && leftCompactNoSpace === rightCompactNoSpace) return true;
+  if (left.tokens.length === 1 && right.tokens.length >= 2 && leftCompactNoSpace.startsWith(right.firstGiven) && leftCompactNoSpace.endsWith(right.surname)) return true;
+  if (right.tokens.length === 1 && left.tokens.length >= 2 && rightCompactNoSpace.startsWith(left.firstGiven) && rightCompactNoSpace.endsWith(left.surname)) return true;
+  if (!left.surname || left.surname !== right.surname) return false;
+  if (!left.firstInitial || left.firstInitial !== right.firstInitial) return false;
+  if (left.hasAbbreviation || right.hasAbbreviation) return true;
+  if (!left.firstGiven || !right.firstGiven) return false;
+  return left.firstGiven.startsWith(right.firstGiven) || right.firstGiven.startsWith(left.firstGiven);
+}
+
+function authorDisplayScore(name='') {
+  const raw = normalizeAuthorText(name);
+  let score = raw.length;
+  if (/[șțȘȚ]/.test(raw)) score += 8;
+  if (/[şţŞŢ]/.test(raw)) score -= 8;
+  if (/\b[A-ZĂÂÎȘȚŞŢ]\./.test(raw)) score -= 2;
+  return score;
+}
+
+function resolveAuthorMapValue(map={}, name='') {
+  if (!name || !map || typeof map !== 'object') return '';
+  if (map[name]) return map[name];
+  for (const [key, value] of Object.entries(map)) {
+    if (authorNamesEquivalent(key, name)) return value;
+  }
+  return '';
+}
+
 function splitKeywords(value='') {
   return value.split(',').map(k => k.trim()).filter(Boolean);
+}
+
+function firstNonEmptyField(obj, fields=[]) {
+  for (const field of fields) {
+    const val = String(obj?.[field] || '').trim();
+    if (val) return val;
+  }
+  return '';
+}
+
+function guessLangLabelFromField(field='') {
+  const f = String(field || '').toLowerCase();
+  if (f.includes('_en') || f.includes('_eng') || f.includes('english')) return 'EN';
+  if (f.includes('_de') || f.includes('_deu') || f.includes('_ger') || f.includes('german')) return 'DE';
+  if (f.includes('_fr') || f.includes('_fra') || f.includes('french')) return 'FR';
+  if (f.includes('_ro') || f.includes('romanian')) return 'RO';
+  return '';
+}
+
+function getAlternateArticleTitle(art) {
+  const mainTitle = String(art?.title || '').trim().toLowerCase();
+  const fixedCandidates = [
+    'title_en', 'title_de', 'title_fr',
+    'foreign_title', 'title_foreign',
+    'title_translated', 'translated_title',
+    'title_alt', 'title_secondary',
+    'title_english', 'title_german', 'title_french',
+    'title_original', 'title_other_lang', 'title_other_language',
+  ];
+  const dynamicCandidates = Object.keys(art || {}).filter(field => {
+    const key = String(field || '').toLowerCase();
+    if (!key || key === 'title') return false;
+    if (!key.includes('title')) return false;
+    return /(en|eng|de|deu|ger|fr|fra|foreign|translated|alt|original|other)/.test(key);
+  });
+  const titleCandidates = Array.from(new Set([...fixedCandidates, ...dynamicCandidates]));
+  for (const field of titleCandidates) {
+    const raw = String(art?.[field] || '').trim();
+    if (!raw) continue;
+    if (raw.toLowerCase() === mainTitle) continue;
+    return { title: raw, lang: guessLangLabelFromField(field) || String(art?.title_foreign_lang || '').toUpperCase() };
+  }
+  return null;
+}
+
+function getPrimaryArticleAbstract(art) {
+  return firstNonEmptyField(art, ['abstract_en', 'abstract_de', 'abstract_fr', 'abstract_ro']);
 }
 
 function selectArticleKeyword(keyword='') {
@@ -4720,17 +5490,24 @@ function getAuthorProfiles(art) {
     name,
     affiliation: affiliations[idx] || affiliations[0] || '',
     email: emails[idx] || '',
-    orcid: AUTHOR_ORCID[name] || '',
-    links: AUTHOR_EXTERNAL_LINKS[name] || {},
+    orcid: resolveAuthorMapValue(AUTHOR_ORCID, name) || '',
+    links: resolveAuthorMapValue(AUTHOR_EXTERNAL_LINKS, name) || {},
   }));
 }
 
-function getAuthorExternalLinks(name='') {
-  const links = AUTHOR_EXTERNAL_LINKS[name] || {};
+function getAuthorExternalLinks(name='', aliases=[]) {
+  const candidates = [name, ...aliases].filter(Boolean);
+  const merged = {};
+  for (const candidate of candidates) {
+    const links = resolveAuthorMapValue(AUTHOR_EXTERNAL_LINKS, candidate) || {};
+    if (!merged.scholar && links.scholar) merged.scholar = links.scholar;
+    if (!merged.academia && links.academia) merged.academia = links.academia;
+    if (!merged.researchgate && links.researchgate) merged.researchgate = links.researchgate;
+  }
   const rows = [];
-  if (links.scholar) rows.push({ label: 'Google Scholar', url: links.scholar });
-  if (links.academia) rows.push({ label: 'Academia.edu', url: links.academia });
-  if (links.researchgate) rows.push({ label: 'ResearchGate', url: links.researchgate });
+  if (merged.scholar) rows.push({ label: 'Google Scholar', url: merged.scholar });
+  if (merged.academia) rows.push({ label: 'Academia.edu', url: merged.academia });
+  if (merged.researchgate) rows.push({ label: 'ResearchGate', url: merged.researchgate });
   return rows;
 }
 
@@ -4762,14 +5539,30 @@ function resolveAssetUrl(path='') {
   return isFileMode() ? `./${clean}` : `/${clean}`;
 }
 
+function defaultIssuePdfPath(issue) {
+  if (!issue) return '';
+  const series = getIssueSeries(issue);
+  if (series === 'seria-1') {
+    const mapped = SERIES1_SOURCE_PDF_BY_SLUG[String(issue.slug || '')] || SERIES1_SOURCE_PDF_BY_YEAR[String(issue.year || '')] || '';
+    return mapped ? `ingest/series1/${mapped}` : '';
+  }
+  if (series === 'seria-2') {
+    const fallback = SERIES2_FALLBACK_ISSUES.find(iss => String(iss.slug || '') === String(issue.slug || ''));
+    if (fallback?.pdf) return `ingest/series2/${fallback.pdf}`;
+  }
+  return '';
+}
+
 function resolvePdfAsset(type='article', id='') {
   const safeType = type === 'issue' ? 'issue' : 'article';
   if (safeType === 'issue') {
     const issue = DB.getIssue(String(id || ''));
-    if (!issue || !issue.issue_pdf_path) return null;
+    if (!issue) return null;
+    const issuePdfPath = normalizePdfPath(issue.issue_pdf_path, defaultIssuePdfPath(issue));
+    if (!issuePdfPath) return null;
     return {
-      url: resolveAssetUrl(issue.issue_pdf_path),
-      filePath: String(issue.issue_pdf_path),
+      url: resolveAssetUrl(issuePdfPath),
+      filePath: String(issuePdfPath),
       filename: `numar-vol-${slugify(issue.volume || issue.id)}-nr-${slugify(issue.number || issue.id)}-${issue.year || ''}.pdf`,
     };
   }
@@ -4789,22 +5582,47 @@ function issueCoverFolderPath(issue) {
   return '';
 }
 
+function normalizeJournalTitleFromIssue(issueTitle='') {
+  let normalized = String(issueTitle || '').replace(/\s+/g, ' ').trim();
+  if (!normalized) return '';
+  normalized = normalized
+    .replace(/\s*\(.*?\)\s*$/g, '')
+    .replace(/\s+(?:nr\.?|no\.?)\s*[\w\-–]+$/i, '')
+    .replace(/\s+(?:vol\.?)\s*[\w\-–]+$/i, '')
+    .replace(/\s+[IVXLCDM]+(?:[-–][IVXLCDM]+)?$/i, '')
+    .replace(/\s+\d{4}(?:[-–]\d{4})?$/g, '')
+    .trim();
+  if (!/^anuar/i.test(normalized)) return '';
+  return normalized;
+}
+
+function getJournalTitleForIssue(issue) {
+  const fromIssue = normalizeJournalTitleFromIssue(issue?.title || '');
+  if (fromIssue) return fromIssue;
+  const series = getIssueSeries(issue);
+  if (series === 'seria-2') return 'Anuarul de folclor';
+  if (series === 'seria-1') return 'Anuarul Arhivei de Folklor';
+  if (series === 'seria-3') return 'Anuarul Arhivei de Folclor';
+  return 'Anuarul Arhivei de Folclor';
+}
+
 function formatCitation(art, issue, style='apa') {
   const authors = splitAuthors(art.authors).join(', ');
   const year = issue?.year || '';
   const pages = `${art.pages_start}–${art.pages_end}`;
   const urls = getArticleUrls(art);
+  const journalTitle = getJournalTitleForIssue(issue);
   if (style === 'chicago') {
-    return `${authors}. "${art.title}." ${JOURNAL.name} ${issue?.volume || ''}, no. ${issue?.number || ''} (${year}): ${pages}.`;
+    return `${authors}. "${art.title}." ${journalTitle} ${issue?.volume || ''}, no. ${issue?.number || ''} (${year}): ${pages}.`;
   }
   if (style === 'bibtex') {
     const key = `${splitAuthors(art.authors)[0]?.split(' ').slice(-1)[0] || 'author'}${year}${art.id}`;
-    return `@article{${slugify(key)},\n  title={${art.title}},\n  author={${splitAuthors(art.authors).join(' and ')}},\n  journal={${JOURNAL.name}},\n  year={${year}},\n  volume={${issue?.volume || ''}},\n  number={${issue?.number || ''}},\n  pages={${art.pages_start}-${art.pages_end}},\n  url={${urls.articleUrl}}\n}`;
+    return `@article{${slugify(key)},\n  title={${art.title}},\n  author={${splitAuthors(art.authors).join(' and ')}},\n  journal={${journalTitle}},\n  year={${year}},\n  volume={${issue?.volume || ''}},\n  number={${issue?.number || ''}},\n  pages={${art.pages_start}-${art.pages_end}},\n  url={${urls.articleUrl}}\n}`;
   }
   if (style === 'ris') {
-    return `TY  - JOUR\nTI  - ${art.title}\nAU  - ${splitAuthors(art.authors).join('\nAU  - ')}\nJO  - ${JOURNAL.name}\nVL  - ${issue?.volume || ''}\nIS  - ${issue?.number || ''}\nPY  - ${year}\nSP  - ${art.pages_start}\nEP  - ${art.pages_end}\nUR  - ${urls.articleUrl}\nER  -`;
+    return `TY  - JOUR\nTI  - ${art.title}\nAU  - ${splitAuthors(art.authors).join('\nAU  - ')}\nJO  - ${journalTitle}\nVL  - ${issue?.volume || ''}\nIS  - ${issue?.number || ''}\nPY  - ${year}\nSP  - ${art.pages_start}\nEP  - ${art.pages_end}\nUR  - ${urls.articleUrl}\nER  -`;
   }
-  return `${authors} (${year}). ${art.title}. ${JOURNAL.abbr}, ${issue?.volume || ''}(${issue?.number || ''}), ${pages}.`;
+  return `${authors} (${year}). ${art.title}. ${journalTitle}, ${issue?.volume || ''}(${issue?.number || ''}), ${pages}.`;
 }
 
 function copyCitationFor(style, articleId) {
@@ -5017,25 +5835,61 @@ function articleViewCount(articleId) {
   return Number(State.metrics.articleViews[String(articleId)] || 0);
 }
 
-function pdfViewCount(articleId) {
-  return Number(State.metrics.pdfViews[String(articleId)] || 0);
+function pdfDownloadCount(articleId) {
+  return Number(State.metrics.pdfDownloads[String(articleId)] || 0);
+}
+
+function metricEventsList(kind='views', articleId='') {
+  const key = String(articleId || '');
+  const source = kind === 'downloads' ? State.metrics.pdfDownloadEvents : State.metrics.articleViewEvents;
+  const arr = Array.isArray(source?.[key]) ? source[key] : [];
+  return arr
+    .map(item => Number(item))
+    .filter(item => Number.isFinite(item) && item > 0);
+}
+
+function pushMetricEvent(kind='views', articleId='') {
+  const key = String(articleId || '');
+  if (!key) return;
+  const target = kind === 'downloads' ? State.metrics.pdfDownloadEvents : State.metrics.articleViewEvents;
+  if (!target[key]) target[key] = [];
+  target[key].push(Date.now());
+}
+
+function metricStats(articleId, kind='views') {
+  const key = String(articleId || '');
+  const events = metricEventsList(kind, key);
+  const now = Date.now();
+  const startToday = (() => {
+    const d = new Date(now);
+    d.setHours(0, 0, 0, 0);
+    return d.getTime();
+  })();
+  const last7Start = now - (7 * 24 * 60 * 60 * 1000);
+  const periodCount = (since) => events.reduce((acc, ts) => acc + (ts >= since ? 1 : 0), 0);
+  const storedTotal = kind === 'downloads' ? pdfDownloadCount(key) : articleViewCount(key);
+  const total = Math.max(storedTotal, events.length);
+  return {
+    today: periodCount(startToday),
+    last7: periodCount(last7Start),
+    total,
+  };
 }
 
 function registerArticlePageView(articleId) {
   const key = String(articleId || '');
   if (!key || State.lastCountedArticleId === key) return;
   State.metrics.articleViews[key] = articleViewCount(key) + 1;
+  pushMetricEvent('views', key);
   State.lastCountedArticleId = key;
   persistMetrics();
 }
 
-function registerPdfView(type, id) {
-  if (type !== 'article') return;
-  const key = `${type}:${id}`;
-  if (State.lastCountedPdfKey === key) return;
-  const articleId = String(id || '');
-  State.metrics.pdfViews[articleId] = pdfViewCount(articleId) + 1;
-  State.lastCountedPdfKey = key;
+function registerPdfDownload(articleId) {
+  const key = String(articleId || '');
+  if (!key) return;
+  State.metrics.pdfDownloads[key] = pdfDownloadCount(key) + 1;
+  pushMetricEvent('downloads', key);
   persistMetrics();
 }
 
@@ -5044,12 +5898,11 @@ function resetViewMetrics() {
     toast('Acces permis doar administratorului.', 'error');
     return;
   }
-  State.metrics = { articleViews: {}, pdfViews: {} };
+  State.metrics = { articleViews: {}, pdfDownloads: {}, articleViewEvents: {}, pdfDownloadEvents: {} };
   State.lastCountedArticleId = '';
-  State.lastCountedPdfKey = '';
   localStorage.removeItem(STORAGE_KEYS.metrics);
   persistMetrics();
-  toast('View-urile au fost resetate.', 'success');
+  toast('Statisticile de accesare au fost resetate.', 'success');
   renderPage();
 }
 
@@ -5069,6 +5922,7 @@ function downloadPdfFromViewer(type='article', id='') {
   document.body.appendChild(link);
   link.click();
   link.remove();
+  if (safeType === 'article') registerPdfDownload(safeId);
   toast(tr('Descărcare PDF pornită.', 'PDF download started.'), 'success');
 }
 
@@ -5236,6 +6090,7 @@ function updateHeadMetadata() {
     const art = DB.getArticle(State.pageParams?.id || '');
     if (art) {
       const issue = DB.getIssue(art.issue_id);
+      const journalTitle = getJournalTitleForIssue(issue);
       title = `${art.title} | ${JOURNAL.abbr}`;
       canonicalPath = routePathFor('public-article', { id: art.id });
       const urls = getArticleUrls(art);
@@ -5251,7 +6106,7 @@ function updateHeadMetadata() {
       appendDynamicMeta('name', 'DC.Language', art.language || 'ro');
       appendDynamicMeta('name', 'citation_title', art.title);
       splitAuthors(art.authors).forEach(a => appendDynamicMeta('name', 'citation_author', a));
-      appendDynamicMeta('name', 'citation_journal_title', JOURNAL.name);
+      appendDynamicMeta('name', 'citation_journal_title', journalTitle);
       appendDynamicMeta('name', 'citation_publication_date', issue?.date_published || '');
       appendDynamicMeta('name', 'citation_volume', issue?.volume || '');
       appendDynamicMeta('name', 'citation_issue', issue?.number || '');
@@ -5275,7 +6130,7 @@ function updateHeadMetadata() {
           issueNumber: issue?.number || '',
           isPartOf: {
             '@type': 'Periodical',
-            name: JOURNAL.name,
+            name: journalTitle,
             issn: JOURNAL.issn,
           },
         },
@@ -5290,8 +6145,9 @@ function updateHeadMetadata() {
   } else if (State.currentPage === 'public-issue') {
     const issue = DB.getIssue(State.pageParams?.id || '');
     if (issue) {
-      title = `${issue.title} | Vol.${issue.volume} Nr.${issue.number}`;
-      appendDynamicMeta('name', 'description', `${issue.title} — ${issue.article_count} articole, ${issue.pages} pagini.`);
+      const issueTitle = String(issue.title || 'Anuarul Arhivei de Folklor');
+      title = `${issueTitle} | Vol.${issue.volume} Nr.${issue.number}`;
+      appendDynamicMeta('name', 'description', `${issueTitle} — ${issue.article_count} articole, ${issue.pages} pagini.`);
     }
   } else if (State.currentPage === 'public-home') {
     appendDynamicMeta('name', 'description', JOURNAL.description);
@@ -5760,6 +6616,71 @@ function writeCsvBackupToLocalStorage(filename, content, stamp) {
   saveCsvBackups(backups);
 }
 
+function parseBackupTimestampValue(stamp='') {
+  const raw = String(stamp || '').trim();
+  const m = raw.match(/^(\d{4})-(\d{2})-(\d{2})_(\d{2})-(\d{2})-(\d{2})$/);
+  if (!m) return NaN;
+  const iso = `${m[1]}-${m[2]}-${m[3]}T${m[4]}:${m[5]}:${m[6]}`;
+  const t = Date.parse(iso);
+  return Number.isFinite(t) ? t : NaN;
+}
+
+function backupEntryTime(entry={}) {
+  const fromSavedAt = Date.parse(String(entry?.saved_at || ''));
+  if (Number.isFinite(fromSavedAt)) return fromSavedAt;
+  return parseBackupTimestampValue(entry?.timestamp || '');
+}
+
+function getLatestCsvBackup(filename='articles.csv', maxAgeMinutes=0) {
+  const target = String(filename || '').trim().toLowerCase();
+  const now = Date.now();
+  const maxAgeMs = Number(maxAgeMinutes) > 0 ? Number(maxAgeMinutes) * 60 * 1000 : 0;
+  const backups = loadCsvBackups()
+    .filter(entry => String(entry?.filename || '').trim().toLowerCase() === target && String(entry?.content || '').trim())
+    .map(entry => ({ ...entry, _time: backupEntryTime(entry) }))
+    .filter(entry => Number.isFinite(entry._time))
+    .sort((a, b) => b._time - a._time);
+  if (!backups.length) return null;
+  if (maxAgeMs > 0) {
+    const recent = backups.find(entry => (now - entry._time) <= maxAgeMs);
+    return recent || null;
+  }
+  return backups[0];
+}
+
+function restoreLatestArticlesFromLocalBackup(maxAgeMinutes=60) {
+  const windows = [];
+  if (Number(maxAgeMinutes) > 0) windows.push(Number(maxAgeMinutes));
+  windows.push(120, 360, 1440); // fallback gradual: 2h, 6h, 24h
+  const tried = [];
+  let entry = null;
+  for (const win of windows) {
+    if (tried.includes(win)) continue;
+    tried.push(win);
+    entry = getLatestCsvBackup('articles.csv', win);
+    if (entry) break;
+  }
+  if (!entry) {
+    toast('Nu există backup local articles.csv în ultimele 24h.', 'error');
+    return;
+  }
+  const parsed = parseCSV(String(entry.content || ''));
+  if (!parsed.length) {
+    toast('Backup-ul local este gol sau invalid.', 'error');
+    return;
+  }
+  DB.articles = parsed.map(article => ({
+    ...article,
+    id: String(article.id || ''),
+    issue_id: String(article.issue_id || ''),
+    series: article.series || '',
+  }));
+  toast(`Backup restaurat: ${DB.articles.length} articole (${entry.timestamp || entry.saved_at || 'fără timestamp'}).`, 'success');
+  renderTopbar();
+  renderPage();
+  updateHeadMetadata();
+}
+
 async function saveAdminArticleEdits(articleId) {
   const art = DB.getArticle(articleId);
   if (!art) {
@@ -5774,6 +6695,17 @@ async function saveAdminArticleEdits(articleId) {
     .map(item => item.trim())
     .filter(Boolean)
     .join(', ');
+  const abstractValue = getValue('ae-abstract');
+  const abstractSourceRaw = getValue('ae-abstract-source');
+  const langToAbstractField = {
+    ro: 'abstract_ro',
+    en: 'abstract_en',
+    de: 'abstract_de',
+    fr: 'abstract_fr',
+  };
+  const abstractTargetField = ['abstract_ro', 'abstract_en', 'abstract_de', 'abstract_fr'].includes(abstractSourceRaw)
+    ? abstractSourceRaw
+    : (langToAbstractField[getValue('ae-language')] || 'abstract_en');
 
   art.title = getValue('ae-title');
   art.authors = getValue('ae-authors');
@@ -5781,10 +6713,11 @@ async function saveAdminArticleEdits(articleId) {
   art.emails = getValue('ae-emails');
   art.pages_start = getValue('ae-pages-start');
   art.pages_end = getValue('ae-pages-end');
-  art.abstract_ro = '';
-  art.abstract_en = getValue('ae-abstract');
+  art[abstractTargetField] = abstractValue;
   art.keywords_ro = normalizedKeywords;
   art.keywords_en = normalizedKeywords;
+  art.keywords_fr = normalizedKeywords;
+  art.keywords_de = normalizedKeywords;
   art.language = getValue('ae-language') || art.language || 'ro';
   art.status = getValue('ae-status') || art.status || 'published';
 
