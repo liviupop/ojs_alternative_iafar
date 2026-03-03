@@ -2581,7 +2581,7 @@ const DEFAULT_AI_SETTINGS = {
   models: {
     openai: 'gpt-4.1-mini',
     anthropic: 'claude-3-5-sonnet-latest',
-    google: 'gemini-1.5-pro',
+    google: 'gemini-2.0-flash',
   },
   skillRules: MODEL_SEGMENTATION_SKILL,
   enabledForIngest: true,
@@ -5142,8 +5142,6 @@ function pageAdminSettings() {
   const tabs = [
     { id: 'jurnal', label: 'Jurnal' },
     { id: 'ai', label: 'AI & Modele' },
-    { id: 'emails', label: 'Șabloane email' },
-    { id: 'ingest', label: 'Ingest rules' },
   ];
   const tabNav = `<div style="display:flex;gap:0;border-bottom:2px solid var(--border);margin-bottom:24px;align-items:flex-end;">
     ${tabs.map(t => `<button onclick="navigate('admin-settings',{tab:'${t.id}'})" style="padding:10px 20px;border:none;border-bottom:2px solid ${activeTab===t.id?'var(--accent)':'transparent'};margin-bottom:-2px;background:none;cursor:pointer;font-size:0.88rem;font-weight:${activeTab===t.id?'700':'400'};color:${activeTab===t.id?'var(--accent)':'var(--text2)'};transition:color 0.15s;">${t.label}</button>`).join('')}
@@ -5198,7 +5196,7 @@ function pageAdminSettings() {
       </div>
       <div class="form-field">
         <label class="field-label">Model Google</label>
-        <input type="text" id="ai-model-google" value="${State.ai.models.google || ''}" placeholder="gemini-1.5-pro">
+        <input type="text" id="ai-model-google" value="${State.ai.models.google || ''}" placeholder="gemini-2.0-flash">
       </div>
     </div>
     <div class="form-field mt-16">
@@ -5232,54 +5230,6 @@ function pageAdminSettings() {
     <button class="btn btn-secondary" onclick="copySkillRules()">📋 Copiază skill</button>
     <button class="btn btn-secondary" onclick="downloadSkillFile()">⬇ Descarcă skill (.md)</button>
   </div>
-</div>`;
-  } else if (activeTab === 'emails') {
-    const templates = ['Confirmare submisie','Invitație reviewer','Accept review','Refuz review','Decizie: Acceptat','Decizie: Revizii minore','Decizie: Revizii majore','Decizie: Respins'];
-    content = `<div style="display:grid;grid-template-columns:1fr 2fr;gap:24px;">
-  <div class="card">
-    <div class="card-body" style="padding:8px 0;">
-      ${templates.map((t,i)=>`
-      <div onclick="selectTemplate(${i})" style="padding:12px 20px;cursor:pointer;border-left:3px solid transparent;font-size:0.88rem;${i===0?'border-left-color:var(--accent);background:var(--accent-bg);font-weight:700;':''}" id="tmpl-${i}">
-        ${t}
-      </div>`).join('')}
-    </div>
-  </div>
-  <div class="card" id="template-editor">
-    <div class="card-header"><h3 class="card-title">Confirmare submisie</h3></div>
-    <div class="card-body">
-      <div class="form-field mb-16"><label class="field-label">Subiect email</label><input type="text" value="Confirmare primire manuscris — {{journal_name}}"></div>
-      <div class="form-field mb-16"><label class="field-label">Corp mesaj</label>
-        <textarea style="min-height:200px;">Stimată/Stimate {{author_name}},
-
-Vă confirmăm primirea manuscrisului:
-„{{title}}"
-
-ID submisie: {{submission_id}}
-Data: {{date_submitted}}
-
-Veți fi contactat/ă în legătură cu decizia editorială în termen de {{review_weeks}} săptămâni.
-
-Cu stimă,
-Echipa editorială
-{{journal_name}}</textarea>
-      </div>
-      <div class="alert alert-info text-sm"><span>ℹ</span><div>Variabile disponibile: {{author_name}}, {{title}}, {{submission_id}}, {{date_submitted}}, {{journal_name}}, {{review_weeks}}, {{decision}}, {{deadline}}</div></div>
-    </div>
-    <div class="card-footer"><button class="btn btn-primary" onclick="toast('Șablon salvat!','success')">💾 Salvează șablon</button><button class="btn btn-secondary" onclick="toast('Email test trimis','success')">📧 Test email</button></div>
-  </div>
-</div>`;
-  } else if (activeTab === 'ingest') {
-    content = `<div class="card mb-24">
-  <div class="card-header"><h3 class="card-title">Ingest PDF — Configurare reguli</h3></div>
-  <div class="card-body">
-    <div class="form-grid">
-      <div class="form-field"><label class="field-label">Prag OCR (scor text)</label><input type="number" value="0.6" step="0.05" min="0" max="1"><span class="field-hint">Dacă scorul text < prag, se activează OCR</span></div>
-      <div class="form-field"><label class="field-label">Prag confirmare</label><input type="number" value="0.8" step="0.05" min="0" max="1"><span class="field-hint">Câmpuri sub prag sunt marcate pt. verificare</span></div>
-      <div class="form-field"><label class="field-label">Cuvinte ancoră keywords</label><input type="text" value="Cuvinte-cheie, Keywords, Mots-clés, Schlüsselwörter"></div>
-      <div class="form-field"><label class="field-label">Cuvinte ancoră abstract</label><input type="text" value="Rezumat, Abstract, Résumé, Zusammenfassung"></div>
-    </div>
-  </div>
-  <div class="card-footer"><button class="btn btn-primary" onclick="toast('Reguli ingest salvate!','success')">💾 Salvează</button></div>
 </div>`;
   }
 
@@ -5323,7 +5273,7 @@ function pageAdminAi() {
       </div>
       <div class="form-field">
         <label class="field-label">Model Google</label>
-        <input type="text" id="ai-model-google" value="${State.ai.models.google || ''}" placeholder="gemini-1.5-pro">
+        <input type="text" id="ai-model-google" value="${State.ai.models.google || ''}" placeholder="gemini-2.0-flash">
       </div>
     </div>
     <div class="form-field mt-16">
