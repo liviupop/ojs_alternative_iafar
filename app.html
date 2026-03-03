@@ -6965,12 +6965,8 @@ async function showServerStartHelp() {
   if (ok) toast('Serverul CSV este deja online.', 'success');
 }
 
-async function openAdminArticleEditor(articleId) {
-  const serverOk = await ensureServerForAdminEdit({ interactive: true });
+function openAdminArticleEditor(articleId) {
   openArticleDrawer(String(articleId || ''));
-  if (!serverOk) {
-    toast('Editare deschisă în mod local. Pentru persistență CSV globală, pornește serverul.', 'warning');
-  }
 }
 
 function openArticleDrawer(articleId) {
