@@ -1077,6 +1077,59 @@ tr:hover td { background: var(--bg); }
 }
 .btn-close:hover { color: var(--danger); }
 
+/* ─── ARTICLE DRAWER ─── */
+.drawer-overlay {
+  position: fixed;
+  inset: 0;
+  background: rgba(0,0,0,0.4);
+  z-index: 900;
+  opacity: 0;
+  pointer-events: none;
+  transition: opacity 0.25s ease;
+}
+.drawer-overlay.open {
+  opacity: 1;
+  pointer-events: auto;
+}
+.drawer {
+  position: fixed;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  width: min(680px, 90vw);
+  background: var(--seashell);
+  border-left: 1px solid var(--border);
+  box-shadow: -4px 0 32px rgba(0,0,0,0.15);
+  z-index: 901;
+  display: flex;
+  flex-direction: column;
+  transform: translateX(100%);
+  transition: transform 0.25s ease;
+  overflow: hidden;
+}
+.drawer.open { transform: translateX(0); }
+.drawer-header {
+  padding: 16px 24px;
+  border-bottom: 1px solid var(--border);
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 12px;
+  flex-shrink: 0;
+  background: var(--bg);
+}
+.drawer-title { font-family: var(--font-serif); font-size: 1rem; font-weight: 700; }
+.drawer-body { flex: 1; overflow-y: auto; padding: 24px; }
+.drawer-footer {
+  padding: 14px 24px;
+  border-top: 1px solid var(--border);
+  display: flex;
+  justify-content: flex-end;
+  gap: 10px;
+  flex-shrink: 0;
+  background: var(--bg);
+}
+
 /* ─── XML EXPORT ─── */
 .xml-preview {
   font-family: var(--font-mono);
@@ -1997,6 +2050,24 @@ tr:hover td { background: var(--bg); }
   </div>
 </div>
 
+<!-- ARTICLE EDIT DRAWER (admin) -->
+<div id="article-drawer-overlay" class="drawer-overlay" onclick="closeArticleDrawer()"></div>
+<div id="article-drawer" class="drawer">
+  <div class="drawer-header">
+    <div>
+      <div class="drawer-title" id="drawer-article-title">Editare articol</div>
+      <div id="drawer-article-subtitle" class="text-sm text-muted mt-4"></div>
+    </div>
+    <button class="btn-close" onclick="closeArticleDrawer()">×</button>
+  </div>
+  <div class="drawer-body" id="drawer-article-body"></div>
+  <div class="drawer-footer">
+    <button class="btn btn-secondary" onclick="closeArticleDrawer()">✕ Închide</button>
+    <button class="btn btn-secondary" id="drawer-preview-btn" onclick="">Previzualizare publică</button>
+    <button class="btn btn-primary" id="drawer-save-btn" onclick="">💾 Salvează schimbări</button>
+  </div>
+</div>
+
 <script src="/ingest/issues_manifest.js"></script>
 <script src="./ingest/issues_manifest.js"></script>
 <script src="/ingest/series1/series1_manifest.js?v=20260301-213040"></script>
@@ -2543,6 +2614,7 @@ const PAGE_ACCESS = {
   'admin-users': ['admin'],
   'admin-emails': ['admin'],
   'admin-backup': ['admin'],
+  'admin-export': ['admin'],
   'admin-ai': ['admin'],
   'admin-article-edit': ['editor', 'admin'],
   'reviewer-dashboard': ['reviewer', 'admin'],
@@ -2973,14 +3045,9 @@ const ROLE_NAV = {
     { section: 'Publicare' },
     { icon:'solar:folder-with-files-bold-duotone', label:'Numere', page:'editor-issues' },
     { icon:'solar:inbox-in-bold-duotone', label:'Ingest PDF', page:'ingest' },
-    { section: 'Submisii' },
-    { icon:'solar:clipboard-text-bold-duotone', label:'Submisii', page:'submissions' },
     { section: 'Admin' },
-    { icon:'solar:settings-bold-duotone', label:'Setări jurnal', page:'admin-settings' },
-    { icon:'solar:cpu-bolt-bold-duotone', label:'AI & Skill', page:'admin-ai' },
+    { icon:'solar:settings-bold-duotone', label:'Setări', page:'admin-settings' },
     { icon:'solar:users-group-rounded-bold-duotone', label:'Utilizatori', page:'admin-users' },
-    { icon:'solar:letter-bold-duotone', label:'Șabloane email', page:'admin-emails' },
-    { icon:'solar:database-bold-duotone', label:'Backup', page:'admin-backup' },
   ]
 };
 
@@ -3090,7 +3157,8 @@ const BREADCRUMBS = {
   'admin-ai': 'Admin / AI & Skill',
   'admin-users': 'Admin / Utilizatori',
   'admin-emails': 'Admin / Șabloane email',
-  'admin-backup': 'Admin / Backup',
+  'admin-backup': 'Admin / Export & Date',
+  'admin-export': 'Admin / Export & Date',
   'admin-article-edit': 'Admin / Editare articol',
   'login': 'Autentificare',
   'public-home': 'Acasă',
@@ -3120,6 +3188,10 @@ function renderTopbar() {
   document.getElementById('topbar-breadcrumb').innerHTML = html;
 
   const actions = [];
+  if (State.role === 'admin') {
+    const overrideDot = window.__USER_MANIFEST_OVERRIDE ? '🟢' : '⚪';
+    actions.push(`<button class="btn btn-sm" onclick="saveUserManifestOverride()" title="Salvează starea tuturor seriilor în issues_manifest_user.js" style="background:var(--success,#16a34a);color:#fff;border:none;">${overrideDot} 💾 Manifest</button>`);
+  }
   if (State.currentPage !== 'public-home') {
     actions.push(`<button class="btn btn-secondary btn-sm" onclick="navigate('public-home')">🏠 ${tr('Acasă','Home')}</button>`);
   }
@@ -3156,6 +3228,7 @@ function renderPage() {
     'admin-users': pageAdminUsers,
     'admin-emails': pageAdminEmails,
     'admin-backup': pageAdminBackup,
+    'admin-export': pageAdminExport,
     'admin-article-edit': pageAdminArticleEdit,
     'login': pageLogin,
     'public-home': pagePublicHome,
@@ -3190,12 +3263,12 @@ function pageDashboard() {
   const publishedIssues = DB.issues.filter(issue => issue.status === 'published');
   const publishedArticles = DB.articles.filter(article => article.status === 'published');
   const activeSubmissions = DB.submissions.filter(sub => ['submitted', 'under_review', 'decision_pending'].includes(sub.status));
-  const draftIssues = DB.issues.filter(issue => issue.status !== 'published');
   const latestPublishedIssue = [...publishedIssues].sort((a, b) =>
     yearSortValue(a.year) - yearSortValue(b.year)
     || Number(a.volume) - Number(b.volume)
     || Number(a.number) - Number(b.number)
   ).slice(-1)[0];
+  const recentIssues = allIssuesSorted.slice(0, 3);
 
   return `
 <div class="page-title">Dashboard Editorial</div>
@@ -3217,11 +3290,6 @@ function pageDashboard() {
     <div class="stat-label">Submisii active</div>
     <div class="stat-trend">Workflow editorial curent</div>
   </div>
-  <div class="stat-card">
-    <div class="stat-value">${draftIssues.length}</div>
-    <div class="stat-label">Număr în lucru</div>
-    <div class="stat-trend">${draftIssues.length ? 'Draft disponibil' : 'Toate numerele publicate'}</div>
-  </div>
 </div>
 
 <div style="display:grid;grid-template-columns:1fr 1fr;gap:24px;">
@@ -3238,7 +3306,7 @@ function pageDashboard() {
         </div>
         <button class="btn btn-primary btn-sm" onclick="navigate('submission-detail',{id:'S001'})">→</button>
       </div>
-      <div style="border-bottom:1px solid var(--bg3);padding:14px 20px;display:flex;align-items:center;gap:12px;">
+      <div style="padding:14px 20px;display:flex;align-items:center;gap:12px;">
         <span style="font-size:1.2rem;">⏰</span>
         <div style="flex:1;">
           <div style="font-size:0.88rem;font-weight:700;">S003 — Decizie pending după review</div>
@@ -3246,15 +3314,6 @@ function pageDashboard() {
         </div>
         <button class="btn btn-gold btn-sm" onclick="navigate('submission-detail',{id:'S003'})">Decide →</button>
       </div>
-      ${State.role==='admin' ? `
-      <div style="padding:14px 20px;display:flex;align-items:center;gap:12px;">
-        <span style="font-size:1.2rem;">📤</span>
-        <div style="flex:1;">
-          <div style="font-size:0.88rem;font-weight:700;">Export jurnal complet</div>
-          <div class="text-sm text-muted">DOAJ/Crossref pentru toate articolele publicate.</div>
-        </div>
-        <button class="btn btn-secondary btn-sm" onclick="openAdminFullJournalExport()">Export total</button>
-      </div>` : ''}
     </div>
   </div>
 
@@ -3279,13 +3338,6 @@ function pageDashboard() {
           </div>
         </li>
         <li class="timeline-item">
-          <div class="timeline-dot done">✓</div>
-          <div class="timeline-content">
-            <div class="timeline-date">2024-12-10</div>
-            <div class="timeline-text">S004 submis — Identitate culturală diaspora</div>
-          </div>
-        </li>
-        <li class="timeline-item">
           <div class="timeline-dot active">●</div>
           <div class="timeline-content">
             <div class="timeline-date">Acum</div>
@@ -3298,35 +3350,27 @@ function pageDashboard() {
 </div>
 
 <div class="divider"></div>
-<div class="section-title">${tr('Toate numerele', 'All issues')} (${allIssuesSorted.length})</div>
-<div class="tbl-wrap dashboard-issues-wrap">
-  <table class="dashboard-issues-table">
-    <thead><tr><th>Nr.</th><th>Titlu</th><th>Articole</th><th>Pagini</th><th>Status</th><th>Acțiuni</th></tr></thead>
+<div style="display:flex;align-items:center;justify-content:space-between;margin-bottom:16px;">
+  <div class="section-title" style="margin:0;">${tr('Ultimele numere', 'Recent issues')}</div>
+  <button class="btn btn-secondary btn-sm" onclick="navigate('editor-issues')">→ ${tr('Toate numerele', 'All issues')} (${allIssuesSorted.length})</button>
+</div>
+<div class="tbl-wrap">
+  <table>
+    <thead><tr><th>Nr.</th><th>Titlu</th><th>Articole</th><th>Status</th><th>Acțiuni</th></tr></thead>
     <tbody>
-    ${allIssuesSorted.map(issue=>`
-      <tr class="dashboard-issue-row series-row-${getIssueSeries(issue)}">
+    ${recentIssues.map(issue=>`
+      <tr>
         <td><span class="text-mono" style="font-size:0.82rem;">Vol.${getIssueDisplayVolume(issue)} Nr.${issue.number} / ${issue.year}</span><span class="series-badge dashboard-series-chip">${getSeriesLabel(getIssueSeries(issue))}</span></td>
         <td><strong>${issue.title}</strong></td>
         <td>${issue.article_count}</td>
-        <td>${getIssueTotalPages(issue)}</td>
         <td>${badgeStatus(issue.status)}</td>
         <td class="tbl-actions">
-          <button class="btn btn-secondary btn-sm issue-view-btn-${getIssueSeries(issue)}" onclick="navigate('public-issue',{id:'${issue.id}'})">👁 Vizualizează</button>
+          <button class="btn btn-secondary btn-sm" onclick="navigate('public-issue',{id:'${issue.id}'})">👁 Vizualizează</button>
         </td>
       </tr>`).join('')}
     </tbody>
   </table>
-</div>
-
-${State.role==='admin' ? `
-<div class="card mt-24">
-  <div class="card-header"><h3 class="card-title">Instrumente administrator</h3></div>
-  <div class="card-body" style="display:flex;gap:10px;flex-wrap:wrap;">
-    <button class="btn btn-primary" onclick="openAdminFullJournalExport()">📤 Export XML jurnal complet</button>
-    <button class="btn btn-secondary" onclick="downloadIssueMarkdownIndex('all')">📝 Index .md jurnal</button>
-    <button class="btn btn-danger" onclick="resetViewMetrics()">🧹 ${tr('Reset statistici accesare', 'Reset access stats')}</button>
-  </div>
-</div>` : ''}`;
+</div>`;
 }
 
 function pageEditorIssues() {
@@ -5094,10 +5138,22 @@ function pagePdfViewer() {
 // ─── ADMIN PAGES ──────────────────────────────────────────────────────
 
 function pageAdminSettings() {
-  return `
-<div class="page-title">Setări Jurnal</div>
-<div class="page-subtitle">Configurare generală a platformei.</div>
-<div class="card mb-24">
+  const activeTab = State.pageParams?.tab || 'jurnal';
+  const tabs = [
+    { id: 'jurnal', label: 'Jurnal' },
+    { id: 'ai', label: 'AI & Modele' },
+    { id: 'emails', label: 'Șabloane email' },
+    { id: 'ingest', label: 'Ingest rules' },
+  ];
+  const tabNav = `<div style="display:flex;gap:0;border-bottom:2px solid var(--border);margin-bottom:24px;align-items:flex-end;">
+    ${tabs.map(t => `<button onclick="navigate('admin-settings',{tab:'${t.id}'})" style="padding:10px 20px;border:none;border-bottom:2px solid ${activeTab===t.id?'var(--accent)':'transparent'};margin-bottom:-2px;background:none;cursor:pointer;font-size:0.88rem;font-weight:${activeTab===t.id?'700':'400'};color:${activeTab===t.id?'var(--accent)':'var(--text2)'};transition:color 0.15s;">${t.label}</button>`).join('')}
+    <div style="flex:1;"></div>
+    <button class="btn btn-secondary btn-sm" style="margin-bottom:6px;" onclick="navigate('admin-export')">📊 Export & Date ↗</button>
+  </div>`;
+
+  let content = '';
+  if (activeTab === 'jurnal') {
+    content = `<div class="card mb-24">
   <div class="card-header"><h3 class="card-title">Informații jurnal</h3></div>
   <div class="card-body">
     <div class="form-grid">
@@ -5114,9 +5170,106 @@ function pageAdminSettings() {
     </div>
   </div>
   <div class="card-footer"><button class="btn btn-primary" onclick="toast('Setări salvate!','success')">💾 Salvează</button></div>
+</div>`;
+  } else if (activeTab === 'ai') {
+    content = `<div class="card mb-24">
+  <div class="card-header"><h3 class="card-title">Chei API + modele</h3></div>
+  <div class="card-body">
+    <div class="form-grid">
+      <div class="form-field">
+        <label class="field-label">OpenAI API Key</label>
+        <input type="password" id="ai-key-openai" value="${State.ai.keys.openai || ''}" placeholder="sk-...">
+      </div>
+      <div class="form-field">
+        <label class="field-label">Model OpenAI</label>
+        <input type="text" id="ai-model-openai" value="${State.ai.models.openai || ''}" placeholder="gpt-4.1-mini">
+      </div>
+      <div class="form-field">
+        <label class="field-label">Anthropic API Key</label>
+        <input type="password" id="ai-key-anthropic" value="${State.ai.keys.anthropic || ''}" placeholder="sk-ant-...">
+      </div>
+      <div class="form-field">
+        <label class="field-label">Model Anthropic</label>
+        <input type="text" id="ai-model-anthropic" value="${State.ai.models.anthropic || ''}" placeholder="claude-3-5-sonnet-latest">
+      </div>
+      <div class="form-field">
+        <label class="field-label">Google AI Key</label>
+        <input type="password" id="ai-key-google" value="${State.ai.keys.google || ''}" placeholder="AIza...">
+      </div>
+      <div class="form-field">
+        <label class="field-label">Model Google</label>
+        <input type="text" id="ai-model-google" value="${State.ai.models.google || ''}" placeholder="gemini-1.5-pro">
+      </div>
+    </div>
+    <div class="form-field mt-16">
+      <label class="field-label">Provider implicit pentru ingest</label>
+      <select id="ai-provider-default">
+        <option value="openai" ${State.ai.provider === 'openai' ? 'selected' : ''}>OpenAI</option>
+        <option value="anthropic" ${State.ai.provider === 'anthropic' ? 'selected' : ''}>Anthropic</option>
+        <option value="google" ${State.ai.provider === 'google' ? 'selected' : ''}>Google</option>
+      </select>
+    </div>
+  </div>
+  <div class="card-footer">
+    <button class="btn btn-primary" onclick="saveAiSettingsFromForm()">💾 Salvează setări AI</button>
+    <button class="btn btn-secondary" onclick="runAiConnectionTest()">🧪 Test conexiune provider implicit</button>
+  </div>
 </div>
+<div class="card">
+  <div class="card-header"><h3 class="card-title">Skill comun pentru toate modelele</h3></div>
+  <div class="card-body">
+    <div class="alert alert-info mb-16">
+      <span>ℹ</span>
+      <div>Acest „skill" este trimis identic către toate modelele, ca să păstreze aceleași reguli de separare pe articole și numerotare.</div>
+    </div>
+    <div class="form-field">
+      <label class="field-label">Prompt / Skill rules</label>
+      <textarea id="ai-skill-rules" style="min-height:260px;font-family:var(--font-mono);font-size:0.78rem;">${State.ai.skillRules || MODEL_SEGMENTATION_SKILL}</textarea>
+    </div>
+  </div>
+  <div class="card-footer">
+    <button class="btn btn-primary" onclick="saveAiSettingsFromForm()">💾 Salvează skill</button>
+    <button class="btn btn-secondary" onclick="copySkillRules()">📋 Copiază skill</button>
+    <button class="btn btn-secondary" onclick="downloadSkillFile()">⬇ Descarcă skill (.md)</button>
+  </div>
+</div>`;
+  } else if (activeTab === 'emails') {
+    const templates = ['Confirmare submisie','Invitație reviewer','Accept review','Refuz review','Decizie: Acceptat','Decizie: Revizii minore','Decizie: Revizii majore','Decizie: Respins'];
+    content = `<div style="display:grid;grid-template-columns:1fr 2fr;gap:24px;">
+  <div class="card">
+    <div class="card-body" style="padding:8px 0;">
+      ${templates.map((t,i)=>`
+      <div onclick="selectTemplate(${i})" style="padding:12px 20px;cursor:pointer;border-left:3px solid transparent;font-size:0.88rem;${i===0?'border-left-color:var(--accent);background:var(--accent-bg);font-weight:700;':''}" id="tmpl-${i}">
+        ${t}
+      </div>`).join('')}
+    </div>
+  </div>
+  <div class="card" id="template-editor">
+    <div class="card-header"><h3 class="card-title">Confirmare submisie</h3></div>
+    <div class="card-body">
+      <div class="form-field mb-16"><label class="field-label">Subiect email</label><input type="text" value="Confirmare primire manuscris — {{journal_name}}"></div>
+      <div class="form-field mb-16"><label class="field-label">Corp mesaj</label>
+        <textarea style="min-height:200px;">Stimată/Stimate {{author_name}},
 
-<div class="card mb-24">
+Vă confirmăm primirea manuscrisului:
+„{{title}}"
+
+ID submisie: {{submission_id}}
+Data: {{date_submitted}}
+
+Veți fi contactat/ă în legătură cu decizia editorială în termen de {{review_weeks}} săptămâni.
+
+Cu stimă,
+Echipa editorială
+{{journal_name}}</textarea>
+      </div>
+      <div class="alert alert-info text-sm"><span>ℹ</span><div>Variabile disponibile: {{author_name}}, {{title}}, {{submission_id}}, {{date_submitted}}, {{journal_name}}, {{review_weeks}}, {{decision}}, {{deadline}}</div></div>
+    </div>
+    <div class="card-footer"><button class="btn btn-primary" onclick="toast('Șablon salvat!','success')">💾 Salvează șablon</button><button class="btn btn-secondary" onclick="toast('Email test trimis','success')">📧 Test email</button></div>
+  </div>
+</div>`;
+  } else if (activeTab === 'ingest') {
+    content = `<div class="card mb-24">
   <div class="card-header"><h3 class="card-title">Ingest PDF — Configurare reguli</h3></div>
   <div class="card-body">
     <div class="form-grid">
@@ -5128,6 +5281,13 @@ function pageAdminSettings() {
   </div>
   <div class="card-footer"><button class="btn btn-primary" onclick="toast('Reguli ingest salvate!','success')">💾 Salvează</button></div>
 </div>`;
+  }
+
+  return `
+<div class="page-title">Setări</div>
+<div class="page-subtitle">Configurare platformă editorial.</div>
+${tabNav}
+${content}`;
 }
 
 function pageAdminAi() {
@@ -5277,7 +5437,9 @@ Echipa editorială
 </div>`;
 }
 
-function pageAdminBackup() {
+function pageAdminBackup() { return pageAdminExport(); }
+
+function pageAdminExport() {
   const latestArticlesBackup = getLatestCsvBackup('articles.csv');
   const latestArticlesBackupLabel = latestArticlesBackup
     ? `${latestArticlesBackup.timestamp || latestArticlesBackup.saved_at || '—'}`
@@ -5288,11 +5450,6 @@ function pageAdminBackup() {
     const t = Date.parse(raw);
     return Number.isFinite(t) ? new Date(t).toLocaleString(State.locale === 'en' ? 'en-GB' : 'ro-RO') : raw;
   })();
-  const overrideInfo = window.__USER_MANIFEST_OVERRIDE
-    ? (window.__USER_MANIFEST_OVERRIDE.full_override
-      ? 'Override activ: issues_manifest_user.js (complet, toate seriile).'
-      : 'Override activ: issues_manifest_user.js (parțial).')
-    : 'Niciun override activ — se folosesc datele din build script.';
   const serverSavedAtLabel = (() => {
     const raw = String(State.serverSyncLastAt || '').trim();
     if (!raw) return 'Fără sincronizare server în sesiunea curentă';
@@ -5301,62 +5458,62 @@ function pageAdminBackup() {
   })();
   const serverErrorLabel = String(State.serverSyncLastError || '').trim();
   const serverApiValue = escapeHtml(State.serverApiBase || '');
+
   return `
-<div class="page-title">Backup și Date</div>
-<div class="page-subtitle">Export date și configurare backup automat.</div>
-<div style="display:grid;grid-template-columns:1fr 1fr;gap:24px;">
-  <div class="card">
-    <div class="card-header"><h3 class="card-title">Export date</h3></div>
-    <div class="card-body">
-      <p class="text-sm text-muted mb-16">Descarcă datele jurnalului în diverse formate.</p>
-      <div style="display:flex;flex-direction:column;gap:10px;">
-        <button class="btn btn-secondary" onclick="downloadArticlesCSV()">📊 Articole — CSV</button>
-        <button class="btn btn-secondary" onclick="downloadIssuesCSV()">📊 Numere — CSV</button>
-        <button class="btn btn-secondary" onclick="toast('Export submisii CSV generat','success')">📊 Submisii — CSV</button>
-        <button class="btn btn-primary" onclick="exportFinalCSV()">⬇ Export final CSV</button>
-        <button class="btn btn-primary" onclick="applyCsvToManifest()">🧩 Aplică CSV în manifest</button>
-        <div class="form-field" style="margin-top:8px;">
-          <label class="field-label">API server CSV</label>
-          <input type="text" id="server-api-base" value="${serverApiValue}" placeholder="http://localhost:8787">
-          <span class="field-hint">Lasă gol pentru același origin (când app-ul e servit pe server).</span>
-        </div>
-        <div style="display:flex;gap:8px;flex-wrap:wrap;">
-          <button class="btn btn-secondary" onclick="setServerApiBase(document.getElementById('server-api-base')?.value || ''); toast('URL API salvat local.','success')">💾 Salvează URL API</button>
-          <button class="btn btn-secondary" onclick="showServerStartHelp()">▶ Pornește server local (ghid)</button>
-          <button class="btn btn-secondary" onclick="syncStateFromServerIfAvailable({silent:false})">↻ Încarcă stare din server</button>
-          <button class="btn btn-primary" onclick="persistStateToServerNow()">☁ Persistă acum pe server</button>
-        </div>
-        <div class="alert ${serverErrorLabel ? 'alert-warning' : 'alert-info'} text-sm" style="margin-top:8px;">
-          <span>${serverErrorLabel ? '⚠' : '☁'}</span>
-          <div>${serverErrorLabel ? `Ultima eroare server: ${escapeHtml(serverErrorLabel)}` : `Ultima sincronizare server: ${serverSavedAtLabel}`}</div>
-        </div>
-        <div class="alert alert-info text-sm" style="margin-top:8px;"><span>💾</span><div>Snapshot persistent local: ${persistentSavedAt}</div></div>
-        <button class="btn btn-primary" onclick="savePersistentAdminDataNow()">💾 Salvează acum starea completă (persistent local)</button>
-        <button class="btn btn-danger" onclick="clearPersistentAdminData()">🗑️ Șterge snapshot persistent local</button>
-        <div class="alert alert-warning text-sm" style="margin-top:8px;"><span>↺</span><div>Ultim backup local articole: ${latestArticlesBackupLabel}</div></div>
-        <button class="btn btn-primary" onclick="restoreLatestArticlesFromLocalBackup()">♻ Restaurează backup local (prioritar ultima oră)</button>
-        <hr style="margin:12px 0;border-color:var(--border);">
-        <div class="text-sm text-muted mb-8" style="line-height:1.5;">
-          <strong>Manifest final (override permanent)</strong><br>
-          Salvează starea curentă a tuturor seriilor ca <code>ingest/issues_manifest_user.js</code>.
-          Fișierul are prioritate față de build script și nu va fi niciodată suprascris automat.
-        </div>
-        <button class="btn btn-primary" onclick="saveUserManifestOverride()" style="background:var(--success,#16a34a);">💾 Salvează manifest complet (override)</button>
-        ${window.__USER_MANIFEST_OVERRIDE ? `<div class="alert alert-success text-sm" style="margin-top:8px;"><span>✓</span><div>${overrideInfo}</div></div>` : `<div class="alert text-sm" style="margin-top:8px;background:#f8f9fa;border:1px solid var(--border);"><span>ℹ</span><div>${overrideInfo}</div></div>`}
-      </div>
+<div class="page-title">Export & Date</div>
+<div class="page-subtitle">Exporturi CSV și sincronizare date jurnal.</div>
+
+<div class="card mb-24">
+  <div class="card-header"><h3 class="card-title">Exporturi CSV</h3></div>
+  <div class="card-body">
+    <p class="text-sm text-muted mb-16">Descarcă datele jurnalului în format CSV.</p>
+    <div style="display:flex;gap:10px;flex-wrap:wrap;">
+      <button class="btn btn-secondary" onclick="downloadArticlesCSV()">⬇ CSV Articole</button>
+      <button class="btn btn-secondary" onclick="downloadIssuesCSV()">⬇ CSV Numere</button>
+      <button class="btn btn-secondary" onclick="toast('Export submisii CSV generat','success')">⬇ CSV Submisii</button>
     </div>
   </div>
-  <div class="card">
-    <div class="card-header"><h3 class="card-title">Backup automat</h3></div>
-    <div class="card-body">
-      <div class="form-field mb-12"><label class="field-label">Frecvență</label><select><option>Zilnic</option><option selected>Săptămânal</option><option>Lunar</option></select></div>
-      <div class="form-field mb-12"><label class="field-label">Destinație</label><select><option selected>Local (server)</option><option>S3 / MinIO</option><option>SFTP extern</option></select></div>
-      <div class="form-field mb-16"><label class="field-label">Retenție</label><select><option>7 zile</option><option selected>30 zile</option><option>90 zile</option></select></div>
-      <div class="alert alert-success text-sm"><span>✓</span><div>Ultimul backup: 2025-02-21 03:00 &nbsp;·&nbsp; 847 MB &nbsp;·&nbsp; OK</div></div>
-      <button class="btn btn-primary" style="margin-top:12px;" onclick="toast('Backup manual pornit!','success')">▶ Pornește backup manual</button>
+</div>
+
+<details class="card mb-24">
+  <summary style="padding:16px 20px;list-style:none;display:flex;align-items:center;justify-content:space-between;cursor:pointer;user-select:none;">
+    <h3 class="card-title" style="margin:0;">Sincronizare server</h3>
+    <span class="text-sm text-muted">▾ detalii</span>
+  </summary>
+  <div class="card-body" style="border-top:1px solid var(--border);">
+    <div class="form-field mb-12">
+      <label class="field-label">URL server API</label>
+      <input type="text" id="server-api-base" value="${serverApiValue}" placeholder="http://localhost:8787">
+      <span class="field-hint">Lasă gol pentru același origin (când app-ul e servit pe server).</span>
+    </div>
+    <div style="display:flex;gap:8px;flex-wrap:wrap;margin-bottom:12px;">
+      <button class="btn btn-secondary" onclick="setServerApiBase(document.getElementById('server-api-base')?.value || ''); toast('URL API salvat local.','success')">💾 Salvează URL</button>
+      <button class="btn btn-secondary" onclick="showServerStartHelp()">▶ Pornește server local (ghid)</button>
+      <button class="btn btn-secondary" onclick="syncStateFromServerIfAvailable({silent:false})">↻ Încarcă din server</button>
+      <button class="btn btn-primary" onclick="persistStateToServerNow()">☁ Trimite la server</button>
+    </div>
+    <div class="alert ${serverErrorLabel ? 'alert-warning' : 'alert-info'} text-sm">
+      <span>${serverErrorLabel ? '⚠' : '☁'}</span>
+      <div>${serverErrorLabel ? `Ultima eroare server: ${escapeHtml(serverErrorLabel)}` : `Ultima sincronizare: ${serverSavedAtLabel}`}</div>
     </div>
   </div>
-</div>`;
+</details>
+
+<details class="card mb-24">
+  <summary style="padding:16px 20px;list-style:none;display:flex;align-items:center;justify-content:space-between;cursor:pointer;user-select:none;">
+    <h3 class="card-title" style="margin:0;">Snapshot local</h3>
+    <span class="text-sm text-muted">▾ detalii</span>
+  </summary>
+  <div class="card-body" style="border-top:1px solid var(--border);">
+    <div class="alert alert-info text-sm mb-12"><span>💾</span><div>Snapshot persistent local: ${persistentSavedAt}</div></div>
+    <div class="alert alert-warning text-sm mb-12"><span>↺</span><div>Ultim backup local articole: ${latestArticlesBackupLabel}</div></div>
+    <div style="display:flex;gap:8px;flex-wrap:wrap;">
+      <button class="btn btn-primary" onclick="savePersistentAdminDataNow()">💾 Salvează snapshot</button>
+      <button class="btn btn-primary" onclick="restoreLatestArticlesFromLocalBackup()">♻ Restaurează</button>
+      <button class="btn btn-danger" onclick="clearPersistentAdminData()">🗑️ Șterge snapshot</button>
+    </div>
+  </div>
+</details>`;
 }
 
 function pageReviewers() {
@@ -6810,10 +6967,96 @@ async function showServerStartHelp() {
 
 async function openAdminArticleEditor(articleId) {
   const serverOk = await ensureServerForAdminEdit({ interactive: true });
-  navigate('admin-article-edit', { id: String(articleId || '') });
+  openArticleDrawer(String(articleId || ''));
   if (!serverOk) {
     toast('Editare deschisă în mod local. Pentru persistență CSV globală, pornește serverul.', 'warning');
   }
+}
+
+function openArticleDrawer(articleId) {
+  const art = DB.getArticle(articleId);
+  if (!art) { toast('Articolul nu a fost găsit.', 'error'); return; }
+  const issue = DB.getIssue(art.issue_id);
+  const mergedKeywords = Array.from(new Set([
+    ...splitKeywords(art.keywords_ro || ''),
+    ...splitKeywords(art.keywords_en || ''),
+    ...splitKeywords(art.keywords_fr || ''),
+    ...splitKeywords(art.keywords_de || ''),
+  ])).join(', ');
+  const abstractSourceField = ['abstract_en', 'abstract_de', 'abstract_fr', 'abstract_ro']
+    .find(field => String(art[field] || '').trim()) || 'abstract_en';
+  const abstractValue = String(art[abstractSourceField] || '').trim();
+  const abstractLang = guessLangLabelFromField(abstractSourceField);
+
+  document.getElementById('drawer-article-title').textContent = 'Editare articol';
+  document.getElementById('drawer-article-subtitle').textContent =
+    `Vol. ${issue?.volume || '—'} Nr. ${issue?.number || '—'} / ${issue?.year || '—'} · ID ${art.id}`;
+  document.getElementById('drawer-preview-btn').onclick = () => navigate('public-article', { id: art.id });
+  document.getElementById('drawer-save-btn').onclick = () => saveAdminArticleEdits(art.id);
+
+  document.getElementById('drawer-article-body').innerHTML = `
+<div class="form-grid">
+  <div class="form-field full">
+    <label class="field-label">Titlu</label>
+    <input type="text" id="ae-title" value="${escapeHtml(art.title)}">
+  </div>
+  <div class="form-field full">
+    <label class="field-label">Autori (exact ca în TOC)</label>
+    <input type="text" id="ae-authors" value="${escapeHtml(art.authors)}">
+  </div>
+  <div class="form-field full">
+    <label class="field-label">Afiliere</label>
+    <input type="text" id="ae-affiliations" value="${escapeHtml(art.affiliations || '')}">
+  </div>
+  <div class="form-field">
+    <label class="field-label">Email</label>
+    <input type="text" id="ae-emails" value="${escapeHtml(art.emails || '')}">
+  </div>
+  <div class="form-field">
+    <label class="field-label">Limbă</label>
+    <select id="ae-language">
+      <option value="ro" ${art.language === 'ro' ? 'selected' : ''}>Română</option>
+      <option value="en" ${art.language === 'en' ? 'selected' : ''}>Engleză</option>
+      <option value="de" ${art.language === 'de' ? 'selected' : ''}>Germană</option>
+      <option value="fr" ${art.language === 'fr' ? 'selected' : ''}>Franceză</option>
+    </select>
+  </div>
+  <div class="form-field">
+    <label class="field-label">Pagina început</label>
+    <input type="number" id="ae-pages-start" value="${escapeHtml(art.pages_start)}">
+  </div>
+  <div class="form-field">
+    <label class="field-label">Pagina final</label>
+    <input type="number" id="ae-pages-end" value="${escapeHtml(art.pages_end)}">
+  </div>
+  <div class="form-field full">
+    <label class="field-label">Abstract${abstractLang ? ` (${abstractLang})` : ''}</label>
+    <input type="hidden" id="ae-abstract-source" value="${escapeHtml(abstractSourceField)}">
+    <textarea id="ae-abstract" style="min-height:120px;">${escapeHtml(abstractValue)}</textarea>
+  </div>
+  <div class="form-field full">
+    <label class="field-label">Cuvinte-cheie (RO + EN, o singură listă)</label>
+    <input type="text" id="ae-keywords" value="${escapeHtml(mergedKeywords)}">
+  </div>
+  <div class="form-field">
+    <label class="field-label">Status</label>
+    <select id="ae-status">
+      <option value="published" ${art.status === 'published' ? 'selected' : ''}>Published</option>
+      <option value="draft" ${art.status === 'draft' ? 'selected' : ''}>Draft</option>
+      <option value="archived" ${art.status === 'archived' ? 'selected' : ''}>Archived</option>
+    </select>
+  </div>
+</div>`;
+
+  document.getElementById('article-drawer-overlay').classList.add('open');
+  document.getElementById('article-drawer').classList.add('open');
+  document.body.style.overflow = 'hidden';
+}
+
+function closeArticleDrawer() {
+  document.getElementById('article-drawer-overlay').classList.remove('open');
+  document.getElementById('article-drawer').classList.remove('open');
+  document.body.style.overflow = '';
 }
 
 function parseIsoMs(value='') {
