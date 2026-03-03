@@ -2410,6 +2410,7 @@ function hydrateSeries2Data() {
 hydratePreparedIngestData();
 hydrateSeries1Data();
 hydrateSeries2Data();
+hydrateManifestOverrideFromStorage();
 
 // ═══════════════════════════════════════════════════════════════════════
 //  APP STATE
@@ -2500,6 +2501,7 @@ const STORAGE_KEYS = {
   csvBackups: 'academcms-csv-backups-v1',
   adminPersistentData: 'academcms-admin-persistent-v1',
   serverApiBase: 'academcms-server-api-base-v1',
+  csvManifestOverride: 'academcms-csv-manifest-override-v1',
 };
 
 const DEFAULT_AI_SETTINGS = {
@@ -5311,6 +5313,8 @@ function pageAdminBackup() {
         <button class="btn btn-secondary" onclick="downloadArticlesCSV()">📊 Articole — CSV</button>
         <button class="btn btn-secondary" onclick="downloadIssuesCSV()">📊 Numere — CSV</button>
         <button class="btn btn-secondary" onclick="toast('Export submisii CSV generat','success')">📊 Submisii — CSV</button>
+        <button class="btn btn-primary" onclick="exportFinalCSV()">⬇ Export final CSV</button>
+        <button class="btn btn-primary" onclick="applyCsvToManifest()">🧩 Aplică CSV în manifest</button>
         <div class="form-field" style="margin-top:8px;">
           <label class="field-label">API server CSV</label>
           <input type="text" id="server-api-base" value="${serverApiValue}" placeholder="http://localhost:8787">
@@ -6909,6 +6913,92 @@ function loadCsvBackups() {
 
 function saveCsvBackups(backups) {
   localStorage.setItem(STORAGE_KEYS.csvBackups, JSON.stringify(backups.slice(0, 30)));
+}
+
+function buildCurrentManifestPayload() {
+  return {
+    journal: { ...JOURNAL },
+    issues: DB.issues.map(issue => ({ ...issue, id: String(issue.id || '') })),
+    articles: DB.articles.map(article => ({
+      ...article,
+      id: String(article.id || ''),
+      issue_id: String(article.issue_id || ''),
+    })),
+    generated_at: new Date().toISOString(),
+    generated_by: 'admin-csv-apply',
+    full_override: true,
+  };
+}
+
+function applyManifestPayload(payload) {
+  if (!payload || !Array.isArray(payload.issues) || !Array.isArray(payload.articles)) return false;
+  if (payload.journal && typeof payload.journal === 'object') {
+    Object.assign(JOURNAL, payload.journal);
+  }
+  DB.issues = payload.issues.map(issue => ({ ...issue, id: String(issue.id || ''), series: issue.series || '' }));
+  DB.articles = payload.articles.map(article => ({
+    ...article,
+    id: String(article.id || ''),
+    issue_id: String(article.issue_id || ''),
+    series: article.series || '',
+  }));
+  return true;
+}
+
+function persistManifestOverride(payload) {
+  try {
+    localStorage.setItem(STORAGE_KEYS.csvManifestOverride, JSON.stringify(payload));
+  } catch (_) {
+    // best effort only
+  }
+}
+
+function hydrateManifestOverrideFromStorage() {
+  try {
+    const raw = localStorage.getItem(STORAGE_KEYS.csvManifestOverride);
+    if (!raw) return false;
+    const payload = JSON.parse(raw);
+    if (!applyManifestPayload(payload)) return false;
+    console.info('[AAF] Manifest override încărcat din localStorage.');
+    return true;
+  } catch (_) {
+    return false;
+  }
+}
+
+function exportFinalCSV() {
+  const stamp = backupTimestamp();
+  const csv = serializeCsvRows(DB.articles);
+  downloadFile(csv, `articles-final-${stamp}.csv`, 'text/csv');
+  toast('Export final CSV generat.', 'success');
+}
+
+async function applyCsvToManifest() {
+  const payload = buildCurrentManifestPayload();
+  applyManifestPayload(payload);
+  persistManifestOverride(payload);
+  const content = 'window.__INGEST_MANIFEST = ' + JSON.stringify(payload, null, 2) + ';\n';
+  try {
+    if ('showSaveFilePicker' in window) {
+      const handle = await window.showSaveFilePicker({
+        suggestedName: 'issues_manifest.js',
+        types: [{ description: 'JavaScript manifest', accept: { 'application/javascript': ['.js'] } }],
+      });
+      const writable = await handle.createWritable();
+      await writable.write(content);
+      await writable.close();
+      toast('Manifest aplicat și salvat pe disc.', 'success');
+    } else {
+      downloadFile(content, 'issues_manifest.js', 'application/javascript');
+      toast('Manifest aplicat local și descărcat ca issues_manifest.js.', 'success');
+    }
+  } catch (err) {
+    if (err?.name === 'AbortError') return;
+    toast('Manifest aplicat local, dar salvarea pe disc a eșuat.', 'warning');
+  }
+  renderTopbar();
+  renderPage();
+  updateHeadMetadata();
 }
 
 async function ensureBackupRootHandle() {
