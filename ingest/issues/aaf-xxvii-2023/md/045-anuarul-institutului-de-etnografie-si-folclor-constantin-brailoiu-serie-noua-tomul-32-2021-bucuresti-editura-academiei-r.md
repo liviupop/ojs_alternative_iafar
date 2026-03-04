@@ -16,7 +16,640 @@ _Nedetectat_
 ## Keywords
 _Nedetectate_
 
-## Text extras din PDF
+## Text extras din PDF (Markdown)
+470
+
+„Anuarul  Institutului  de  Etnografie  și  Folclor  «Constantin  Brăiloiu»”.
+Serie nouă, tomul 32, 2021, București, Editura Academiei Române, 341 p.
+
+Acest număr recent al prestigiosului Anuar etnologic bucureștean cuprinde
+dezvoltări ample ale câtorva dintre cele mai arzătoare teme ale prezentului documentat,
+fiind marcate câteva momente aniversare de mare semnificație, câteva domenii de exegeză
+etnologică de mare actualitate, precum și evenimente editoriale și științifice de mare
+relevanță pentru institutul bucureștean și, prin urmare, pentru noi toți în viața academică
+etnologică din întreaga țară.
+
+Volumul de față a fost îngrijit prin responsabilitatea acad. Sabina Ispas, a dr. Laura
+Toader și a dr. Constantin Secară, expertiza de excepție a fiecăruia revărsându-se pozitiv
+asupra alcătuirii revistei.
+
+Secțiunea care deschide volumul îi este dedicată doamnei Nicoleta Coatu, cercetător
+de prestigiu internațional, activă în cadrul Institutului de Etnografie și Folclor „Constantin
+Brăiloiu” din București între 1968–2020: IN HONOREM NICOLETTE COATU, unde
+citim trei materiale profund ilustrative. Mai întâi, o cuprinzătoare bio-bibliografie
+despre activitatea sa acoperind o mare varietate de subiecte: perspectiva teoretică
+privind textul oral-folcloric, poetica și retorica folclorică, cercetarea aprofundată a
+unor categorii folclorice, cu specială aplecare asupra fenomenului descântatului; studiul
+comparativ al basmului; poezia ceremonială a obiceiurilor tradiționale; elaborarea
+instrumentelor de lucru utile cercetării textului literar folcloric; studiul unor simboluri
+culturale în contextualizări și resemantizări tradițional-folclorice; cercetări etnologice
+urbane, studierea identității culturale a unor medii socioprofesionale, în special a celor
+minerești; cercetări de teren ample pe un vast teritoriu național, în județele Alba, Bihor,
+Bistrița-Năsăud, Brașov, Dolj, Galați, Gorj, Hunedoara, Maramureș, Prahova, Satu
+Mare, Sălaj, Sibiu (p. 9–11). Sunt de asemenea evidențiate contribuțiile de excepție ale
+Nicoletei Coatu la programele fundamentale de cercetare ale Institutului de Etnografie și
+Folclor „Constantin Brăiloiu”, la implementarea unor proiecte naționale și internaționale
+pluridisciplinare, la activitatea de predare universitară, precum și la nenumărate
+manifestări științifice naționale și internaționale.
+
+Un al doilea material dedicat sărbătoritei în paginile Anuarului bucureștean este
+cel intitulat LAUDATIO, compus de colegul de generație Silviu Angelescu, material
+care iluminează aspecte necunoscute despre începuturile activității ei, în facultate și la
+Institutul de Folclor, premonitoare pentru cariera spectaculoasă care avea să urmeze
+pentru Nicoleta Coatu (p. 13). De asemenea, îi este subliniată verva editorială cu care
+contribuia în paginile revistei institutului, interesul pentru legendă, vocația didactică, cea
+redacțională, locul deosebit pe care îl păstrează în istoria folcloristicii prin volumele sale
+remarcabile, capabile să dezvăluie „reala identitate a cercetătoarei” (p. 14).
+
+Al treilea material al secțiunii este scris de Nicoleta Coatu însăși, în limba engleză,
+fiind preluat și amplificat după întâia publicare, în 1994, în „European Journal for
+Semiotic Studies. Semiotic and Mentalities”: Traditional Mentality and Romanian Funeral
+Poetical Structures. Studiul urrmărește mitul marii treceri din perspectiva structurală a
+
+Recenzii471
+
+două principii: eufemizarea și antitetizarea, menite să facă posibilă în maniera textuală
+interacțiunea dintre comunitatea străbunilor și cea a celor vii. Este subliniată funcția
+psihologică a alegoriilor ontice, cu dublă intenționalitate: cea tranzitivă, de comunicare
+necesară între comunitatea viilor și cel plecat, precum și cea reflexivă, de comunicare a
+comunității cu ea însăși, într-un major efort cathartic.
+
+A doua secțiune a volumului îi este dedicată lui Vasile Alecsandri (21 iulie 1821–
+22 august 1890) la 200 de ani de la naștere și cuprinde câteva semnificative reeditări
+ale unor texte clasice: așa este textul Vasile Alecsandri în istoria folcloristicii (p. 27–29),
+prezentând fragmente semnificative ale capitolului Vasile Alecsandri la Ovidiu Bîrlea
+în Istoria focloristicii (București, Editura Enciclopedică Română, 1974, p. 75–103).
+Fragmentele discursive preluate de la Silvia Ciubotaru și Radu Toader despre relevanța
+focloristicii practicate de Vasile Alecsandri întregesc portretul veșnic discutatului om
+de cultură în etnologie. Grupajul se închide cu fragmente din textul Românii și poezia
+lor, adresat „D‑lui A. Hurmuzachi, redactorul foaiei Bucovina”, text apărut în volumul
+Proză îngrijit de G. C. Nicolescu la Editura pentru literatură din București în anul 1966
+(p. 98–132), în care este întâi prezentată „balada Mioarii”, în contextul reamintirii unor
+discuții împătrite pe moșia Hurmuzachi de la Cernauca, apoi i se fac Mioriței cuvenitele
+încadrări contextuale în mișcările turmelor înspre și peste Dunăre, necunoscute întrucât
+„poporul nostru din Moldova [...] nu a ajuns a cunoaște cât e de întins pământul locuit
+de români” (p. 34), pentru ca la final, Alecsandri să constate: „Eu nu cred să fie întreagă,
+dar cât este măcar, ea plătește în ochii mei un poem neprețuit și de care noi, românii, ne
+putem făli cu toată dreptatea.” (p. 35). Amintite sunt și „giocul Călușăilor și Hora”, ambele
+originate în lumea romană: „Giocul Călușăilor este un dans alegoric, care înfățoșează
+răpirea sabinelor; iar hora este adevăratul dans roman, chorus, și se gioacă în România cu
+aceeași rânduială hereografică precum se văd săpate în marmurile antice, horele vechilor
+romani!” (p. 36). Mai departe, „Unele hore sunt lungi și corecte, precum a Zoiții, a Ilenuții
+și altele; dar cele mai multe sunt scurte de zece, de opt, până și de patru versuri. În ce
+privește însă originalitatea ideilor, frumusețea expresiilor și calitățile lor poetice, oricine
+poate mărturisi că atât horele din Moldova, cât și cele din Transilvania, din Bucovina
+și din Valahia sunt vrednice surori ale baladelor.” Radu Toader ne ajută să plasăm mai
+bine în context activismul și activitatea lui Vasile Alecsandri: „nu se poate face abstracție
+de contextul istoric în care se desfășurau aceste eforturi folcloristice: a doua jumătate
+a secolului al XIX-lea, suflul înnoitor pe care oamenii de cultură români se străduiau
+să-l imprime conștiinței naționale, densitatea tuturor evenimentelor istorice la care
+însuși poetul a luat parte din plin: Revoluția pașoptistă, pregătirea Unirii, modernizarea
+Principatelor Unite, lupta pentru independență.” (p. 30). Câteva fotografii din edițiile
+princeps ale operelor Poesii populare ale românilor adunate și întocmite de Vasile Alecsandri
+(1846) și Balade adunate și îndreptate de Vasile Alecsandri (1852) întregesc fericit
+grupajul celebrant.
+
+Secțiunea STUDII este împărțită în trei domenii mari. Prima dintre acestea este
+Epidemie și tradiție populară. Întâiul text îi aparține Laviniei Betea și este dedicat
+Pandemiei în distorsiuni cognitive. Textul pornește de la o memorată de gradul II, narațiune
+autoreferențială a autoarei, dar care povestește o istorie auzită de fetiță la claca pentru
+torsul fuioarelor de cânepă în copilăria ei din satul Bănești din Ținutul Hălmagiului, despre
+
+Recenzii472
+
+una din tragediile locale produse de ceea ce avea să poarte numele de „gripa spaniolă”
+începând cu 1918. Istoria acelei pandemii este urmărită de la incidența cunoscută a
+primului caz documentat, în 4 martie 1918, al unui bucătar la cantina unei tabere militare
+din Kansas, presupusul „bolnav nr. 1”, la numerele impresionante de victime ale celor
+patru valuri – incluzând și valul japonez din 1920 – mai multe, fără tăgadă, decât cele ale
+celui de al doilea Război Mondial. Pandemia de Covid-19 este urmărită în Stereotipuri,
+reprezentări și practici sociale generate de pandemie, chiar și în paralela ei cu cea din 1918–
+1920, funcțională, desigur, și în cazul altor epidemii (SIDA, e.g.): cauze în cel mai rău
+caz oculte, iar în cel mai bun, divine, în ipostaza punitivă. Schemele și scenariile pe tema
+răspândirii Covid‑19 numără: schemele referitoare la profilaxia Covid-19, demontate
+oficial de experții Organizației Mondiale a Sănătății (p. 50), stereotipurile sociale cu
+subdiviziunile lor funcționale ca stereotipuri ale persecuției: stereotipul crizei, stereotipul
+acuzației, stereotipul apartenenței victimelor la anumite categorii de marginalitate
+socială (p. 52), impactul acestor stereotipii. Biasurile de încadrare: conflictul de interese
+și efectul de autocomplezență aduc spre analiză în principal fenomenele media asociate
+campaniilor pro și contra vaccin, dar și efectele falsului consens din „bulele de confort”
+în care staționează indivizii agresați de anxietățile tipice situațiilor de criză (p. 55).
+
+Irina Balotescu ne propune studiul Epidemie, cultură populară și realități virtuale.
+Teritoriu – spațiu – timp – context sau despre noile suprafețe ale culturii populare actuale.
+Autoarea pornește, la rândul ei, de la tratarea maladiilor cu răspândire epidemică/
+pandemică de-a lungul istoriei, atât în sens terapeutic, cât și în sens profilactic, mai cu
+seamă în sânul comunităților tradiționale, pentru a inversa, în cea de a doua parte a
+studiului, vectorul discuției înspre considerarea culturii tradiționale, în vremea pandemiei
+de Covid-19, în câteva din aspectele sale: augmentarea mediului de viață comunitar,
+cu „un spațiu fizic și un timp anume” (p. 61), prin accesul la mediul digital și, ca atare,
+accesul la toate „imaginariile” și „imaginaliile” distorsionante la adresa realității pe
+care virtualul le incumbă; expunerea la presă, cu numeroasele breaking news având ca
+subiect unic aspecte ale pandemiei; manierele imposibil de controlat în care informația
+s-a metamorfozat în decursul transferului; schimbările ireversibile aduse la nivel
+planetar de duratele nemaiîntâlnit de lungi, până atunci, ale restricțiilor civile asociate
+gestiunilor centralizate ale pandemiei. „Nucleele tari” în sensul structurilor de cultură
+populară (p. 63) urmează a fi definite în termeni de „stabilitate, securitate, apartenență,
+identitate, previzibilitate [date] individului tradițional, purtător, creator și transmițător
+de informație, cunoaștere, valoare, imaginație ș.a., dar și celui care, fără a-și asuma o
+astfel de apartenență «comunitară», intră în contact și eventual, prin «contagiune» poate
+prelua parțial din ceea ce individul tradițional poartă și transmite” (Ibidem). Ca atare,
+„fără a copia tale quale modelul biologic, credem că un grup sau o comunitate așa-numit
+«tradiționale» [...] pot fi contexte ale unei imunități tot mai atacate în lumea actuală
+în care ne situăm. O imunitate, așadar, dobândită, transmisă, cultivată și care, într-o
+oarecare măsură se va reflecta în descendenții comunităților actuale” (p. 64). Or, partea
+cea mai semnificativă, socoate autoarea, a acestei imunități specifice intra-comunitar o
+reprezintă patrimoniul cultural imaterial, intangibil sau patrimoniul viu – dens și concret
+definite în Convenția UNESCO din 2003, câmp în care cercetătoarea excelează, după cum
+cunoaștem din activitatea sa.
+
+Recenzii473
+
+Ioana-Ruxandra Fruntelată ne propune articolul Societatea românească în stare
+de pandemie (2020–2021). Premisele unei analize etnologice, în cuprinsul căruia ne oferă
+o exactă cronică a instalării pandemiei de Covid-19, atât în context internațional, cât și
+în context național, folosind anunțuri și documente oficiale cu efect major asupra vieții
+întregii omeniri, în perioada de restricționare a libertăților civile, în interesul slujirii
+masei de populație cu risc crescut de sănătate din pricina coronavirusului SARS-CoV-2.
+Totodată, cercetătoarea ne furnizează, cu minuția pe care i-o cunoaștem, pagini din
+propriul jurnal de etnolog de la debutul pandemiei, înaintea oricărui deces provocat de
+noul virus la noi în țară, descriind un veritabil Exercițiu de adaptare profesională (p. 75).
+Remarcabila luciditate a omului de teren se vădește în apelul metodologic la editorialul
+numărului 6 din decembrie 2019 al revistei „Anthropology Today”, unde Melissa Leach
+discuta impactul socio-antropologic al gravelor valuri de epidemie de ebola în vestul
+Africii, întru antropologizarea privirii tehnice a exegetului care vede în norul mediatic
+din jurul pandemiei concrete, răpunătoare, fenomene profund etnologice: recrudescența
+„leacurilor-minune”, rezistența la regulile de distanțare care au adus modificări cutumelor
+rituale, varii stereotipii. Niciodată absentă din cetatea în nevoie, autoarea vede potențialul
+benefic al analizei în timp real a faptelor etnologice la vremea pandemiei: „cea mai
+importantă temă de cercetare pare a rămâne «monografierea» atentă a realității prezente,
+căutându-se identificarea mecanismelor de adaptare și a proceselor de transformare
+a vieții comunitare, în toate aspectele ei, începând de la calendar și rituri și încheind
+cu alimentația și stereotipurile «de igienizare». [...] O altă direcție posibilă de analiză
+etnologică, sugerată mai sus, ia în considerare transformările tradițiilor, ritualurilor
+calendaristice și familiale și practicile comunitare românești în contextul pandemiei
+anilor 2020–2021.” (p. 77). Este ceea ce vor face următoarele articole prezente în secțiunea
+dedicată pandemiei de Covid-19.
+
+Iulia Wisoșenschi semnează studiul Cultura populară și provocările epidemiei de
+SARS‑CoV‑2 în anul 1920, făcând un alt excurs prin istoria răspândirii bolilor epidemice,
+anume în spațiul european, începând cu ciuma atestată la Roma în secolele II și III
+d.Hr., până la episoadele de infectare pandemice atestate în Țările Române din secolul
+al XVI-lea până în secolul al XIX-lea: „În acele vremuri tulburi, de răspândire a ciumei
+bubonice (de la mijlocul secolului al XIX-lea), autoritățile sanitare române au creat
+mai multe spitale de carantină, lazareturi, ce ofereau tuturor călătorilor care intrau în
+și ieșeau din zonele atinse de pandemie un spațiu de izolare pentru o perioadă de timp
+relevantă și echivalentă cu durata de incubație a bolii.” (p. 80). Interesul autoarei se
+concentrează pe reprezentările ciumei și holerei pentru colectivitățile rurale românești, de
+la profilaxia asupra oamenilor, animalelor și gospodăriilor în general, la variile anamneze
+elaborate de societățile tradiționale și la soluțiile de tămăduire acceptate și creditate
+etnoiatric, documentate la călătorii străini pe meleagurile române din secolul al XV-lea
+începând, precum și în manuscrisul preotului maramureșean Ioan P. Coman din secolul
+al XVIII-lea, discuția parcurgând distanța până în secolul XX, la primele semne de
+științificizare a demersului investigativ asupra bolilor recunoscute în mediul țărănesc.
+Sunt abordate clasificările etnoiatrice taxonomice acceptate privitoare la practicile
+tradiționale de prevenire, de combatere și de vindecare a bolilor, care sunt: fitoterapeutice,
+organoterapeutice, opoterapeutice, homeopatice, diatermice, hidroterapeutice, ortopedice
+
+Recenzii474
+
+și chirugicale, aromoterapeutice, psihologice și de descântec terapeutic (p. 81–82). În
+formulă programatică, se asertează rolul și locul salvgardării patrimoniului imaterial
+mondial în contextul marilor schimbări permise ori cauzate de pandemia de Covid-19.
+Studiul este completat de câteva fotografii ale unor vechi culegeri de texte populare de
+descântec, relatând întâlnirea cu ciuma, prezente în arhiva IEF (interbelice), precum și cu
+o fotografie din Vinerea Mare, 17 aprilie 2020, în București, unde „chivuțele completează
+documentul prin care li se permite să își desfășoare activitatea comercială stradală –
+declarația pe proprie răspundere” (p. 84).
+
+Studiul Noul virus și vechile repere ale ciclului calendaristic. Note și observații semnat
+de Radu Toader și de Laura Toader urmărește succint, la rândul său, traseul cunoscut și
+documentat la noului coronavirus din Wuhan, China, în Europa, iar apoi în România
+și Republica Moldova, cu centralitățile atribuite la acea vreme Europei și cu politicile de
+întâmpinare a pandemiei la care Uniunea Europeană a recurs. Pornind de la descrierea
+pe care o face Ioan-Aurel Candrea marii epidemii de ciumă din Europa secolului al
+XIV-lea, precum și ciumei lui Caragea din prima jumătate a secolului al XIX-lea (1813,
+Muntenia – 1824, Moldova), autorii valorifică și gândesc propriile lor note de teren de la
+începutul declarării stării de urgență în România, „care, în țara noastră, s-a suprapus peste
+Postul Paștelui și care a influențat major Duminica Învierii, participarea credincioșilor
+la viața bisericii, relațiile de familie și trăirea sărbătorii, în general.” (p. 91). Așa, de pildă,
+credincioșilor ortodocși li s-a permis a merge la biserici după ramurile de salcie sfințite
+de Florii și de Sâmbăta lui Lazăr (11–12 aprilie 2020), în schimb sărbătoarea Paștilor
+catolice (12 aprilie 2020) nu a fost permisă în biserici, ca de altfel nici în Săptămâna
+Sfântă, în toată lumea romano-catolică, fiind, însă, asigurată transmiterea online a
+celebrărilor din Cetatea Vaticanului. Într-un frumos paragraf intitulat Orașele Europei
+între teamă și speranță ni se reamintesc scenele emoționante în care locuitorii central
+și vest-europeni, izolați în apartamente, departe de scenele convenționale de petrecere
+a sărbătorilor pascale, cântau din balcoane și își dădeau unii altora tonul, speranța, ba
+chiar și replica, într-un alt „strigat peste oraș”, „din coasta” unor orașe pustiite în agora
+lor, dar de neamuțit. Acele scene au contat mult și pentru noi, în situațiile nemaiîntâlnite
+până atunci cu care s-a confruntat societarea românească, ferecată, ne spun autorii, în
+spatele porților închise: ale bisericilor, parcurilor, magazinelor, cofetăriilor, instituțiilor în
+general, dar și ale caselor, ale familiilor despărțite în factorii primi permiși de regulile dure
+cărora oamenii simpli au trebuit să li se supună. Consecințele nu au întârziat a fi surprinse:
+„se putea bănui o imperceptibilă diluare a relațiilor din cadrul familiei prin renunțarea
+sau drămuirea vizitelor, îmbrățișărilor, plimbărilor, meselor, muncilor și timpului liber
+petrecut împreună.” (p. 92). Atenția autorilor se concentrează pe schimbările aduse
+Postului, abstinenței alimentare, conținutului meselor, dar și evadărilor din incintele
+îngrăditoare prin accesul la mediul online, în care au fost transmise ca niciodată mai
+înainte concerte, slujbe, conferințe, cursuri, urări și întâlniri de toate tipurile. Ferestrele
+virtuale au constituit punți între oameni (p. 94). Între Moșii de Iarnă (22 februarie 2020),
+ultima dată pre-pandemie când mesele de pomeni au fost încărcate de credincioși în
+biserici, și Noaptea Învierii, putințele oamenilor de a-și urma crezurile și cutumele au
+suferit drastic: drept urmare, rolul voluntarilor care au acoperit nevoia și necesitatea
+împlinirii riturilor pascale a fost substanțial, la propriu, și este descris în primă persoană
+
+Recenzii475
+
+în studiu. Sunt identificate acele practici comunitare care se înscriu în lunga diacronie
+a tradiției locale de apărare în cazul epidemiilor: procesiunea moaștelor Sfântului
+Dimitrie cel Nou pe străzile Bucureștilor, a Icoanelor Maicii Domnului în Moldova, a
+moaștelor Sfintei Filofteia de la Curtea de Argeș prin tot județul, Sfânta Împărtășanie,
+dar și dinamica prin care au avut de trecut ritmurile interioare și exterioare ale riturilor
+religioase îndeplinite de oameni. Înainte de relaxarea restricțiilor, comensalitatea a trebuit
+să se consume în fața blocului, pe străzi, în prezența acelorași bucate (pars pro toto), și pe
+internet, prin rețete și mese reușite, poate, pentru prima dată de către tinerele femei, unice
+gospodine ale câte unui grup domestic (iată un minor câștig al pandemiei). Impresionantă
+este încheierea studiului, care face referire la moartea de Covid-19 și tragediile prin
+care au trecut, dincolo de victime, aparținătorii acestora, inclusiv din punct de vedere
+ritual-ceremonial. Dar și acest aspect a înfrățit prin experiență întreaga planetă, poate
+pentru prima dată, alături de speranța comutată în viitor, unde, iată, știm, au putut avea
+loc în cele din urmă și nunțile și botezurile mereu amânate în vremea pandemiei.
+
+Camelia Burghele ne propune studiul Poveștile pandemiei: de la ciumă la Covid, de la
+„cămașa ciumii” la vaccin, în care abordează schimbarea adusă „referențialului etnografic”
+de către pandemia declanșată în 2020, schimbare socotită drept fundamentală, deși sunt
+trecute în revistă „valurile epidemice cumplite de ciumă, gripă spaniolă, holeră și tifos, dar
+și episoadele mai reduse, dar tot dramatice prin contagiozitate și morbiditate, de scarlatină
+[...], rujeolă [...] ori variolă [...], dar și febra aftoasă a vacilor, gripa aviară a păsărilor de
+curte, bruceloza ori pesta porcilor, anemia infecțioasă a cailor sau antraxul pe care-l pot
+face toate animalele domestice” (p. 105–106), boli crâncene al căror traseu epidemic prin
+ruralitatea românească a determinat deopotrivă mari reconfigurări sociale și făgașuri
+adânci în sensibilitatea colectivă. Textul este îmbogățit prin fragmente grăitoare din
+interviurile autoarei în satele sălăjene, în care sunt abordate infectările cu tifos exantematic
+(eradicat din România după 1938 – p. 107), referire făcându-se și la epidemiile din 1950
+și 1970 (Sulina) și la ultima epidemie de holeră (tot Sulina, 1990–1991, din apa infestată,
+oraș păzit vreme de un an de armată, până la stingerea focarului). Sumedenia de epidemii
+mai mici care au afectat în ultimele decenii animalele din satul românesc, denumite
+generic „ciumă”, au generat firesc legătura cu obiceiul „cămașa ciumei” în memoria
+interlocutorilor cercetătoarei. Intitulată incitant Efervescență rituală maximă: „cămașa
+ciumii”. Ultimele cămăși pentru ciumă din satele sălăjene. O poveste des rememorată în
+pandemie, secțiunea dedicată materialelor de teren reprezentative subiectului dovedește,
+prin activarea cunoștințelor rituale, îndelunga supraviețuire a „praxisului ritual” de profil,
+în interviurile: din 1996, cu lelea Florița din Pleșca, care știa „cota pe tărâțe”; din 2001;
+din 2019 cu lelea Crișcă din Solona, care povestește despre copilăria tatălui său în care
+cămașa ciumei, țesută și cusută ritual, lăsată la răchită între hotare, luată de ciumă, a putut
+răscumpăra, după un mare număr de victime, viețile celor rămași amenințați cu moartea;
+cu Floare Țurcaș din Meseșenii de Sus, povestind despre anii șaptezeci ai secolului XX
+și cămașa ciumii, până la ultima atestare a ritualului, în 1984 la Răstolțu Deșert, de către
+Gheorghe Șișeștean. Un loc cuvenit își află și mențiunile despre ținerea sărbătorilor
+prescrise special pentru ciumă, de asemenea, informațiile istorice despre însemnătatea
+carantinei, vaccinările empirice, la oameni și animale (după Valeriu Bologa, Nicolae
+Dunăre, Charles Laugier, Vasile Băncilă, Louis Pasteur), demersul științific sfârșindu-se
+
+Recenzii476
+
+cu interogația: se va apela la vaccin (pentru Covid) sau la ritual-dovedita cămașă a ciumii,
+în aceeași lume țărănească sălăjeană, în condițiile unui scepticism endemic al omului,
+bine documentat prin valoroase fragmente de interviu.
+
+Grupajul  dedicat  pandemiei  se  continuă  cu  studiul  Corinei  Mihăescu:
+Etnografia morții. Cruceritul în Oltenia, valorificând o cercetare de teren din perioada
+17–21 septembrie 2020 în sate din județele Olt, Dolj, Gorj și Vâlcea. Pornind de la
+constatarea etnologului de teren că „crucile nu stau numai în cimitire; ele călătoresc
+ca gândul în cele mai neașteptate locuri: la drum, la pod, la apă, la cișmea, la punte,
+pe garduri, în copaci, pe stâlpi.” (p. 120), autoarea descoperă mutațiile survenite în
+meșteșugurile asociate ritualității funerare odată cu pandemia, în continuarea cercetărilor
+de teren proprii din anii 2005, 2015, 2016, privitoare la cultura cruceritului, cu stagnările
+și continuitățile pe care doar aplicarea concretă a metodologiei de teren le poate
+evidenția. Țelul programatic al însumării tuturor studiilor de caz este unul temerar:
+„Un studiu mai dezvoltat de arheologie spirituală având ca teme și motive esențiale
+reprezentările rituale și însemnele funerare trebuie să conțină atât o tipologie simbolică
+a monumentelor, clasificarea lor (stâlpul, crucea, troița, puntea, podul), ca elemente
+de o bogăție remarcabilă, cu toate coordonatele care le definesc, cât și date legate de
+practicarea meșteșugului cruceritului: numele dat practicii și reprezentărilor conferite
+obiectelor, tehnica de lucru, materia primă folosită – esența lemnului, funcționalitatea
+practicării meșteșugului, registre decorative, paleta cromatică, semnificația obiectelor.”
+(p. 122). Perspectiva neprețuită a omului de teren se vădește în fragmentele de interviuri
+privitoare la descrierea etnografică a punerii crucilor, la perspectiva „scriitorului de cruci”,
+la semnele figurate pe cruci, la „toate neamurile de cruci”, la crucile „cu sfinți”, la crucile
+care apără, cu eficiență miraculoasă, de „panderie” (p. 124–125). Articolul se termină
+cu un bogat material etnografic din terenul satului Salcia, jud. Dolj, inclusiv cu meșterul
+crucer Dumitru Balaci, care explicitează tehnica crucilor „închipuite”: „«La noi s-au făcut
+mereu cruci închipuite, adică cu chipuri mai reale. Sunt închipuite ale noastre; se fac și
+la Balș [Pietrișu-Baldovinești, jud. Olt – n. C.M.], da’ ale lor sunt mai în flori. Eu au mai
+schimbat, ale lor sunt născocite de ei. Ale noastre sunt alea făcute de tata lu’ tata.” (p. 127).
+În sfârșit, studiul Sărbătorile pascale în anul 2020. Câteva observații semnat de
+Anca-Maria Vrăjitoriu abordează, parte a studiului său pentru doctorat, hrana preparată
+de Paști în valoarea modală, alături de valorile modificate cauzate de pandemia de Covid-
+19. În pofida piedicilor ridicate de regulile și restricțiile specifice ale crizei sanitare,
+„femeile au continuat să respecte normele privind comportamentul de sărbătoare. S-au
+pregătit ouă roșii, pască, friptură de miel, alimente care prin semnificația ingredientelor
+și prin modul lor de preparare simbolizează Învierea Domnului.” (p. 131–132). Apoi,
+neputând să se adune laolaltă cu toți cei dragi, „femeile au făcut toate pregătirile de
+Paști și apoi le-au arătat, prin intermediul pozelor și al înregistrărilor video trimise cu
+ajutorul rețelelor de socializare” (Ibidem). Într-un excurs prin vechea etnografie pascală
+a lui S. Fl. Marian, autoarea furnizează prețioase indicii despre însemnătatea deosebită a
+alimentelor rituale: „Exceptând mielul sau porcul, la sfârșit, țăranul român păstra câte o
+bucată din fiecare aliment, acestea fiind investite cu diferite funcții benefice: apotropaică,
+de rodnicie, de curățare sau chiar de vindecare a anumitor boli.” (p. 133). Analiza de teren
+asupra celebrărilor Învierii Domnului în anul 2020, urmărită în trei puncte: Parohia
+
+Recenzii477
+
+„Sfânta Treime” Tocile din Scheii Brașovului, din Republica Moldova și din Cracovia, a
+evidențiat practica binecuvântării obligatorii a alimentelor pascale. Explicitarea lor aduce
+alături vechile și noile practici și convingeri, prin urmare: „Principiul existent la baza
+multor rituri, pars pro toto, explică faptul că același context ritual face ca orice bucățică din
+produsele consacrate să aibă aceeași putere, aceeași eficacitate, ca și întregul”, valoroasă
+idee preluată de la Ofelia Văduva (p. 136).
+
+Al doilea domeniu al secțiunii STUDII este intitulat Păstoritul carpatic. Tradiție și
+continuitate și cuprinde două studii. Întâiul este semnat de Rusalin Ișfănoni și abordează
+Păstoritul agricol local în Ținutul Pădurenilor. Bogat documentat, ilustrat și redactat,
+studiul famliarizează cititorul cu practicile pastorale și agricole ale satelor pădurenene,
+de la tipul de terasare prin arătura, secole de-a rândul, „de-a curmezișul” dealului, creând
+un peisaj etnografic unic (numit de Romulus Vuia „o minune etnografică” (p. 138), la
+împărțirea pământului în țarini și islazuri, ceea ce însemna că: „În anul când este islaz,
+o parte din pământ este îngrășat prin gunoire (târlire) cu oile care se adună în stâna
+organizată pe holdele păcurarilor, căci doar ei au dreptul la gunoire, cam zece nopți pe
+vară, deși în stână se află și oile altor gospodari, care nu sunt păcurari, aceștia fiind numiți
+pășunari sau bițărași. Acest sistem de agricultură presupunea ca fiecare sătean să aibă
+proprietăți, holde și fânațe în ambele părți. Gospodarii care nu erau păcurari își îngrășau
+pământul cu gunoi de grajd, obținut de la vitele mari. Până în perioada colectivizării
+(1958–1962), satele aveau câte două stâne, dar erau unele care aveau mai multe, chiar
+șapte-opt, fiecare dintre acestea având cam 300 de oi.” (p. 140). Alegerea păcurarilor, în
+fiecare an la Sângiorz, stabilirea datei măsuratului, a locului unde să se strângă oile pentru
+roscol (adică: alegerea mieilor, a sterpelor și a berbecilor), amenajarea stânilor pădurenilor
+(„O stână este alcătuită din mrejă (staul), care cuprinde strunga, inclusiv fruntariul (locul
+în care stau păcurarii când mulg oile), staulul în care dorm mânzările și, separat, cel în
+care dorm sterpele” – p. 141), inventarul stânei, rândul la brânză, mesele păcurarilor,
+practica „mutătoarelor” („În păstoritul tradițional, care s-a păstrat până prin 1970, mreja
+în care dormeau oile se muta după două, trei nopți, alăturat pe aceeași holdă aparținătoare
+unuia dintre păcurari, până se ajungea la capătul ei. [...] Mutându-se stâna atât de des, se
+obțineau două avantaje: primul, putea să fie îngrășată o suprafață mai mare de pământ;
+al doilea, oile nu se infectau la unghii deoarece nu stăteau decât puțin pe același loc, nu
+apuca să se facă mocirlă, iar lâna lor era mereu curată.” – Ibidem), practicile de roscol și de
+măsuratul oilor, desemnarea Băcioniului, despărțirea păcurarilor, după 10–12 săptămâni,
+cu oi cu tot, facerea frunzariului și ordinea consumului (fân-frunzariu-acoperișul șurii/
+casei), sunt toate expuse explicit și foarte grăitor în studiu. Sunt de asemenea evidențiate
+câteva aspecte importante legate de viața păcurarilor: „fiecare gospodar își dorea să ajungă
+păcurar, nu atât pentru cantitatea de brânză care i-ar fi revenit, ci mai mult pentru faptul
+că putea să-și îngrașe pământul, adică să-l gunoiască cu oile și, în final, să obțină o recoltă
+mai bună de cereale pe terenul gunoit.[...] Gospodarii care aveau oile în stână nu plăteau
+păcurarilor pentru îngrijirea lor [...] păcurarul plătea gospodarului respectiv în natură: o
+zi de coasă, un transport cu carul pentru fân sau lemne, eventual un caș, pentru că și oile
+respectivului participau la gunoire.” (p. 144). Formele în care s-au preschimbat vechile
+stâne și practicile agro-pastorale pădurenești îi îngăduie autorului să constate că dintre
+toate ocupațiile vechi, numai păstoritul are perspective de supraviețuire, chiar dacă nu în
+
+Recenzii478
+
+ipostazele tradiționale; de asemenea, peisajul etnografic actual, de o mare valoare istorică
+și culturală, în absența păstoritului va fi curând înlocuit de pădure.
+
+Cel de-al doilea studiu al grupajului dedicat păstoritului se intitulează Izvoare
+literare despre transhumanța din interiorul Carpaților de curbură și este semnat de
+Florentina Teacă. Pornind de la ideea că păstoritul transhumant aparținător cu precădere
+păstorilor din sudul Transilvaniei reprezintă cel mai complex tip de păstorit tradițional,
+autoarea creditează aserțiunea lui Romulus Vuia potrivit căreia intensificarea păstoritului
+transhumant practicat de un număr limitat de sate transilvănene, Mărginenii Sibiului,
+cei din Țara Bârsei și cei din zona Covasna-Brețca, s-a datorat nevoii crescute de pășune
+și nutreț pentru numărul mare de vite pe care le aveau (oi, capre, cai, bovine). Izvoarele
+despre transhumanța mocanilor bârsani, nu mai timpurii de secolul al XVII-lea, sunt
+selectate din documentele publicate și interpretate de către Andrei Veress (1927), Ștefan
+Meteș (1925), Sabin Opreanu (1930), Orbán Balázs (1868), Nicolae Vleja (mss., 1932–
+1940), Constantin Constantinescu-Mircești (1976), Tudor Mateescu (1986), Romulus
+Vuia (1964), discutate cu minuție și atenție, evidențiind punctele sigure și deschiderile cu
+mai multe variante de interpretare, document cu document. Ca atare, lucrarea prezintă
+un material documentar deosebit de valoros, a cărui importanță autoarea o reliefează cu
+maximă precizie.
+
+Al treilea și ultimul domeniu al secțiunii STUDII este intitulat Hibridizarea
+transmiterii culturii populare prin mass-media. Articolul Gabrielei Nedelcu-Păsărin
+intitulat Cultura tradițională, de la dimensiunea etnografică la reflectarea audiovizuală
+oferă detalii descriptive textuale alături de imagini fotografice din spectacolele tematice
+organizate și realizate de autoare la mai multe posturi ale Societății Române de Televiziune
+(în special din Craiova) de-a lungul a treizeci de ani, din dorința de a promova patrimoniul
+imaterial folcloric românesc prin vectorii specifici misiunii audiovizualului public (p.
+166). Sunt descrise trei spectacole de scenă de teatru, susținute de către Ansamblul
+folcloric „Maria Tănase” pe scena Teatrului Național „Marin Sorescu” din Craiova, care
+reconstituie obiceiuri și sărbători populare de peste an, după cum urmează: „Nuntă de
+pomină la olteni (aprilie 2017), N‑auzirăți de‑un oltean (martie 2018) și Trecu anu’ cu
+olteanu’ (4 aprilie 2019, reluat în 29 mai 2019).” (p. 167). Primul spectacol pune în scenă,
+în costume populare diverse din zona Olteniei (tocmai pentru a depăși uniformizarea
+specifică activității de ansamblu folcloric), o nuntă cu personaje și mai multe nuclee
+narative: învelitul miresei, ruptul colacului în capul miresei, primitul miresei pe pânză,
+jucarea darurilor în Hora miresei etc. Al doilea spectacol prezintă o clacă „așa cum se
+desfășura altădată în satele Olteniei” (p. 170). În vreme ce al treilea a avut drept reper
+sărbătoarea Sfântului Gheorghe „așa cum se mai practică în Plaiul Cloșani” (Ibidem),
+adică aducând, în scena sălii „Amza Pellea”, doi interpreți care au pus în grai local, specific
+Izvernei și Prejnei, secvențele „sărbătorii populare cu funcție apotropaică și de propițiere”
+(Ibidem). Toate sunt parte a unui demers complex de restituire a unor datini și obiceiuri
+calendaristice în cadrul unui proiect multidecenial numit precum articolul însuși.
+
+Aurelian Popa-Stavri ne oferă un studiu teoretic intitulat Hibridizarea transmiterii
+culturii populare prin mass‑media. Pornind de la definirea hibridizării din domeniul
+fizicii cuantice, autorul invocă utilizarea termenului hibridare, mai adecvat „studierii,
+prin comparație, a proceselor sociale, artistice, de mentalitate, de schimbare sau de
+
+Recenzii479
+
+pierdere parțială sau totală a unei practici, a unui stil, a unui gen sau a unei specii din
+domeniul culturii populare” (p. 176). Concepte valide lansate de Speranța Rădulescu,
+precum: metisare și suprafețe de contact, și concepte mai descriptive, precum: bastard și
+corcitură, sunt utile în abordarea fenomenelor legate de transmiterea culturii populare,
+care este orală în mediul sătesc, păstrător de tradiție, și complex condiționată în mediile
+cărturărești. În ceea ce privește mass-media, lucrurile sunt urmărite istoric, de la
+manuscrise, apoi publicații; flașnete cu repertoriul occidental, gramofoane, patefoane,
+pick-up-uri cu discuri de ebonită și mai apoi de vinil; apoi radioul, prelucrările de folclor
+în rapsodii, suite simfonice și opere; muzicile corale și cântecul epic și liric; „aliajul
+din ce în ce mai organic al formelor și genurilor din folclor cu noutățile de limbaj ale
+muzicii destinate, cu precădere, concertelor și spetacolelor dar și teatrului muzical” (p.
+180), mediatizate radiofonic, discografic și prin partituri; cazul particular al culegerilor
+după auz sau din amintire, publicate de către profesori de muzică, pianiști, violoniști sau
+dirijori; în sfârșit, disputa interbelică a personalităților române ale radiofoniei în jurul
+„modalității de difuzare și reprezentare a muzicilor orale (autohtone, românești sau ale
+altor etnii și popoare)”, desfășurată la radio, avându-i drept protagoniști pe Dimitrie Gusti
+și Constantin Brăiloiu, „care au susținut principiul că muzica tradițională sătească nu are
+nevoie de alte aranjamente și corectări decât cele pe care le execută rapsozii și lăutarii
+sătești înșiși” (p. 181). Rândurile despre rolul esențial jucat și de jucat al redactorilor
+acestor emisiuni de mediatizare a folclorului sunt memorabile și sperăm să mai poată fi
+însușite și în generațiile care ne vor succeda; „rolul redactorilor nu încetează de a fi cel de
+selecție valorică în urma cunoașterii profunde a stilurilor și genurilor muzicii autohtone,
+ea însăși un rezultat al hibridizăriii pozitive, permisive, pe orizontală, a preferințelor
+diverselor zone folclorice și etnii conlocuitoare și diacronic, prin asimilarea achizițiilor și
+influențelor bizantine, psaltice, orientale laice, în corpusul producțiilor sonore îndătinate,
+entități artistice cu funcții mai accentuat sau mai estompat ceremonial-rituale, vitale,
+pentru viața întregii comunități.” (Ibidem). Concluziile studiului sunt cu atât mai
+valoroase, cu cât își asumă „factori[i] de hibridizare care pot fi benefici, obstructivi sau
+de-a dreptul negativi, distructivi în expunerea faptelor și produselor de artă populară și
+folclor” (Ibidem), autorul oferind și speranța unei însănătoșiri a gustului pentru muzicile
+tradiționale și a celor populare, care va ordona, într-o bună zi, nădăjduim, nevoile și
+necesitățile prilejurilor festive comanditare la adresa interpreților, poate și a rapsozilor,
+a lăutarilor, a tuturor.
+
+Articolul Hori și horitoare, între oralitate și mass‑media semnat de Marian Lupașcu
+pornește de la figura emblematică de Tezaur uman viu primită de creatoarea „dotată cu
+un instinct variațional ieșit din comun”, „exemplu tipic de promotoare a repertoriului
+folcloric vocal specific” satului Agrieș, BN (p. 184), Teodora Purja (n. 1941), „purtătoare
+și transmițătoare de folclor din zona de interferență Năsăud-Maramureș-Țara Lăpușului”
+(p. 183). Învățând din copilărie, mimetic, de la părinți și bunică să stăpânească tehnica
+vocală locală, transmițând la rândul ei moștenirea fiicei Lenuța Purja și nepotului
+Sergiu Negrean, Teodora Purja a avut un traseu remarcabil în mass-media, începând
+cu înregistrarea pentru emisiunea de radio din 24.06.1987 (difuzată la 27.10.1987)
+a redactorului Gruia Stoia, horitoarea împreună cu fiica ei înregistrând trei benzi de
+magnetofon cu inginerul de sunet Călin Ioachimescu în studioul T6 (eticheta cutiei de
+
+Recenzii480
+
+arhivă fiindu-ne prezentată fotografic). Interpretarea fiicei este discutată de mamă drept
+îndepărtată de tradiție, în timp ce a ei însăși, ne spune autorul, „folosește intens artificii
+tehnice arhaice ale emisiei, «nodurile» (loviturile de glotă), în ciuda constrângerilor din
+circuitele mass-media și festivalier în care este angrenată” (p. 185). Ulterioarele apariții,
+de multe ori însoțită de fiică ori nepot, la festivaluri (Târlișua, Telciu, Muzeul Țăranului
+Român), precum și la emisiuni de radio („Renașterea”), pe internet și la televiziune (TV
+Bistrița, TVR Cultural și TVR 2 cu Grigore Leșe), la emisiuni-concurs („Românii au
+talent”), descriu o carieră de succes, cu deplasări externe (2014, Chișinău, cu Grigore
+Leșe), publicarea de CD-uri cu interpretări și transcrieri și notații muzicale (sumare), cu
+mici filme pe internet și cu celebritate. Atracția, însă, pe care o exercită asupra străinilor,
+ca Norio Inagaki și Malin Skinnar (2017), însoțiți pe terenul de interviuri și filmări de
+etnocoreologul clujean Zamfir Dejeu, duce la o vizibilitate crescută exponențial a celor
+două horitoare bistrițence, datorită postărilor acestor străini și a altora pe internet ca
+„influencers” (p. 189). Este descrisă apt tehnica vocală a bătrînei interprete, precum și
+scăderile, în raport cu aceasta, ale urmașilor cu studii muzicale consacrate; sunt urmărite,
+cu un ochi critic etnomuzicologic, carierele acestor urmași, precum și receptarea lor în
+emisunea Vedeta populară. De asemenea, sunt urmărite demersurile Lenuței Purja pentru
+drepturile de autor ale unor piese de inspirație folclorică, expertizarea, la solicitarea
+Tribunalului Maramureș, aparținând autorului acestui studiu, el înaintând o concluzie
+științifică privitoare la unele caracteristici structurale ale folclorului: „Nimeni nu poate
+avea drept de autor asupra tipului care se concretizează într-o multitudine de variante,
+chiar dacă una sau mai multe sunt fixate pe un suport sonor sau video, la un moment
+dat.” (p. 195). Sunt analizate prestațiile în străinătate, ulterioare acordării statutului de
+Tezaur uman viu Teodorei Purja în 27.07.2018, în Franța, în mai multe instanțe, dar și cele
+aparținătoare canalului de Youtube, după criterii complexe de originalitate și autenticitate
+(acompaniament, ornamentică, versificație, ritmarea cu ajutorul clopoțeilor de călușer
+versus cea cu orchestră, prezența loviturilor de glotă). Aserțiunile asupra muzicii populare
+de consum privesc și activitatea din vremea pandemiei (lansarea unui „fel de bocet” cu
+„o melodie de cântec propriu-zis, fără acompaniament” cu tema virusului pandemic –
+p. 199) într-o activă supraveghere a „pieței” virtuale. În cele din urmă, reținem, în plus,
+comentariul fiicei despre prestația mamei, Teodora Purja: „«mama nu poate cânta cu
+orchestră, doar strigă după ceteraș» [strigături de dans], afirmă Lenuța.” (p. 190).
+
+Cristian  Mușa  semnează  studiul  Din  vatra  satului  la  televizor.  Ipostaze  și
+transformări contextuale în interpretarea jocurilor populare, în cuprinsul căruia se
+ocupă de transformările suferite de fondul cultural străvechi căruia îi aparțin jocurile
+populare; de asemenea, acestea sunt considerate „un important canal de comunicare
+prin intermediul căruia s-au transmis anumite coduri culturale cunoscute, dezlegate și
+interpretate deopotrivă de un grup uman dintr-un anumit areal sau de comunități între
+ele, cu un stil de viață comun.” (p. 201). Afirmând că „este clar că a existat o dinamică
+a evoluției datorită oralității, a transmiterii de la o generație la alta, amalgamarea cu
+repertoriile din satele și regiunile învecinate și, așa cum știm, și cu zonele mai îndepărtate”
+(p. 202), autorul amintește cum transhumanța va fi cauzat prezența jocului Lăzeasca
+din repertoriul păstoresc atât în sudul Transilvaniei, cât și în Argeș și în zona Dobrogei.
+Continua frământare culturală care străbate comunitățile inclusiv în privința jocurilor
+
+Recenzii481
+
+populare îl face atent pe autor la interviurile Paulei Carp, publicate în 1957, în comuna
+Bătrâni din jud. Prahova, cu ajutorul cărora cercetătoarea „află perioada de «valabilitate»
+a unui cântec și frecvența înlocuirii cu un altul, dar și motivul/nevoia și modul de a
+introduce și a scoate un cântec din repertoriul muzical al satului” (Ibidem). A doua parte
+a studiului se ocupă, succesiv, de Jocurile populare în viața comunităților rurale, contextul
+potrivit pentru a observa cum „nu mișcarea propriu-zisă primează, ci funcția, rolul,
+menirea pe care mișcarea le are în cadrul unui moment ritual sau ceremonial” (p. 205),
+și de Jocurile populare pe scenă, fenomen originat cu aproximativ un secol în urmă, câmp
+al investigării personale a autorului, care îl urmărește potrivit firului roșu al Călușului
+și al spectacolului derivat din acesta, dar și de alte repertorii. În fine, Jocurile populare
+de pe ecranele televiziunii este un subcapitol care descrie foarte pertinent modificările,
+permutările și alterările aduse de condensarea materialului în formatul specific emisiunii
+televizate, mediul de viață prevalent astăzi pentru jocul popular ca bun de consum, de
+data aceasta.
+
+Secțiunea se încheie cu studiul Statutul particularizat al instrumentelor muzicale
+tradiționale în raport cu instrumentele muzicale care au o „identitate națională” precisă,
+semnat de Ovidiu Papană. Pornind de la necesitatea clasificării în câmpul construirii,
+utilității și destinației muzicale, instrumentele muzicale în mare majoritate, ne spune
+autorul, au fost clasificate pe anumite grade de înrudire și de diferențiere. Sub acest
+ultim aspect, o departajare în „două perimetre culturale distincte: cultura clasică și
+cultura propagată pe cale orală” (p. 216) duce inevitabil și la necesitatea unor identificări,
+prezentări și ierarhizări – existente pentru cultura clasică, precum și la nuanțări și clarificări
+în privința originii, evoluției, relevanței lor sociale – de înfăptuit, pentru cultura orală. O
+primă nuanțare utilă tocmai pentru cele mai arhaice instrumente muzicale ne aduce în fața
+a două categorii: „1) instrumente muzicale care au fost concepute, construite și utilizate
+într-un cadru strict național – cu identitate națională precisă; 2) instrumente muzicale
+considerate a fi tradiționale pentru anumite grupuri etnice.” (Ibidem). Cele din a doua
+categorie sunt considerate rude foarte apropiate, ca unele construite pe aceleași principii
+acustice, și drept urmare catalogabile în: instrumente tradiționale de răspândire universală
+(chiar poligenetică), instrumente tradiționale naționale și instrumente tradiționale de
+împrumut. Sunt furnizați un număr de factori care participă la diferențierea de clasificare
+a multor instrumente tradiționale: „unicitatea construcției, vechimea utilizării lor, aria
+lor de răspândire, trăsăturile lor muzical-naționale, repertoriul lor muzical, modul
+în care s-au adaptat la specificul local de interpretare muzicală, impactul pe care îl au
+aceste instrumente în diversele comunități etc.” (p. 219). Dintre instrumentele muzicale
+aerofone sunt prezentate: maghiarul tárogató (sf. sec. XIX), preluat în românul taragot/
+torogoată (înc. sec. XX), simplificat în duduroniul interbelic, fluierele îngemănate cu
+patru mari variante românești, apoi buciumul, trâmbița, tulnicul; între instrumentele
+muzicale cordofone sunt prezentate: cobza, vioara cu goarnă, violoncelul bătut; iar dintre
+instrumentele muzicale membranofone, vuva, buhaiul și buhaiul manevrat mecanic.
+„Prezența lor în viața artistică a diverselor culturi orale oferă informații importante legate
+de raporturile de interculturalitate care se stabilesc temporar între națiuni.” (p. 229).
+
+Secțiunea NOTE ȘI DISCUȚII cuprinde următoarele materiale: jurnalul pandemic
+explicat al lui Cristian Mușa în satul Starchiojd: Coronavirus 2020. Viața locuitorilor
+
+Recenzii482
+
+comunei Starchiojd în timpul pandemiei, cu observații la persoana I despre impactul
+reglementărilor, sărbătorile în perioada restricțiilor, înmormântări din Covid sau poate
+că nu, explicații autoreflexive; raportul detaliat al Irinei Balotescu despre 17 Octombrie –
+Ziua patrimoniului cultural imaterial. Contribuții științifice ale Institutului de Etnografie
+și Folclor „Constantin Brăiloiu” al Academiei Române la realizarea dosarelor românești
+pentru lista reprezentativă a patrimoniului cultural imaterial al umanității, material
+complex ilustrat; descrierea proiectului Nupțialitatea românească – perspectivă culturală,
+prezentând volumul IV al seriei ETNOLOGIE ROMÂNEASCĂ. NUNTA în alcătuirea
+Nicoletei Coatu, cuprinzând aspecte legate de vocabularul nunții, fenomenologia
+nupțialității (cu procesualitatea nupțială și secvențialitatea ceremonială), obiectele
+rituale nupțiale (bradul, steagul) și ritualitatea oblativă, pregătirea ritual-ceremonială a
+cuplului nupțial, drumurile alaiului, cununia religioasă, postnupțialitatea; și, în sfârșit,
+nota de lectură „Revista de etnografie și folclor/Journal of Ethnography and Folklore”,
+Nr. 1–2/2020 și Nr. 1–2/2021, (București, Editura Academiei Române, ISSN 0034–8198),
+semnată de Marin Marian-Bălașa. Dincolo de prezentarea bogată a articolelor creatoare
+a celor două volume, fiecare dintre notele explicative ale editorului lămurește o viziune
+organică, de o mare generozitate intelectuală: pe de o parte, despre geneza „din nou”, „da
+capo” (p. 278), a revistei, în aceeași membrană, număr după număr; pe de alta, despre
+„diversitatea principială, la toate nivelurile, inclusiv acela al performării creativității și
+originalității individuale, pentru a cărei respectări și stimulări (fie doar și prin expunere)
+merită să perorăm, milităm serios”, deoarece: „Remarcată și luată în seamă, varietatea
+învață, inspiră, crește.”, pledoarie pentru permeabilizarea hotarelor intradisciplinare,
+interacademice și multidisciplinare: „Atât limbile străine, cât și tradițiile academice ale
+altor școli de gândire, ale altor nații și continente au circumvoluțiuni interpretative și
+stilistice aparte; iar originalitatea fiecăreia chiar poate ajuta foarte mult.” (p. 274). O rară
+plăcere o oferă secțiunea Restitutio care publică, din 2016 începând, toate comunicările
+inedite prezentate în 1969 la Congresul International Society for Folk Narrative Research,
+care a adunat în București, la Institutul de Etnografie și Folclor al Academiei Române, cele
+mai mari nume ale momentului și domeniului: „Este vorba despre materiale din epoca
+definitivării paradigmei majore a folcloristicilor de pe mapamond, cum a fost aceea a
+identificării, categorisirii, tipologizării și analizării pozitivist-sistematice a tot ce putea
+însemna folclor literar, în special epic și prozaic, în realitatea internațională.” (p. 276), și
+care din 2020 publică și fotografii făcute de Titi Popescu, fotograful institutului la acea
+vreme, identificate cu admirabil efort de către editor.
+
+Secțiunea RECENZII prezintă cărțile: Laptele matern și aburul hranei. Contexte
+etnologice de Laura Ioana Toader (Petre Gheorghe Bârlea), Troița în peisajul cultural al
+Munților Apuseni de Monica Bercovici-Ratoiu (Sabina Ispas), Bibliografia românească
+de etnografie și folclor (2001–2010), Partea a II‑a coordonată de Rodica Raliade
+(Radu Toader), Vârstele sunetului. Studii de etnomuzicologie de Nicolae Teodoreanu
+(Constantin Secară), Basme fantastice din Moldova de Ion H. Ciubotaru și Silvia Ciubotaru
+(Ioana-Ruxandra Fruntelată),  Despre interpretarea etnologică de Ioana-Ruxandra
+Fruntelată (Andreea-Cristina Talmazan).
+
+Secțiunea VIAȚA ȘTIINȚIFICĂ prezintă manifestările științifice aferente anului
+2020, în organizarea IEF, alături de titlurile comunicărilor cercetătorilor institutului în
+
+Recenzii
+
+## Text extras din PDF (fallback text)
 Recenzii
 470
 „Anuarul Institutului de Etnografie și Folclor «Constantin Brăiloiu»”.

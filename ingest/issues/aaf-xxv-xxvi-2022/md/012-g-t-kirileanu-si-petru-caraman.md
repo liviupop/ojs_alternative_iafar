@@ -16,7 +16,133 @@ The article is following an exemplary intellectual relationship between Petru Ca
 ## Keywords
 G.T. Kirileanu, Petru Caraman, Ion H. Ciubotaru, descolindatul, lingvistică etnografică, uncarolling, ethnographic linguistics
 
-## Text extras din PDF
+## Text extras din PDF (Markdown)
+G.T. KIRILEANU ȘI PETRU CARAMAN
+
+Iordan DATCU*
+
+G.T. Kirileanu and Petru Caraman (Abstract)
+The article is following an exemplary intellectual relationship between Petru Caraman and
+G.T. Kirileanu, analyzing their comprehensive published correspondence, and insisting on relevant fragments
+relating to the work of the two esteemed personalities of Romanian folklore studies.
+
+Keywords: G.T. Kirileanu, Petru Caraman, Ion H. Ciubotaru, uncarolling, ethnographic linguistics.
+
+Cuvinte-cheie: G.T. Kirileanu, Petru Caraman, Ion H. Ciubotaru, descolindatul, lingvistică etnografică.
+
+Dintre multele personalități cu care a fost prieten și cu care a corespondat, Petru
+Caraman i-a rămas lui G.T. Kirileanu, de când s-au cunoscut și de când au început să-și
+scrie – prima scrisoare a acestuia, din cele 69, este din 12 aprilie 1946, iar prima, din cele
+58 ale lui Petru Caraman este datată 22 septembrie 1946 – un excepțional reper intelectual
+și uman. Dacă Kirileanu folosește formule de adresare precum „Mult stimate domnule
+Profesor”, „Mult iubite domnule Caraman”, „Scumpe Domnule Caraman”, „Scump și
+neprețuit prieten”, Domnule Profesor P. Caraman”, cele mai multe scrisori încheindu-le
+cu semnătura „Moș G.T. Kirileanu”, slavistul și etnologul de la Iași i se adresează de
+regulă cu „Mult stimate Domnule Kirileanu”, „Iubite și mult stimate Domnule Kirileanu”,
+„Scumpe Domnule Kirileanu”. Incluzând dialogul epistolar al celor doi în Petru Caraman,
+Corespondență, (I, 2016, p. 249–343, II, 2016, p. 415–468), Ion H. Ciubotaru, îngrijitorul
+și prefațatorul ediției, apreciază că „cel mai bogat și mai interesant capitol din acest amplu
+periplu epistolar este acela în care Petru Caraman îl are ca interlocutor pe Gheorghe
+Teodorescu Kirileanu. [...] Pe cei doi i-a apropiat, în primul rând, emulația intelectuală,
+setea lor de cunoaștere și patriotismul autentic. Adevărată enciclopedie a culturii
+românești, sihastrul din Valea Bistriței a fost prezent la cele mai importante evenimente
+ale țării timp de peste șase decenii. Junimist cu sufletul, cum singur se considera, apărător
+constant al drepturilor țărănimii, Kirileanu a fost un interlocutor deosebit de agreabil...”
+Dar, totodată, adăugăm noi, interesat să cunoască preocupările științifice ale etnologului
+ieșean, să citească studiul acestuia despre „a cădea cuiva pe cuptior”, studiul Les bases
+mystiques de l’Anthroponymie, apoi, în 1954, mai vechiul studiu, pe care nu-l citise la
+apariție, Remarques critiques et discussion de problèmes ethnologiques, din 1930. Profesorul
+ieșean îl informează în 1953 că s-a apucat să redacteze definitiv o lucrare mai veche,
+Descolindatul în sud-estul și orientul Europei, al cărei manuscris fusese pierdut la Institutul
+
+*  Membru titular al Uniunii Scriitorilor din România.
+
+Anuarul Arhivei de Folclor, nr. XXV–XXVI, 2021–2022, p. 123–125
+
+124
+
+Iordan DATCU
+
+de Studii și Cercetări Balcanice din București. De asemenea, îl anunță că va scrie un studiu
+despre Ștefan cel Mare. „Sper că voi trăi – îi scrie Kirileanu la 10 decembrie 1958 – ca să
+mă împărtășesc și eu de această înaltă proslăvire a apărătorului Moldovei, rămas viu în
+sufletele poporului ca un sfânt național care a înfruntat pe cei mai puternici cuceritori.”
+Nu i s-a împlinit dorința, studiul lui Caraman, Vechiul cântec popular ucrainean despre
+Ștefan Voievod și problemele lingvistico-etnografice aferente a apărut postum, editat în
+2005 de către Ion H. Ciubotaru.
+
+Kirileanu, cu proverbiala lui generozitate, îi împrumută lui Caraman o povestire
+manuscrisă din secolul al XVIII-lea despre prostul cel dreptcredincios care a dobândit
+raiul, pe care marele învățat ieșean o consideră „o adevărată perlă literară pentru vechea
+noastră beletristică”. Amândoi cu preocupări în domeniul antroponimiei, Kirileanu
+îi trimite prietenului său bogata listă cu material onomastic, pe care a alcătuit-o când
+s-a aflat la Palatul Regal, la Serviciul petițiilor adresate regelui și reginei. Registrul de
+petiții – îi scria Caraman la 22 februarie 1957 – este „atât de interesant sub raportul
+onomatologic (ca să nu mai vorbesc despre cel al «recomandărilor» și notelor Dvs, la
+diferitele persoane solicitante, adevărate documente ale epocii, dintre care multe de un
+realism foarte evocativ, pris sur le vif și pline de duh”.
+
+Dialogul dintre „patriarhul folclorului românesc” și Caraman este caracterizat
+de o nedezmințită sinceritate. Întrebat de Kirileanu ce părere are despre monografia sa
+Descrierea moșiei regale Broșteni din județul Suceava (1906), etnologul îi spune că „e o
+excelentă monografie model pentru asemenea gen de lucrări”, dar adaugă că este „foarte
+uimit că din această monografie a unui autor care are atâta competență pentru folclor și
+atâta prețuire totodată, lipsește total informația folclorică”. Kirileanu a răspuns că planul
+lucrării nu a fost alcătuit de el, că scopul ei „era mai mult economic”. Modestia fiind pentru
+Kirileanu consubstanțială persoanei sale, i-a răspuns lui Caraman, care-l comparase cu
+un mare învățat: „Însuflețit de bune intenții, n-am putut fi decât un îndemnător și ajutător
+în lupta binelui contra răului și prea neînsemnat lucrător pe tărâm strict științific. De
+aceea comparația ce ați făcut între mine și un mare învățat ca Mihov am găsit-o departe
+de realitate. Eu nu sunt decât un modest diletant doritor de cultură și iubitor al țărănimei
+din care mă trag.” P. Caraman a lăudat, de fiecare dată, cu convingere talentul învățatului
+de la Piatra-Neamț, de evocator, într-o serie de portrete, al lumii din care a plecat. „În ce
+privește seria de portrete ale «proștilor de la Holda», – i-a scris Caraman la 31 ianuarie
+1954 –, care prin umorul ei atât de original și prin caracterul de amintiri, evocă genul de
+a povesti al lui Creangă, vă pot spune că m-a amuzat mult. E în afară de îndoială că proștii
+și gușații – acești oropsiți ai soartei, cei mai de pe urmă dintre oropsiți – nu și-au găsit
+nici pân-acum autor care să-i zugrăvească, bieții, cu un penel mai blând, mai îngăduitor
+pentru prostia lor... aș spune chiar mai iubitor... ca cel al Dlui Kirileanu. Căci paginile
+Dvs. n-au nimic din otrava satirii sau a ironiei caustice... Ele radiază de simpatie caldă
+pentru aceste umile și disprețuite făpturi. În adevăr, proștii, oricât sunt ei de proști, apar
+ca oameni! Ce frumos că ați știut să prindeți omenescul care a mai rămas încă în ei.”
+Etnologul ieșean i-a sugerat talentatului evocator să lărgească galeria și să se insereze el
+însuși ca „personaj «obiectiv» de-a lungul anilor copilăriei și adolescenței în mediul acela
+rural plin de poezie și de pitoresc.”
+
+G.T. Kirileanu și Petru Caraman
+
+125
+
+Amândoi sunt de acord că epoca în care își scriau nu era îngăduitoare pentru
+cercetarea tradiției românești autentice, taxată de culturnicii epocii ca șovină. „Dreptate
+aveți – îi scrie Kirileanu la 20 mai 1954 – și în privința învinuirilor de șovinism contra
+noastră, a celor care iubim vechile tradiții românești. Numai evreii, ungurii și țiganii au
+dreptul să-și ție tradițiile, fiind apărați prin măsuri legale față de închipuita îndrăzneală a
+băștinașilor români, oamenii cei mai toleranți și răbdători din lume. (O, neam al nevoii,
+cum zicea Eminescu!).”
+
+S-ar desprinde din cele scrise aici până acum că cei doi se confesau în ani îngăduitori
+pentru astfel de mărturisiri. Unul dintre ei, Kirileanu, fusese alungat de către Carol al
+II-lea, în 1930, din postul de bibliotecar la Palatul Regal și trăia retras și persecutat de
+către autorități, la Piatra-Neamț, cu pensia tăiată pe mai mulți ani, iar celălalt, Caraman,
+fusese alungat, în 1948, de la Catedra de slavistică pe care o conducea la Universitatea
+din Iași, act samavolnic după care rămăsese în „șomaj absolut”.
+
+A trecut prin situații care l-au făcut să se simtă „situat hotar în hotar cu împărăția
+celei mai negre mizantropii”. Kirileanu, despre care Caraman scrie că avea „o inimă de aur
+și o bunătate evanghelică, nepământeană”, și-a dovedit generozitatea în relația cu Caraman
+nu doar trimițându-i cele amintite mai sus, ci a dorit să-l ajute pe profesorul universitar
+șomer și prin daruri bănești. Profesorul le-a socotit pe primele două ca fapte împlinite, dar
+l-a refuzat foarte politicos pe al treilea, în 19 martie 1958: „Prețuiesc la înalta, la suprema
+ei valoare, generoasa Dvs. ofertă și vă sunt profund recunoscător pentru sacrificiul pe care
+vă arătați gata a-l face pentru mine. Dar, scumpe Domnule Kirileanu, să nu fiți cumva
+supărat dacă eu nu-l voi accepta. Nu pot să-l accept, înțelegeți? Pentru nimic în lume!”
+
+Un dialog epistolar de neocolit pentru cel care dorește să cunoască ce gândeau, ce
+citeau, cum trăiau două personalități în condițiile când gândirea era cenzurată și oamenii
+de merit erau puși la index.
+
+## Text extras din PDF (fallback text)
 Anuarul Arhivei de Folclor, nr. XXV–XXVI, 2021–2022, p. 123–125
 G.T. KIRILEANU ȘI PETRU CARAMAN
 Iordan DATCU*

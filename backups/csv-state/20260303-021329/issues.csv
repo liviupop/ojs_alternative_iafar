@@ -1,0 +1,4 @@
+id,year,volume,number,date_published,title,status,article_count,pages,doi_prefix
+1,2024,10,1,2024-06-15,Educație și Cetățenie în Era Digitală,published,5,85,10.12345
+2,2024,10,2,2024-12-01,Sustenabilitate și Inovație Educațională,published,4,72,10.12345
+3,2025,11,1,2025-06-30,Incluziune și Diversitate în Educație,draft,0,0,10.12345

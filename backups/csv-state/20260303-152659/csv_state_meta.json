@@ -1,0 +1,11 @@
+{
+  "schema": "academcms-csv-state-v1",
+  "saved_at": "2026-03-03T13:26:14.926Z",
+  "source": "csv",
+  "reason": "admin-article-edit",
+  "backup_dir": "backups/csv-state/20260303-152614",
+  "counts": {
+    "issues": 18,
+    "articles": 753
+  }
+}
