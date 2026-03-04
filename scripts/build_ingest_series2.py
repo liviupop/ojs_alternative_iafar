@@ -378,9 +378,20 @@ def main():
                         help="Output path for the JS manifest")
     parser.add_argument("--log-level", default="INFO",
                         choices=["DEBUG", "INFO", "WARNING", "ERROR"])
+    parser.add_argument(
+        "--unlock-series2",
+        action="store_true",
+        help="Allow regenerating Series 2 metadata (locked by default).",
+    )
 
     args = parser.parse_args()
     logging.getLogger().setLevel(getattr(logging, args.log_level))
+
+    if not args.unlock_series2:
+        raise SystemExit(
+            "Series 2 metadata is locked. "
+            "Rerun only if you explicitly want overwrite: --unlock-series2"
+        )
 
     series2_dir = Path(args.series2_dir)
     issues_dir = Path(args.issues_dir)

@@ -46,6 +46,11 @@ def parse_args() -> argparse.Namespace:
         choices=["DEBUG", "INFO", "WARNING", "ERROR"],
         help="Logging verbosity.",
     )
+    parser.add_argument(
+        "--unlock-series1",
+        action="store_true",
+        help="Allow regenerating Series 1 metadata (locked by default).",
+    )
     return parser.parse_args()
 
 
@@ -69,6 +74,12 @@ def write_manifest_js(path: Path, issues: list[dict], articles: list[dict]) -> N
 def main() -> None:
     args = parse_args()
     setup_logging(args.log_level)
+
+    if not args.unlock_series1:
+        raise SystemExit(
+            "Series 1 metadata is locked. "
+            "Rerun only if you explicitly want overwrite: --unlock-series1"
+        )
 
     source_root = Path(args.source_root).expanduser().resolve()
     out_root = Path(args.output_root).expanduser().resolve()

@@ -2575,6 +2575,11 @@ const STORAGE_KEYS = {
   csvManifestOverride: 'academcms-csv-manifest-override-v1',
 };
 
+const ADMIN_LOCKED_SERIES = new Set([
+  'seria-1',
+  'seria-2',
+]);
+
 const DEFAULT_AI_SETTINGS = {
   provider: 'openai',
   keys: { openai: '', anthropic: '', google: '' },
@@ -3383,7 +3388,13 @@ function pageEditorIssues() {
   </div>
   <button class="btn btn-primary" onclick="navigate('ingest')">📥 Ingest PDF nou</button>
 </div>
-${allIssuesSorted.map(issue=>`
+${allIssuesSorted.map(issue => {
+  const issueLocked = isIssueLockedForAdmin(issue);
+  const issueLockTitle = tr(
+    'Articolele din seriile I și II sunt blocate la editare în acest pas.',
+    'Series I and II articles are locked for editing in this phase.'
+  );
+  return `
 <div class="card mb-16">
   <div class="card-header">
     <div>
@@ -3392,6 +3403,7 @@ ${allIssuesSorted.map(issue=>`
     </div>
     <div style="display:flex;align-items:center;gap:10px;">
       ${badgeStatus(issue.status)}
+      ${issueLocked ? `<span class="badge badge-gray" title="${issueLockTitle}">${tr('Seria blocată', 'Series locked')}</span>` : ''}
       <button class="btn btn-secondary btn-sm" onclick="navigate('public-issue',{id:'${issue.id}'})">Vizualizează</button>
     </div>
   </div>
@@ -3404,23 +3416,27 @@ ${allIssuesSorted.map(issue=>`
         <th style="background:var(--bg);padding:10px 16px;font-family:var(--font-mono);font-size:0.68rem;letter-spacing:0.09em;text-transform:uppercase;color:var(--text2);">Acțiuni</th>
       </tr></thead>
       <tbody>
-      ${DB.getArticlesByIssue(issue.id).map(art=>`
+      ${DB.getArticlesByIssue(issue.id).map(art => {
+        const articleLocked = isArticleLockedForAdmin(art);
+        return `
         <tr>
           <td class="text-mono text-sm text-muted">${art.pages_start}–${art.pages_end}</td>
           <td><strong style="font-size:0.9rem;">${art.title}</strong></td>
           <td class="text-sm text-muted">${art.authors}</td>
           <td style="display:flex;gap:8px;">
-            <button class="btn btn-secondary btn-sm" onclick="openAdminArticleEditor('${art.id}')">Editează</button>
+            <button class="btn btn-secondary btn-sm" onclick="openAdminArticleEditor('${art.id}')" ${articleLocked ? 'disabled' : ''} ${articleLocked ? `title="${issueLockTitle}"` : ''}>${articleLocked ? tr('Blocat', 'Locked') : tr('Editează', 'Edit')}</button>
             <button class="btn btn-ghost btn-sm" onclick="navigate('public-article',{id:'${art.id}'})">→</button>
           </td>
-        </tr>`).join('')}
+        </tr>`;
+      }).join('')}
       </tbody>
     </table>
   </div>
   <div class="card-footer">
-    <span class="text-sm text-muted">${issue.article_count} articole &nbsp;·&nbsp; ${getIssueTotalPages(issue)} pagini &nbsp;·&nbsp; Publicat ${issue.date_published}</span>
+    <span class="text-sm text-muted">${issue.article_count} articole &nbsp;·&nbsp; ${getIssueTotalPages(issue)} pagini &nbsp;·&nbsp; Publicat ${issue.date_published}${issueLocked ? ` &nbsp;·&nbsp; ${tr('Seria blocată la editare', 'Series locked for editing')}` : ''}</span>
   </div>
-</div>`).join('')}`;
+</div>`;
+}).join('')}`;
 }
 
 function pageAdminArticleEdit() {
@@ -3434,6 +3450,11 @@ function pageAdminArticleEdit() {
   }
 
   const issue = DB.getIssue(art.issue_id);
+  const articleLocked = isArticleLockedForAdmin(art);
+  const lockTitle = tr(
+    'Acest articol aparține unei serii blocate la editare.',
+    'This article belongs to a series locked for editing.'
+  );
   const mergedKeywords = Array.from(new Set([
     ...splitKeywords(art.keywords_ro || ''),
     ...splitKeywords(art.keywords_en || ''),
@@ -3453,13 +3474,15 @@ function pageAdminArticleEdit() {
   </div>
   <div style="display:flex;gap:10px;">
     <button class="btn btn-secondary" onclick="navigate('editor-issues')">← Înapoi la numere</button>
-    <button class="btn btn-primary" onclick="saveAdminArticleEdits('${art.id}')">💾 Salvează schimbări</button>
+    <button class="btn btn-primary" onclick="saveAdminArticleEdits('${art.id}')" ${articleLocked ? `disabled title="${lockTitle}"` : ''}>${articleLocked ? `🔒 ${tr('Seria blocată', 'Series locked')}` : '💾 Salvează schimbări'}</button>
   </div>
 </div>
 
 <div class="card">
   <div class="card-header"><h3 class="card-title">${escapeHtml(art.title)}</h3></div>
   <div class="card-body">
+    ${articleLocked ? `<div class="alert alert-warning mb-16"><span>🔒</span><div>${lockTitle}</div></div>` : ''}
+    <fieldset ${articleLocked ? 'disabled' : ''} style="border:0;padding:0;margin:0;">
     <div class="form-grid">
       <div class="form-field full">
         <label class="field-label">Titlu</label>
@@ -3512,10 +3535,11 @@ function pageAdminArticleEdit() {
         </select>
       </div>
     </div>
+    </fieldset>
   </div>
   <div class="card-footer" style="display:flex;justify-content:flex-end;gap:10px;">
     <button class="btn btn-secondary" onclick="navigate('public-article',{id:'${art.id}'})">Previzualizare publică</button>
-    <button class="btn btn-primary" onclick="saveAdminArticleEdits('${art.id}')">💾 Salvează schimbări</button>
+    <button class="btn btn-primary" onclick="saveAdminArticleEdits('${art.id}')" ${articleLocked ? `disabled title="${lockTitle}"` : ''}>${articleLocked ? `🔒 ${tr('Seria blocată', 'Series locked')}` : '💾 Salvează schimbări'}</button>
   </div>
 </div>`;
 }
@@ -4583,6 +4607,20 @@ function getIssueSeries(issue) {
   return issue?.series || 'seria-3';
 }
 
+function getArticleSeries(article) {
+  const articleSeries = String(article?.series || '').trim();
+  if (articleSeries) return articleSeries;
+  return getIssueSeries(DB.getIssue(article?.issue_id));
+}
+
+function isIssueLockedForAdmin(issue) {
+  return ADMIN_LOCKED_SERIES.has(getIssueSeries(issue));
+}
+
+function isArticleLockedForAdmin(article) {
+  return ADMIN_LOCKED_SERIES.has(getArticleSeries(article));
+}
+
 function getSeriesLabel(series) {
   if (series === 'seria-1') return 'Seria I (1932\u20131945)';
   if (series === 'seria-2') return 'Seria a II-a (1980-1998)';
@@ -4775,6 +4813,27 @@ function pagePublicArticle() {
   }, ['abstract_en', 'abstract_de', 'abstract_fr', 'abstract_ro']);
   const selectedKeyword = String(State.pageParams?.keyword || '').trim();
   const selectedKeywordNorm = selectedKeyword.toLowerCase();
+  const issueArticlesOrdered = DB.getArticlesByIssue(art.issue_id)
+    .filter(candidate => candidate.status === 'published')
+    .slice()
+    .sort((a, b) => {
+      const aToc = Number(a.toc_index || a.index || 0);
+      const bToc = Number(b.toc_index || b.index || 0);
+      const aPage = Number(a.pages_start || 0);
+      const bPage = Number(b.pages_start || 0);
+      if (aToc > 0 && bToc > 0 && aToc !== bToc) return aToc - bToc;
+      if (aPage > 0 && bPage > 0 && aPage !== bPage) return aPage - bPage;
+      if (aToc > 0 && bToc <= 0) return -1;
+      if (bToc > 0 && aToc <= 0) return 1;
+      if (aPage > 0 && bPage <= 0) return -1;
+      if (bPage > 0 && aPage <= 0) return 1;
+      return Number(a.id || 0) - Number(b.id || 0);
+    });
+  const currentArticleIdx = issueArticlesOrdered.findIndex(candidate => String(candidate.id) === String(art.id));
+  const previousArticle = currentArticleIdx > 0 ? issueArticlesOrdered[currentArticleIdx - 1] : null;
+  const nextArticle = currentArticleIdx >= 0 && currentArticleIdx < issueArticlesOrdered.length - 1
+    ? issueArticlesOrdered[currentArticleIdx + 1]
+    : null;
   const mergedKeywords = Array.from(
     new Map(
       [
@@ -4896,6 +4955,8 @@ function pagePublicArticle() {
     <div class="article-side-actions">
       <button class="btn btn-secondary article-side-cta" onclick="navigate('public-issue',{id:'${art.issue_id}'})">← ${tr('Înapoi la număr', 'Back to issue')}</button>
       <button class="btn btn-primary article-side-cta" onclick="downloadPdfFromViewer('article','${art.id}')">⬇ ${tr('Descarcă articolul', 'Download article')}</button>
+      ${previousArticle ? `<button class="btn btn-secondary article-side-cta" onclick="navigate('public-article',{id:'${previousArticle.id}'})">← ${tr('Articol precedent', 'Previous article')}</button>` : ''}
+      ${nextArticle ? `<button class="btn btn-secondary article-side-cta" onclick="navigate('public-article',{id:'${nextArticle.id}'})">${tr('Articol următor', 'Next article')} →</button>` : ''}
       ${canAccessPage('admin-article-edit') ? `<button class="btn btn-secondary article-side-cta" onclick="openAdminArticleEditor('${art.id}')">${tr('Editează în admin', 'Edit in admin')}</button>` : ''}
     </div>
 
@@ -6923,6 +6984,11 @@ function openArticleDrawer(articleId) {
   const art = DB.getArticle(articleId);
   if (!art) { toast('Articolul nu a fost găsit.', 'error'); return; }
   const issue = DB.getIssue(art.issue_id);
+  const articleLocked = isArticleLockedForAdmin(art);
+  const lockTitle = tr(
+    'Acest articol aparține unei serii blocate la editare.',
+    'This article belongs to a series locked for editing.'
+  );
   const mergedKeywords = Array.from(new Set([
     ...splitKeywords(art.keywords_ro || ''),
     ...splitKeywords(art.keywords_en || ''),
@@ -6936,11 +7002,16 @@ function openArticleDrawer(articleId) {
 
   document.getElementById('drawer-article-title').textContent = 'Editare articol';
   document.getElementById('drawer-article-subtitle').textContent =
-    `Vol. ${issue?.volume || '—'} Nr. ${issue?.number || '—'} / ${issue?.year || '—'} · ID ${art.id}`;
+    `Vol. ${issue?.volume || '—'} Nr. ${issue?.number || '—'} / ${issue?.year || '—'} · ID ${art.id}${articleLocked ? ` · ${tr('Seria blocată', 'Series locked')}` : ''}`;
   document.getElementById('drawer-preview-btn').onclick = () => navigate('public-article', { id: art.id });
-  document.getElementById('drawer-save-btn').onclick = () => saveAdminArticleEdits(art.id);
+  const drawerSaveBtn = document.getElementById('drawer-save-btn');
+  drawerSaveBtn.onclick = () => saveAdminArticleEdits(art.id);
+  drawerSaveBtn.disabled = articleLocked;
+  drawerSaveBtn.textContent = articleLocked ? `🔒 ${tr('Seria blocată', 'Series locked')}` : '💾 Salvează schimbări';
 
   document.getElementById('drawer-article-body').innerHTML = `
+${articleLocked ? `<div class="alert alert-warning mb-16"><span>🔒</span><div>${lockTitle}</div></div>` : ''}
+<fieldset ${articleLocked ? 'disabled' : ''} style="border:0;padding:0;margin:0;">
 <div class="form-grid">
   <div class="form-field full">
     <label class="field-label">Titlu</label>
@@ -6992,7 +7063,8 @@ function openArticleDrawer(articleId) {
       <option value="archived" ${art.status === 'archived' ? 'selected' : ''}>Archived</option>
     </select>
   </div>
-</div>`;
+</div>
+</fieldset>`;
 
   document.getElementById('article-drawer-overlay').classList.add('open');
   document.getElementById('article-drawer').classList.add('open');
@@ -7295,6 +7367,16 @@ async function saveAdminArticleEdits(articleId) {
   const art = DB.getArticle(articleId);
   if (!art) {
     toast('Articolul nu a fost găsit.', 'error');
+    return;
+  }
+  if (isArticleLockedForAdmin(art)) {
+    toast(
+      tr(
+        'Seriile I și II sunt blocate la editare în acest pas.',
+        'Series I and II are locked for editing in this phase.'
+      ),
+      'warning'
+    );
     return;
   }
 
